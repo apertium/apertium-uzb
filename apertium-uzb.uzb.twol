@@ -1,13 +1,28 @@
 Alphabet
-A B C D E F G H I J K L M N O P Q R S T U V W Y Z 
-a b c d e f g h i j k l m n o p q r s t u v w y z
+A B C D E F G H I J K L M N O P Q R S T U V W Y Z X
+a b c d e f g h i j k l m n o p q r s t u v w y z x
+
+
+%{s%}:s %{i%}:i
 %>:0 %  ; 
 
 Sets
 
 Vow =     A E I O U
           a e i o u ; 
+          
+Cons = b c d f g h j k l m n p q r s t v z x ;
+
 Rules
 
-"Remove morpheme boundary"
-%>:0 <=> _ ;
+ 
+
+"{s} becomes s when following a vowel"
+%{s%}:0 <=> :Cons %>: _ ;
+
+
+"{i} becomes i when following a consonante"
+
+%{i%}:0 <=> :Vow %>: _ ;
+
+

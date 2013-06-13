@@ -1,18 +1,234 @@
-
 Multichar_Symbols
 
 %<n%>          ! Noun
+%<cnjcoo%>     ! Co-ordinating conjunction  
+
+! Cases ! "Case is a lie!" (quot.)
+
+%<nom%>            
+%<gen%>            
+%<dat%>            
+%<acc%>            
+%<abl%>            
+%<loc%>            
+%<ins%>            ! Instrumental=comitative 
+
+!!!! JAWOHL TWOL!!!!
+
+
+%{s%}		   ! Becomes "s" after a vowel, otherwise null
+%{i%}		   ! Becomes as "i" after a consonant, otherwise null
+
+
+!!!!!! MISC!!!!
+
+%<top%> ! TOPONYMS
+%<m%> ! M
+%<f%>
+%<mf%>
+
+%<v%>
+%<iv%>
+%<tv%>
+%<ger5%>
+%<pcont%>
+%<pcond%>
+
+%<p1%>
+%<sg%>
+
+%<sg%>
+
+%<prn%>
+%<adv%>
 
 
 
 LEXICON Root
 
 Nouns ; 
+Postpositions ; 
+Adjectives ; 
+Determinatives ; 
+Conjunctions ; 
+Verbs ; 
 
 
-LEXICON N1
+LEXICON VERB-TV
 
-%<n%>: # ;
+%<v%>%<tv%>: GERUND ;
+%<v%>%<tv%>: PRES-CONT ;
+%<v%>%<tv%>: PRES-COND ;
+
+LEXICON PRES-COND 
+
+%<pcond%>:%>sa PERS2 ;
+
+
+LEXICON GERUND 
+
+%<ger5%>:%>gan SUBST ;      
+
+LEXICON PRES-CONT 
+
+%<pcont%>:%>yap PERS ;
+
+LEXICON PERS
+
+%<p1%>%<sg%>:%>man  # ;
+%<p2%>%<sg%>:%>san  # ;
+%<p3%>%<sg%>:%>ti  # ;
+%<p3%>%<pl%>:%>siz # ;
+%<p1%>%<pl%>:%>miz  # ;
+%<p2%>%<pl%>:%>tilar  # ;
+
+LEXICON PERS2
+
+%<p1%>%<sg%>:%>m  # ;
+%<p2%>%<sg%>:%>ng  # ;
+%<p3%>%<sg%>:%>  # ;
+%<p3%>%<pl%>:%>k # ;
+%<p1%>%<pl%>:%>ning  # ;
+%<p2%>%<pl%>:%>ishsa  # ;
+
+LEXICON ADV3
+
+%<adv%>: # ;
+
+
+LEXICON DET-IND
+
+%<det%>%<ind%>: # ;
+
+LEXICON DET-DEM
+
+%<det%>%<dem%>: # ;
+
+LEXICON DET-QNT
+
+%<det%>%<qnt%>: # ;
+
+LEXICON CC 
+
+%<cnjcoo%>: # ;
+
+LEXICON A1
+
+%<adj%>: # ; 
+%<adj%>%<subst%>: SUBST ;
+%<adj%>%<advl%>: # ;
+
+LEXICON A2 
+
+
+%<adj%>: # ; 
+%<adj%>%<subst%>: SUBST ;
+
+LEXICON PRON-REF
+
+%<prn%>%<ref%>: # ;
+
+LEXICON PRON-ADV 
+
+%<prn%>%<adv%>: CASE-NONOM ; 
+%<prn%>%<adv%>:  POSS-REAL-NONOM ; 
+
+
+
+LEXICON POST
+
+%<post%>: # ;
+
+!!!!!!!!!!!!!!NOUNS!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PLURAL*-POSSESSIVE*-CASE in this order
+
+%<n%>: SUBST ;
+
+LEXICON NP-TOP
+
+%<np%>%<top%>: SUBST ;
+
+LEXICON NP1-ANT-M
+
+%<np%>%<ant%>%<m%>: SUBST;
+
+
+LEXICON NP1-ANT-F
+
+%<np%>%<ant%>%<f%>: SUBST ;
+
+LEXICON NP1-COG-MF
+
+%<np%>%<cog%>%<mf%>: SUBST ; 
+
+LEXICON NP1-ORG
+
+%<np%>%<org%>%<nom%>: # ;
+%<np%>%<org%>: N-INFL-COMMON-NONOM ;
+%<np%>%<org%>%<attr%>: # ;
+
+
+LEXICON SUBST
+
+N-INFL-COMMON ; 
+%<pl%>:%>lar N-INFL-COMMON ;
+
+LEXICON N-INFL-COMMON-NONOM
+
+# ; 
+
+LEXICON N-INFL-COMMON
+
+POSS-REAL ;
+CASE-ETC ;
+
+LEXICON POSS-REAL 
+
+%<px1sg%>:%>%{i%}m CASE-ETC ;                
+%<px2sg%>:%>%{i%}ng CASE-ETC ;                 
+%<px3sp%>:%>%{s%}i CASE-ETC ; 
+%<px1pl%>:%>%{i%}miz CASE-ETC ;           
+%<px2pl%>:%>%{i%}ngiz CASE-ETC ;      
+%<px3pl%>:%>lari CASE-ETC ; 
+
+LEXICON POSS-REAL-NONOM
+
+%<px1sg%>:%>%{i%}m CASE-NONOM ;                
+%<px2sg%>:%>%{i%}ng CASE-NONOM ;                 
+%<px3sp%>:%>%{s%}i CASE-NONOM ; 
+%<px1pl%>:%>%{i%}miz CASE-NONOM ;           
+%<px2pl%>:%>%{i%}ngiz CASE-NONOM;      
+%<px3pl%>:%>lari CASE-NONOM ; 
+
+LEXICON CASE-ETC
+
+CASE ;
+GENPOSS-ETC ;
+
+LEXICON CASE 
+
+%<nom%>: # ;               
+%<gen%>:%>ning # ;      
+%<dat%>:%>ga # ;   
+%<acc%>:%>ni # ;
+%<loc%>:%>da # ;   
+%<abl%>:%>dan # ;  
+! %<ins%>:%>ins # ;   
+
+LEXICON CASE-NONOM
+
+%<gen%>:%>ning # ;      
+%<dat%>:%>ga # ;   
+%<acc%>:%>ni # ;
+%<loc%>:%>da # ;   
+%<abl%>:%>dan # ;  
+! %<ins%>:%>ins # ;  
+
+LEXICON GENPOSS-ETC 
+
+! %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
+%<loc%>%<attr%>:%>dagi # ;
 
 LEXICON Nouns
 
@@ -24,9 +240,169 @@ it:it N1 ; ! "dog"
 mushuk:mushuk N1 ; ! "cat" 
 o%'g%'il% bola:o'%g%'il% bola N1 ; ! "boy"
 o%'yin:o%'yin N1 ; ! "game"
-qiz bola:qiz bola N1 ; ! "girl"
-qo'l:qo'l N1 ; ! "hand"
+qiz% bola:qiz% bola N1 ; ! "girl"
+qo%'l:qo%'l N1 ; ! "hand"
 uy:uy N1 ; ! "house"
+hava:hava N1 ; ! "weather"
+odam:odam N1 ; ! "man"
+vijdan:vijdan N1 ; ! "conscience"
+aql:aql N1 ; ! "mind"
+san'%at:san%'at N1 ; ! "art"
+festival:festival N1 ; ! "festival"
+hafta:hafta N1 ; ! "week"
+tasvir:tasvir N1 ; ! "representation"
+mukofot:mukofot N1 ; ! "reward"
+inson:inson N1 ; ! "human being"
+amal:amal N1 ; ! "experience"
+taxta:taxta N1 ; ! "board"
+akademiya:akademiya N1 ; ! "academy"
+madaniyat:madaniyat N1 ; ! "civilization"
+maqasad:maqasad N1 ; ! "objective/target"
+mintaqa:mintaqa N1 ; ! ""
+yil:yil N1 ; ! "year"
+saviya:saviya N1 ; ! "level"
+poytaxt:poytaxt N1 ; ! "capital city"
+orqa:orqa N1 ; ! "the behind"
+san%'atkor:san%'atkor N1 ; ! "artist"
+sertifika:sertifika N1 ; ! "certificate"
+tomosha:tomosha N1 ; ! "show"
+nasl:nasl N1 ; ! "generation"
+tajriba:tajriba N1 ; ! "experience"
+raqs:raqs N1 ; ! "dance"
+namoyish:namoyish N1 ; ! "show"
+o%'rin:o%'rin N1 ; ! "place"
+ochilish:ochilish N1 ; ! "opening"
+marosim:marosim N1 ; ! "ceremony"
+sevor:sevor N1 ; ! "lover" "fan" 
+tuproq:tuproq N1 ; ! "land"
+suv:suv N1 ; ! "water"
+asar:asar N1 ; ! "work" "art"
+naqsh:naqsh N1 ; ! "engraving"
+xayol:xayol N1 ; ! "dream imagination"
+dunyo:dunyo N1 ; ! "world"
+siluet:siluet N1 ; ! "silhouette"
+rasm:rasm N1 ; ! "picture"
+gilam:gilam N1 ; ! "rag"
+haykal:haykal N1 ; ! "statue"
+loy:loy N1 ; ! "clay"
+qobiliyat:qobiliyat N1 ; ! "capability"
+tomon:tomon N1 ; ! "side"
+forum:forum N1 ; ! "forum" 
+vakolatxona:vakolatxona N1 ; ! "representive office"
+hissa:hissa N1 ; ! "share, part"
+to%'siq:to%'siq N1 ; ! "barrier/obstacle"
+o%'ymakorlik:o%'ymakorlik N1 ; ! "profession"
+terror:terror N1 ; ! "terror"
+hujum:hujum N1 ; ! "attack"
+aholi:aholi N1 ; ! "population"
+prezident:prezident N1 ; ! "president"
+maktub:maktub N1 ; ! "letter"
+matbuot:matbuot N1 ; ! "press"
+hukumat:hukumat N1 ;  ! "government"
+hamjamiyat:hamjamiyat N1 ; ! "community"
+hamdardlik:hamdardlik N1 ; ! "commiseration"
+taziya:taziya N1 ; ! "condolences"
+terrorizm:terrorizm N1 ; ! "terrorism"
+qardosh:qardosh N1 ; ! "friend" NOT SURE
+turk:turk N1 ; ! "turk" NOT SURE
+turkman:turkman N1 ; ! "turkmen"
+oila:oila N1 ; ! "family"
+xalq:xalq N1 ;  ! "people"
+harakat:harakat N1 ; ! "movement"
+tuman:tuman N1 ; ! "district"
+hayot:hayot N1 ; ! "life"
+qurbon:qurbon N1 ; ! "victim"
+davlat:davlat N1 ; ! "devlet / government""
+guruh:guruh N1 ; ! "group"
 
 
+!!!!!ORGANIZASTIONS
+
+
+TRT:TRT NP1-ORG ; ! "TRT"
+
+
+
+
+!!!!!! TOPONYMS !!!!!!!
+
+O%'zbekiston:O%'zbekiston NP-TOP ; ! ""
+Toshkent:Toshkent NP-TOP ; ! ""
+Turkmaniston:Turkmaniston NP-TOP ; ! ""
+Hatay:Hatay NP-TOP ; ! ""
+Reyhanli:Reyhanli NP-TOP ; ! ""
+Turkiya:Turkiya NP-TOP ; ! ""
+Amerika:Amerika NP-TOP ; ! "America"
+
+Taqdr:Taqdr NP1-ANT-M ; ! ""
+Abdullah:Abdullah NP1-ANT-M ; ! ""
+Kurbankuli:Kurbankuli NP1-ANT-M ; ! ""
+
+
+Hujjati:Hujjati NP1-COG-MF ; ! ""
+Gul:Gul NP1-COG-MF ; ! ""
+Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
+Gul:Gul NP1-COG-MF ; ! ""
+
+
+LEXICON Postpositions 
+
+bilan:bilan POST ; ! ""
+uchun:uchun POST ; ! ""
+qarshi:qarshi POST ; ! ""
+beri:beri POST ; ! "since" bears ablative
+
+LEXICON Adjectives
+
+yangi:yangi A1 ; ! "new"
+nafis:nafis A1 ; ! "fine"
+to%'la:to%'la A2 ; ! "full"
+zamonaviy:zamonaviy A2 ; ! "modern"
+qobiliyatli:qobiliyatli A2 ; ! "capable"
+yosh:yosh A2 ; ! "young"
+mumkin:mumkin A2 ; ! "possible"
+an%'anaviy:an%'anaviy A2 ; ! "traditional"
+muhtasham:muhtasham A1 ; ! "wonderful" "amazing"
+chiroyli:chiroyli A2 ; ! "nice"
+kelgusi:kelgusi A2 ; ! "next"
+yaqin:yaqin A2 ; ! "next"
+xalqaro:xalqaro A2 ; ! "international"
+rangli:rangli A2 ; ! "colored"
+qiziqish:qiziqish A2 ; ! "concerned, interested, curious"
+ma%'noli:ma%'noli A2 ; ! "meaningful"
+turli:turli A2 ; ! ""
+harbiy:harbiy A1 ; ! "military"
+
+o%'z:o%'z PRON-REF ; ! "self"
+
+
+
+LEXICON Determinatives
+
+bir:bir DET-IND ; ! "a"
+har% qanday:har% qanday DET-IND ; ! ""
+barcha:barcha DET-DEM ; ! "every"
+yuzlab:yuzlab DET-QNT ; ! "hundreds"
+minglab:minglab DET-QNT ; ! "thousands"
+ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
+Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
+
+LEXICON Verbs
+
+bo%'l:bo%'l VERB-TV ; ! ""
+sodir% bo%'l:sodir% bo%'l VERB-TV ; ! ""
+zomin% bo%'l:zomin% bo%'l VERB-TV ; ! ""
+kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
+yoz:yoz VERB-TV ; ! "write"
+
+
+ora:ora PRON-ADV ; ! "there"
+
+LEXICON Conjunctions 
+
+va:va CC ; ! "and"
+esa:esa CC ; ! "whereas"
+
+ham:ham CC ; ! "and.. and" "too"
+eng:eng ADV3 ; ! "the most"
 
