@@ -8,5 +8,6 @@
 /apertium-uzb.uzb.lexc -text
 /apertium-uzb.uzb.rlx -text
 /apertium-uzb.uzb.twol -text
+/autogen.sh -text
 /configure.ac -text
 /modes.xml -text

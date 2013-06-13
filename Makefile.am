@@ -1,10 +1,10 @@
 ###############################################################################
-## Makefile for apertium-kaz
+## Makefile for apertium-uzb
 ###############################################################################
 
 RELEASE=0.1
 VERSION=0.1.0
-LANG1=kaz
+LANG1=uzb
 BASENAME=apertium-$(LANG1)
 
 TARGETS_COMMON = $(LANG1).automorf.hfst $(LANG1).autogen.hfst \
@@ -70,25 +70,25 @@ $(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx
 ## Installation stuff
 ###############################################################################
 #
-#   apertium_kaz_libdir: This is where the compiled binaries go
-#   apertium_kaz_srcdir: This is where the source files go
+#   apertium_uzb_libdir: This is where the compiled binaries go
+#   apertium_uzb_srcdir: This is where the source files go
 
 modes: modes.xml
 	apertium-gen-modes modes.xml
 
-apertium_kazdir=$(prefix)/lib/apertium/$(BASENAME)/
-apertium_kaz_srcdir=$(prefix)/share/apertium/$(BASENAME)/
+apertium_uzbdir=$(prefix)/lib/apertium/$(BASENAME)/
+apertium_uzb_srcdir=$(prefix)/share/apertium/$(BASENAME)/
 
-apertium_kaz_DATA=$(LANG1).automorf.hfst $(LANG1).autogen.hfst \
+apertium_uzb_DATA=$(LANG1).automorf.hfst $(LANG1).autogen.hfst \
 		    $(LANG1).rlx.bin modes
 
 pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = $(BASENAME)-$(RELEASE).pc
 
 install-data-local:
-	if [ ! -d $(DESTDIR)$(apertium_kaz_srcdir) ]; then mkdir -p $(DESTDIR)$(apertium_kaz_srcdir); fi
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).lexc $(DESTDIR)$(apertium_kaz_srcdir)
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).twol $(DESTDIR)$(apertium_kaz_srcdir)
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_kaz_srcdir)
+	if [ ! -d $(DESTDIR)$(apertium_uzb_srcdir) ]; then mkdir -p $(DESTDIR)$(apertium_uzb_srcdir); fi
+	$(INSTALL_DATA) $(BASENAME).$(LANG1).lexc $(DESTDIR)$(apertium_uzb_srcdir)
+	$(INSTALL_DATA) $(BASENAME).$(LANG1).twol $(DESTDIR)$(apertium_uzb_srcdir)
+	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_uzb_srcdir)
 
 CLEANFILES = -r $(TARGETS_COMMON) .deps/
