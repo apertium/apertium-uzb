@@ -5,6 +5,7 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-uzb-0.1.pc.in -text
 /apertium-uzb.uzb.lexc -text
 /apertium-uzb.uzb.rlx -text
 /apertium-uzb.uzb.twol -text
