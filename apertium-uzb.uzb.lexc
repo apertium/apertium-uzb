@@ -4170,7 +4170,7 @@ zid:zid A1 ; ! "opposite"
 real:real A1 ; ! "real"
 geometrik:geometrik A1 ; ! "geometrical"
 seysmik:seysmik A1 ; ! "seismic"
-muqim:muqim A1 ; ! "native"
+muqim:muqim A1 ; ! "native"xx
 torli:torli A1 ; ! "stringed"
 taniqli:taniqli A1 ; ! "familiar"
 kuzgi:kuzgi A1 ; ! "fall"

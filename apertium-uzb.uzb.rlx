@@ -1,11 +1,52 @@
-DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" ;
+DELIMITERS = "<.>" "<!>" "<?>" ;
 SOFT-DELIMITERS = "<,>" ;
 
-SETS
+LIST BOS = (>>>) sent ; # Beginning of sentence
+LIST EOS = (<<<) sent ; # End of sentence
 
 LIST N = n ; 
+LIST V = v ; 
+LIST Prop = np ; 
+LIST Pron = prn ; 
+LIST Num = num ; 
+LIST A = adj ; 
+LIST Det = det ; 
+LIST Adv = adv ; 
+LIST CC = cnjcoo ; 
+LIST CS = cnjsub ; 
+LIST Interj = ij ; 
+LIST Post = post ; 
+LIST Cop = cop ; 
 
-SECTION
+LIST Px3Sp = px3sp ; 
+LIST Px2Sg = px2sg ; 
 
-SELECT N ;
-  ## 
+LIST Nom = nom ; 
+LIST Gen = gen ; 
+LIST Abe = abe ; 
+
+LIST Subst = subst ; 
+LIST Attr = attr ; 
+LIST Advl = advl ; 
+
+LIST Ant = (np ant);
+LIST Cog = (np cog);
+
+LIST Recip = rec ; 
+LIST Caus = caus ; 
+
+LIST Ger = ger1 ger2 ger3 ; 
+
+LIST Imper = imp ; 
+
+SET PRE-N = Det | Num | Attr | A | Gen | ("-") ; # CC 
+
+SET NOMINAL-HEAD = N | Ger | Subst ; 
+
+SET WORD = N | V | A | Post | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
+SET MARK =  (",") | ("\\") | ("\;") ; #"
+SET WORDMARK = WORD | MARK ;
+
+
+REMOVE Imper IF (NOT 0C Imper) ;
+    ## Bunlar, bu hafta içinde dünyanın dört bir yanından İtalyan başkentine [0]akın etmiş olan yaklaşık dört milyon hacı ve yaslı kalabalığa katıldı.
