@@ -3,26 +3,31 @@ A B C D E F G H I J K L M N O P Q R S T U V W Y Z X
 a b c d e f g h i j k l m n o p q r s t u v w y z x
 
 
-%{s%}:s %{i%}:i
+%{s%}:s %{i%}:i %{E%}:y %{K%}:k
+
 %>:0 %  ; 
 
 Sets
 
-Vow =     A E I O U
+Vow =     A E I O U 
           a e i o u ; 
           
-Cons = b c d f g h j k l m n p q r s t v z x ;
+Cons = b c d f g h j k l m n p q r s t v z x 
+       B C D F G H J K L M N P Q R S T V Z X ;
 
 Rules
 
  
 
-"{s} becomes s when following a vowel"
+"{s} is deleted following a consonant"
 %{s%}:0 <=> :Cons %>: _ ;
 
+"{E} becomes y when following a vowel"
+%{E%}:a <=> :Cons %>: _ ;
 
-"{i} becomes i when following a consonante"
+"{K} becomes g when it is before a vowel"
+%{K%}:g <=>  _ %>: (:0) :Vow ;
 
+"{i} becomes i when following a consonant"
 %{i%}:0 <=> :Vow %>: _ ;
-
 
