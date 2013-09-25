@@ -1,0 +1,10 @@
+Alphabet
+
+%':%' 
+%`:%` %`:%' 
+%ʻ:%ʻ %ʻ:%' ; 
+
+Rules
+
+"Unify apostrophe styles"
+a => _ ;

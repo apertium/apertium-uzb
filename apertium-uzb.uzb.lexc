@@ -1,12 +1,14 @@
 Multichar_Symbols
 
 %<n%>          ! Noun
+%<np%>          ! Proper noun
 %<adj%>
 %<adv%>
 %<cnjcoo%>     ! Co-ordinating conjunction  
 %<cnjadv%>
 %<cnjsub%>
 %<num%>
+%<prn%>
 
 %<px1sg%>            
 %<px3sp%>            
@@ -20,15 +22,6 @@ Multichar_Symbols
 %<abl%>            
 %<loc%>            
 %<ins%>            ! Instrumental=comitative 
-
-
-!!!! JAWOHL TWOL!!!!
-
-
-%{s%}		   ! Becomes "s" after a vowel, otherwise null
-%{i%}		   ! Becomes as "i" after a consonant, otherwise null
-%{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
-%{K%}
 
 !!!!!! MISC!!!!
 
@@ -89,6 +82,20 @@ Multichar_Symbols
 %<lpar%>
 %<rpar%>
 
+!!!! JAWOHL TWOL!!!!
+
+
+%{s%}		   ! Becomes "s" after a vowel, otherwise null
+%{i%}		   ! Becomes as "i" after a consonant, otherwise null
+%{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
+%{K%}
+
+%>
+
+%'
+%`
+%ʻ
+%  
 
 
 LEXICON Root
@@ -671,7 +678,6 @@ FA:FA MIST ;
 lab:lab MIST ; 
 iy:iy MIST ; 
 ar:ar MIST ; 
-S0:S0 MIST ;
 lgan:lgan MIST ; !""
 po:po MIST ; ! ""
 w:w MIST ; 
@@ -741,7 +747,7 @@ si:si MIST ; ! ""
 al:al MIST ; ! ""
 lari:lari MIST ; ! ""
 dagi:dagi MIST ; ! ""
-S0:S0 MIST ; ! ""
+S%0:S%0 MIST ; ! ""
 lon:lon MIST ; ! ""
 
 
