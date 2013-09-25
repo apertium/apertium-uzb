@@ -4,6 +4,7 @@ SOFT-DELIMITERS = "<,>" ;
 LIST BOS = (>>>) sent ; # Beginning of sentence
 LIST EOS = (<<<) sent ; # End of sentence
 
+
 LIST N = n ; 
 LIST V = v ; 
 LIST Prop = np ; 
@@ -17,13 +18,22 @@ LIST CS = cnjsub ;
 LIST Interj = ij ; 
 LIST Post = post ; 
 LIST Cop = cop ; 
-
+LIST IV = iv ; 
+LIST TV = tv ; 
+LIST Poss = px1sg px2sg px3sg px1pl px2pl px3pl ; 
+LIST Poss3 = px3sg px3sp px3pl ;
+LIST Poss2 = px2sg ; 
+LIST Past = past ; 
 LIST Px3Sp = px3sp ; 
 LIST Px2Sg = px2sg ; 
+
+LIST 3PS = p3 sg ; 
 
 LIST Nom = nom ; 
 LIST Gen = gen ; 
 LIST Abe = abe ; 
+LIST Acc = acc ; 
+LIST Dat = dat ;  
 
 LIST Subst = subst ; 
 LIST Attr = attr ; 
@@ -35,9 +45,11 @@ LIST Cog = (np cog);
 LIST Recip = rec ; 
 LIST Caus = caus ; 
 
-LIST Ger = ger1 ger2 ger3 ; 
+LIST Ger = ger1 ger2 ger3 ger4 ger5 gna2 gna3 gna4; 
 
 LIST Imper = imp ; 
+
+SET FINITE = V - Ger ;
 
 SET PRE-N = Det | Num | Attr | A | Gen | ("-") ; # CC 
 
@@ -47,6 +59,139 @@ SET WORD = N | V | A | Post | Pron | Det | Adv | CC | CS | Interj | Num | ("\?")
 SET MARK =  (",") | ("\\") | ("\;") ; #"
 SET WORDMARK = WORD | MARK ;
 
+#To be fixed, ugly
 
 REMOVE Imper IF (NOT 0C Imper) ;
-    ## Bunlar, bu hafta içinde dünyanın dört bir yanından İtalyan başkentine [0]akın etmiş olan yaklaşık dört milyon hacı ve yaslı kalabalığa katıldı.
+
+#There can be no gerund at the end of a sentence
+
+REMOVE Ger IF (1 EOS); 
+
+# Two nominatives in a row are pretty rare
+
+REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
+
+
+SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
+
+# Do not read Copula if the following item is not the end of sentence
+
+REMOVE Cop IF (NOT 1C EOS);
+	
+SELECT Cop IF (1 EOS) ; 
+
+#SInce the 3 singular can be mute in some cases, better to remove it if it is not the end of the sentence!
+
+REMOVE 3PS IF (NOT 1 EOS) ; 
+
+# REMOVE the Intransitive if the previous item is in accusative form
+
+REMOVE IV IF (-1C Acc) ;
+
+SELECT TV IF (-1C Acc) ;
+
+#If following item is an ADV, then select Pron reading
+
+ SELECT Pron IF (0C Det OR Pron) (1 Adv)
+ 
+# Select Proper noun if it starts with a capital letter while not being after a full stop
+
+SELECT Prop IF (0 N)(0 Prop) (0 ("[:upper:]+[:lower:]*"r))(NOT -1 BOS) ;
+
+# IF there is a Noun which is both np and n, and the following name is a cog, then the first one may be as well a proper noun
+
+SELECT Prop IF (0 N) (0 Ant)(1 Cog) (-1 BOS);
+
+#If we have a form which is both present as N1 or derivative gerund, select N1
+
+ SELECT N IF (0 N) (0 Ger)
+
+#In case we have an item present both as Noun and Adjective, select adjective if 1 is a noun. 
+
+REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
+
+#Construction gen + poss (ataturk'un cumhuriyeti)
+
+SELECT Poss3 IF (-1 Gen) ; 
+
+SELECT Gen IF (1C Poss3) ; 
+
+
+#### POSTPOSITIONS ######
+
+"<bilan>" SELECT Post IF (-1 Ger + Poss) ;
+
+"<qadar>" SELECT Post IF (-1 Dat) ; 
+
+"<haqida>" SELECT Post IF (-1 Nom) ;
+
+"<oldin>" SELECT Post IF (-1 Abe) ; 
+
+"<tomon>" SELECT Post IF (-1 Dat) ;
+ 
+"<ko'ra>" SELECT Post IF (-1 Dat) ;
+
+"<qarshi>" SELECT Post IF (-1 Dat) ;
+
+"<qaramay>" SELECT Post IF (-1 Dat) ;
+
+"<oid>" SELECT Post IF (-1 Dat) ;
+ 
+"<dovur>" SELECT Post IF (-1 Dat) ;
+
+"<zid>" SELECT Post IF (-1 Dat) ;
+
+"<qarab>" SELECT Post IF (-1 Dat) ;
+
+"<mansub>" SELECT Post IF (-1 Dat) ;
+
+"<boshqa>" SELECT Post IF (-1 Abe) ;
+ 
+"<beri>" SELECT Post IF (-1 Abe) ;
+
+"<buyon>" SELECT Post IF (-1 Abe) ;
+
+"<sababli>" SELECT Post IF (-1 Abe) ;
+
+"<etibaran>" SELECT Post IF (-1 Abe) ;
+ 
+"<avval>" SELECT Post IF (-1 Abe) ;
+
+"<keyin>" SELECT Post IF (-1 Abe) ;
+
+"<oldin>" SELECT Post IF (-1 Abe) ;
+
+"<orqasindan>" SELECT Post IF (-1 Gen) ;
+
+
+# ATTRIBUTIVE ADJ
+
+#If an adjective is right before a finite verb, select its adverbial reading
+
+SELECT Advl IF (1C FINITE) ; 
+
+#If an adjective is right before the end of a sentence, we can safely expect it to be an adjective.
+
+REMOVE Advl IF (0 A)(1 EOS)
+
+#If the following item does not include a copula in its reading, discard subst from the adjective.
+
+REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
+
+#If an adjective is right before a numeral + noun it is an adjective for sure
+
+SELECT A IF (1C Num) (2C N) ;
+
+
+#VERBS
+
+#Select FINITE FORM (in this case past) if it is the last word of the sentence
+
+SELECT Past IF (1 EOS) ; 
+
+#Remove V + V reading
+
+REMOVE V IF (1 FINITE) (2 EOS) ; 
+
+
+
