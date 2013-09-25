@@ -1,6 +1,8 @@
 Multichar_Symbols
 
 %<n%>          ! Noun
+%<adj%>
+%<adv%>
 %<cnjcoo%>     ! Co-ordinating conjunction  
 %<cnjadv%>
 %<cnjsub%>
@@ -43,8 +45,22 @@ Multichar_Symbols
 %<ger5%>
 %<pcont%>
 %<pcond%>
+%<evid%>
+%<past%>
 %<aor%>
+%<kan%>
+%<imp%>
+%<perm%>
+%<inf%>
+%<gna1%>
+%<gna2%>
+%<gna3%>
+%<gna4%>
+%<pass%>
 
+
+%<attr%>
+%<subst%>
 
 %<p1%>
 %<p2%>
@@ -55,10 +71,23 @@ Multichar_Symbols
 
 %<prn%>
 %<adv%>
+%<ref%>
+%<pers%>
+%<dem%>
 
 %<tv%>
 %<iv%>
 
+!!!! PUNCTUATION !!!
+
+%<sent%>
+%<guio%>
+%<cm%>
+%<apos%>
+%<lquot%>
+%<rquot%>
+%<lpar%>
+%<rpar%>
 
 
 
@@ -170,6 +199,7 @@ LEXICON VERB-COPULA
 %<cop%>: EVIDENTIAL-PAST ;
 %<cop%>: NON-FINITE ;
 %<cop%>: KAN ;
+%<cop%>: PERS ; 
 
 LEXICON KAN  
 
@@ -214,7 +244,7 @@ LEXICON IMPERATIVE
 
 LEXICON INDEF-PAST
 
-%<indefpast%>:%>gan PERS ;
+%<past%>:%>gan PERS ;
 
 LEXICON PAST
 
@@ -244,7 +274,6 @@ LEXICON PERS
 %<p2%>%<sg%>:%>san  # ;
 %<p3%>%<sg%>:%>ti  # ;
 %<p3%>%<sg%>:%>  # ;
-
 %<p3%>%<pl%>:%>siz # ;
 %<p1%>%<pl%>:%>miz  # ;
 %<p2%>%<pl%>:%>tilar  # ;
@@ -348,6 +377,7 @@ LEXICON POST
 LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PLURAL*-POSSESSIVE*-CASE in this order
 
 %<n%>: SUBST ;
+%<n%>%<attr%>: # ; 
 
 LEXICON MIST
 
@@ -628,7 +658,7 @@ Professor:Professor TIT ; ! ""
 prof:prof TIT ; ! ""
 Sulton:Sulton TIT ; ! ""
 Posho:Posho TIT ; ! ""
-sarkarda:sarkarda TIT ; ! "colonel"
+sarkarda:sarkarda N1 ; ! "colonel"
 
 
 LEXICON Mistakes
@@ -762,6 +792,7 @@ holat:holat N1 ; ! "state, condition"
 sinf:sinf N1 ; ! "class"
 taxt:taxt N1 ; ! "throne"
 hudud:hudud N1 ; ! "border, limit"
+reja:reja N1 ; ! "plan"
 reaksiya:reaksiya N1 ; ! "reaction"
 sharaf:sharaf N1 ; ! "honor"
 ta%'sir:ta%'sir N1 ; ! "effect"
@@ -961,7 +992,7 @@ konditsiya:konditsiya N1 ; ! "condition"
 dona:dona N1 ; ! "piece / unit"
 shou:shou N1 ; ! "show"
 teskarichilik:teskarichilik N1 ; ! "reaction"
-nomer:nomer N1 ; ! "number" N1 ; ! "number"
+nomer:nomer N1 ; ! "number" 
 daf%'a:daf%'a N1 ; ! "time" as in 3 times
 kunbotar:kunbotar N1 ; ! "west"
 kino:kino N1 ; ! "cinema"
@@ -1609,7 +1640,7 @@ turkum:turkum N1 ; ! "group"
 olim:olim N1 ; ! "scholar"
 iyul:iyul N1 ; ! "july"
 taraqqiyot N1 ; ! "development"
-Eron:eron NP-TOP ; ! "Iran"
+Eron:Eron NP-TOP ; ! "Iran"
 alloh:alloh N1 ; ! "god"
 vodiy:vodiy NP-TOP ; ! "valley"
 zarra:zarra N1 ; ! "particle"
@@ -2370,9 +2401,10 @@ shtamp:shtamp N1 ; ! "stamp"
 Mac:Mac N1 ; ! "Mac" ************** i am not sure
 avgust:avgust N1 ; ! "August"
 islom:islom N1 ; ! "Islam"
+prinsip:prinsip N1 ; ! ""
 bo%'y:bo%'yi N1 ; ! "height"
 majmu:majmu N1 ; ! "sum"
-laureat:laureati N1 ; ! "prize-winner"
+laureat:laureat N1 ; ! "prize-winner"
 Yunon:Yunon N1 ; ! "Greek"
 yadro:yadro N1 ; ! "nucleus"
 bas:bas N1 ; ! "argument"
@@ -2487,6 +2519,9 @@ qutb:qutb N1 ; ! "pole"
 minora:minora N1 ; ! "minaret"
 tarmok:tarmok N1 ; ! "branch"
 suya{k%}:suya{k%} N1 ; ! "bone"
+raisli{k%}:raisli{k%} N1 ; ! "guidance"
+bosqinchi:bosqinchi N1 ; ! "aggressor"
+safdosh:safdosh N1 ; ! "party friend"
 qorako%'l:qorako%'l N1 ; ! "ashtrakan"
 dalolat:dalolat N1 ; ! "evidence"
 yod:yod N1 ; ! "memory"
@@ -2532,6 +2567,7 @@ moy:moy N1 ; ! "oil"
 komissiya:komissiya N1 ; ! "commission"
 Qipchoq:qipchoq N1 ; ! "Kipchak"
 poya:poya N1 ; ! "stalk"
+xalk:xalk N1 ; ! "people"
 metall:metall N1 ; ! "metal"
 malaka:malaka N1 ; ! "skill"
 kamaytirish:kamaytirish N1 ; ! "decrease"
@@ -2628,6 +2664,8 @@ televideniye:televideniye N1 ; ! "television"
 inqilob:inqilob N1 ; ! "revolution"
 egalik:egalik N1 ; ! "possesion"
 termin:termin N1 ; ! "term"
+reforma:reforma N1 ; ! "reform"
+ideologiya:ideologiya N1 ; ! "ideology"
 shuvoq:shuvoq N1 ; ! "wormwood"
 idrok:idrok N1 ; ! "mind"
 muhandislik:muhandislik N1 ; ! "engineering"
@@ -2709,12 +2747,26 @@ haykaltaroshlik:haykaltaroshlik N1 ; ! "sculpture"
 konserva:konserva N1 ; ! "canned food"
 kemasozlik:kemasozlik N1 ; ! "shipbuilding"
 albom:albom N1 ; ! "album"
+interventsiyalik:interventsiyalik N1 ; ! "interventionalism"
 buloq:buloq N1 ; ! "spring"
+diviziya:diviziya N1 ; ! "division"
 kumir:kumir N1 ; ! "idol"
 bahor:bahor N1 ; ! "spring"
-
-
-
+komandir:komandiri N1 ; ! "commander"
+hizmat:hizmat N1 ; ! "service"
+taktika:taktika N1 ; ! "tactics"
+operatsiya:operatsiya N1 ; ! "operation"
+vakillik:vakillik N1 ; ! "rapresentance"
+komiteta:komiteta N1 ; ! "comitate"
+kamolchi:kamolchi N1 ; ! "kemalist"
+vatanparvar:vatanparvar N1 ; ! "patriot"
+marshal:marshal N1 ; ! "marshall"
+nasab:nasab N1 ; ! "origin"
+xalifalik:xalifalik N1 ; ! "caliphate"
+boshqaruvi:boshqaruvi N1 ; ! "administrator"
+otaturkchilik:otaturkchilik N1 ; ! "ataturkism"
+kamolizm:kamolizm N1 ; ! "kemalism"
+ta%'sir:ta%'sir N1 ; ! "influence"
 
 
 
@@ -2878,11 +2930,17 @@ Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 !!!!!! TOPONYMS !!!!!!!
 
 
+Antanta:Antanta NP-TOP ; ! ""
+Anqara:Anqara NP-TOP ; ! ""
+Ankara:Ankara NP-TOP ; ! ""
+Rumeli:Rumeli NP-TOP ; ! ""
 Morbihan:Morbihan NP-TOP ; ! ""
+Selanik:Selanik NP-TOP ; ! ""
 Adige:Adige NP-TOP ; ! ""
+Sakariyo:Sakariyo NP-TOP ; ! ""
 Salerno:Salerno NP-TOP ; ! ""
 Badajoz:Badajoz NP-TOP ; ! ""
-
+Bolqon:Bolqon NP-TOP ; ! ""
 Yanv:Yanv NP-TOP ; ! ""
 Ozarbayjon:Ozarbayjon NP-TOP ; ! ""
 Sant:Sant NP-TOP ; ! ""
@@ -3635,6 +3693,7 @@ Layli:Layli NP1-ANT-F ; ! ""
 Balx:Balx NP1-ANT-F ; ! ""
 Majnun:Majnun NP1-ANT-M ; ! ""
 Recep:Recep NP1-ANT-M ; ! ""
+Kamol:Kamol NP1-ANT-M ; ! ""
 Abu:Abu NP1-ANT-M ; ! ""
 Muso:Muso NP1-ANT-M ; ! ""
 Simun:Simun NP1-ANT-M ; ! ""
@@ -3730,6 +3789,7 @@ Herschel:Herschel NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
 Kemal:Kemal NP1-COG-MF ; ! ""
 Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
+Otaturk:Otaturk NP1-COG-MF ;  !  ""
 Gul:Gul NP1-COG-MF ; ! ""
 Pilat:Pilat NP1-COG-MF ; ! ""
 Nobel:Nobel NP1-COG-MF ; ! ""
@@ -3859,6 +3919,7 @@ Montbard:Montbard NP-TOP ; ! "Montbard"
 Farg'ona:Farg'ona NP-TOP ; ! "Fergana"
 Vena:Vena NP-TOP ; ! "Vienna"
 Villers:Villers NP-TOP ; ! "Villers"
+Gallipoli:Gallipoli NP-TOP ; ! ""
 Ozarbayjon:Ozarbayjon NP-TOP ; ! "Azerbaijan"
 Hirot:Hirot NP-TOP ; ! "Herat"
 Shahrisabz:Shahrisabz NP-TOP ; ! "Shakhrisabz"
@@ -4156,6 +4217,7 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+inqilobiy:inqilobiy A1 ; ! "revolutionary"
 jonli:jonli A1 ; ! "alive"
 mayin:mayin A1 ; ! "soft"
 muddatli:muddatli A1 ; ! "having a set time"
@@ -4170,7 +4232,7 @@ zid:zid A1 ; ! "opposite"
 real:real A1 ; ! "real"
 geometrik:geometrik A1 ; ! "geometrical"
 seysmik:seysmik A1 ; ! "seismic"
-muqim:muqim A1 ; ! "native"xx
+muqim:muqim A1 ; ! "native"
 torli:torli A1 ; ! "stringed"
 taniqli:taniqli A1 ; ! "familiar"
 kuzgi:kuzgi A1 ; ! "fall"
@@ -4222,7 +4284,15 @@ magmatik:magmatik A1 ; ! "magmatic"
 manfiy:manfiy A1 ; ! "negative"
 shaklli:shaklli A1 ; ! "with a form"
 yozgi:yozgi A1 ; ! "summerish"
-
+xalifalik:xalifalik N1 ; ! "caliphate"
+boshqaruvi:boshqaruvi N1 ; ! "administrator"
+otaturkchilik:otaturkchilik N1 ; ! "ataturkism"
+kamolizm:kamolizm N1 ; ! "kemalism"
+ta%'sir:ta%'sir N1 ; ! "influence"
+xarakat:xarakat N1 ; ! "movement"
+kamolchilik:kamolchilik N1 ; ! "kemalism"
+davr:davr A1 ; ! "period"
+usmoniy:usmoniy N1 ; ! "Ottoman"
 ixcham:ixcham A1 ; ! "neat"
 oddiy:oddiy A1 ; ! "normal, usual"
 adabiy:adabiy A1 ; ! "literary"
@@ -4365,6 +4435,10 @@ rasida:rasida A1 ; ! "mature"
 g'arbiy:g'arbiy A1 ; ! "occidental"
 mahalliy:mahalliy A1 ; ! "local, regional"
 lot:lot N1 ; ! ""
+demokratiyalik:demokratiyalik N1 ; ! "democracity"
+sekulyarizm:sekulyarizm N1 ; ! "secularism"
+ittifoqchi:ittifoqchi N1 ; ! "ally"
+ziddiyat:ziddiyat N1 ; ! "opposition"
 sha%'bon:sha%'bon N1 ; ! "month"
 dastlabki:dastlabki A1 ; ! "starting, first"
 sharqiy:sharqiy A1 ; ! "oriental"
@@ -4428,7 +4502,6 @@ muqaddas:muqaddas A1 ; ! "holy"
 ulug%':ulug%' A1 ; ! "great"
 yaxshi:yaxshi A1 ; ! "good"
 abadiy:abadiy A1 ; ! "eternal"
-so%'ng:so%'ng A1 ; ! "last"
 oliy:oliy A1 ; ! "grand"
 to%'g'ri:to%'g'ri A1 ; ! "straight"
 yomon:yomon A1 ; ! "extreme" 
@@ -4569,6 +4642,8 @@ tarqal:tarqal VERB-TV ; ! "spread"
 gulla:gulla VERB-IV ; ! "to bloom"
 keltir:keltir VERB-TV ; ! "to bring"
 bula:bula VERB-TV ; ! "to dip in"
+parchala:parchala VERB-TV ; ! "to break into piece"
+mag%'lub% et:mag%'lub% et VERB-TV; ! ""
 bit:bit VERB-IV ; ! "to end"
 qo%'llanil:qo%'llanil VERB-IV ; ! "to be used"
 o'tkaz:o'tkaz VERB-TV ; ! "to let pass"
@@ -4588,6 +4663,7 @@ qo'yil:qo'yil VERB-IV ; ! "to be put"
 chegaralan:chegaralan VERB-IV ; ! "to border"
 tashlan:tashlan VERB-IV ; ! "to attack"
 aniqla:aniqla VERB-TV ; ! "to determine"
+kamaytiril:kamaytiril VERB-TV ; ! "to be diminished"
 aylantir:aylantir VERB-TV ; ! "to turn"
 tikla:tikla VERB-TV ; ! "to set up straight"
 joylashtir:joylashtir VERB-TV ; ! "to make settle"
@@ -4937,6 +5013,7 @@ toki:toki CC ; ! " so that"
 
 LEXICON Adverbs 
 
+batafsil:batafsil ADV1 ; ! "in detail"
 kamida:kamida ADV1 ; ! "at least"
 oldinga:oldinga ADV1 ; ! "forward"
 uncha:uncha ADV1 ; ! "not so much"
@@ -5022,7 +5099,6 @@ haqiqatda:haqiqatda ADV2 ; ! "de facto"
 ayniqsa:ayniqsa ADV2 ; ! "specially"
 uzluksiz:uzluksiz ADV2 ; ! "ceaselessly"             
 tez:tez ADV2 ; ! "fast"
-tez:tez ADV2 ; ! "fast"                 
 sezilarli:sezilarli ADV2 ; ! "palpably"
 kech:kech ADV2 ; ! "late",
 orqa:orqa ADV2 ; ! "back" (inverted?)
