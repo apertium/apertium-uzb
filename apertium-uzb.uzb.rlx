@@ -3,7 +3,8 @@ SOFT-DELIMITERS = "<,>" ;
 
 LIST BOS = (>>>) sent ; # Beginning of sentence
 LIST EOS = (<<<) sent ; # End of sentence
-
+LIST Lpar = lpar;
+LIST Rpar = rpar ; 
 
 LIST N = n ; 
 LIST V = v ; 
@@ -26,6 +27,7 @@ LIST Poss2 = px2sg ;
 LIST Past = past ; 
 LIST Px3Sp = px3sp ; 
 LIST Px2Sg = px2sg ; 
+
 
 LIST 3PS = p3 sg ; 
 
@@ -65,7 +67,7 @@ REMOVE Imper IF (NOT 0C Imper) ;
 
 #There can be no gerund at the end of a sentence
 
-REMOVE Ger IF (1 EOS); 
+REMOVE Ger IF (1 EOS OR Lpar); 
 
 # Two nominatives in a row are pretty rare
 
@@ -163,6 +165,11 @@ SELECT Gen IF (1C Poss3) ;
 
 "<orqasindan>" SELECT Post IF (-1 Gen) ;
 
+"<mayda>" SELECT N IF (-1 Num) ; 
+
+"<qaraganda>" SELECT Post IF (-1 Dat) ; 
+
+
 
 # ATTRIBUTIVE ADJ
 
@@ -183,6 +190,12 @@ REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
 SELECT A IF (1C Num) (2C N) ;
 
 
+# 2nd Singular Possessive
+
+REMOVE Poss2 IF (NOT 0 Gen)(1 Poss3) ;
+
+
+
 #VERBS
 
 #Select FINITE FORM (in this case past) if it is the last word of the sentence
@@ -195,3 +208,5 @@ REMOVE V IF (1 FINITE) (2 EOS) ;
 
 
 
+REMOVE Attr IF (1C Cop);
+   ## Shu bilan birga kamolchilik inqilobi kator salbiy xususiyatlarga xam ega edi.

@@ -11,6 +11,7 @@
 /apertium-uzb.uzb.twol -text
 /autogen.sh -text
 /configure.ac -text
+dev/countstems.sh -text
 dev/editdist.py -text
 dev/spellrelax.twol -text
 /modes.xml -text
