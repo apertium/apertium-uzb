@@ -116,7 +116,6 @@ Digits ;
 Pronouns ; 
 Interjections ; 
 Qst-pron ; 
-Pronouns ; 
 Mistakes ;
 
 
@@ -489,7 +488,7 @@ LEXICON CASE-ETC
 
 CASE ;
 GENPOSS-ETC ;
-SUB-COP ; 
+%<nom%>: SUB-COP ;  ! FIXME
 
 LEXICON CASE 
 
@@ -517,15 +516,7 @@ LEXICON GENPOSS-ETC
 
 LEXICON SUB-COP
 
-%<cop%>:%>dir # ;  
-
-
-Lexicon Pronouns 
-
-bu:bu PRON-DEM-BU ; ! "this"
-shu:shu PRON-DEM-BU ; ! "this"
-o:o PRON-DEM-BU ; ! "this"
-ushbu:ushbu PRON-DEM-BU ; ! "this"
+%+e%<cop%>:%>dir # ;  
 
 LEXICON PRON-PERS
 
@@ -771,6 +762,13 @@ lon:lon MIST ; ! ""
 LEXICON Pronouns
 
 PRON-PERS ;
+
+bu:bu PRON-DEM-BU ; ! "this"
+shu:shu PRON-DEM-BU ; ! "this"
+o:o PRON-DEM-BU ; ! "this"
+ushbu:ushbu PRON-DEM-BU ; ! "this"
+
+
 
 
 LEXICON Nouns
