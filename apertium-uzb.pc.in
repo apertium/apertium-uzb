@@ -1,6 +1,8 @@
 prefix=@prefix@
 exec_prefix=${prefix}
 libdir=@libdir@
+dir=@libdir@/apertium/apertium-uzb
+srcdir=@datarootdir@/apertium/apertium-uzb
 
 Name: apertium-uzb
 Description: Finite-state morphological transducer and constraint grammar for Uzbek
