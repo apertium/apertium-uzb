@@ -143,7 +143,7 @@ apertium_uzb_DATA=$(LANG1).automorf.hfst $(LANG1).autogen.hfst \
 		    $(LANG1).rlx.bin modes $(EXTRA_TARGETS)
 
 pkgconfigdir = $(libdir)/pkgconfig
-pkgconfig_DATA = $(BASENAME)-$(RELEASE).pc
+pkgconfig_DATA = $(BASENAME).pc
 
 install-data-local:
 	if [ ! -d $(DESTDIR)$(apertium_uzb_srcdir) ]; then mkdir -p $(DESTDIR)$(apertium_uzb_srcdir); fi
