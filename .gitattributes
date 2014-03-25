@@ -6,6 +6,7 @@
 /NEWS -text
 /README -text
 /apertium-uzb.pc.in -text
+/apertium-uzb.post-uzb.dix -text
 /apertium-uzb.uzb.lexc -text
 /apertium-uzb.uzb.rlx -text
 /apertium-uzb.uzb.twol -text
