@@ -2238,6 +2238,7 @@ folklor:folklor N1 ; ! "folklore"
 veterinariya:veterinariya N1 ; ! "veterinary"
 olmos:olmos N1 ; ! "diamond"
 programma:programma N1 ; ! "program"
+ob%-havo:ob%-havo N1 ; ! "weather also havo or hava"
 
 
 
@@ -3808,6 +3809,8 @@ Iso:Iso NP1-ANT-M ; ! "JESUS"
 Ilohiy:Ilohiy NP1-ANT-M ; ! ""
 Muhammad:Muhammad NP1-ANT-M ; ! ""
 
+Azamat:Azamat NP1-ANT-M ; ! ""
+
 Farg%'ona:Farg%'ona NP1-COG-MF ; ! ""
 Rahimov:Rahimov NP1-COG-MF; ! ""
 Parsons:Parsons NP1-COG-MF ; ! ""
@@ -3831,6 +3834,7 @@ Franklin:Franklin NP1-ANT-M ; ! ""
 Hercules:Hercules NP1-ANT-M ; ! ""
 G%'ulom:G%'ulom NP1-ANT-M ; ! ""
 Marie:Marie NP1-ANT-F ; ! ""
+Aygul:Aygul NP1-ANT-F ; ! ""
 
 Xo%'jayev:Xo%'jayev NP1-COG-MF ; ! ""
 Yusupov:Yusupov NP1-COG-MF ; ! ""
@@ -4660,6 +4664,7 @@ Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 har:har DET-DEM ; ! "each"
 biron:biron DET-DEM ; ! "some"
 necha:necha DET-ITG ; ! " how many"
+qay:qay DET-DEM ; ! ""
 
 
 LEXICON Verbs
@@ -5013,6 +5018,13 @@ bulg%'an:bulg%'an VERB-IV ; ! "to be covered with"
 tushiril:tushiril VERB-IV ; ! "to be dropped"
 uchish:uchish VERB-IV ; ! "coop.of to fly"
 uzoqlash:uzoqlash VERB-IV ; ! ""
+!o%'yna:o%'yna VERB-TV ; ! "play"
+!o%'yna:uyna VERB-TV ; ! "play" ! Dir/LR
+!o%'yna:o%'yna VERB-IV ; ! "play"
+!o%'yna:uyna VERB-IV ; ! "play" ! Dir/LR
+uyna:uyna VERB-TV ; ! "play"
+uyna:uyna VERB-IV ; ! "play"
+
 
 
 e:e VERB-COPULA ; ! "special copula"
@@ -5112,6 +5124,7 @@ bajo:bajo ADV3 ; ! "with pleasure"
 xuddi:xuddi ADV3 ; ! "nearly"
 yomon:yomon ADV3 ; ! "poorly"
 ortiq:ortiq ADV3 ; ! "artik"
+kecha:kecha ADV3 ; ! "yesterday"
 
 ichida:ichida ADV1 ; ! "indoor"
 boshqa:boshqa ADV1 ; ! "the other"
