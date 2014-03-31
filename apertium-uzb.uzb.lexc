@@ -1179,7 +1179,7 @@ qollanish:qllanish N1 ; ! "usage"
 ishq:ishq N1 ; ! "love"
 quyosh:quyosh N1 ; ! "sun"
 sigaret:sigaret N1 ; ! "cigarette"
-daraxt:daraxt N1 ; ! "tree"
+! daraxt:daraxt N1 ; ! "tree" ! "removing duplicate"
 kal:kal N1 ; ! "bald"
 bino:bino N1 ; ! "building"
 umr%yoldoshi:umr%yoldoshi N1 ; ! "spouse"
@@ -1319,7 +1319,7 @@ tush:tush N1 ; ! "dream"
 dushman:dushman N1 ; ! "enemy"
 ma%'rifat:ma%'rifat N1 ; ! "education"
 o%'yin-kulgi:o%'yin-kulgi N1 ; ! "fun/merrymaking"
-qo%'l:qo%'l N1 ; ! "hand"
+! qo%'l:qo%'l N1 ; ! "hand" ! "removing duplicate"
 ko%'ylak:ko%'ylak N1 ; ! "dress"
 elektr:elektr N1 ; ! "electricity"
 buyruq:buyruq N1 ; ! "command"
@@ -2462,7 +2462,7 @@ kit:kit N1 ; ! "whale"
 O%'zbek:O%'zbek N1 ; ! "Uzbek"
 min:min N1 ; ! "defect"
 Fevral:Fevral N1 ; ! "February"
-qo%'ltiq:qo%'ltiq N1 ; ! "armpit"
+! qo%'ltiq:qo%'ltiq N1 ; ! "armpit" ! "removing duplicate"
 qalinlik:qalinlik N1 ; ! "thickness"
 saroy:saroy N1 ; ! "palace"
 urug%':urug%' N1 ; ! "seed"
@@ -4226,6 +4226,7 @@ oid:oid POST ; ! "pertaining to"
 dovur:dovur POST ; ! "until"
 zid:zid POST ; ! "against"
 qarab:qarab POST ; ! "according to"
+qarata:qarata POST ; ! "towards"
 mansub:mansub POST ; ! "related to"
 
 
@@ -5028,6 +5029,9 @@ uzoqlash:uzoqlash VERB-IV ; ! ""
 !o%'yna:uyna VERB-IV ; ! "play" ! Dir/LR
 uyna:uyna VERB-TV ; ! "play"
 uyna:uyna VERB-IV ; ! "play"
+uxla:uxla VERB-TV ; ! "to sleep"
+yugur:yugur VERB-IV ; ! "to run"
+berkin:berkin VERB-IV ; ! "to hide"
 
 
 
@@ -5037,6 +5041,9 @@ e:e VERB-COPULA ; ! "special copula"
 LEXICON Interjections
 
 ey:ey INTERJ ; ! "hey"
+barakalla:barakalla INTERJ ; ! "whiz"
+yo%'q:yo%'q INTERJ ; ! "no"
+ha:ha INTERJ ; ! "yes"
 
 
 
