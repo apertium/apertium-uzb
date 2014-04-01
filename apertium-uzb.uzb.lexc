@@ -669,6 +669,10 @@ LEXICON PRON-ITG-INFL
 
 %<prn%>%<itg%>: SUBST ;
 
+LEXICON PRON-NEG
+
+%<prn%>%<neg%>: SUBST ;
+
 
 
 
@@ -768,6 +772,14 @@ shu:shu PRON-DEM-BU ; ! "this"
 o:o PRON-DEM-BU ; ! "this"
 ushbu:ushbu PRON-DEM-BU ; ! "this"
 
+
+hech% kim:hech% kim PRON-NEG ; ! "nobody"
+hech% nima:hech% nima PRON-NEG ; ! "nothing"
+hech% qachon:hech% qachon PRON-NEG ; ! "never"
+hech% qaysi:hech% qaysi PRON-NEG ; ! "neither"
+hech% qaerda:hech% qaerda PRON-NEG ; ! "nowhere"
+hech% qanday:hech% qanday PRON-NEG ; ! "not any"
+hech% qancha:hech% qancha PRON-NEG ; ! "not at all"
 
 
 
