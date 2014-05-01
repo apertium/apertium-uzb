@@ -12,24 +12,23 @@ TARGETS_COMMON = $(LANG1).automorf.hfst $(LANG1).autogen.hfst \
 	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz \
         $(LANG1).rlx.bin
 
+# This include defines goals for install-modes, .deps/.d and .mode files:
+@ap_include@
+
 ###############################################################################
 ## Uzbek transducer
 ###############################################################################
 
-.deps/spellrelax.hfst: dev/spellrelax.twol
-	if [ ! -d .deps ]; then mkdir .deps; fi
+.deps/spellrelax.hfst: dev/spellrelax.twol .deps/.d
 	hfst-twolc $< -o $@
 
-.deps/$(LANG1).twol.hfst: $(BASENAME).$(LANG1).twol
-	if [ ! -d .deps ]; then mkdir .deps; fi
+.deps/$(LANG1).twol.hfst: $(BASENAME).$(LANG1).twol .deps/.d
 	hfst-twolc $< -o $@
 
-.deps/$(LANG1).RL.lexc: $(BASENAME).$(LANG1).lexc
-	if [ ! -d .deps ]; then mkdir .deps; fi
+.deps/$(LANG1).RL.lexc: $(BASENAME).$(LANG1).lexc .deps/.d
 	cat $< | grep -v 'Dir/LR' > $@
 
-.deps/$(LANG1).LR.lexc: $(BASENAME).$(LANG1).lexc
-	if [ ! -d .deps ]; then mkdir .deps; fi
+.deps/$(LANG1).LR.lexc: $(BASENAME).$(LANG1).lexc .deps/.d
 	cat $< | grep -v 'Dir/RL' > $@
 
 .deps/$(LANG1).RL.lexc.hfst: .deps/$(LANG1).RL.lexc
@@ -56,13 +55,11 @@ $(LANG1).autogen.att.gz: $(LANG1).autogen.hfst
 $(LANG1).automorf.att.gz: $(LANG1).automorf.hfst
 	hfst-fst2txt $< | gzip -9 -c > $@
 
-$(LANG1).autogen.bin: $(LANG1).autogen.att.gz
-	if [ ! -d .deps ]; then mkdir .deps; fi
+$(LANG1).autogen.bin: $(LANG1).autogen.att.gz .deps/.d
 	zcat < $< > .deps/$(LANG1).autogen.att
 	lt-comp lr .deps/$(LANG1).autogen.att $@
 
-$(LANG1).automorf.bin: $(LANG1).automorf.att.gz
-	if [ ! -d .deps ]; then mkdir .deps; fi
+$(LANG1).automorf.bin: $(LANG1).automorf.att.gz .deps/.d
 	zcat < $< > .deps/$(LANG1).automorf.att
 	lt-comp lr .deps/$(LANG1).automorf.att $@
 
@@ -72,8 +69,7 @@ $(LANG1).automorf.bin: $(LANG1).automorf.att.gz
 
 debug: .deps/$(LANG1).LR-debug.hfst .deps/$(LANG1).lexc.hfst
 
-.deps/$(LANG1).LR-debug.hfst: $(BASENAME).$(LANG1).lexc
-	if [ ! -d .deps ]; then mkdir .deps; fi
+.deps/$(LANG1).LR-debug.hfst: $(BASENAME).$(LANG1).lexc .deps/.d
 	cat $< | grep -v 'Dir/RL' | grep -v 'Use/Circ' > .deps/$(LANG1).LR-debug.lexc
 	hfst-lexc --format foma .deps/$(LANG1).LR-debug.lexc -o .deps/$(LANG1).LR-debug.lexc.hfst
 	hfst-compose-intersect -1 .deps/$(LANG1).LR-debug.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
@@ -147,12 +143,6 @@ apertium_uzb_DATA=$(TARGETS_COMMON) $(EXTRA_TARGETS)
 pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = $(BASENAME).pc
 
-# Modes are not installed since they're all just "debug modes". All
-# modes are created by this goal.
-modes/$(LANG1)-morph.mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-
 noinst_DATA=modes/$(LANG1)-morph.mode
 
 install-data-local:
@@ -160,6 +150,11 @@ install-data-local:
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).lexc $(DESTDIR)$(apertium_uzb_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).twol $(DESTDIR)$(apertium_uzb_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_uzb_srcdir)
+
+###############################################################################
+## Cleanup
+###############################################################################
+
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
