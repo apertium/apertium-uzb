@@ -126,10 +126,10 @@ EXTRA_DIST=$(BASENAME).$(LANG1).lexc \
 ## Installation stuff
 ###############################################################################
 #
-#   apertium_uzb_libdir: This is where the compiled binaries go
+#   apertium_uzb_dir: This is where the compiled binaries go
 #   apertium_uzb_srcdir: This is where the source files go
 
-apertium_uzbdir=$(prefix)/lib/apertium/$(BASENAME)/
+apertium_uzbdir=$(prefix)/share/apertium/$(BASENAME)/
 apertium_uzb_srcdir=$(prefix)/share/apertium/$(BASENAME)/
 
 EXTRA_TARGETS=
@@ -140,7 +140,7 @@ endif # HAVE_HFSTOSPELL
 
 apertium_uzb_DATA=$(TARGETS_COMMON) $(EXTRA_TARGETS)
 
-pkgconfigdir = $(libdir)/pkgconfig
+pkgconfigdir = $(prefix)/share/pkgconfig
 pkgconfig_DATA = $(BASENAME).pc
 
 noinst_DATA=modes/$(LANG1)-morph.mode
