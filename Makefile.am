@@ -78,6 +78,12 @@ debug: .deps/$(LANG1).LR-debug.hfst .deps/$(LANG1).lexc.hfst
 	hfst-fst2fst -O -i $< -o $@
 
 ###############################################################################
+## Postgeneration
+###############################################################################
+$(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
+	lt-comp lr $< $@
+
+###############################################################################
 ## Disambiguation rules
 ###############################################################################
 
@@ -120,6 +126,7 @@ $(LANG1).zhfst: .deps/acceptor.default.hfst .deps/errmodel.default.hfst
 EXTRA_DIST=$(BASENAME).$(LANG1).lexc \
 	   $(BASENAME).$(LANG1).twol \
 	   $(BASENAME).$(LANG1).rlx  \
+	   $(BASENAME).post-$(LANG1).dix  \
 	   modes.xml
 
 ###############################################################################
@@ -150,6 +157,7 @@ install-data-local:
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).lexc $(DESTDIR)$(apertium_uzb_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).twol $(DESTDIR)$(apertium_uzb_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_uzb_srcdir)
+	$(INSTALL_DATA) $(BASENAME).post-$(LANG1).dix $(DESTDIR)$(apertium_uzb_srcdir)
 
 ###############################################################################
 ## Cleanup
