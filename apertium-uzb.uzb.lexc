@@ -359,10 +359,6 @@ LEXICON DET-ITG
 %<det%>%<itg%>: # ;
 
 
-LEXICON CC 
-
-%<cnjcoo%>: # ;
-
 LEXICON A1
 
 %<adj%>: # ; 
@@ -5063,17 +5059,6 @@ ha:ha INTERJ ; ! "yes"
 
 ora:ora PRON-ADV ; ! "there"
 
-LEXICON Conjunctions 
-
-va:va CC ; ! "and"
-esa:esa CC ; ! "whereas"
-deb:deb CS ; ! "because"
-ham:ham CC ; ! "and.. and" "too"
-ila:ila CC ; ! "with"
-hamda:hamda CC ; ! "also"
-toki:toki CC ; ! " so that"
-
-
 LEXICON Adverbs 
 
 asta%-sekin:asta%-sekin  ADV3 ; ! "slowly"
@@ -5184,7 +5169,12 @@ birga:birga ADV1 ; ! "together" ! "FIXME is it true?"
 
 
 
-LEXICON  Conjunctions
+LEXICON Conjunctions 
+
+deb:deb CS ; ! "because"
+ila:ila CC ; ! "with"
+hamda:hamda CC ; ! "also"
+toki:toki CC ; ! " so that"
 
 va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
