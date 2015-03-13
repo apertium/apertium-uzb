@@ -10,7 +10,7 @@ Multichar_Symbols
 %<num%>
 %<prn%>
 %<abbr%>
-
+%<postadv%>   ! Postadverb
 
 %<px1sg%>            
 %<px3sp%>            
@@ -29,6 +29,7 @@ Multichar_Symbols
 
 %<top%> ! TOPONYMS
 %<al%> ! ALTER
+%<ant%>       ! Anthroponym
 
 %<m%> ! 
 %<f%> !
@@ -61,6 +62,17 @@ Multichar_Symbols
 %<p2%>
 %<p3%>
 
+! Modal particles
+%<qst%>       ! Modal question particle
+              !# m{A}
+%<emph%>      ! Emphasizing modal particle
+              !# -шы/-ші
+%<mod_ass%>   ! Assertive modal particle
+              !# -ғой/-қой
+%<mod%>       ! Other modal words (шығар, сияқты etc)
+
+%<unk%>       ! For foreign tokens
+
 %<sg%>
 %<pl%>
 
@@ -86,11 +98,57 @@ Multichar_Symbols
 
 !!!! JAWOHL TWOL!!!!
 
-
 %{s%}		   ! Becomes "s" after a vowel, otherwise null
 %{i%}		   ! Becomes as "i" after a consonant, otherwise null
 %{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
 %{K%}
+
+! Archiphonemes and escaped symbols (from apertium-kaz) ! "FIXME"
+
+%{L%}         ! Archiphoneme 'l': realised as л, д, т
+%{N%}         ! Archiphoneme 'n': realised as н, д, т
+%{M%}         ! Archiphoneme 'm': realised as м, б, п
+%{G%}         ! Archiphoneme 'g': realised as к, қ, г, ғ
+%{G%}         ! Archiphoneme 'k': realised as к, қ  >>>FIXME ???<<<
+%{D%}         ! Archiphoneme 'd': realised as д, т
+%{A%}         ! Archiphoneme 'a': realsied as е, а
+%{I%}         ! Archiphoneme 'i': realised as і, ы
+%{S%}         ! Realised as 'с' or ''; only used in 3rd person morphology
+%{K%}         ! Realised as 'к' or 'қ'
+%{n%}         ! Realised as 'н' or '';
+              ! only used in 3rd person morphology and -NIKI
+%{l%}         ! Realised as 'л' or 'н'; only used in passive -{I}{l}
+%{y%}         ! Realised as '' or '{I}'; only used in epenthesis for nouns
+%{o%}         ! Realised as ''; triggers dialectal interpretation of Iп
+%{E%}         ! Realised as 'а', 'е', 'й' (={A}/й)
+%{д%}         ! Realised as д before vowels, 0 otherwise
+%{т%}         ! Realised as т before vowels, 0 otherwise
+
+
+%{а%}         ! Archiphoneme for back vowel numerals/abbreviation
+%{э%}         ! Archiphoneme for front vowel numerals/abbreviation
+%{ә%}         ! Surfaces as ә, but:
+              ! triggers front harmony for {I} and back harmony for {A}
+
+%{й%}         !
+%{л%}         !
+%{н%}         !
+%{з%}         !
+%{т%}         !
+%{с%}         !
+
+%{☭%}         ! Used to tell the phonology about a Russian word
+%{і%}         !
+
+%{❗%}         ! Obstacles on the road!!!
+%{ъ%}         ! Force back harmony
+
+%>            ! Morpheme boundary
+%,            !
+%.            !
+%             ! Space
+%-            !
+%%            !
 
 %>
 
@@ -290,6 +348,26 @@ LEXICON AORIST
 
 %<aor%>:%>%{E%} PERS3 ;
 
+LEXICON V-PERS-S1-NO3PERSON
+
+! Pointed to by: V-PERS-S1 and V-PERS-AOR
+! Irregular p1.sg form is in V-PERS-AOR
+
+%<p1%>%<sg%>:%>%{M%}%{I%}n CLITICS-NO-COP ;
+%<p2%>%<sg%>:%>s%{I%}ng CLITICS-NO-COP ;
+%<p1%>%<pl%>:%>%{M%}%{I%}z CLITICS-NO-COP ;
+%<p2%>%<pl%>:%>s%{I%}ngd%{A%}r CLITICS-NO-COP ;
+
+%<p2%>%<frm%>%<sg%>:%>s%{I%}z CLITICS-NO-COP ;
+%<p2%>%<frm%>%<pl%>:%>s%{I%}zl%{A%}r CLITICS-NO-COP ;
+
+LEXICON V-PERS-S1
+
+! Used for: -AR-<fut>, -GAn-<past>, -MAK-<fut_plan>, copula
+
+V-PERS-S1-NO3PERSON ;
+%<p3%>%<sg%>: CLITICS-NO-COP ;
+%<p3%>%<pl%>: CLITICS-NO-COP ;
 
 LEXICON PERS
 
@@ -408,18 +486,140 @@ LEXICON N3 ! Nationalities which can form language, etc.
 
 %<n%>: SUBST ; 
 
+LEXICON CLIT-QST-MA
+
+%+ma%<qst%>:%>% %{M%}%{A%} # ;
+
+LEXICON CLIT-QST
+
+CLIT-QST-MA ;
+%+mekan%<qst%>:% %{M%}ekan # ;
+
+LEXICON CLIT-MODASS
+
+%+go%<mod_ass%>:% go # ;
+# ;
+
+LEXICON CLIT-GHANA-ETC
+
+%+%-ak%<postadv%>:%-ak # ; ! ""
+%+gana%<postadv%>:% %{G%}ana # ; ! ""
+%+da%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
+%+da%<postadv%>:% %{D%}%{A%} # ; ! ""
+# ;
+
+LEXICON CLIT-COP
+
+%+e%<cop%>%<aor%>: V-PERS-S1 ;
+
+LEXICON CLITICS-NO-COP
+
+CLIT-QST ;
+CLIT-MODASS ;
+CLIT-GHANA-ETC ;
+
+! LEXICON CLITICS-NO-COP-NO-QST
+
+! CLIT-MODASS ;
+! CLIT-GHANA-ETC ;
+
+LEXICON CLITICS-INCL-COP         ! Can appear only after nominals
+                                 ! (and only after some cases).
+CLITICS-NO-COP ;
+CLIT-COP ;
+
+LEXICON CASES-COMMON
+
+%<gen%>:%>%{N%}%{I%}ng CLITICS-NO-COP ;
+%<dat%>:%>%{G%}%{A%} CLITICS-NO-COP ;
+%<acc%>:%>%{N%}%{I%} CLITICS-NO-COP ;
+! %<ins%>:%>%{M%}en CLITICS-NO-COP ;
+
+LEXICON CASES
+
+CASES-COMMON ;
+%<nom%>: CLITICS-INCL-COP ;
+%<abl%>:%>%{D%}%{A%}n CLITICS-INCL-COP ;
+%<loc%>:%>%{D%}%{A%} CLITICS-INCL-COP ;
+
+LEXICON GENERAL-POSSESSIVE-ETC
+
+!------------------------------------------------------------------------------!
+! <n.pl.нікі.pl> sequence should not be allowed. This form is rare (1 (!)
+! match in RFERL corpus for 'нікілар'), probably not worh bothering at all.
+! It could be handled in a way abessive is handled, but since NIKI in contrast
+! to the abessive SIZ can appear after possessves, that would require
+! duplicating possessives as well.
+!------------------------------------------------------------------------------!
+! try нікілер?  -JNW
+
+!gen.subst part was:
+!%<px%>:%>%{N%}iki%{n%} CASES ;
+!%<px%>%<pl%>:%>%{N%}iki%>l%{A%}r CASES ;
+
+%<gen%>%<subst%>:%>%{N%}iki%{n%} CASES ;
+%<gen%>%<subst%>%<pl%>:%>%{N%}iki%>l%{A%}r CASES ;
+
+%<loc%>:%>%{D%}%{A%}%{G%}%{I%} ATTR-SUBST ;
+%<sim%>:%>%{D%}%{A%}y CLITICS-NO-COP ;  ! Probably should be CLITICS-INCL-COP, same for all <sim> -JNW 2015-01-17
+
+LEXICON CASES-ETC
+
+CASES ;
+GENERAL-POSSESSIVE-ETC ;
+
+LEXICON POSSESSIVES
+
+%<px1sg%>:%>%{I%}m CASES-ETC ;
+%<px2sg%>:%>%{I%}ng CASES-ETC ;
+%<px3sp%>:%>%{S%}%{I%}%{n%} CASES-ETC ;
+%<px1pl%>:%>%{I%}m%{I%}z CASES-ETC ;
+%<px2pl%>:%>%{I%}ngd%{A%}r CASES-ETC ;
+
+%<px2sg%>%<frm%>:%>%{I%}ng%{I%}z CASES-ETC ;
+%<px2pl%>%<frm%>:%{I%}ng%{I%}zl%{A%}r CASES-ETC ;
+
+LEXICON ABESSIVE-POSTPOSITION
+
+%+siz%<post%>:%>s%{I%}z CLITICS-NO-COP ;
+
+LEXICON LI-POSTPOSITION
+
+%+li%<post%>:%>%{L%}%{I%} CLITICS-NO-COP ;
+
+LEXICON PLURAL
+
+%<pl%>:%>%{L%}%{A%}r CASES-ETC ;
+%<pl%>:%>%{L%}%{A%}r POSSESSIVES ;
+%<pl%>:%>%{L%}%{A%}r ABESSIVE-POSTPOSITION ;
+
+LEXICON FULL-NOMINAL-INFLECTION
+
+PLURAL ;
+CASES-ETC ;
+POSSESSIVES ;
+ABESSIVE-POSTPOSITION ;
+LI-POSTPOSITION ;
+
+LEXICON NP-COMMON
+FULL-NOMINAL-INFLECTION ;
+
 LEXICON NP-TOP
 
 %<np%>%<top%>: SUBST ;
 
 LEXICON NP1-ANT-M
 
-%<np%>%<ant%>%<m%>: SUBST;
+%<np%>%<ant%>%<m%>: NP-COMMON ;
+%<np%>%<ant%>%<m%>%<pl%>:%>%{L%}%{A%}r NP-COMMON ;
+! %<np%>%<ant%>%<m%>: SUBST;
 
 
 LEXICON NP1-ANT-F
 
-%<np%>%<ant%>%<f%>: SUBST ;
+%<np%>%<ant%>%<f%>: NP-COMMON ;
+%<np%>%<ant%>%<f%>%<pl%>:%>%{L%}%{A%}r NP-COMMON ;
+! %<np%>%<ant%>%<f%>: SUBST ;
 
 LEXICON NP1-COG-MF
 
@@ -635,7 +835,7 @@ LEXICON NUM-DIGIT
 
 !%<num%>%<percent%>:%% # ;
 !%<num%>%<percent%>%<subst%>%<nom%>:%% # ;
-!%<num%>%<percent%>%<subst%>:%%{а%}%{з%}%- # ;
+!%<num%>%<percent%>%<subst%>:%%{a%}%{z%}%- # ;
 
 LEXICON LASTDIGIT
 
