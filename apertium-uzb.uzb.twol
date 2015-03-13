@@ -1,7 +1,9 @@
 Alphabet
-A B C D E F G H I J K L M N O P Q R S T U V W Y Z X
-a b c d e f g h i j k l m n o p q r s t u v w y z x
-
+ A B C D E F G H I J K L M N O P Q R S T U V W Y Z X
+ a b c d e f g h i j k l m n o p q r s t u v w y z x
+ %0 1 2 3 4 5 6 7 8 9
+ %{K%}:k %{l%}:l %{L%}:l %{M%}:m %{N%}:n %{G%}:g %{D%}:d  ! Cns
+ %{A%}:a %{I%}:i %{E%}:e ! Vow
 
 %{s%}:s %{i%}:i %{E%}:y %{K%}:k
 
@@ -10,10 +12,12 @@ a b c d e f g h i j k l m n o p q r s t u v w y z x
 Sets
 
 Vow =     A E I O U 
-          a e i o u ; 
+          a e i o u 
+          %{A%} %{I%} %{E%} ;
           
 Cons = b c d f g h j k l m n p q r s t v z x 
-       B C D F G H J K L M N P Q R S T V Z X ;
+       B C D F G H J K L M N P Q R S T V Z X 
+       %{D%} %{K%} %{G%} %{N%} %{L%} %{M%} %{S%} %{n%} ; ! %- ;
 
 Rules
 
@@ -30,4 +34,8 @@ Rules
 
 "{i} becomes i when following a consonant"
 %{i%}:0 <=> :Vow %>: _ ;
+
+"Voicing assimilation of front G"
+%{G%}:k <=> [ :p | :t | :k | :g ]/%>: _ ; ! "from "Учебник узбекского языка для стран СНГ" there only -k and -g endings transfer to k"
+
 
