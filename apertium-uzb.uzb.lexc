@@ -30,6 +30,7 @@ Multichar_Symbols
 %<top%> ! TOPONYMS
 %<al%> ! ALTER
 %<ant%>       ! Anthroponym
+%<org%>
 
 %<m%> ! 
 %<f%> !
@@ -1408,7 +1409,7 @@ baliq:baliq N1 ; ! "fish"
 miqdor:miqdor N1 ; ! "amount"
 maydon:maydon N1 ; ! "sqaure"
 olcham:olcham N1 ; ! "size"
-bog':bog' N1 ; ! "garden"
+bog%':bog%' N1 ; ! "garden"
 gazlama:gazlama N1 ; ! "material"
 iz:iz N1 ; ! "trace"
 talab:talab N1 ; ! "demand"
