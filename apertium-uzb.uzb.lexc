@@ -200,6 +200,7 @@ Multichar_Symbols
 
 LEXICON Root
 
+ModalParticles ;
 Nouns ; 
 Postpositions ; 
 Adjectives ; 
@@ -249,6 +250,22 @@ LEXICON CS
 LEXICON CC 
 
 %<cnjcoo%>: # ;
+
+LEXICON QST
+
+%<qst%>: # ;
+
+
+!======================!
+ LEXICON ModalParticles
+!======================!
+
+mi:mi QST ; ! "" 
+ku:ku QST ; ! ""
+chi:chi QST ; ! "" 
+u:u QST ; ! "" 
+yu:yu QST ; ! "" 
+da:da QST ; ! "" 
 
 
 LEXICON VERB-IV
