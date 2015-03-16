@@ -4,16 +4,20 @@ Multichar_Symbols
 %<np%>          ! Proper noun
 %<adj%>
 %<adv%>
+%<post%>       ! Postposition
 %<cnjcoo%>     ! Co-ordinating conjunction  
 %<cnjadv%>
 %<cnjsub%>
+%<ij%>        ! Interjection               ! 
 %<num%>
 %<prn%>
+%<det%>       ! Determiner                 ! Детерминатив
 %<abbr%>
 %<postadv%>   ! Postadverb
+%<cop%>       ! Copula                     ! Копула
 
-%<px1sg%>            
-%<px3sp%>            
+! %<px1sg%>            ! redefined in Possessives
+! %<px3sp%>            ! redefined in Possessives
 
 ! Cases ! "Case is a lie!" (quot.)
 
@@ -25,11 +29,29 @@ Multichar_Symbols
 %<loc%>            
 %<ins%>            ! Instrumental=comitative 
 
+!! some additional ~cases
+%<sim%>       ! Similative
+              !# DAй
+%<abe%>       ! Abessive=Privative ! Лишительный
+              !# SIZ (not used after posessives and cases)
+%<reas%>      ! not used rigth now, just in case for
+              !# LIKTAN
+
+! Possessives
+%<px1sg%>     ! First person singular
+%<px2sg%>     ! Second person singular
+%<px3sp%>     ! Third person singular/plural
+%<px1pl%>     ! First person plural
+%<px2pl%>     ! Second person plural
+%<px3pl%>     ! Third person plural (for reflexive)
+!%<px%>        ! General possessive          !# -нікі  ! now gen.subst
+
 !!!!!! MISC!!!!
 
 %<top%> ! TOPONYMS
 %<al%> ! ALTER
 %<ant%>       ! Anthroponym
+%<cog%>       ! Cognomen     ! Фамилия
 %<org%>
 
 %<m%> ! 
@@ -58,10 +80,12 @@ Multichar_Symbols
 
 %<attr%>
 %<subst%>
+%<advl%>      ! Adverbial
 
 %<p1%>
 %<p2%>
 %<p3%>
+%<frm%>       ! Formality
 
 ! Modal particles
 %<qst%>       ! Modal question particle
@@ -79,23 +103,38 @@ Multichar_Symbols
 
 %<prn%>
 %<adv%>
-%<ref%>
+! %<ref%>
 %<pers%>
-%<dem%>
+! %<dem%>
+
+!! Pronoun&Determiner types
+%<dem%>       ! Demonstrative
+%<ind%>       ! Indefinite
+%<itg%>       ! Interrogative
+%<qnt%>       ! Quantifier
+%<neg%>       ! Negative       !# ешкім
+              ! (NOTE: also used to denote negation in verbs, i.e for м{A})
+%<ref%>       ! Reflexive
+
+! Numeral types
+%<ord%>       ! Ordinal
+%<coll%>      ! Collective
+%<dist%>      ! Distributive
 
 %<tv%>
 %<iv%>
 
 !!!! PUNCTUATION !!!
 
-%<sent%>
-%<guio%>
-%<cm%>
-%<apos%>
-%<lquot%>
-%<rquot%>
-%<lpar%>
-%<rpar%>
+%<percent%>   ! Percent
+%<sent%>      ! Sentence marker
+%<guio%>      ! Hyphen
+%<cm%>        ! Comma
+%<apos%>      ! Apostrophe
+%<rquot%>     ! Quote marker (right hand side)
+%<lquot%>     ! Quote marker (left hand side)
+%<rpar%>      ! Parenthetical marker (right hand side)
+%<lpar%>      ! Parenthetical marker (left hand side)
 
 !!!! JAWOHL TWOL!!!!
 
