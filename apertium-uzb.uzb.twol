@@ -5,7 +5,7 @@ Alphabet
  %{K%}:k %{l%}:l %{L%}:l %{M%}:m %{N%}:n %{G%}:g %{D%}:d  ! Cns
  %{A%}:a %{I%}:i %{E%}:e ! Vow
 
-%{s%}:s %{i%}:i %{E%}:y %{K%}:k
+%{s%}:s %{S%}:s %{i%}:i %{E%}:y %{K%}:k %{n%}:n 
 
 %>:0 %  ; 
 
