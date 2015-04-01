@@ -667,16 +667,16 @@ LEXICON NP-TOP
 
 LEXICON NP1-ANT-M
 
-! %<np%>%<ant%>%<m%>: NP-COMMON ;
-! %<np%>%<ant%>%<m%>%<pl%>:%>%{L%}%{A%}r NP-COMMON ;
-%<np%>%<ant%>%<m%>: SUBST;
+%<np%>%<ant%>%<m%>: NP-COMMON ;
+%<np%>%<ant%>%<m%>%<pl%>:%>%{L%}%{A%}r NP-COMMON ;
+! %<np%>%<ant%>%<m%>: SUBST;
 
 
 LEXICON NP1-ANT-F
 
-! %<np%>%<ant%>%<f%>: NP-COMMON ;
-! %<np%>%<ant%>%<f%>%<pl%>:%>%{L%}%{A%}r NP-COMMON ;
-%<np%>%<ant%>%<f%>: SUBST ;
+%<np%>%<ant%>%<f%>: NP-COMMON ;
+%<np%>%<ant%>%<f%>%<pl%>:%>%{L%}%{A%}r NP-COMMON ;
+! %<np%>%<ant%>%<f%>: SUBST ;
 
 LEXICON NP1-COG-MF
 
