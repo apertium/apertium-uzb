@@ -4494,7 +4494,7 @@ to%'g%'risida:to%'g%'risida POST ; ! ""
 qatori:qatori POST ; ! ""
 
 qaraganda:qaraganda POST ; ! ""
-qaramasdan:qaramasdan POST ; ""
+qaramasdan:qaramasdan POST ; ! ""
 
 !Genitive
 orqasindan:orqasindan POST ; ! "after"
