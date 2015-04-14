@@ -216,6 +216,7 @@ Pronouns ;
 Interjections ; 
 Qst-pron ; 
 Mistakes ;
+Postadverbs ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -254,6 +255,10 @@ LEXICON CC
 LEXICON QST
 
 %<qst%>: # ;
+
+LEXICON POSTADV
+
+%<postadv%>: # ;
 
 
 !======================!
@@ -472,6 +477,9 @@ LEXICON ADV3
 
 %<adv%>: # ;
 
+LEXICON ADV-ITG
+
+%<adv%>%<itg%>: CLITICS-INCL-COP ;
 
 LEXICON DET-IND
 
@@ -3082,6 +3090,13 @@ otaturkchilik:otaturkchilik N1 ; ! "ataturkism"
 kamolizm:kamolizm N1 ; ! "kemalism"
 ta%'sir:ta%'sir N1 ; ! "influence"
 
+jilmayish:jilmayish N1 ; ! "smile"
+aylana:aylana N1 ; ! ""
+ort:ort N1 ; ! "back"
+stol:stol N1 ; ! "table"
+o%'rindiq:o%'rindiq N1 ; ! "chair"
+yoq:yoq N1 ; ! "" 
+
 !!!!SPECIAL!!!!
 
 km:km ABBR ;  ! "km" ! FIXME: abbr
@@ -4906,6 +4921,8 @@ odil:odil A1 ; ! "fair"
 fizik:fizik A1 ; ! "physical"
 zil:zil A1 ; ! "heavy"
 mag%'lub:mag%'lub A1 ; ! "defeated"
+tiniq:tiniq A1 ; ! "clear"
+quvonchli:quvonchli A1 ; ! ""
 
 
 
@@ -5316,7 +5333,12 @@ uyna:uyna VERB-IV ; ! "play"
 uxla:uxla VERB-TV ; ! "to sleep"
 yugur:yugur VERB-IV ; ! "to run"
 berkin:berkin VERB-IV ; ! "to hide"
-xursand% bo'l:xursand% bo'l VERB-IV ; ! "be happy"
+xursand% bo%'l:xursand% bo%'l VERB-IV ; ! "be happy"
+izla:izla VERB-TV ; ! ""
+gapir:gapir VERB-IV ; ! ""
+o%'yla:o%'yla VERB-TV ; ! ""
+tingla:tingla VERB-TV ; ! "listen carefully/closely"
+kul:kul VERB-IV ; ! "smile, laugh"
 
 
 
@@ -5329,6 +5351,9 @@ ey:ey INTERJ ; ! "hey"
 barakalla:barakalla INTERJ ; ! "whiz"
 yo%'q:yo%'q INTERJ ; ! "no"
 ha:ha INTERJ ; ! "yes"
+albatta:albatta INTERJ ; ! "of course"
+aytganday:aytganday INTERJ ; ! ""
+demak:demak INTERJ ; ! ""
 
 
 
@@ -5336,7 +5361,26 @@ ha:ha INTERJ ; ! "yes"
 
 ora:ora PRON-ADV ; ! "there"
 
-LEXICON Adverbs 
+
+!===============!
+ LEXICON Adverbs
+!===============!
+
+
+! "Interrogative adverbs", "pronoun-adverbs"
+! ==========================================
+
+! Better classification/implementation possible
+
+qayerda:qayerda ADV-ITG ; ! "where (где)"
+qayerga:qayerga ADV-ITG ; ! "where (куда)"
+qayerdan:qayerdan ADV-ITG ; ! ""
+qanday:qanday ADV-ITG ; ! "how"
+qachon:qachon ADV-ITG ; ! "when"
+nimaga:nimaga ADV-ITG ; ! "why"
+
+! More or less regular stuff
+! ==========================
 
 asta%-sekin:asta%-sekin  ADV3 ; ! "slowly"
 batafsil:batafsil ADV1 ; ! "in detail"
@@ -5443,6 +5487,18 @@ aybsiz:aybsiz ADV2 ; ! "innocent/ly"
 arang:arang ADV2 ; ! "hard"
 birga:birga ADV1 ; ! "together" ! "FIXME is it true?"
 
+
+LEXICON Postadverbs
+
+faqat:faqat POSTADV ; ! "only"
+! эле:эле POSTADV ; ! "only"
+! деле:деле POSTADV ; ! "even"
+! деле:дале POSTADV ; ! "even" ! FIXME: treat as separate word or as dialectal variant
+! дагы:дагы POSTADV ; ! "... дагы" = "and ... too"
+! ашуун:ашуун POSTADV ; ! "more than"
+! ашык:ашык POSTADV ; ! "more than"
+! тең:тең POSTADV ; ! "~both" e.g., экөө тең
+! болсо:болсо POSTADV ; ! "as for"
 
 
 LEXICON Conjunctions 
