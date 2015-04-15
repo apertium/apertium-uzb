@@ -65,8 +65,6 @@ Multichar_Symbols
 %<pcont%>
 %<pcond%>
 %<evid%>
-%<past%>
-%<aor%>
 %<kan%>
 %<imp%>
 %<perm%>
@@ -77,6 +75,15 @@ Multichar_Symbols
 %<gna4%>
 %<pass%>
 
+!! Tense / finite forms
+%<pres%>      ! for "жатыр", "тұр", "отыр" and "жүр"
+%<aor%>       ! -{E}
+%<past%>      ! -{G}{A}н
+%<ifi%>       ! -{D}{I}
+%<ifi_evid%>  ! -{I}пт{I}
+%<fut%>       ! -{I}р
+%<fut_plan%>  ! -{M}{A}{K}
+%<pih%>       ! -{E}тін       ! ~past imperfect ~"used to"
 
 %<attr%>
 %<subst%>
@@ -121,6 +128,21 @@ Multichar_Symbols
 %<coll%>      ! Collective
 %<dist%>      ! Distributive
 
+!!! Gerunds (verbal nouns)
+%<ger%>       ! -{U}
+%<ger_past%>  ! -{G}{A}н
+%<ger_perf%>  ! -{G}{A}нл{I}{K}   (stresses the fact that something happened)
+%<ger_ppot%>  ! -{A}рл{I}{K}      (~the ability to do the denoted action)
+              !# "_Сүйсінерлігі_ сол, өз сеніміне берік те адал халқымыз дінін
+              !# сатпады, өзгенің тәтті де сылдыр сөзіне ермеді...";
+%<ger_abs%>   ! -уш{I}л{I}{K}          FIXME CHECK
+%<ger_fut%>   ! -{A}р
+              !# "Мен айтарымды айттым";
+%<ger_impf%>  ! -{E}{T}{I}н
+              !# "Ол бүгін кешкілік болатынын айтты";
+! TODO cover -{E}{T}{I}нд{I}{K} form
+
+!! Transitivity
 %<tv%>
 %<iv%>
 
@@ -201,6 +223,7 @@ Multichar_Symbols
 LEXICON Root
 
 ModalParticles ;
+Copula ;
 Nouns ; 
 Postpositions ; 
 Adjectives ; 
@@ -431,6 +454,20 @@ V-PERS-S1-NO3PERSON ;
 %<p3%>%<sg%>: CLITICS-NO-COP ;
 %<p3%>%<pl%>: CLITICS-NO-COP ;
 
+LEXICON V-PERS-S2
+
+! Used for: -DI-<ifi>, -sA-<prc_cond>, -sA-<gna_cond>
+
+%<p1%>%<sg%>:%>m CLITICS-NO-COP ;
+%<p2%>%<sg%>:%>ng CLITICS-NO-COP ;
+%<p3%>%<sg%>: CLITICS-NO-COP ;
+%<p1%>%<pl%>:%>%{K%} CLITICS-NO-COP ;
+%<p2%>%<pl%>:%>ngd%{A%}r CLITICS-NO-COP ;
+%<p3%>%<pl%>: CLITICS-NO-COP ;
+
+%<p2%>%<frm%>%<sg%>:%>ng%{I%}z CLITICS-NO-COP ;
+%<p2%>%<frm%>%<pl%>:%>ng%{I%}zl%{A%}r CLITICS-NO-COP ;
+
 LEXICON PERS
 
 %<p1%>%<sg%>:%>man  # ;
@@ -583,10 +620,10 @@ CLIT-QST ;
 CLIT-MODASS ;
 CLIT-GHANA-ETC ;
 
-! LEXICON CLITICS-NO-COP-NO-QST
+LEXICON CLITICS-NO-COP-NO-QST
 
-! CLIT-MODASS ;
-! CLIT-GHANA-ETC ;
+CLIT-MODASS ;
+CLIT-GHANA-ETC ;
 
 LEXICON CLITICS-INCL-COP         ! Can appear only after nominals
                                  ! (and only after some cases).
@@ -693,6 +730,84 @@ LEXICON NP1-COG-MF
 LEXICON NP1-AL
 
 %<np%>%<al%>%: SUBST;
+
+
+!!!!!!!   G E R U N D S   I N F L E C T I O N
+
+! This is a somewhat simplified version of FULL-NOMINAL-INFLECTION.
+! The idea was to avoid overgeneration (I don't think that ger+DAGI would take
+! case endings e.g. Same for ger+NIKI). Still, this cont.class might be not
+! suitable for all of the gerunds. /IS/
+
+LEXICON GER-CASE-NO_COPULA
+
+CASES-COMMON ;
+%<nom%>: CLITICS-NO-COP ;
+%<abl%>:%>%{D%}%{A%}n CLITICS-NO-COP ;
+%<loc%>:%>%{D%}%{A%} CLITICS-NO-COP ;
+
+LEXICON GER-ATTR/SUBST
+
+%<attr%>: CLITICS-NO-COP ;
+!%<subst%>: CASES ;
+!%<subst%>%<pl%>:%>%{L%}%{A%}r CASES ;
+
+LEXICON GER-ABE-ATTR/ADVL/SUBST
+
+!%<attr%>: CLITICS-NO-COP ;
+%<advl%>: CLITICS-NO-COP ;
+!%<subst%>: CASE-2 ;
+!%<subst%>%<pl%>:%>%{L%}%{A%}р CASE-2 ;
+
+LEXICON GER-ABE-ETC          ! Stuff which doesn't appear after possessives
+
+%+siz%<post%>:%>s%{I%}z CLITICS-NO-COP ; ! 2014-08-16//FMT: this was "GER-ABE-ATTR/ADVL/SUBST"
+
+LEXICON GER-GENERAL-POSSESSIVE-ETC      ! Stuff which can appear after possessives too
+
+%<gen%>%<subst%>%<nom%>:%>%{N%}iki%{n%} CLITICS-NO-COP ; ! 2015-01-18//JNW: added <nom>, since it needs a case for transfer, and no other cases are ever added, or even presumed by the transducer to be okay.  But worth CHECK ing..
+%<loc%>:%>%{D%}%{A%}%{G%}%{I%} GER-ATTR/SUBST ;
+%<sim%>:%>%{D%}%{A%}y CLITICS-NO-COP ;
+
+LEXICON GER-CASE-ETC
+
+GER-CASE-NO_COPULA ;
+GER-GENERAL-POSSESSIVE-ETC ;
+
+LEXICON GER-POSSESSIVES
+
+%<px1sg%>:%>%{I%}m GER-CASE-ETC ;
+%<px2sg%>:%>%{I%}ng GER-CASE-ETC ;
+%<px3sp%>:%>%{S%}%{I%}%{n%} GER-CASE-ETC ;
+%<px1pl%>:%>%{I%}m%{I%}z GER-CASE-ETC ;
+%<px2pl%>:%>%{I%}ngd%{A%}r GER-CASE-ETC ;
+
+%<px2sg%>%<frm%>:%>%{I%}ng%{I%}z GER-CASE-ETC ;
+%<px2pl%>%<frm%>:%>%{I%}ng%{I%}zd%{A%}r GER-CASE-ETC ;
+
+LEXICON GER-INFL
+
+GER-POSSESSIVES ;
+GER-CASE-ETC ;
+%<pl%>:%>%{L%}%{A%}r GER-POSSESSIVES ;
+%<pl%>:%>%{L%}%{A%}r GER-CASE-ETC ;
+GER-ABE-ETC ;
+
+!!!!!!!   end of gerunds inflection lexicon
+
+
+LEXICON Copula
+
+e%<cop%>%<ger_past%>:ekan GER-POSSESSIVES ;
+e%<cop%>%<ger_perf%>:ekan%>%{L%}%{I%}k GER-POSSESSIVES ;
+
+! This is an evidential aorist form, not past -JNW
+e%<cop%>%<aor%>%<evid%>:ekan V-PERS-S1 ;
+e%<cop%>%<neg%>%<aor%>%<evid%>:emas% ekan V-PERS-S1 ;
+
+е%<cop%>%<ifi%>:е%>%{D%}%{I%} V-PERS-S2 ;
+
+е%<cop%>%<neg%>%<aor%>:emas V-PERS-S1 ;
 
 
 LEXICON NUM
