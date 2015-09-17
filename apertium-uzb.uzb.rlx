@@ -94,7 +94,7 @@ SELECT TV IF (-1C Acc) ;
 
 #If following item is an ADV, then select Pron reading
 
- SELECT Pron IF (0C Det OR Pron) (1 Adv)
+SELECT Pron IF (0C Det OR Pron) (1 Adv) ;
  
 # Select Proper noun if it starts with a capital letter while not being after a full stop
 
@@ -106,7 +106,7 @@ SELECT Prop IF (0 N) (0 Ant)(1 Cog) (-1 BOS);
 
 #If we have a form which is both present as N1 or derivative gerund, select N1
 
- SELECT N IF (0 N) (0 Ger)
+SELECT N IF (0 N) (0 Ger) ;
 
 #In case we have an item present both as Noun and Adjective, select adjective if 1 is a noun. 
 
@@ -179,7 +179,7 @@ SELECT Advl IF (1C FINITE) ;
 
 #If an adjective is right before the end of a sentence, we can safely expect it to be an adjective.
 
-REMOVE Advl IF (0 A)(1 EOS)
+REMOVE Advl IF (0 A)(1 EOS) ;
 
 #If the following item does not include a copula in its reading, discard subst from the adjective.
 
