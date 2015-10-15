@@ -5060,7 +5060,7 @@ quvonchli:quvonchli A1 ; ! ""
 !!!!!!! SPECIALS !!!!!!
 
 bor:bor A4 ; ! "there is"
-emas:emas A4 ; ! "there is not"
+yo%'q:yo%'q A4 ; ! "there is not"
 lozim:lozim A4 ; ! "necessary"
 
 
