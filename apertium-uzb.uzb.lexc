@@ -1049,6 +1049,9 @@ LEXICON PRON-NEG
 
 %<prn%>%<neg%>: SUBST ;
 
+LEXICON PRON-IND
+
+%<prn%>%<ind%>: SUBST ;
 
 
 
@@ -1158,6 +1161,7 @@ hech% qaerda:hech% qaerda PRON-NEG ; ! "nowhere"
 hech% qanday:hech% qanday PRON-NEG ; ! "not any"
 hech% qancha:hech% qancha PRON-NEG ; ! "not at all"
 
+bir%-bir:bir%-bir PRON-IND ; ! ""
 
 
 LEXICON Nouns
@@ -4723,6 +4727,7 @@ zig%'ircha:zig%'richa A1 ; ! "tiny"
 shirin:shirin A1 ; ! "sweet"
 o%'tkaziladigan:o%'tkaziladigan A1 ; ! "carried"
 rasman:rasman N1 ; ! "official"
+qadr%-qimmat:qadr%-qimmat N1 ; ! ""
 magmatik:magmatik A1 ; ! "magmatic"
 manfiy:manfiy A1 ; ! "negative"
 shaklli:shaklli A1 ; ! "with a form"
