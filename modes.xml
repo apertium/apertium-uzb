@@ -14,7 +14,7 @@
   <mode name="uzb-morph">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="uzb.automorf.hfst"/>
+        <file name="uzb.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -22,7 +22,7 @@
   <mode name="uzb-guess">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="uzb_guesser.automorf.hfst"/>
+        <file name="uzb_guesser.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -40,7 +40,7 @@
   <mode name="uzb-gener">
     <pipeline>
       <program name="lt-proc -g">
-        <file name="uzb.autogen.hfst"/>
+        <file name="uzb.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -48,7 +48,7 @@
   <mode name="uzb-disam">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="uzb.automorf.hfst"/>
+        <file name="uzb.automorf.bin"/>
       </program>
       <program name="cg-proc -w">
         <file name="uzb.rlx.bin"/>
@@ -59,7 +59,7 @@
   <mode name="uzb-disam-debug">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="uzb.automorf.hfst"/>
+        <file name="uzb.automorf.bin"/>
       </program>
       <program name="cg-conv -a -l" />
       <program name="vislcg3 --trace -g">
