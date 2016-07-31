@@ -61,7 +61,8 @@ Multichar_Symbols
 %<v%>
 %<iv%>
 %<tv%>
-%<ger5%>
+%<TD%>
+%<ger_past%>
 %<pcont%>
 %<pcond%>
 %<evid%>
@@ -104,6 +105,8 @@ Multichar_Symbols
 %<mod%>       ! Other modal words (шығар, сияқты etc)
 
 %<unk%>       ! For foreign tokens
+
+%<guess%>     ! 
 
 %<sg%>
 %<pl%>
@@ -205,6 +208,9 @@ Multichar_Symbols
 %{❗%}         ! Obstacles on the road!!!
 %{ъ%}         ! Force back harmony
 
+%{🂡%}         !
+
+
 %>            ! Morpheme boundary
 %,            !
 %.            !
@@ -305,7 +311,6 @@ LEXICON VERB-IV
 %<v%>%<iv%>%<pass%>%<neg%>:ilma VERB-IV-FULL ;
 %<v%>%<iv%>%<ref%>%<neg%>:inma VERB-IV-FULL ;
 
-
 LEXICON VERB-IV-FULL
 
 GERUND ;
@@ -323,7 +328,10 @@ IMPERATIVE ;
 
 !!!!!!!COPULA SUFFIXES!!!!!!
 
+LEXICON VERB-TD
 
+%<v%>%<TD%>: VERB-TV-FULL ;
+%<v%>%<TD%>%<neg%>:ma VERB-TV-FULL ; 
 
 LEXICON VERB-TV
 
@@ -399,8 +407,8 @@ LEXICON PRES-COND
 
 LEXICON GERUND 
 
-%<ger5%>:%>gan SUBST ;    
-%<ger5%>:%>ish SUBST ;    
+%<ger_past%>:%>gan SUBST ;    
+%<ger_past%>:%>ish SUBST ;    
 
 
 LEXICON IMPERATIVE
@@ -1165,6 +1173,8 @@ bir%-bir:bir%-bir PRON-IND ; ! ""
 
 
 LEXICON Nouns
+
+%{🂡%}%<guess%>:%{🂡%} N1 ;
 
 shtab:shtab N1 ; ! "headquarters"
 majlis:majlis N1 ; ! "assembly"
@@ -5095,6 +5105,9 @@ qay:qay DET-DEM ; ! ""
 
 LEXICON Verbs
 
+%{🂡%}%<guess%>:%{🂡%} VERB-TD ; ! ""
+
+
 qatnash:qatnash VERB-IV ; ! "to attend"
 pasay:pasay VERB-TV ; ! "to lower"
 tarqal:tarqal VERB-TV ; ! "spread"
@@ -5789,8 +5802,6 @@ LEXICON Punctuation
 
 
 LEXICON Digits ! Use/Cic
-
-
 
 %0:%0 NUM ;  ! Use/Circ
 №:№ DIGITLEX ;  ! Use/Circ
