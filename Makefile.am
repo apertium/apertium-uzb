@@ -10,6 +10,7 @@ BASENAME=apertium-$(LANG1)
 TARGETS_COMMON = $(LANG1).automorf.hfst $(LANG1).autogen.hfst \
 	$(LANG1).automorf.bin $(LANG1).autogen.bin \
 	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz \
+	$(LANG1)_guesser.automorf.bin $(LANG1)_guesser.automorf.hfst \
 	$(LANG1).autopgen.bin \
         $(LANG1).rlx.bin
 
@@ -19,6 +20,33 @@ TARGETS_COMMON = $(LANG1).automorf.hfst $(LANG1).autogen.hfst \
 ###############################################################################
 ## Uzbek transducer
 ###############################################################################
+
+####
+## Guesser
+####
+
+.deps/$(LANG1).guesser.hfst: $(BASENAME).$(LANG1).guesser .deps/.d
+	hfst-xfst -e "source $<" -e "save stack $@" -e "quit"
+
+.deps/$(LANG1)_guesser.lexc.hfst: .deps/$(LANG1).LR.lexc.hfst .deps/$(LANG1).guesser.hfst .deps/.d 
+	hfst-substitute -i .deps/$(LANG1).LR.lexc.hfst -o $@ -f '{🂡}:{🂡}' -T .deps/$(LANG1).guesser.hfst
+
+.deps/$(LANG1).restrict_guesser.hfst: $(BASENAME).$(LANG1).rest .deps/.d
+	hfst-regexp2fst $< -o $@
+
+.deps/$(LANG1)_guesser.hfst: .deps/$(LANG1)_guesser.lexc.hfst .deps/$(LANG1).twol.hfst 
+	hfst-compose-intersect -1 .deps/$(LANG1)_guesser.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
+
+$(LANG1)_guesser.automorf.hfst: .deps/$(LANG1)_guesser.hfst .deps/spellrelax.hfst .deps/$(LANG1).restrict_guesser.hfst 
+	cat .deps/$(LANG1)_guesser.hfst | hfst-invert | hfst-compose -1 - -2 .deps/$(LANG1).restrict_guesser.hfst | hfst-invert | hfst-compose-intersect -1 - -2 .deps/spellrelax.hfst | hfst-invert | hfst-fst2fst -O -o $@
+
+$(LANG1)_guesser.automorf.bin: $(LANG1)_guesser.automorf.hfst .deps/.d
+	hfst-fst2txt $(LANG1)_guesser.automorf.hfst   > .deps/$(LANG1)_guesser.autogen.att
+	lt-comp lr .deps/$(LANG1)_guesser.autogen.att $@
+
+#### 
+## Spellrelax
+####
 
 .deps/spellrelax.hfst: dev/spellrelax.twol .deps/.d
 	hfst-twolc $< -o $@
