@@ -5799,6 +5799,7 @@ LEXICON Punctuation
 %)%<rpar%>:%) # ;
 \%<sent%>:\ # ;
 /%<sent%>:/ # ;
+…%<sent%>:… # ;
 
 
 LEXICON Digits ! Use/Cic
