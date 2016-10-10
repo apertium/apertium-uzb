@@ -181,7 +181,7 @@ pkgconfig_DATA = $(BASENAME).pc
 
 noinst_DATA=modes/$(LANG1)-morph.mode
 
-install-data-local:
+install-data-local: install-modes
 	test -d $(DESTDIR)$(apertium_uzb_srcdir) || mkdir -p $(DESTDIR)$(apertium_uzb_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).lexc $(DESTDIR)$(apertium_uzb_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).twol $(DESTDIR)$(apertium_uzb_srcdir)
