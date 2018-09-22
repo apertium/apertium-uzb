@@ -64,7 +64,7 @@ Multichar_Symbols
 %<TD%>
 %<ger_past%>
 %<cond%>
-%<cond%>
+%<prog%>
 %<evid%>
 %<kan%>
 %<imp%>
@@ -443,7 +443,7 @@ LEXICON PERMISSIVE
 
 LEXICON PRES-CONT 
 
-%<cond%>:%>yap PERS ;
+%<prog%>:%>yap PERS ;
 
 LEXICON AORIST
 
