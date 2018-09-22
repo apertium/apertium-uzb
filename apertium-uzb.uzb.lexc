@@ -63,25 +63,32 @@ Multichar_Symbols
 %<tv%>
 %<TD%>
 %<ger_past%>
-%<pcont%>
-%<pcond%>
+%<cond%>
+%<cond%>
 %<evid%>
 %<kan%>
 %<imp%>
 %<perm%>
-%<inf%>
+%<ger_inf%>
 %<gna1%>
-%<gna2%>
-%<gna3%>
-%<gna4%>
+%<gna_perf%>
+%<gpr_pres%>
+%<gna_until%>
 %<pass%>
+
+%<com%>                         !
+%<ger_abst%>                         !
+%<gpr_fut%>                         !
+%<mistake%>                         !
+%<part%>                         !
+%<title%>                         !
 
 !! Tense / finite forms
 %<pres%>      ! for "жатыр", "тұр", "отыр" and "жүр"
 %<aor%>       ! -{E}
 %<past%>      ! -{G}{A}н
 %<ifi%>       ! -{D}{I}
-%<ifi_evid%>  ! -{I}пт{I}
+%<evid%>      ! -{I}пт{I}
 %<fut%>       ! -{I}р
 %<fut_plan%>  ! -{M}{A}{K}
 %<pih%>       ! -{E}тін       ! ~past imperfect ~"used to"
@@ -208,6 +215,12 @@ Multichar_Symbols
 %{❗%}         ! Obstacles on the road!!!
 %{ъ%}         ! Force back harmony
 
+%{a%}                         !
+%{b%}                         !
+%{p%}                         !
+%{z%}                         !
+
+
 %{🂡%}         !
 
 
@@ -260,12 +273,12 @@ LEXICON PRON-DEM-BU
 %<prn%>%<dem%>%<acc%>:ni # ;
 %<prn%>%<dem%>%<abl%>:ndan # ;
 %<prn%>%<dem%>%<loc%>:nda # ;
-! %<prn%>%<dem%>%<px%>:nuki%{pN%} CASE ;
+! %<prn%>%<dem%>%<px%>:nuki%{n%} CASE ;
 %<prn%>%<dem%>%<loc%>%<attr%>:ndagi CASE ;
 !%<prn%>%<dem%>%<com%>:nunla # ;
-!%<prn%>%<dem%>%<px3sp%>:nu%{pN%} CASE ;
+!%<prn%>%<dem%>%<px3sp%>:nu%{n%} CASE ;
 %<prn%>%<dem%>%<pl%>:nlar CASE-ETC ;
-! %<prn%>%<dem%>%<pl%>%<px3sp%>:nları%{pN%} CASE ;
+! %<prn%>%<dem%>%<pl%>%<px3sp%>:nları%{n%} CASE ;
 
 
 
@@ -379,36 +392,32 @@ LEXICON KAN
 %<kan%>:%>kan # ;
 %<kan%>%<neg%>:%>kansiz # ;
 
-
-
-
-
 LEXICON NON-FINITE
 
+%<ger_inf%>:%>moq SUBST ;
+%<ger_abst%>:%>ish SUBST ;
 
+%<gna_perf%>:%>ib # ;
+%<gna_until%>:%>gach # ;
 
+%<gpr_pres%>:%>ayotgan # ;
 
-%<inf%>:%>moq CASE ;
-%<gna2%>:%>ib # ;
-%<part%>:%>ing SUBST ; 
-%<gna3%>:%>gach # ;
-%<gna1%>:%>ish # ;
-%<gna4%>:%>ayotgan SUBST;
+%<gpr_fut%>:%>ar # ; 
+%<neg%>%<gpr_fut%>:%>mas # ; 
 
-
-
-
-
+!%<part%>:%>ing SUBST ; 
 
 LEXICON PRES-COND 
 
-%<pcond%>:%>sa PERS2 ;
+%<cond%>:%>sa PERS2 ;
 
 
 LEXICON GERUND 
 
-%<ger_past%>:%>gan SUBST ;    
-%<ger_past%>:%>ish SUBST ;    
+%<ger%>:%>uv SUBST ; 
+%<ger_past%>:%>%{G%}an SUBST ;    
+
+!%<ger_past%>:%>ish SUBST ;    
 
 
 LEXICON IMPERATIVE
@@ -422,7 +431,7 @@ LEXICON INDEF-PAST
 
 LEXICON PAST
 
-%<past%>:%>%di PERS2 ;
+%<ifi%>:%>%di PERS2 ;
 
 LEXICON EVIDENTIAL-PAST
 
@@ -432,10 +441,9 @@ LEXICON PERMISSIVE
 
 %<perm%>:%>sin # ; 
 
-
 LEXICON PRES-CONT 
 
-%<pcont%>:%>yap PERS ;
+%<cond%>:%>yap PERS ;
 
 LEXICON AORIST
 
@@ -895,7 +903,7 @@ LEXICON CASE-NONOM
 
 LEXICON GENPOSS-ETC 
 
-! %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
+! %<px%>:%>%{n%}%{I%}ki%{n%} CASE ;
 %<loc%>%<attr%>:%>dagi # ;
 
 LEXICON SUB-COP
