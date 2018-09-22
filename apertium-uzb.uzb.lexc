@@ -398,7 +398,7 @@ LEXICON NON-FINITE
 %<ger_abst%>:%>ish SUBST ;
 
 %<gna_perf%>:%>ib # ;
-%<gna_until%>:%>gach # ;
+%<gna_after%>:%>gach # ;
 
 %<gpr_pres%>:%>ayotgan # ;
 
