@@ -26,7 +26,7 @@ TARGETS_COMMON = $(LANG1).automorf.hfst $(LANG1).autogen.hfst \
 ####
 
 .deps/$(LANG1).guesser.hfst: $(BASENAME).$(LANG1).guesser .deps/.d
-	hfst-xfst -e "source $<" -e "save stack $@" -e "quit"
+	hfst-xfst -p  -e "source $<" -e "save stack $@" -E "hyvästi" 
 
 .deps/$(LANG1)_guesser.lexc.hfst: .deps/$(LANG1).LR.lexc.hfst .deps/$(LANG1).guesser.hfst .deps/.d 
 	hfst-substitute -i .deps/$(LANG1).LR.lexc.hfst -o $@ -f '{🂡}:{🂡}' -T .deps/$(LANG1).guesser.hfst
