@@ -1,0 +1,668 @@
+"<Gʻarb>"
+	"gʻarb" n nom
+
+"<falsafasi>"
+	"falsafa" n px3sp nom
+"<koʻpincha>"
+	"koʻpincha" adv
+
+"<uch>"
+	"uch" num
+
+"<davrga>"
+	"davr" n dat
+"<boʻlib>"
+	"boʻl" v iv gna_perf
+
+"<,>"
+	"," cm
+"<oʻrganiladi>"
+	"oʻrgan" v tv pass aor p3 sg
+"<:>"
+	":" sent
+"<Qadimgi>"
+	"qadimgi" adj
+
+"<falsafa>"
+	"falsafa" n nom
+
+"<,>"
+	"," cm
+"<Oʻrta>"
+	"oʻrta" n nom
+
+"<Asrlar>"
+	"asr" n pl nom
+"<falsafasi>"
+	"falsafa" n px3sp nom
+"<va>"
+	"va" cnjcoo
+"<Zamonaviy>"
+	"zamonaviy" adj
+
+"<falsafa>"
+	"falsafa" n nom
+
+"<.>"
+	"." sent
+ 
+
+
+"<Afgʻoniston>"
+	"Afgʻoniston" np top nom
+"<hududining>"
+	"hudud" n px3sp gen
+"<4>"
+	"4" num
+	
+"</>"
+	"/" sent
+"<5>"
+	"5" num
+	
+"<qismini>"
+	"qism" n px3sp acc
+"<togʻlar>"
+	"togʻ" n pl nom
+
+"<va>"
+	"va" cnjcoo
+"<yassitogʻliklar>"
+	"yassitogʻlik" n pl nom
+"<egallagan>"
+	"egalla" v tv past p3 sg SELECT:203
+
+"<.>"
+	"." sent
+
+
+
+"<Etika>"
+	"etika" n nom
+
+"<,>"
+	"," cm
+"<yoxud>"
+	"yoxud" adv
+	
+"<">"
+	""" sent
+"<axloq>"
+	"axloq" n attr
+
+"<falsafasi>"
+	"falsafa" n px3sp nom
+"<">"
+	""" sent
+"<,>"
+	"," cm
+"<agentlar>"
+	"agent" n pl nom
+"<qanday>"
+	"qanday" adv itg
+	
+"<amallar>"
+	"amal" n pl nom
+"<qilishi>"
+	"qil" v tv ger_abst px3sp nom
+"<shartliki>"
+	"shartlik" n px3sp nom
+"<muammosi>"
+	"muammo" n px3sp nom
+"<bilan>"
+
+	"bilan" post
+"<mashgʻul>"
+	"mashgʻul" adj advl SELECT:178
+
+"<boʻladi>"
+	"boʻl" v iv aor p3 sg
+
+"<.>"
+	"." sent
+
+
+
+"<Navroʻz>"
+	"navroʻz" n nom
+  
+"<—>"
+	"—" guio
+"<bahor>"
+	"bahor" n nom
+
+"<bayrami>"
+	"bayram" n px3sp nom
+"<,>"
+	"," cm
+"<hamda>"
+	"hamda" cnjcoo
+"<fors>"
+	"fors" n nom
+
+"<va>"
+	"va" cnjcoo
+"<turkiy>"
+	"turkiy" adj
+
+"<xalqlarida>"
+	"xalq" n px3pl loc
+
+"<yangi>"
+	"yangi" adj
+	
+"<yilning>"
+	"yil" n gen
+"<birinchi>"
+	"bir" num ord
+"<kuni>"
+	"kun" n px3sp nom
+"<.>"
+	"." sent
+
+
+
+"<Boshqa>"
+	"boshqa" adj
+	
+"<afsonalarga>"
+	"afsona" n pl dat
+"<qaraganda>"
+	"qaraganda" post SELECT:170
+
+"<,>"
+	"," cm
+"<Odam>"
+	"Odam" np ant m nom
+		"e" cop aor p3 sg
+"<Ato>"
+	"ato" n nom
+
+"<Momo>"
+	"momo" n nom
+
+"<Havo>"
+	"Havo" np ant f nom
+		"e" cop aor p3 sg
+"<bilan>"
+	"bilan" post
+"<uchrashgan>"
+	"uchrash" v iv ger_past nom
+
+"<kun>"
+	"kun" n nom
+
+"<Navroʻz>"
+	"navroʻz" n nom
+
+"<deb>"
+	"deb" cnjsub
+"<tan>"
+	"tan" n attr
+
+"<olingan>"
+	"ol" v tv ref ger_past nom
+
+"<emish>"
+	"e" cop evid p3 sg
+"<.>"
+	"." sent
+ 
+
+
+"<Oʻzbekistonda>"
+	"Oʻzbekiston" np top loc
+"<navroʻz>"
+	"navroʻz" n nom
+"<21>"
+	"21" num
+"<->"
+	"-" guio
+"<mart>"
+	"mart" n nom
+"<kuni>"
+	"kun" n px3sp nom
+"<nishonlanadi>"
+	"nishonlan" v iv aor p3 sg
+"<va>"
+	"va" cnjcoo
+"<dam>"
+	"dam" n nom
+"<olish>"
+	"ol" v tv ger_abst nom
+"<kuni>"
+	"kun" n px3sp nom
+"<hisoblanadi>"
+	"hisoblan" v tv aor p3 sg
+"<.>"
+	"." sent
+ 
+
+
+"<Oʻzbekiston>"
+	"Oʻzbekiston" np top nom
+"<qirgʻoqga>"
+	"qirgʻoq" n dat
+"<ega>"
+	"ega" n attr
+;	"ega" n nom REMOVE:113
+"<boʻlmagan>"
+	"boʻl" neg ger_past nom
+"<besh>"
+	"besh" num
+"<mamlakat>"
+	"mamlakat" n nom
+"<bilan>"
+	"bilan" post
+"<,>"
+	"," cm
+"<yaʻni>"
+	"yaʻni" cnjadv
+"<:>"
+	":" sent
+"<shimoldan>"
+	"shimol" n abl
+"<Qozogʻiston>"
+	"Qozogʻiston" np top nom
+"<;>"
+	";" sent
+  
+"<shimoli>"
+	"shimol" n px3sp nom
+"<->"
+	"-" guio
+"<sharqdan>"
+	"sharq" n abl
+"<Qirgʻiziston>"
+	"Qirgʻziston" np top nom
+"<;>"
+	";" sent
+"<janubi>"
+	"janubi" adj
+"<->"
+	"-" guio
+"<sharqdan>"
+	"sharq" n abl
+"<Tojikiston>"
+	"Tojikiston" np top nom
+"<;>"
+	";" sent
+"<janubdan>"
+	"janub" n abl
+"<Afgʻoniston>"
+	"Afgʻoniston" np top nom
+"<;>"
+	";" sent
+"<va>"
+	"va" cnjcoo
+"<janubi>"
+	"janubi" adj
+"<->"
+	"-" guio
+"<gʻarbiy>"
+	"gʻarbiy" adj
+"<qismida>"
+	"qism" n px3sp loc
+"<Turkmaniston>"
+	"Turkmaniston" np top nom
+"<bilan>"
+	"bilan" post
+"<chegaradosh>"
+	"chegaradosh" n nom
+"<.>"
+	"." sent
+ 
+
+
+"<Oʻzbekiston>"
+	"Oʻzbekiston" np top nom
+"<koʻp>"
+	"koʻp" adv
+
+"<millatli>"
+	"millatli" adj
+"<respublika>"
+	"respublika" n nom
+"<boʻlib>"
+	"boʻl" v iv gna_perf
+"<,>"
+	"," cm
+"<yuzga>"
+	"yuz" num subst dat
+"<yaqin>"
+	"yaqin" adj
+"<millat>"
+	"millat" n nom
+"<va>"
+	"va" cnjcoo
+"<elatlarning>"
+	"elat" n pl gen
+"<vakillari>"
+	"vakil" n px3pl nom
+"<istiqomat>"
+	"istiqomat" n nom
+"<qildi>"
+	"qil" v tv ifi p3 sg
+"<.>"
+	"." sent
+ 
+
+
+"<Lekin>"
+	"lekin" cnjcoo
+"<,>"
+	"," cm
+"<hozirgacha>"
+	"hozirgacha" adv
+"<bunday>"
+	"bunday" adv
+"<harakatlarda>"
+	"harakat" n pl loc
+"<maʼlum>"
+	"maʻlum" adj
+"<bir>"
+	"bir" det ind
+"<tartiblilik>"
+	"tartiblilik" n nom
+"<va>"
+	"va" cnjcoo
+"<davomiylik>"
+	"davomiylik" n nom
+"<bo‘lmadi>"
+
+	"boʻl" v iv neg ifi p3 sg
+"<.>"
+	"." sent
+
+
+
+"<Lekin>"
+	"lekin" cnjcoo
+
+"<,>"
+	"," cm
+"<1991>"
+	"1991" num
+"<yilda>"
+	"yil" n loc
+"<mustaqillikga>"
+	"mustaqillik" n dat
+"<erishilgandan>"
+	"erish" v iv pass ger_past abl
+"<keyin>"
+	"keyin" post
+"<,>"
+	"," cm
+"<ham>"
+	"ham" cnjcoo
+"<ushbu>"
+	"ushbu" prn dem nom
+"<davlatlar>"
+	"davlat" n pl nom
+"<,>"
+	"," cm
+"<ham>"
+	"ham" cnjcoo
+"<horijiy>"
+	"horijiy" adj
+"<davlatlar>"
+	"davlat" n pl nom
+"<Markaziy>"
+	"Markaziy" np top nom SELECT:101
+"<Osiyo>"
+	"Osiyo" np top nom
+"<atamasiga>"
+	"atama" n px3sp dat
+"<boshlashdi>"
+	"boshlash" v tv ifi p3 sg
+"<.>"
+	"." sent
+
+
+
+"<Tinch>"
+
+;	"Tinch" np top nom SELECT:77
+"<okeani>"
+	"okean" n px3sp nom
+"<Amerika>"
+	"Amerika" np top nom
+"<va>"
+	"va" cnjcoo
+"<Osiyo>"
+	"Osiyo" np top nom
+"<qitʼalari>"
+	"qitʼa" n px3pl nom
+"<orasida>"
+	"ora" n px3sp loc
+"<joylashgan>"
+	"joylash" v iv ger_past nom
+"<dunyoning>"
+	"dunyo" n gen
+"<eng>"
+	"eng" adv
+"<katta>"
+	"katta" adj
+"<okeanidir>"
+	"okean" n px3sp nom
+		"e" cop
+"<.>"
+	"." sent
+
+
+
+"<1945>"
+	"1945" num
+"<yil>"
+	"yil" n attr
+"<Italiya>"
+	"Italiya" np top nom
+"<partizanlari>"
+	"partizan" n pl px3sp nom
+"<tomonidan>"
+	"tomon" n px3sp abl
+"<qoʻlga>"
+	"qoʻl" n dat
+"<olindi>"
+	"olin" v iv ifi p3 sg
+"<va>"
+	"va" cnjcoo
+"<qatl>"
+	"qatl" n nom
+"<etildi>"
+	"et" v tv pass ifi p3 sg
+"<.>"
+	"." sent
+
+
+
+"<Amerika>"
+	"Amerika" np top nom
+"<va>"
+	"va" cnjcoo
+"<Avstraliya>"
+	"Avstraliya" np top nom
+"<qitʼalarida>"
+	"qitʼa" n px3pl loc
+"<ham>"
+	"ham" cnjcoo
+"<baʼzi>"
+	"baʼzi" adj
+
+"<immigrantlar>"
+	"immigrant" n pl nom
+"<italyan>"
+	"italyan" n nom
+"<tilini>"
+	"til" n px3sp acc
+"<ona>"
+	"ona" n nom
+"<tili>"
+	"til" n px3sp nom
+"<deb>"
+	"deb" cnjsub
+"<hisoblaydi>"
+	"hisobla" v tv aor p3 sg
+"<.>"
+	"." sent
+
+
+
+"<Dunyoda>"
+	"dunyo" n loc
+"<aholisi>"
+	"aholi" n px3sp nom
+"<eng>"
+	"eng" adv
+"<koʻp>"
+	"koʻp" adv
+"<va>"
+	"va" cnjcoo
+"<maydoni>"
+	"maydon" n px3sp nom
+"<jihatidan>"
+	"jihat" n px3sp abl
+"<eng>"
+	"eng" adv
+"<yirik>"
+	"yirik" adj
+"<davlatlardan>"
+	"davlat" n pl abl
+"<biri>"
+	"bir" num subst px3sp nom
+"<.>"
+	"." sent
+
+
+
+"<Quyosh>"
+	"quyosh" n nom
+"<Yerga>"
+	"yer" n dat
+"<eng>"
+	"eng" adv
+"<yaqin>"
+	"yaqin" adj
+
+"<yulduz>"
+	"yulduz" n nom
+"<.>"
+	"." sent
+
+
+
+"<Quyosh>"
+	"quyosh" n nom
+"<tizimi>"
+	"tizim" n px3sp nom
+"<jismlarining>"
+	"jism" n pl px3sp gen
+"<harakatlarini>"
+	"harakat" n pl px3sp acc
+"<boshqaruvchi>"
+	"boshqaruvchi" n nom
+"<asosiy>"
+	"asosiy" adj
+"<jism>"
+	"jism" n nom
+"<Quyoshdir>"
+	"quyosh" n nom
+		"e" cop
+"<.>"
+	"." sent
+
+
+
+"<Turkiya>"
+	"Turkiya" np top nom
+"<Respublikasi>"
+	"respublika" n px3sp nom
+"<81>"
+	"81" num
+"<ta>"
+	"ta" adj
+"<viloyatlardan>"
+	"viloyat" n pl abl
+"<iborat>"
+	"iborat" post
+"<.>"
+	"." sent
+
+
+
+"<Turkiya>"
+	"Turkiya" np top nom
+"<tabiati>"
+	"tabiat" n px3sp nom
+"<nihoyatda>"
+	"nihoyat" n loc
+"<rangbarang>"
+	"rangbarang" adj
+"<va>"
+	"va" cnjcoo
+"<jozibadir>"
+	"joziba" n nom
+		"e" cop
+"<.>"
+	"." sent
+ 
+
+
+"<Arastu>"
+	"Arastu" np ant m nom
+		"e" cop aor p3 sg
+"<qadimgi>"
+	"qadimgi" adj
+"<yunon>"
+	"yunon" n nom
+"<faylasufi>"
+	"faylasuf" n px3sp nom
+"<,>"
+	"," cm
+"<Aflotun>"
+	"Aflotun" np ant m nom
+		"e" cop aor p3 sg
+"<shogirdi>"
+	"shogird" n px3sp nom
+"<va>"
+	"va" cnjcoo
+"<Iskandar>"
+	"Iskandar" np ant m nom
+		"e" cop aor p3 sg
+"<Zulqarnayn>"
+
+	"Zulqarnayn" np ant m nom
+		"e" cop aor p3 sg
+"<ustozi>"
+	"ustoz" n px3sp nom
+"<boʻlgan>"
+	"boʻl" v iv past p3 sg SELECT:203
+
+"<.>"
+	"." sent
+
+
+
+"<Bu>"
+	"bu" prn dem nom
+"<lahja>"
+	"lahja" n nom
+"<hozirgi>"
+	"hozirgi" adj
+"<adabiy>"
+	"adabiy" adj
+"<Fors>"
+	"fors" n nom
+"<tiliga>"
+	"til" n px3sp dat
+"<asos>"
+	"asos" n nom
+
+"<boʻlgan>"
+	"boʻl" v iv past p3 sg SELECT:203
+
+"<..>"
+	".." sent
+ 
+
+
