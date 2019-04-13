@@ -1986,6 +1986,7 @@ joy:joy N1 ; ! "place"
 Hindiston:Hindiston NP-TOP ; ! "India"
 Shom:Shom NP-TOP ; ! "damascus"
 Saloniki:Saloniki NP-TOP ; ! "Selanik"
+Tinch:Tinch NP-TOP ; ! "pasifik"
 vrach:vrach N1 ; ! "doctor"
 tasarruf:tasarruf N1 ; ! "possession"
 inqiroz:inqiroz N1 ; ! "regression"
@@ -2652,10 +2653,12 @@ programma:programma N1 ; ! "program"
 ob%-havo:ob%-havo N1 ; ! "weather also havo or hava"
 singlim:singlim N1 ; ! "younger sister"
 kuchuk:kuchuk N1 ; ! "small dog / puppy"
+ato:ato N1 ; !
+momo:momo N1 ; !
 
 
 
-
+yunon:yunon N1 ; ! "greek"
 Yunon:Yunon N1 ; ! "greek"
 opera:opera N1 ; ! "opera"
 foydali:foydali A1 ; ! "beneficial"
@@ -3495,7 +3498,8 @@ Zarafshon:Zarafshon NP-TOP ; ! "Zarafshan"
 Shtiriya:Shtiriya NP-TOP ; ! "Shtiriya"
 Sirdaryo:Sirdaryo NP-TOP ; ! "Sirdaryo"
 Meuse:Meuse NP-TOP ; ! "Meuse"
-
+Qozogʻiston:Qozogʻiston NP-TOP ; !
+Afgʻoniston:Afgʻoniston NP-TOP ; !
 Cuneo:Cuneo NP-TOP ; ! ""
 Brandenburg:Brandenburg NP-TOP ; ! ""
 Alaska:Alaska NP-TOP ; ! ""
@@ -3841,7 +3845,11 @@ Sivas:Sivas NP-TOP ; ! ""
 
 Marina:Marina NP1-ANT-F ; ! ""
 Maryam:Maryam NP1-ANT-F ; ! ""
-
+Diogen:Diogen NP1-ANT-M ; !
+Arastu:Arastu NP1-ANT-M ; ! "aristoteles"
+Aflotun:Aflotun NP1-ANT-M ; ! "platon"
+Pifagor:Pifagor NP1-ANT-M ; ! 
+Zulqarnayn:Zulqarnayn NP1-ANT-M ; ! "dhulkarneyn"
 Taqdr:Taqdr NP1-ANT-M ; ! ""
 Kurbankuli:Kurbankuli NP1-ANT-M ; ! ""
 Esad:Esad NP1-ANT-M ; ! ""
@@ -4758,7 +4766,35 @@ taʻsir:taʻsir N1 ; ! "influence"
 sogʻliq:sogʻliq N1 ; ! ! "health"
 xarakat:xarakat N1 ; ! "movement"
 kamolchilik:kamolchilik N1 ; ! "kemalism"
-davr:davr N1 ; ! "period"
+devr:devr N1 ; ! "period"
+ustoz:ustoz N1 ; ! 
+lahja:lahja N1 ; ! 
+immigrant:immigrant N1 ; ! 
+qitʼa:qitʼa N1 ; ! 
+partizan:partizan N1 ; ! 
+mutafakkir:mutafakkir N1 ; ! 
+afsona:afsona N1 ; ! 
+agent:agent N1 ; ! 
+etika:etika N1 ; ! 
+filosof:filosof N1 ;
+shartlik:shartlik N1 ;
+qirgʻoq:qirgʻoq N1 ;
+tartiblilik:tartiblilik N1 ; !
+davomiylik:davomiylik N1 ;
+atama:atama N1 ; !
+boshlash:boshlash N1 ; !
+shohidlik:shohidlik N1 ; !
+nihoyat:nihoyat N1 ; !
+joziba:joziba N1 ; !
+elat:elat N1 ; !
+chegaradosh:chegaradosh N1 ; !
+
+rangbarang:rangbarang A1 ; !
+milodiy:milodiy A1 ;
+horijiy:horijiy A1 ; 
+baʼzi:baʼzi A1 ; !
+millatli:millatli A1 ; ! 
+mashgʻul:mashgʻul A1 ; ! "busy"
 usmoniy:usmoniy A1 ; ! "Ottoman"
 ixcham:ixcham A1 ; ! "neat"
 oddiy:oddiy A1 ; ! "normal, usual"
@@ -5424,7 +5460,10 @@ buyur:buyur VERB-TV ; ! " to order"
 koʻrsat:koʻrsat VERB-TV ; ! "to show"
 deyish:deyish VERB-TV ; ! "to change"
 kir:kir VERB-IV ; ! "enter"
+nishonlan:nishonlan VERB-IV ; ! "be celebrated"
+uchrash:uchrash VERB-IV ; !
 boshla:boshla VERB-TV ; ! "start"
+boshlash:boshlash VERB-TV ; ! "start"
 ishlab% chiq:ishlab% chiq VERB-TV ; ! "start"
 oʻra:oʻra VERB-TV ; ! "wind, pack up, surround"
 oʻral:oʻral VERB-TV ; ! "sorround with"
@@ -5534,6 +5573,7 @@ qaytadan:qaytadan ADV1 ; ! "once more"
 chogʻi:chogʻi ADV1 ; ! "apparently"
 oʻtgach:oʻtgach ADV1 ; ! "later"
 avvalo:avvalo ADV1 ; ! "at first"
+hozirgacha:hozirgacha ADV1 ; !
 quyidagicha:quyidagicha ADV1 ; ! "as stated below"
 zab:zab ADV1 ; ! "very"
 albatta:albatta ADV1 ; ! "certainly"
