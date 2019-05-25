@@ -1,0 +1,194 @@
+"<a>"
+	"a" ltr
+        "a" cnjcoo
+        "a" ij
+
+"<abad>"
+	"abad" n nom
+        "abad" n attr
+        "abad" adv
+
+"<abadiy>"
+	"abadiy" adj
+	"abadiy" adj advl
+	"abadiy" adj subst nom
+
+"<abadiylash>"
+	"abadiylash" n nom
+	"abadiylash" n attr
+        
+"<abadiylashtirmoq>"
+	"abadiylashtir" v tv inf
+
+"<abadiylik>"
+	"abadiylik" n nom
+        "abadiylik" n attr
+
+"<abadiya>"
+	"abadiya" adj inc
+
+"<abadiyan>"
+	"abadiyan" adv
+
+"<abadiyat>"
+	"abadiyat" n nom
+	"abadiyat" n attr
+        
+"<abajur>"
+	"abajur" n nom
+	"abajur" n attr
+
+"<abas>"
+	"abas" adj
+	"abas" adj advl
+	"abas" adj subst nom
+
+"<abgor>"
+	"abgor" adj
+	"abgor" adj subst nom        
+
+"<abgorlik>"
+	"abgorlik" n nom
+	"abgorlik" n attr        
+
+"<abdol>"
+	"abdol" adj
+	"abdol" adj subst nom
+        
+"<aberratsion>"
+	"aberratsion" adj
+	"aberratsion" adj subst nom
+        
+"<aberratsiya>"
+	"aberratsiya" n nom
+	"aberratsiya" n attr
+
+"<abjad>"
+	"abjad" n nom
+	"abjad" n attr
+        
+"<abjir>"
+	"abjir" adj
+	"abjir" adj subst        
+
+"<abjirlik>"
+	"abjirlik" n nom
+	"abjirlik" n attr
+
+"<abzal>"
+	"abzal" n nom
+	"abzal" n attr        
+
+"<abzallamoq>"
+	"abzalla" v tv inf
+
+"<abzats>"
+	"abzats" n nom
+	"abzats" n attr
+
+"<abira>"
+	"abira" n nom
+	"abira" n attr
+
+"<ablaq>"
+	"ablaq" adj
+	"ablaq" adj subst nom
+        
+"<ablax>"
+	"ablax" n nom
+	"ablax" n attr
+	"ablax" adj
+	"ablax" adj subst nom
+
+"<ablaxlarcha>"
+	"ablax" n pl equ
+
+"<ablaxlik>"
+	"ablaxlik" n nom
+	"ablax" n attr
+
+"<ablaxona>"
+	"ablaxona" adj
+	"ablaxona" adj advl
+	"ablaxona" adj subst nom
+        
+"<abonement>"
+	"abonement" n nom
+	"abonement" n attr        
+
+"<abort>"
+	"abort" n nom
+	"abort" n attr
+
+"<abortiv>"
+	"abortiv" adj
+	"abortiv" adj subst nom
+        
+"<abr>"
+	"abr" n nom
+	"abr" n attr
+
+"<abraziv>"
+	"abraziv" adj
+	"abraziv" adj subst nom        
+
+"<abrishim>"
+	"abrishim" n nom
+	"abrishim" n attr
+        
+"<abru>"
+	"abru" n nom
+	"abru" n attr
+
+"<abruqamon>"
+	"abruamon" n nom
+	"abruqamon" n attr
+
+"<absolut>"
+	"absolut" n nom
+	"absolut" n attr
+	"absolut" adj
+	"absolut" adj subst nom
+        
+"<absolutizm>"
+	"absolutizm" n nom
+	"absolutizm" n attr
+
+"<abstrakt>"
+	"abstrakt" adj
+	"abstrakt" adj subst nom
+
+"<abstraktlamoq>"
+	"abstraktla" v tv inf
+
+"<abstraktlashtirilmoq>"
+	"abstraktlashtir" v tv pass inf
+
+"<abstraktlashtirmoq>"
+	"abstraktlashtir" v tv inf
+
+"<abstraktlik>"
+	"abstraktlik" n nom
+	"abstraktlik" n attr
+
+"<abstraktsiya>"
+	"abstraktsiya" n nom
+	"abstraktsiya" n attr
+
+"<abstsess>"
+	"abstsess" n nom
+	"abstsess" n attr
+
+"<abstsissa>"
+	"abstsissa" n nom
+	"abstsissa" n attr
+
+"<abxaz>"
+	"abxaz" n nom
+	"abxaz" n attr
+
+"<avaylab>"
+	"avayla" v tv gna_perf
+        
+"<avaylamoq>"
+	"avayla" v tv inf
