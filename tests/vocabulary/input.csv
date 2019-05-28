@@ -2,22 +2,22 @@ Entry word	Category	Lexc LHS	Lexc RHS	kaa	tat
 a	CC	a			ә
 a	IJ	a			ә
 -a	QST	-a			ә
-abad	N1	abad			máńgilik	мәңгелек
-abad	ADV	abad			máńgi;máńgige	мәңге;мәңгегә
-abadiy	A2	abadiy			mańgilik	мәңге;мәңгелек
-abadiylash	N1	abadiylash 	máńgilew			
-abadiylashtirmoq	V-TV-CAUS	abadiylashtir 	máńgilestir			
+abad	N1	abad		máńgilik	мәңгелек
+abad	ADV	abad		máńgi;máńgige	мәңге;мәңгегә
+abadiy	A2	abadiy		mańgilik	мәңге;мәңгелек
+abadiylash	N1	abadiylash 		máńgilew	
+abadiylashtirmoq	V-TV-CAUS	abadiylashtir 		máńgilestir	
 abadiylik	N1	abadiylik		máńgilik	
 abadiya	A2	abadiya			
 abadiyan	ADV	abadiyan			
-abadiyat	N1	abadiyat 				
-abajur	N1	abajur			abajur
-abas	A1	abas			paydasız;biypayda
-abgor	A1	abgor			gedey;xaldan tayǵan
-abgorlik	N1	abgorlik 	gedeylik			
-abdol	A1	abdol			dinshil
-aberratsion	A2	aberratsion			aberracion
-aberratsiya	N1	aberratsiya			aberraciya
+abadiyat	N1	abadiyat 			
+abajur	N1	abajur		abajur	
+abas	A1	abas		paydasız;biypayda	
+abgor	A1	abgor		gedey;xaldan tayǵan	
+abgorlik	N1	abgorlik 		gedeylik	
+abdol	A1	abdol		dinshil	
+aberratsion	A2	aberratsion		aberracion	
+aberratsiya	N1	aberratsiya		aberraciya	
 abjad	N1	abjad			
 abjaq	A2	abjaq			
 abjir	A2	abjir			
@@ -469,8 +469,8 @@ ayyuxannos		ayyuxannos
 ayqashmoq		ayqashmoq			
 ayqash uyqash		ayqash uyqash			
 ayqirmoq		ayqirmoq			
-ayqish-tuyqish		ayqish-tuyqish
-ayqash-uyqash 			
+ayqish-tuyqish		ayqish-tuyqish			
+ayqash-uyqash 					
 ayg‘iz		ayg‘iz			
 ayg‘ir		ayg‘ir			
 ayg‘irkiyek		ayg‘irkiyek			
@@ -912,7 +912,7 @@ ancha		ancha
 anchayin		anchayin			
 ancha-muncha		ancha-muncha			
 anchiki		anchiki			
-anʼana		anʼanav
+anʼana		anʼanav			
 anʼanaviy		anʼanaviy			
 anqaymoq		anqaymoq			
 anqaytirmoq		anqaytirmoq			
