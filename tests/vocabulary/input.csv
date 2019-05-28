@@ -1,12 +1,12 @@
-Entry word	Category	Lexc LHS	Lexc RHS	kaa	tat	
-a	CC	a			ә	
+Entry word	chategory	Lexch LHS	Lexch RHS	kaa	tat	
+a	chch	a			ә	
 a	IJ	a			ә	
 -a	QST	-a			ә	
 abad	N1	abad			máńgilik	мәңгелек
 abad	ADV	abad			máńgi;máńgige	мәңге;мәңгегә
 abadiy	A2	abadiy			mańgilik	мәңге;мәңгелек
 abadiylash	N1	abadiylash 	máńgilew			
-abadiylashtirmoq	V-TV-CAUS	abadiylashtir 	máńgilestir			
+abadiylashtirmoq	V-TV-chAUS	abadiylashtir 	máńgilestir			
 abadiylik	N1	abadiylik		máńgilik		
 abadiya	A2	abadiya				
 abadiyan	ADV	abadiyan				
@@ -16,8 +16,8 @@ abas	A1	abas			paydasız;biypayda
 abgor	A1	abgor			gedey;xaldan tayǵan	
 abgorlik	N1	abgorlik 	gedeylik			
 abdol	A1	abdol			dinshil	
-aberratsion	A2	aberratsion			aberracion	
-aberratsiya	N1	aberratsiya			aberraciya	
+aberratsion	A2	aberratsion			aberrachion	
+aberratsiya	N1	aberratsiya			aberrachiya	
 abjad	N1	abjad				
 abjaq	A2	abjaq				
 abjir	A2	abjir				
@@ -27,7 +27,7 @@ abzats	N1	abzats
 abira	N1	abira				
 ablaq	A2	ablaq				
 ablax	N1	ablax				
-ablaxlarcha	N1	ablax				
+ablaxlarchha	N1	ablax				
 ablaxlik	N1	ablaxlik				
 ablaxona	A1	ablaxona				
 abonement	N1	abonement				
@@ -56,7 +56,7 @@ avangard	N1	avangard
 avangardlik	N1	avangardlik				
 avans	N1	avans				
 avantura	N1	avantura				
-avanturachi	N1	avanturachi				
+avanturachhi	N1	avanturachhi				
 avanturizm	N1	avanturizm				
 avanturist	N1	avanturist				
 avanturistik	A2	avanturistik				
@@ -73,13 +73,13 @@ avval	POST-ABL	avval
 avvalan	ADV	avvalan				
 avvalgi	ADV-ATTR	avval				
 avvalgidek	ADV	avvalgidek				
-avvalgicha	ADV	avvalgicha				
+avvalgichha	ADV	avvalgichha				
 avvaliga	N1	avval				
 avvallari	ADV	avvallari				
 avvalo	ADV	avvalo				
 avgust	N1	avgust				
 avj	N1	avj				
-avjlantirmok	V-TV-CAUS	avjlantir				
+avjlantirmok	V-TV-chAUS	avjlantir				
 avjli	A1	avjli				
 avjsiz	A1	avjsiz				
 avzo	N1	avzo				
@@ -87,19 +87,19 @@ avzoi	N1	avzoi
 aviabaza	N1	aviabaza				
 aviabomba	N1	aviabomba				
 aviadesant	N1	aviadesant				
-aviadesantchi	N1	aviadesantchi				
+aviadesantchhi	N1	aviadesantchhi				
 aviazavod	N1	aviazavod				
 aviakonstruktor	N1	aviakonstruktor				
 avialiniya	N1	avialiniya				
-aviamodelchi	N1	aviamodelchi				
-aviamodelchilik	N1	aviamodelchilik				
+aviamodelchhi	N1	aviamodelchhi				
+aviamodelchhilik	N1	aviamodelchhilik				
 aviamodel	N1	aviamodel				
-aviamodelchilik	N1	aviamodelchilik				
+aviamodelchhilik	N1	aviamodelchhilik				
 aviamodel	N1	aviamodel				
 aviamotor	N1	aviamotor				
 avianos	N1	avianos				
 avianosets	N1	avianosets				
-aviapochta	N1	aviapochta				
+aviapochhta	N1	aviapochhta				
 aviatsion	A2	aviatsion				
 aviatsiya	N1	aviatsiya				
 avliyo	N1	avliyo				
@@ -116,8 +116,8 @@ avrat	N1	avrat
 avratpush	N1	avratpush				
 avrash	V-TV	avra				
 avrash	N1	avrash				
-avroqchi	N1	avroqchi				
-avrog‘ich	N1	avrog‘ich				
+avroqchhi	N1	avroqchhi				
+avrog‘ichh	N1	avrog‘ichh				
 avsat	A1	avsat				
 avtobaza	N1	avtobaza				
 avtobiografik	A2	avtobiografik				
@@ -133,10 +133,10 @@ avtokolonna	N1	avtokolonna
 avtomat	N1	avtomat				
 avtomatik	A2	avtomatik				
 avtomatlashmoq	V-IV	avtomatlash				
-avtomatlashtirilmoq	V-TV-CAUS	avtomatlashtir				
-avtomatlashtirish	V-TV-CAUS	avtomatlashtir				
-avtomatlashtirmoq	V-TV-CAUS	avtomatlashtir				
-avtomatchi	N1	avtomatchi				
+avtomatlashtirilmoq	V-TV-chAUS	avtomatlashtir				
+avtomatlashtirish	V-TV-chAUS	avtomatlashtir				
+avtomatlashtirmoq	V-TV-chAUS	avtomatlashtir				
+avtomatchhi	N1	avtomatchhi				
 avtomashina	N1	avtomashina				
 avtomobilsozlik	N1	avtomobilsozlik				
 avtomobil	N1	avtomobil				
@@ -144,7 +144,7 @@ avtonom	A2	avtonom
 avtonomist	N1	avtonomist				
 avtonomiya	N1	avtonomiya				
 avtonomiyali	N1	avtonomiyali				
-avtonomiyachi	N1	avtonomiyachi				
+avtonomiyachhi	N1	avtonomiyachhi				
 avtonomlik	N1	avtonomlik				
 avtopark	N1	avtopark				
 avtopoyga	N1	avtopoyga				
@@ -152,14 +152,14 @@ avtor	N1	avtor
 avtoremont	N1	avtoremont				
 avtoreferat	N1	avtoreferat				
 avtorlik	N1	avtorlik				
-avtoruchka	N1	avtoruchka				
-avtosug‘org‘ich	N1	avtosug‘org‘ich				
+avtoruchhka	N1	avtoruchhka				
+avtosug‘org‘ichh	N1	avtosug‘org‘ichh				
 avtotransport	N1	avtotransport				
 avtoxo‘jalik	N1	avtoxo‘jalik				
-avtochana	N1	avtochana				
-agar	CS	agar				
-agarda	CS	agarda				
-agar magar	CS	agar magar				
+avtochhana	N1	avtochhana				
+agar	chS	agar				
+agarda	chS	agarda				
+agar magar	chS	agar magar				
 agglyutinativ	A2	agglyutinativ				
 agglyutinatsiya	N1	agglyutinatsiya				
 agent	N1	agent				
@@ -174,13 +174,13 @@ agnostik	N1	agnostik
 agnostik	A2	agnostik				
 agnostitsizm	N1	agnostitsizm				
 agrar	A2	agrar				
-agrarchi		agrarchi				
+agrarchhi		agrarchhi				
 agregat	N1	agregat				
 agressiv	A2	agressiv				
 agressivlik	N1	agressivlik				
 agressiya	N1	agressiya				
-agressiyachi	N1	agressiyachi				
-agressiyachilik	N1	agressiyachilik				
+agressiyachhi	N1	agressiyachhi				
+agressiyachhilik	N1	agressiyachhilik				
 agressor	N1	agressor				
 agressorlik	N1	agressorlik				
 agrikultura	N1	agrikultura				
@@ -196,12 +196,12 @@ agronomlik	N1	agronomlik
 agrosanoat	N1	agrosanoat				
 agrotexnik	N1	agrotexnik				
 agrotexnik	A2	agrotexnik				
-agrouchastka	N1	agrouchastka				
+agrouchhastka	N1	agrouchhastka				
 ada	N1	ada				
 adab	N1	adab				
 adabiyot	N1	adabiyot				
-adabiyotchi	N1	adabiyotchi				
-adabiyotchilik	N1	adabiyotchilik				
+adabiyotchhi	N1	adabiyotchhi				
+adabiyotchhilik	N1	adabiyotchhilik				
 adabiyotshunos	N1	adabiyotshunos				
 adabiyotshunoslik	N1	adabiyotshunoslik				
 adabiy	A2	adabiy				
@@ -215,8 +215,8 @@ adaptatsiya	N1	adaptatsiya
 adash	N1	adash				
 adash	A2	adash				
 adashmoq	V-IV	adash				
-adashtirilmoq	V-TV-CAUS	adashtir				
-adashtirmoq	V-TV-CAUS	adashtirmoq				
+adashtirilmoq	V-TV-chAUS	adashtir				
+adashtirmoq	V-TV-chAUS	adashtirmoq				
 advokat	N1	advokat				
 advokatlik	N1	advokatlik				
 advokatura	N1	advokatura				
@@ -254,7 +254,7 @@ adovat	N1	adovat
 adovatli	A1	adovatli				
 adovatsiz	A1	adovatsiz				
 adovatsizlik	N1	adovatsizlik				
-adovatchilik	N1	adovatchilik				
+adovatchhilik	N1	adovatchhilik				
 adoyi	N1	adoyi				
 adolat	N1	adolat				
 adolatli	A1	adolatli				
@@ -277,7 +277,7 @@ ayon	A1	ayon
 ajab	A1	ajab				
 ajablanarli	V-IV	ajablan				
 ajablanmoq	V-IV	ajablan				
-ajablantirmoq	V-IV-CAUS	ajablantir				
+ajablantirmoq	V-IV-chAUS	ajablantir				
 ajabo	ADV	ajabo				
 ajabsinmoq	V-IV	ajabsin				
 ajabtovur	A1	ajabtovur				
@@ -316,7 +316,7 @@ ajratilmoq		ajratilmoq
 ajratish		ajratish				
 ajratma		ajratma				
 ajratmoq		ajratmoq				
-ajratkich		ajratkich				
+ajratkichh		ajratkichh				
 ajrashmoq		ajrashmoq				
 ajrim		ajrim				
 ajrimlik		ajrimlik				
@@ -351,7 +351,7 @@ azoblanmoq		azoblanmoq
 azozil		azozil				
 azon		azon				
 azonlab		azonlab				
-azonchi		azonchi				
+azonchhi		azonchhi				
 azot		azot				
 azot		azot				
 azotlamoq		azotlamoq				
@@ -365,12 +365,12 @@ aybdor		aybdor
 aybdorlik		aybdorlik				
 ayblamoq		ayblamoq				
 ayblanmoq		ayblanmoq				
-ayblanuvchi		ayblanuvchi				
+ayblanuvchhi		ayblanuvchhi				
 ayblash		ayblash				
 ayblashmoq		ayblashmoq				
 aybli		aybli				
 ayblov		ayblov				
-ayblovchi		ayblovchi				
+ayblovchhi		ayblovchhi				
 aybnoma		aybnoma				
 aybona		aybona				
 aybsiz		aybsiz				
@@ -380,24 +380,24 @@ ayvon		ayvon
 ayyom		ayyom				
 ayyor		ayyor				
 ayyorgarlik		ayyorgarlik				
-ayyorgarchilik		ayyorgarchilik				
-ayyorlarcha		ayyorlarcha				
+ayyorgarchhilik		ayyorgarchhilik				
+ayyorlarchha		ayyorlarchha				
 ayyorlik		ayyorlik				
 ayyorona		ayyorona				
-ayyorcha		ayyorcha				
+ayyorchha		ayyorchha				
 ayil		ayil				
 ayirbosh		ayirbosh				
 ayirboshlamoq		ayirboshlamoq				
 ayirboshlanmoq		ayirboshlanmoq				
-ayirgich		ayirgich				
+ayirgichh		ayirgichh				
 ayirish		ayirish				
 ayirma		ayirma				
 ayirmali		ayirmali				
-ayirmachilik		ayirmachilik				
+ayirmachhilik		ayirmachhilik				
 ayirmoq		ayirmoq				
 ayirtirmoq		ayirtirmoq				
 ayiruv		ayiruv				
-ayiruvchi		ayiruvchi				
+ayiruvchhi		ayiruvchhi				
 ayiq		ayiq				
 ayiqmurut		ayiqmurut				
 ayiqtovon		ayiqtovon				
@@ -408,7 +408,7 @@ aylanasida		aylanasida
 aylanish		aylanish				
 aylanishmoq		aylanishmoq				
 aylanma		aylanma				
-aylanmachoq		aylanmachoq				
+aylanmachhoq		aylanmachhoq				
 aylanmoq		aylanmoq				
 aylansin		aylansin				
 aylantirilmoq		aylantirilmoq				
@@ -420,8 +420,8 @@ aymoqi		aymoqi
 aymoqi		aymoqi				
 ayn		ayn				
 aynama		aynama				
-aynamachi		aynamachi				
-aynamachilik		aynamachilik				
+aynamachhi		aynamachhi				
+aynamachhilik		aynamachhilik				
 aynamoq		aynamoq				
 aynan		aynan				
 aynatmoq		aynatmoq				
@@ -439,17 +439,17 @@ ayrilishmoq		ayrilishmoq
 ayriliq		ayriliq				
 ayrilmas		ayrilmas				
 ayrilmoq		ayrilmoq				
-ayriluvchi		ayriluvchi				
+ayriluvchhi		ayriluvchhi				
 ayrim		ayrim				
 ayrimlik		ayrimlik				
-ayricha		ayricha				
+ayrichha		ayrichha				
 ayron		ayron				
-ayronchi		ayronchi				
+ayronchhi		ayronchhi				
 aytaylik		aytaylik				
 aytarli		aytarli				
 aytganday		aytganday				
 aytgandek		aytgandek				
-aytgancha		aytgancha				
+aytganchha		aytganchha				
 aytgunday		aytgunday				
 aytguday		aytguday				
 aytilish		aytilish				
@@ -458,10 +458,10 @@ aytish		aytish
 aytishmoq		aytishmoq				
 aytishqoq		aytishqoq				
 aytmoq		aytmoq				
-aytmoqchi		aytmoqchi				
+aytmoqchhi		aytmoqchhi				
 ayttirmoq		ayttirmoq				
 aytuvli		aytuvli				
-aytkich		aytkich				
+aytkichh		aytkichh				
 aysh		aysh				
 ayshgox		ayshgox				
 aysh-ishrat		aysh-ishrat				
@@ -476,12 +476,12 @@ ayg‘ir		ayg‘ir
 ayg‘irkiyek		ayg‘irkiyek				
 ayg‘oq		ayg‘oq				
 ayg‘oqlamoq		ayg‘oqlamoq				
-ayg‘oqchi		ayg‘oqchi				
-ayg‘oqchilik		ayg‘oqchilik				
+ayg‘oqchhi		ayg‘oqchhi				
+ayg‘oqchhilik		ayg‘oqchhilik				
 ayxay		ayxay				
 ayxaylamoq		ayxaylamoq				
 aka		aka				
-akavachcha		akavachcha				
+akavachhchha		akavachhchha				
 akademizm		akademizm				
 akademik		akademik				
 akademiya		akademiya				
@@ -497,14 +497,14 @@ akildoq		akildoq
 akillamoq		akillamoq				
 akillatmoq		akillatmoq				
 akkordeon		akkordeon				
-akkordeonchi		akkordeonchi				
+akkordeonchhi		akkordeonchhi				
 akkreditiv		akkreditiv				
 akkumulyator		akkumulyator				
 akobir		akobir				
 akrobat		akrobat				
 akrobatik		akrobatik				
 akrobatika		akrobatika				
-akrobatchi		akrobatchi				
+akrobatchhi		akrobatchhi				
 aks		aks				
 aksa		aksa				
 aksar		aksar				
@@ -512,16 +512,16 @@ aksariyat		aksariyat
 aksiga		aksiga				
 aksilinqilob		aksilinqilob				
 aksilinqilobiy		aksilinqilobiy				
-aksilinqilobchi		aksilinqilobchi				
+aksilinqilobchhi		aksilinqilobchhi				
 aksilharakat		aksilharakat				
-aksilharakatchi		aksilharakatchi				
-aksincha		aksincha				
+aksilharakatchhi		aksilharakatchhi				
+aksinchha		aksinchha				
 aksioma		aksioma				
 aksirish		aksirish				
 aksirik		aksirik				
 aksirmoq		aksirmoq				
 aksirtirmoq		aksirtirmoq				
-aksicha		aksicha				
+aksichha		aksichha				
 akslanmoq		akslanmoq				
 akslik		akslik				
 akt		akt				
@@ -550,7 +550,7 @@ aktsioner		aktsioner
 aktsiya		aktsiya				
 aktsiyador		aktsiyador				
 aktsiyali		aktsiyali				
-aktsiyachi		aktsiyachi				
+aktsiyachhi		aktsiyachhi				
 alay-balay		alay-balay				
 alay-bulay		alay-bulay				
 salom alaykum		salom alaykum				
@@ -564,7 +564,7 @@ alalxusus		alalxusus
 alam		alam				
 alam		alam				
 alamangiz		alamangiz				
-alam-acchik		alam-acchik				
+alam-achchhik		alam-achchhik				
 alamdiyda		alamdiyda				
 alamdor		alamdor				
 alamzada		alamzada				
@@ -577,7 +577,7 @@ alam-sitam		alam-sitam
 alanga		alanga				
 alangalanmoq		alangalanmoq				
 alangalantirmoq		alangalantirmoq				
-alangalanuvchan		alangalanuvchan				
+alangalanuvchhan		alangalanuvchhan				
 alangalatmoq		alangalatmoq				
 alangali		alangali				
 alang-jalang		alang-jalang				
@@ -591,8 +591,8 @@ alast		alast
 alaf		alaf				
 alaxsimoq		alaxsimoq				
 alaxsitmoq		alaxsitmoq				
-alacha		alacha				
-alacha		alacha				
+alachha		alachha				
+alachha		alachha				
 alash		alash				
 alag‘da		alag‘da				
 alaxlamoq		alaxlamoq				
@@ -608,18 +608,18 @@ algebra		algebra
 algebraik		algebraik				
 aldam		aldam				
 aldamoq		aldamoq				
-aldamchi		aldamchi				
-aldamchilik		aldamchilik				
+aldamchhi		aldamchhi				
+aldamchhilik		aldamchhilik				
 aldam qaldam		aldam qaldam				
 aldanmoq		aldanmoq				
 aldatmoq		aldatmoq				
 aldashmoq		aldashmoq				
-aldovchi		aldovchi				
-aldoqchi		aldoqchi				
-aldoqchilik		aldoqchilik				
+aldovchhi		aldovchhi				
+aldoqchhi		aldoqchhi				
+aldoqchhilik		aldoqchhilik				
 alebastr		alebastr				
 aler		aler				
-algrchi		algrchi				
+algrchhi		algrchhi				
 aljimoq		aljimoq				
 aljiramoq		aljiramoq				
 aljitmoq		aljitmoq				
@@ -646,8 +646,8 @@ allalamoq		allalamoq
 allamaxal		allamaxal				
 allanarsa		allanarsa				
 allanevaqt		allanevaqt				
-allanecha		allanecha				
-allanechuq		allanechuq				
+allanechha		allanechha				
+allanechhuq		allanechhuq				
 allanima		allanima				
 allapayt		allapayt				
 alla-palla		alla-palla				
@@ -663,9 +663,9 @@ allaqaysi		allaqaysi
 allaqanaqa		allaqanaqa				
 allaqanday		allaqanday				
 allaqandoq		allaqandoq				
-allaqancha		allaqancha				
-allaqachon		allaqachon				
-allaqachongi		allaqachongi				
+allaqanchha		allaqanchha				
+allaqachhon		allaqachhon				
+allaqachhongi		allaqachhongi				
 allegorik		allegorik				
 allegoriya		allegoriya				
 alloma		alloma				
@@ -682,15 +682,15 @@ almoyi-aljoyi		almoyi-aljoyi
 aloy		aloy				
 alomat		alomat				
 alomatli		alomatli				
-alomatchoy		alomatchoy				
+alomatchhoy		alomatchhoy				
 aloqa		aloqa				
 aloqador		aloqador				
 aloqadorlik		aloqadorlik				
 aloqadrixol		aloqadrixol				
 aloqali		aloqali				
 aloqasiz		aloqasiz				
-aloqachi		aloqachi				
-aloq-chaloq		aloq-chaloq				
+aloqachhi		aloqachhi				
+aloq-chhaloq		aloq-chhaloq				
 alohal		alohal				
 alohida		alohida				
 alohida-alohida		alohida-alohida				
@@ -709,7 +709,7 @@ alpinist		alpinist
 alt		alt				
 alternativ		alternativ				
 alternativa		alternativa				
-altchi		altchi				
+altchhi		altchhi				
 alfa		alfa				
 aluminiy		aluminiy				
 alqandoz		alqandoz				
@@ -723,15 +723,15 @@ alhamdulillox		alhamdulillox
 alxol		alxol				
 alxosil		alxosil				
 amaki		amaki				
-amakivachcha		amakivachcha				
+amakivachhchha		amakivachhchha				
 amal		amal				
 amaldor		amaldor				
 amaldorlik		amaldorlik				
 amaliyot		amaliyot				
 amaliyotparast		amaliyotparast				
 amaliyotparastlik		amaliyotparastlik				
-amaliyotchi		amaliyotchi				
-amaliyotchilik		amaliyotchilik				
+amaliyotchhi		amaliyotchhi				
+amaliyotchhilik		amaliyotchhilik				
 amaliy		amaliy				
 amaliya		amaliya				
 amallab		amallab				
@@ -753,7 +753,7 @@ amlok		amlok
 amlokdor		amlokdor				
 amlokdorxona		amlokdorxona				
 amma		amma				
-ammavachcha		ammavachcha				
+ammavachhchha		ammavachhchha				
 ammiak		ammiak				
 ammiakli		ammiakli				
 ammo		ammo				
@@ -810,7 +810,7 @@ anglatmoq		anglatmoq
 anglashilarli		anglashilarli				
 anglashilmas		anglashilmas				
 anglashismaslik		anglashismaslik				
-anglashilmovchilik		anglashilmovchilik				
+anglashilmovchhilik		anglashilmovchhilik				
 anglashilmoq		anglashilmoq				
 anglashmoq		anglashmoq				
 angor		angor				
@@ -853,7 +853,7 @@ aniqlashmoq		aniqlashmoq
 aniqlashtirilmoq		aniqlashtirilmoq				
 aniqlashtirmoq		aniqlashtirmoq				
 aniqlik		aniqlik				
-aniqlovchi		aniqlovchi				
+aniqlovchhi		aniqlovchhi				
 aniqsizlik		aniqsizlik				
 anker		anker				
 anketa		anketa				
@@ -908,10 +908,10 @@ antopologik		antopologik
 antropologiya		antropologiya				
 antropometriya		antropometriya				
 anuv		anuv				
-ancha		ancha				
-anchayin		anchayin				
-ancha-muncha		ancha-muncha				
-anchiki		anchiki				
+anchha		anchha				
+anchhayin		anchhayin				
+anchha-munchha		anchha-munchha				
+anchhiki		anchhiki				
 anʼana		anʼanav				
 anʼanaviy		anʼanaviy				
 anqaymoq		anqaymoq				
@@ -936,7 +936,7 @@ apolitik		apolitik
 aposterior		aposterior				
 aposteriorlik		aposteriorlik				
 apostrof		apostrof				
-apoq-chapoq		apoq-chapoq				
+apoq-chhapoq		apoq-chhapoq				
 appa-adil		appa-adil				
 apparat		apparat				
 apparatura		apparatura				
@@ -946,15 +946,15 @@ aprior		aprior
 apriorlik		apriorlik				
 aprobatsiya		aprobatsiya				
 apteka		apteka				
-aptekachi		aptekachi				
-aptechka		aptechka				
+aptekachhi		aptekachhi				
+aptechhka		aptechhka				
 apshu		apshu				
 ar		ar				
 arab		arab				
 arabi		arabi				
 arabizm		arabizm				
 arabiy		arabiy				
-arabcha		arabcha				
+arabchha		arabchha				
 arabshunos		arabshunos				
 arabshunoslik		arabshunoslik				
 arava		arava				
@@ -963,11 +963,11 @@ aravakash		aravakash
 aravakashlik		aravakashlik				
 aravasoz		aravasoz				
 aravasozlik		aravasozlik				
-aravacha		aravacha				
+aravachha		aravachha				
 araz		araz				
 arazlamoq		arazlamoq				
 arazlashmoq		arazlashmoq				
-arazchi		arazchi				
+arazchhi		arazchhi				
 arayish		arayish				
 aralash		aralash				
 aralashiga		aralashiga				
@@ -982,7 +982,7 @@ ar-ar		ar-ar
 ar-ar		ar-ar				
 arasot		arasot				
 arafa		arafa				
-arafagarchilik		arafagarchilik				
+arafagarchhilik		arafagarchhilik				
 araxis		araxis				
 araxisli		araxisli				
 araq		araq				
@@ -1023,7 +1023,7 @@ arzonlashmoq
 arzonlashtirmoq						
 arzonlik						
 arzonsinmoq						
-arzonchilik						
+arzonchhilik						
 arzonqul						
 arz-hol						
 ari						
@@ -1031,8 +1031,8 @@ ariza
 arizaboz						
 arizabozlik						
 arizanavis						
-arizachi						
-arizachup						
+arizachhi						
+arizachhup						
 arillamoq						
 arimoq						
 aristokrat						
@@ -1043,10 +1043,10 @@ aritmoq
 arifmetik						
 arifmetika						
 arixona						
-arichilik						
+arichhilik						
 ariya						
 ariq						
-ariqcha						
+ariqchha						
 ark 				qorǵan		
 ark 				arka		
 arka						
@@ -1056,7 +1056,7 @@ arman
 armani						
 armatura						
 armaturabop						
-armaturachi						
+armaturachhi						
 armiya						
 armon						
 armonli						
@@ -1076,16 +1076,16 @@ arrakashlik
 arralamoq						
 arralash						
 arrapusht						
-arrachi						
+arrachhi						
 arslon						
 arslontoy						
-arsloncha						
+arslonchha						
 arslonquyruq						
 artezian						
 artel						
 arteriya						
 artilleriya						
-artilleriyachi						
+artilleriyachhi						
 artilmoq						
 artinmoq						
 artist						
@@ -1095,7 +1095,7 @@ artmoq
 arttirmoq						
 aruz						
 arfa						
-arfachi						
+arfachhi						
 arxaizm						
 arxaik						
 arxar						
@@ -1104,16 +1104,16 @@ arxeologik
 arxeologiya						
 arxiv						
 arxivarius						
-arxivchi						
+arxivchhi						
 arxivshunos						
 arxipelag						
 arxitektor						
 arxitektorlik						
 arxitektura						
-archa						
-archazor						
-archilmoq						
-archmoq						
+archha						
+archhazor						
+archhilmoq						
+archhmoq						
 arsh						
 arsh						
 arshin						
@@ -1122,8 +1122,8 @@ arqon
 arqonlamoq						
 arqonlatmoq						
 arkok						
-arg‘amchi						
-arg‘imchoq						
+arg‘amchhi						
+arg‘imchhoq						
 arg‘uvon						
 arg‘umoq						
 asab						
@@ -1138,8 +1138,8 @@ asabiyat
 asad						
 asal						
 asalari						
-asalarichi						
-asalarichilik						
+asalarichhi						
+asalarichhilik						
 asar						
 asarlanmoq						
 asarsiz						
@@ -1162,12 +1162,12 @@ askar
 askarboshi						
 askariy						
 askarlik						
-askarcha						
+askarchha						
 askiya						
 askiyaboz						
 askiyabozlik						
-askiyachi						
-askiyachilik						
+askiyachhi						
+askiyachhilik						
 asl						
 aslan						
 aslaha						
@@ -1196,7 +1196,7 @@ asosli
 asoslilik						
 asossiz						
 asossizlik						
-asoschi						
+asoschhi						
 asp						
 aspalasofin						
 aspdor						
@@ -1217,7 +1217,7 @@ asratmoq
 asrdosh						
 asriy						
 asror 				sır		
-asrchilik						
+asrchhilik						
 assalom						
 assambleya						
 assistent						
@@ -1254,12 +1254,12 @@ ataydan
 atayin						
 ataylab						
 ataka						
-atak-chechak						
+atak-chhechhak						
 atala						
 atalamoq						
 atalanmoq						
 atalasimon						
-atala-umoch						
+atala-umochh						
 atalmoq						
 atama						
 ataman						
@@ -1280,14 +1280,14 @@ atlas
 atlasfurush						
 atletik						
 atletika						
-atletikachi						
+atletikachhi						
 atmosfera						
 ato 				ata;bárjay		
 atav 				ataw		
 atom						
 atomboz						
 atomistik						
-atomchi						
+atomchhi						
 Atorud 				Merkuriy		
 atoqli						
 atribut						
@@ -1298,7 +1298,7 @@ atrof-javonib
 atrofida						
 atroflab						
 atrofli						
-atroflicha						
+atroflichha						
 attang						
 attanga						
 attashe N2						
@@ -1324,12 +1324,12 @@ afsar 				taj
 afsona						
 afsonaviy						
 afsonavor						
-afsonachi						
+afsonachhi						
 afsun						
 afsungar						
 afsunkor						
 afsunlamoq						
-afsunchi						
+afsunchhi						
 afsus						
 afsuslanmoq						
 afsusli						
@@ -1345,7 +1345,7 @@ afyun 				sırtqı kórinis
 afg‘on 				awǵan		
 afg‘on 				nalısh		
 afg‘oniy						
-afg‘oncha						
+afg‘onchha						
 ax  				ax		
 axbor 				maǵlıwmat; xabar		
 axborot 				jalalıq		
@@ -1364,41 +1364,41 @@ axta 				aqta;pishiw;kestiriw
 axtalamoq 				aqtalaw		
 axtaxona 				aqtaxana; pishiw xanası		
 axtarmoq						
-axtachi						
+axtachhi						
 atsetilen						
 atseton						
-acha  				áje		
-achib-bichib 				jayrap		
-achimoq						
-achimsiq 				ashqıltım		
-achimsiqlik 				ashqıltımlıq		
-achinarli						
-achinishli						
-achinishmoq						
-achinmoq						
-achintirmoq						
-achipti 	N1   	ashipti		ashıǵan		
-achitma 	N1 	achitma	 	ashıtpa		
-achitmoq						
-achitqi						
-achishmoq						
-achishtirmoq						
-achom 				qushaq		
-achom-achom 				táy-táy		
-achomlamoq 				qushaqlaw		
-achomlashmoq 				qushaqlasıw		
-achchiq						
-achchiq-alam						
-achchiqlanishmoq						
-achchiqlanmoq						
-achchiqlantirmoq						
-achchiqlashmoq						
-achchiqlik						
-achchiqmag‘iz						
-achchiq-tirsiq 				ashshı		
-achchiq-tiziq 				ashshı		
-achchiqtosh						
-achchiq-chuchuk 				ashshı-dusshı salat		
+achha  				áje		
+achhib-bichhib 				jayrap		
+achhimoq						
+achhimsiq 				ashqıltım		
+achhimsiqlik 				ashqıltımlıq		
+achhinarli						
+achhinishli						
+achhinishmoq						
+achhinmoq						
+achhintirmoq						
+achhipti 	N1   	ashipti		ashıǵan		
+achhitma 	N1 	achhitma	 	ashıtpa		
+achhitmoq						
+achhitqi						
+achhishmoq						
+achhishtirmoq						
+achhom 				qushaq		
+achhom-achhom 				táy-táy		
+achhomlamoq 				qushaqlaw		
+achhomlashmoq 				qushaqlasıw		
+achhchhiq						
+achhchhiq-alam						
+achhchhiqlanishmoq						
+achhchhiqlanmoq						
+achhchhiqlantirmoq						
+achhchhiqlashmoq						
+achhchhiqlik						
+achhchhiqmag‘iz						
+achhchhiq-tirsiq 				ashshı		
+achhchhiq-tiziq 				ashshı		
+achhchhiqtosh						
+achhchhiq-chhuchhuk 				ashshı-dusshı salat		
 ashaddiy						
 ashaddi						
 ashyo						
@@ -1407,8 +1407,8 @@ ashtak
 ashtak-pashtak						
 ashula						
 ashulali						
-ashulachi						
-ashulachilik						
+ashulachhi						
+ashulachhilik						
 ashsha 				palaw;ıssı awqat		
 ashor 				qosıq;taqmaq		
 ashqol-dashqol				asqal-dasqal		
@@ -1419,7 +1419,7 @@ aʼzo 				aǵza
 aʼzolik 						
 aʼlam 				qazı		
 aʼlo 				aǵla		
-aʼlochi				aǵlashı;		
+aʼlochhi				aǵlashı;		
 amal 				ámel		
 aʼrof 				ne qıların bilmey		
 aʼrofda qoldi 				ne qıların bilmey qaldı		
@@ -1432,18 +1432,18 @@ aeroport
 aerostat						
 aeroflot						
 aerofotosyomka						
-aerochana						
+aerochhana						
 aya 				ana		
 ayajon 				anajan		
 ayalmoq						
 ayamoq						
 ayamajuz 						
 ayamsizdan						
-ayanch						
-ayanchli						
-ayacha						
+ayanchh						
+ayanchhli						
+ayachha						
 ayashmoq						
-ayacha						
+ayachha						
 ayashmoq						
 aqalli						
 aqba 				tawlı soqpaq		
@@ -1463,15 +1463,15 @@ aqlli
 aqllilik						
 aqlsiz						
 aqlsizlik						
-aql-tushuncha						
+aql-tushunchha						
 aql-xush						
 aql-xushli						
 aqrab 				shayan		
 aqrabo 				aǵayinler		
-aqcha 				aqsha		
+aqchha 				aqsha		
 ag‘anamoq						
 ag‘darilmoq						
-ag‘dargich						
+ag‘dargichh						
 ag‘darmoq						
 ag‘dartirmoq						
 ag‘dar-tuntar						
@@ -1489,28 +1489,28 @@ ahvol
 ahvolot 				jaǵday		
 ahd						
 ahdlashmoq						
-ahdlashuvchi						
+ahdlashuvchhi						
 ahdnoma						
 ahd-paymon						
 ahdu-paymon						
 ahyon						
 ahil						
 ahillik						
-ahilchilik						
+ahilchhilik						
 ahl						
 ahmoq						
-ahmoqgarchilik						
+ahmoqgarchhilik						
 ahmoqlik						
 ahmaqona						
-ahmoqchilik						
-ahmoqgarchilik						
+ahmoqchhilik						
+ahmoqgarchhilik						
 ahmoqlik						
 ahmoqona						
-ahmoqchilik						
-ahmoqgarchilik						
+ahmoqchhilik						
+ahmoqgarchhilik						
 ahmoqlik						
 ahmoqona						
-ahmoqchilik						
+ahmoqchhilik						
 aholi						
 ba				ba		
 baadab				biyadep		
@@ -1557,4 +1557,565 @@ badiiy
 badiiylik						
 badiha 				ekspromt		
 badihago‘y 				tókpe shayır		
-badkarda 						
+badkarda 				jawız		
+badkirdor				jaramsız		
+badkor				jawız		
+badlanmoq				qáhárleniw		
+badmast				urısqaq;jánjelpaz;eser		
+badmastlik				urısqaqlıq;jánjelpazlıq;eserlik		
+badmuamala				qopal		
+badmuamalalik				qopallıq		
+badnamo				túr-túsi kelispegen		
+badnamolik				túr-túsi kelispegenlik		
+badnafas				ǵarqıldaw		
+badnafs				ólshewsiz		
+badnafslik				ólshewsizlik		
+badniyat				jawız		
+badnom				patas		
+badraf				hájetxana		
+badrafxona				hájetxana		
+badro‘y				sıqılsız		
+badtar				beter		
+badtarin						
+badfeʼl				jaman minezli		
+badfeʼllik				jaman minezlilik		
+badxat				qol jazbazı jaman		
+badxoh				dushpan		
+badxohlik				dushpanlıq		
+badxulq				jaman minezli		
+badxur				mazasız		
+badchhehra				sıqılsız		
+badqovoq				túnergen;qayǵılı		
+badqovoqlik				túnergenlik;qayǵılılıq		
+badhazm						
+badhazmlik						
+badhaybat						
+bayov						
+bayovlik						
+bayoz						
+bayon						
+bayonnoma						
+bayonot						
+bayonatchhilik						
+bayot						
+bajarilmoq						
+bajarishmoq						
+bajarmoq						
+bajartirmoq						
+bajo						
+bajonidil						
+baza						
+bazzoz						
+bazzozlik						
+bazis						
+bazl						
+bazm						
+bazmgox						
+bazmoro						
+bazmxona						
+bazur						
+baittifoq						
+bay						
+Bay-bay						
+baybaylamoq						
+baydarka						
+bayir						
+bayirlik						
+bayka						
+baylashmoq						
+baynalmilal						
+baynalxalq						
+bayram						
+bayramlashmoq						
+bayramlik						
+bayramchhilik						
+bayroq						
+bayroqdor						
+bayroqli						
+bayroqchha						
+bayt						
+baytal						
+baytalmon						
+baytar						
+baytariya						
+baytarlik						
+baytullox						
+baytulmol						
+bak						
+Baka-bang						
+bakovul						
+bakovulboshi						
+bakor				kerekli		
+bakorat				buzılmaǵan		
+bakteriolog						
+bakteriologik						
+bakteriya						
+bakteriologiya						
+bakteriyali						
+bakuch						
+bal						
+baladiya						
+balalayka						
+balandlamoq						
+balandlatmoq						
+balandlashmoq						
+balandlik						
+balandparvoz						
+balandparvozlik						
+Baland-past						
+Baland-pastlik						
+balans						
+balansir						
+balansirli						
+balanslamoq						
+baletgkgk						
+balerina						
+baletmeyster						
+baletchi						
+bali						
+baliq						
+baliqko‘z						
+baliqfurush						
+baliqxo‘r						
+baliqchi						
+baliqchilik						
+balka						
+balkar						
+balki						
+balkim						
+balkon						
+ball						
+ballada						
+ballast						
+balli						
+ballistik						
+ballistika						
+ballon						
+ballonli						
+balo						
+balo						
+Balo-battar						
+balogardon						
+Balo-ofat						
+baloxo‘r						
+Balo-qazo						
+balog‘at						
+balxi						
+balchiq						
+balchiqzor						
+balzamlamoq						
+balqamboq						
+balqimoq						
+balqitmoq						
+balg‘am						
+balg‘ami						
+bamaylixotir						
+bamaslahat						
+bamani						
+bamanilik						
+bambuk						
+bambukzor						
+bamisli						
+bamisoli						
+banan						
+bananzor						
+bang						
+bangi				náshebent		
+bangidevona						
+bangilik						
+bangixona						
+band						
+bandi				ruchka;ulaǵısh		
+band						
+banda						
+banda						
+bandaj						
+bandak						
+bandalik						
+bandargoh						
+bandachilik						
+banderol						
+bandi						
+bandilik						
+bandit						
+banditizm						
+banditlik						
+bandlamoq						
+bandli						
+bandlik						
+bandura						
+bandurachi						
+banibasgar						
+baniinson						
+baniodam						
+bank						
+banka						
+banka						
+banket						
+bankir						
+bankrot						
+bankrotlashmoq						
+bankrotlik						
+banogoh						
+banoras						
+banot						
+banot						
+baobro‘						
+bar						
+baraban						
+barabanli						
+barabanchi						
+baravar						
+baravariga						
+baravarlamoq						
+baravarlanmoq						
+baravarlashmoq						
+baravarlashtirilmoq						
+barabarlashtirmoq						
+baravarlik						
+baravj						
+barak						
+barak						
+baraka						
+baraka						
+barakali						
+barakalla						
+barakallachi						
+barakallachilik						
+barakasiz						
+barakat						
+barakatli						
+baralla						
+barahman						
+barbod						
+barbodlik						
+barvasta						
+barkastalik						
+barvaqt						
+barg						
+						
+bargak						
+bargakii						
+bargizub						
+bargikarambarglamoq						
+barda						
+bardam						
+bardamlik						
+bdrdi						
+bardorbardorbardor						
+bardorfabardor						
+bardos						
+bardosli						
+bardossiz						
+barzangy						
+bario						
+baribog						
+bariy						
+barikaram						
+barimta						
+bariton						
+barkamol						
+barqas&						
+barlost						
+barmoqii						
+barnob						
+barobar						
+barobarida						
+barograf						
+barometr						
+baromgtrik						
+baron						
+baror						
+barot						
+barotiib						
+barok						
+Ьarpoi						
+barrau						
+barrikada						
+barsy						
+bartarafoi						
+barxan						
+barxit						
+barcha						
+bars$						
+barschina						
+barqЬoons						
+barqarori						
+barqarorlik						
+barkut						
+barhavo						
+barhayotgg						
+barham						
+barhaq						
+baseaqqyn						
+basii						
+basiiikok						
+>ch						
+basiv						
+basavlat						
+basalovat						
+base						
+basir						
+basit						
+basketbol						
+baskgtbolchi						
+baski						
+baslasmok						
+basmabasii						
+basmabasiga						
+basmabaslasmoqi						
+basmabaslikka						
+basseyn						
+bast						
+basta						
+bastakor						
+basakorlik						
+bastalamoq						
+basalanmok						
+bastalik						
+batalЬon	batamiz					
+batamom						
+batang						
+batarey						
+batartib						
+batafsil						
+batis						
+batist						
+baton						
+batrak						
+batraqlasmoq						
+batraklastirilmoqbatraklastirmok						
+batraklik						
+batrachkombfpd						
+battar■battarinbattarlasmoq						
+battol						
+battollik						
+bafarmon						
+bafurja						
+baxavar						
+baxavarlik						
+baxabliv						
+baxay						
+baxairbnonЬvch						
+baxiliv						
+baxillasmoq						
+baxillik						
+baxmal						
+baxt						
+baxtiyorxxobb						
+baxtibri						
+baxtiyorlikbaxtikbol						
+baxtli>						
+baxtlilik						
+baxtsaodatbaxtsiz						
+baxtsyzlyk						
+baxs						
+baxsii						
+Ь						
+baxsis						
+baxyny						
+bachsuz						
+baxylamoq						
+batilla						
+bachadon						
+bachajis						
+bachkana						
+bachqanaboz						
+bachkanabozlyk						
+bachkanagarilik						
+bachkanaduz						
+bachkanalarcha						
+bachkanalasmoq						
+bachkanalastirmok						
+bachkanalik						
+bachkiuuoqp						
+bachqilamoq						
+bachchaid						
+bachchaboz						
+bachchabozlik						
+bachchalik						
+bachchataloq						
+bachchagar						
+basyg						
+basarbasara>i>nu						
+basariii						
+	sn					
+basariyt						
+basarti						
+basorab						
+basoratli						
+Ьad						
+badaz						
+bazan						
+bazi						
+						
+bazibir						
+bazida						
+bayn						
+baynchi						
+baqa						
+						
+baqaii						
+baqavlimsoisnms						
+bakadrihol						
+bakajuxori						
+bakaloko						
+baqaloki						
+baqamtii						
+baqar						
+baqasalla■						
+baqaterak						
+bakatun						
+baqbaqa						
+bakir						
+bakirbuqir						
+baqirismok						
+baqiriq						
+baqirikchaqiriq						
+bakirlaodoq						
+baqirlatmok						
+bakirmoq						
+baqirok						
+baqiroqlik						
+baqirtirmoq						
+baqiy						
+bakldjon						
+baqob						
+baqoli						
+bakosiz						
+bakrayismok						
+bakraymoq						
+baqraytiredoq						
+baquvvat						
+baquvvatlanmoq						
+baquvvatlasmok						
+bakuvvatliks						
+baqqol						
+bakkollik						
+bakqolchilik						
+bagazn						
+bagayra						
+bagbaqa						
+bagbug						
+bagillamoq						
+bgillatmokbagillasmoq						
+bagirqoqp						
+bagirbugur						
+bagirlab						
+bagirlamoq						
+bagislamoq						
+bagislanmoqsssr€00sssr						
+bagislatmoq						
+bagoyt						
+bagri						
+bahii						
+bahavo						
+bahaibat						
+baqam						
+bahamjihat						
+bahamjihatliq						
+baharnav						
+baho						
+bahodirb						
+baxodirlikbahodirona						
+baholamoq						
+bah0lanmoq						
+baxolatmoq						
+baxolasmoq						
+bahona						
+baonachi						
+bahor						
+baxorgi						
+bahori						
+bhorikor						
+baxorikorliqis						
+bahorisgon						
+bahosiz						
+bahri						
+bahrii						
+baxrs						
+bahriv						
+bahrai						
+bahalanmoq						
+bahramandvoov						
+bahribayt						
+baxs						
+bahslasmoq						
+bahslasuv						
+bahuzurraqsr						
+bahuzurlyk						
+beqrnbnn						
+beadab						
+beadabgarchilik						
+beadablik						
+beadabona						
+beadabchilik						
+&eadad&lax						
+beaib						
+beamal						
+beamrbprzn						
+beandaza						
+beandazalik						
+beandisa						
+beandisalik						
+bearmon						
+beaxloq						
+beaxloqlik						
+beakl						
+beaqllik						
+bebaraqa						
+bebaxt						
+bebaqo						
+bebaqoliq						
+bebaho						
+bebaholik						
+bebahrai						
+bebahralik						
+bebi0agkt						
+bebilisqanon						
+bebilchak						
+bebozort						
+bebok						
+beboklik						
+bebost						
+bevosvoqi						
+beboslik						
+beburd						
+beburdlik						
+beva						
+bevabechora						
+bevaj						
+bevaliq						
+bevasiqa						
+bevatln						
+bevafo						
+bevafolik						
+bevaqt						
+bevaqtliki						
+bevosmta						
+bebos						
+bevoslik■						
+begemot						
+begimi						
+begimi						
+begoyim						
+begonaipa						
+begoyeal						
+begonalasmoqrk						
+begonalik						
+begonasiramok						
+begumon						
+begumonlik						
+begunoh						
+begunoxlik						
+beda						
+bedav						
+bedavo						
+bedavolik						
+bedavsuvorbedazor						
+bedakorlik_						
+bedana						
+vedanaboz						
+Ьedanavozlik						
+vedanamasak						
+bedapoy						
