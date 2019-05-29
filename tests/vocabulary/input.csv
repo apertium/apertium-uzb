@@ -1,7 +1,7 @@
 Entry word	Category	Lexch LHS	Lexch RHS	kaa	tat
-a	CC	a			ә
-a	IJ	a			ә
--a	QST	-a			ә
+a	CC	a		a	ә
+a	IJ	a		a	ә
+-a	QST	-a		a	ә
 abad	N1	abad		máńgilik	мәңгелек
 abad	ADV	abad		máńgi;máńgige	мәңге;мәңгегә
 abadiy	A2	abadiy		mańgilik	мәңге;мәңгелек
@@ -62,7 +62,7 @@ avanturist	N1	avanturist
 avanturistik	A2	avanturistik			
 avanturistlik	N1	avanturistlik			
 avar	N1	avar			
-avariya	N1	avariya			
+avariya	N1	avariya	avariya		
 avaxta	N1	avaxta			
 avaga	N1	avaga			
 avbosh	N1	avbosh			
@@ -84,13 +84,13 @@ avjli	A1	avjli
 avjsiz	A1	avjsiz			
 avzo	N1	avzo			
 avzoi	N1	avzoi			
-aviabaza	N1	aviabaza			
-aviabomba	N1	aviabomba			
-aviadesant	N1	aviadesant			
-aviadesantchi	N1	aviadesantchi			
-aviazavod	N1	aviazavod			
-aviakonstruktor	N1	aviakonstruktor			
-avialiniya	N1	avialiniya			
+aviabaza	N1	aviabaza		aviabaza	
+aviabomba	N1	aviabomba		aviabomba	
+aviadesant	N1	aviadesant		aviadesant	
+aviadesantchi	N1	aviadesantchi		aviadesantchi	
+aviazavod	N1	aviazavod		aviazavod	
+aviakonstruktor	N1	aviakonstruktor		aviakonstruktor	
+avialiniya	N1	avialiniya		avialiniya	
 aviamodelchi	N1	aviamodelchi			
 aviamodelchilik	N1	aviamodelchilik			
 aviamodel	N1	aviamodel			
@@ -119,42 +119,42 @@ avrash	N1	avrash
 avroqchi	N1	avroqchi			
 avrog‘ich	N1	avrog‘ich			
 avsat	A1	avsat			
-avtobaza	N1	avtobaza			
-avtobiografik	A2	avtobiografik			
-avtobiografiya	N1	avtobiografiya			
+avtobaza	N1	avtobaza		avtobaza	
+avtobiografik	A2	avtobiografik		avtobiografiyalıq	
+avtobiografiya	N1	avtobiografiya		avtobiografiya	
 avtoblokirovka	N1	avtoblokirovka			
-avtobus	N1	avtobus			
-avtogen	N1	avtogen			
-avtograf	N1	avtograf			
-avtografik	A2	avtografik			
-avtozavod	N1	avtozavod			
-avtokamera	N1	avtokamera			
-avtokolonna	N1	avtokolonna			
-avtomat	N1	avtomat			
-avtomatik	A2	avtomatik			
-avtomatlashmoq	V-IV	avtomatlash			
-avtomatlashtirilmoq	V-TV-CAUS	avtomatlashtir			
-avtomatlashtirish	N1-VN	avtomatlashtir			
+avtobus	N1	avtobus		avtobus	
+avtogen	N1	avtogen		avtogen	
+avtograf	N1	avtograf		avtograf	
+avtografik	A2	avtografik		avtografikalıq	
+avtozavod	N1	avtozavod		avtozavod	
+avtokamera	N1	avtokamera		avtokamera	
+avtokolonna	N1	avtokolonna		avtokolonna	
+avtomat	N1	avtomat		avtomat	
+avtomatik	A2	avtomatik		avtomatlı	
+avtomatlashmoq	V-IV	avtomatlash		avtomatlastır	
+avtomatlashtirilmoq	V-TV-CAUS	avtomatlashtir		avtomatlastır	
+avtomatlashtirish	N1-VN	avtomatlashtir		avtomatlastır	
 avtomatlashtirmoq	V-TV-CAUS	avtomatlashtir			
-avtomatchhi	N1	avtomatchhi			
-avtomashina	N1	avtomashina			
+avtomatchi	N1	avtomatchi		avtomatchı	
+avtomashina	N1	avtomashina		avtomashina	
 avtomobilsozlik	N1	avtomobilsozlik			
-avtomobil	N1	avtomobil			
+avtomobil	N1	avtomobil		avtomobil	
 avtonom	A2	avtonom			
 avtonomist	N1	avtonomist			
-avtonomiya	N1	avtonomiya			
-avtonomiyali	N1	avtonomiyali			
+avtonomiya	N1	avtonomiya		avtonomiya	
+avtonomiyali	N1	avtonomiyali		avtonomiyalı	
 avtonomiyachi	N1	avtonomiyachi			
 avtonomlik	N1	avtonomlik			
 avtopark	N1	avtopark			
 avtopoyga	N1	avtopoyga			
-avtor	N1	avtor			
+avtor	N1	avtor		avtor	
 avtoremont	N1	avtoremont			
 avtoreferat	N1	avtoreferat			
 avtorlik	N1	avtorlik			
 avtoruchka	N1	avtoruchka			
 avtosug‘org‘ich	N1	avtosug‘org‘ich			
-avtotransport	N1	avtotransport			
+avtotransport	N1	avtotransport		avtotransport	
 avtoxo‘jalik	N1	avtoxo‘jalik			
 avtochana	N1	avtochana			
 agar	CS	agar			
@@ -162,27 +162,27 @@ agarda	CS	agarda
 agar magar	CS	agar magar			
 agglyutinativ	A2	agglyutinativ			
 agglyutinatsiya	N1	agglyutinatsiya			
-agent	N1	agent			
-agentlik	N1	agentlik			
-agentura	N1	agentura			
-agitator	N1	agitator			
-agitatorlik	N1	agitatorlik			
-agitatsion	A2	agitatsion			
-agitatsiya	N1	agitatsiya			
-agitpunkt	N1	agitpunkt			
-agnostik	N1	agnostik			
-agnostik	A2	agnostik			
-agnostitsizm	N1	agnostitsizm			
+agent	N1	agent		agent	
+agentlik	N1	agentlik		agentlik	
+agentura	N1	agentura		agentura	
+agitator	N1	agitator		agitator	
+agitatorlik	N1	agitatorlik		agitatorlıq	
+agitatsion	A2	agitatsion		agitacion	
+agitatsiya	N1	agitatsiya		agitaciya	
+agitpunkt	N1	agitpunkt		agitpunkt	
+agnostik	N1	agnostik		agnostik	
+agnostik	A2	agnostik		agnostikalıq	
+agnostitsizm	N1	agnostitsizm		agnostitsizm	
 agrar	A2	agrar			
 agrarchi	N1	agrarchi			
-agregat	N1	agregat			
-agressiv	A2	agressiv			
-agressivlik	N1	agressivlik			
-agressiya	N1	agressiya			
-agressiyachi	N1	agressiyachi			
-agressiyachilik	N1	agressiyachilik			
-agressor	N1	agressor			
-agressorlik	N1	agressorlik			
+agregat	N1	agregat		agregat	
+agressiv	A2	agressiv		agressiv	
+agressivlik	N1	agressivlik		agressivlik	
+agressiya	N1	agressiya		agressiya	
+agressiyachi	N1	agressiyachi		agressiyachı	
+agressiyachilik	N1	agressiyachilik		agresiyashıllıq	
+agressor	N1	agressor		agressor	
+agressorlik	N1	agressorlik		agressorlık	
 agrikultura	N1	agrikultura			
 agrobiologik	A2	agrobiologik			
 agrobiologiya	N1	agrobiologiya			
