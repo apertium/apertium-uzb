@@ -764,7 +764,7 @@ amalparastlik	N1	amalparastlik
 amal-gakal	N1	amal-gakal			
 ambulatoriya	N1	ambulatoriya			
 amvol	N1	amvol			
-amerikalik	N1-NATL	amerikalik			
+amerikalik	N1-NAT	amerikalik			
 amin	A2	amin			
 aminlik	N1	aminlik			
 amir	N1	amir			
@@ -972,11 +972,11 @@ aptekachi	N1	aptekachi
 aptechka	N1	aptechka			
 apshu	IDEO	apshu			
 ar	N1	ar			
-arab	N1-NATL	arab			
+arab	N1-NAT	arab			
 arabi	A2	arabi			
 arabizm	N1	arabizm			
 arabiy	A2	arabiy			
-arabcha	A1-NATL	arabcha			
+arabcha	A1-NAT	arabcha			
 arabshunos	N1	arabshunos			
 arabshunoslik	N1	arabshunoslik			
 arava	N1	arava			
@@ -999,41 +999,41 @@ aralashmaslik	N1	aralashmaslik
 aralashmoq	V-IV	aralash			
 aralashtirmoq	V-TV-CAUS	aralashtir			
 aralash-quralash	A1	aralash-quralash			
-arang		arang			
-ar-ar		ar-ar			
-ar-ar		ar-ar			
-arasot		arasot			
-arafa		arafa			
-arafagarchilik		arafagarchilik			
-araxis		araxis			
-araxisli		araxisli			
-araq		araq			
-araqi		araqi			
-araqxo'r		araqxo'r			
-araqxo'rlik		araqxo'rlik			
-arbitr		arbitr			
-arbitraj		arbitraj			
-arbob		arbob			
-arvox		arvox			
-argentinalik		argentinalik			
-argon		argon			
-ardob		ardob			
-ardoqlamoq		ardoqlamoq			
-ardoqlanmoq		ardoqlanmoq			
-ardoqli		ardoqli			
-arest		arest			
-arjumand		arjumand			
-arz		arz			
-ara		ara			
-arzanda		arzanda			
-arzanda-kiromanda		arzanda-kiromanda			
-arz-dod		arz-dod			
-arzigudek		arzigudek			
-arzigulik		arzigulik			
-arzigunday					
-arziydigan					
-arzimas					
-arzimoq					
+arang	ADV	arang			көчкә
+ar-ar qilmoq	V-IV	ar-ar qil			үкер
+ar-ar terak	N1	ar-ar terak			пирамидасыман тупыл
+arasot	N1	arasot			гарасат
+arafa	N1	arafa			гарәфә
+arafagarchilik	N1	arafagarchilik			:бәйрәм алды ыгы-гызысы
+araxis	N1	araxis			арахис
+araxisli	A2	araxisli			арахислы
+araq	N1	araq			аракы
+araqi	N1	araqi			кәрниз
+araqxo'r	N1	araqxo'r			эчкече
+araqxo'rlik	N1	araqxo'rlik			эчкечелек
+arbitr	N1	arbitr			арбитр
+arbitraj	N1	arbitraj			арбитраж
+arbob	N1	arbob			эшлекле
+arvox	N1	arvox			әрвах
+argentinalik	N1-NAT	argentinalik			аргентиналы
+argon	N1	argon			аргон
+ardob	N1	ardob			апара
+ardoqlamoq	V-TV	ardoqla			кадерлә
+ardoqlanmoq	V-TV	ardoqla			кадерлә
+ardoqli	A2	ardoqli			кадерле
+arest	N1	arest			арест
+arjumand	A2	arjumand			газиз
+arz	N1	arz			мөрәҗәгать;шикаять
+arza	N1	arza			гариза
+arzanda	A2	arzanda			кадерле
+arzandai-kiromanda	A2	arzandai-kiromanda			
+arz-dod	N1	arz-dod			гариза;шикаять;апелляция
+arzigudek	A2	arzigudek			лаек
+arzigulik	A2	arzigulik			лаек
+arzigunday	A2	arzigunday			лаек
+arziydigan	A2	arziydigan			лаек
+arzimas	A2	arzimas			лаесыз;әһәмиятсез
+arzimoq					лаек
 arzirli					
 arzitmoq					
 arziqmoq					
