@@ -1196,6 +1196,137 @@ bir%-bir:bir%-bir PRON-IND ; ! ""
 
 
 LEXICON Nouns
+sof:sof N1 ; !
+qurilish:qurilish N1 ; !
+kir:kir N1 ; !
+kilometr:kilometr N1 ; !
+mas:mas N1 ; !
+kvadrat:kvadrat N1 ; !
+departament:departament N1 ; !
+oʻz:oʻz N1 ; !
+
+emizuvchi:emizuvchi N1 ; !
+lari:lari N1 ; !
+togʻlik:togʻlik N1 ; !
+mil:mil N1 ; !
+koʻl:koʻl N1 ; !
+km:km N1 ; !
+Bretan:Bretan N1 ; !
+qalin:qalin N1 ; !
+yo:yo N1 ; !
+chiq:chiq N1 ; !
+
+alifba:alifba N1 ; !
+koʻcha:koʻcha N1 ; !
+nüsha:nüsha N1 ; !
+muomala:muomala N1 ; !
+oʻgʻil% bola:oʻgʻil% bola N1 ; !
+kalkınma:kalkınma N1 ; !
+roʻznoma:roʻznoma N1 ; !
+temperatura:temperatura N1 ; !
+qomita:qomita N1 ; !
+vosıta:vosıta N1 ; !
+Antanta:Antanta N1 ; !
+oʻpaxta:oʻpaxta N1 ; !
+xoʻya:xoʻya N1 ; !
+rabb:rabb N1 ; !
+janob:janob N1 ; !
+serb:serb N1 ; !
+shved:shved N1 ; !
+oxsid:oxsid N1 ; !
+golland:golland N1 ; !
+jugud:jugud N1 ; !
+ice:ice N1 ; !
+breakage:breakage N1 ; !
+time:time N1 ; !
+sigarette:sigarette N1 ; !
+muze:muze N1 ; !
+dag:dag N1 ; !
+bog:bog N1 ; !
+urug:urug N1 ; !
+Kazakh:Kazakh N1 ; !
+qarargoh:qarargoh N1 ; !
+habash:habash N1 ; !
+ishlash:ishlash N1 ; !
+mudhish:mudhish N1 ; !
+qollanish:qollanish N1 ; !
+orqodosh:orqodosh N1 ; !
+sath:sath N1 ; !
+oʻquvhci:oʻquvhci N1 ; !
+kemirici:kemirici N1 ; !
+yahudi:yahudi N1 ; !
+gurji:gurji N1 ; !
+gemi:gemi N1 ; !
+kollej:kollej N1 ; !
+chehcak:chehcak N1 ; !
+idrak:idrak N1 ; !
+ozbek:ozbek N1 ; !
+kalifalik:kalifalik N1 ; !
+yevropalik:yevropalik N1 ; !
+bosniyalik:bosniyalik N1 ; !
+zichlik:zichlik N1 ; !
+kasallık:kasallık N1 ; !
+xonlik:xonlik N1 ; !
+iroqlik:iroqlik N1 ; !
+rehberlik:rehberlik N1 ; !
+oʻgirlik:oʻgirlik N1 ; !
+shagal:shagal N1 ; !
+hasil:hasil N1 ; !
+misol:misol N1 ; !
+savol:savol N1 ; !
+mogul:mogul N1 ; !
+bichim:bichim N1 ; !
+dogum:dogum N1 ; !
+kurum:kurum N1 ; !
+san:san N1 ; !
+slavyan:slavyan N1 ; !
+sloven:sloven N1 ; !
+yogʻin:yogʻin N1 ; !
+rumin:rumin N1 ; !
+makedon:makedon N1 ; !
+afgon:afgon N1 ; !
+jabun:jabun N1 ; !
+un:un N1 ; !
+xmdo:xmdo N1 ; !
+qʻavgʻo:qʻavgʻo N1 ; !
+posho:posho N1 ; !
+ahmoqona% xato:ahmoqona% xato N1 ; !
+azop:azop N1 ; !
+xoʻlq:xoʻlq N1 ; !
+chiroq:chiroq N1 ; !
+bolgar:bolgar N1 ; !
+oʻshahar:oʻshahar N1 ; !
+dekabr:dekabr N1 ; !
+noyambr:noyambr N1 ; !
+komandir:komandir N1 ; !
+kumandir:kumandir N1 ; !
+doʻxtir:doʻxtir N1 ; !
+xaridor:xaridor N1 ; !
+chernogor:chernogor N1 ; !
+poydevor:poydevor N1 ; !
+ixtiyor:ixtiyor N1 ; !
+flatness:flatness N1 ; !
+oʻodat:oʻodat N1 ; !
+qonat:qonat N1 ; !
+xorvat:xorvat N1 ; !
+beet:beet N1 ; !
+cinsiyet:cinsiyet N1 ; !
+vilayot:vilayot N1 ; !
+dost:dost N1 ; !
+soʻzlashuvcu:soʻzlashuvcu N1 ; !
+yugoslav:yugoslav N1 ; !
+law:law N1 ; !
+xalx:xalx N1 ; !
+energy:energy N1 ; !
+chiniy:chiniy N1 ; !
+koʻy:koʻy N1 ; !
+qirgiz:qirgiz N1 ; !
+kiz:kiz N1 ; !
+
+koz:koz N1 ; !
+qoz:qoz N1 ; !
+
+
 
 %{🂡%}%<guess%>:%{🂡%} N1 ;
 
@@ -2652,7 +2783,27 @@ aloqali:aloqali POST ; ! "concerning"
 
 
 LEXICON Adjectives
+mansub:mansub A1 ; !
+vujud:vujud A1 ; !
+mavjud:mavjud A1 ; !
+tavallud:tavallud A1 ; !
+avvalgi:avvalgi A1 ; !
+asl:asl A1 ; !
+koʻp:koʻp A1 ; !
+har:har A1 ; !
+chuqur:chuqur A1 ; !
+emas:emas A1 ; !
+iborat:iborat A1 ; !
+janubiy:janubiy A1 ; !
 
+ortacha:ortacha A1 ; !
+qiluvchi:qiluvchi A1 ; !
+sıfatli:sıfatli A1 ; !
+nispi:nispi A1 ; !
+uzak:uzak A1 ; !
+yakin:yakin A1 ; !
+ozon:ozon A1 ; !
+bogʻliq:bogʻliq A1 ; !
 ta:ta A1 ; ! "adet"
 inqilobiy:inqilobiy A1 ; ! "revolutionary"
 jonli:jonli A1 ; ! "alive"
@@ -3469,6 +3620,9 @@ nimaga:nimaga ADV-ITG ; ! "why"
 
 ! More or less regular stuff
 ! ==========================
+necha:necha ADV1 ; !
+ta:ta ADV1 ; !
+soʻng:soʻng ADV1 ; !
 
 albatta:albatta ADV1 ; ! "certainly"
 ana:ana ADV1 ; ! "there"
