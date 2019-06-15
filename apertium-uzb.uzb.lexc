@@ -20,6 +20,7 @@ Multichar_Symbols
 %<paren%>
 %<phrase%>
 
+
 ! %<px1sg%>            ! redefined in Possessives
 ! %<px3sp%>            ! redefined in Possessives
 
@@ -57,6 +58,7 @@ Multichar_Symbols
 %<ant%>       ! Anthroponym
 %<cog%>       ! Cognomen     ! Фамилия
 %<org%>
+%<al%> !others
 
 %<m%> ! 
 %<f%> !
@@ -287,9 +289,6 @@ LEXICON NP-ANT-F
 LEXICON NP-COG-MF
 %<np%>%<cog%>%<mf%>: SUBST ; 
 
-LEXICON NP-AL
-%<np%>%<al%>%: SUBST;
-
 !! Verbs
 !! -----
 
@@ -405,7 +404,7 @@ LEXICON TIT
 %<title%>: # ; 
 
 LEXICON ABBR
-%<abbr%>: # ; 
+%<abbr%>: SUBST ; 
 
 LEXICON CA
 %<cnjadv%>: # ;
@@ -927,6 +926,11 @@ LEXICON NP-ORG
 %<np%>%<org%>: SUBST ;
 %<np%>%<org%>%<attr%>: # ;
 
+LEXICON NP-AL
+
+%<np%>%<al%>%<nom%>: # ;
+%<np%>%<al%>: SUBST ;
+%<np%>%<al%>%<attr%>: # ;
 
 LEXICON SUBST
 
