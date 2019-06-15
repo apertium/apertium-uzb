@@ -561,7 +561,9 @@ LEXICON GERUND
 
 LEXICON IMPERATIVE
 
-%<imp%>:%> # ;
+%<imp%>%<p2%>%<sg%>:%> # ;
+%<imp%>%<p2%>%<pl%>:%>ng # ; 
+%<imp%>%<p2%>%<pl%>:%>ngiz # ; 
 
 
 LEXICON INDEF-PAST
@@ -1114,7 +1116,7 @@ ar:ar MIST ;
 lgan:lgan MIST ; !""
 po:po MIST ; ! ""
 w:w MIST ; 
-m:m MIST ; 
+
 i:i MIST ; 
 a:a MIST ; 
 q:q MIST ; 
@@ -1145,7 +1147,7 @@ sh:sh MIST ; ! ""
 av:av MIST ; ! ""
 ta:ta MIST ; ! ""
 larda:larda MIST ; ! ""
-gacha:gacha MIST ; ! ""
+gacha:gacha POST ; ! ""
 l:l MIST ; ! ""
 sh:sh MIST ; ! ""
 x:x MIST ; ! ""
@@ -1335,7 +1337,7 @@ qoz:qoz N1 ; !
 %{🂡%}%<guess%>:%{🂡%} N1 ;
 
 !!!!SPECIAL!!!!
-
+m:m ABBR ; 
 km:km ABBR ;  ! "km" ! FIXME: abbr
 ton:ton ABBR ; ! "ton"
 cm:cm ABBR ;  ! "cm"
@@ -1365,10 +1367,10 @@ doc:doc N1 ;
 title:title N1 ; 
 wiki:wiki N1 ; 
 wikipedia:wikipedia N1 ; 
-NGC:NGC N1 ; ! ""
+NGC:NGC ABBR ; ! ""
 zichligi:zichligi N1 ; ! ""
 oʻrtacha:oʻrtacha N1 ; ! ""
-IC:IC N1 ; ! ""
+IC:IC ABBR ; ! ""
 zg:zg N1 ; ! ""
 
 !!!!! NATIONALITIES !!!!
@@ -3394,9 +3396,9 @@ sugʻur:sugʻur VERB-TV ; ! "pull out"
 tugat:tugat VERB-TV ; ! "to finish"
 tuz:tuz VERB-TV ; ! "to form"
 qur:qur VERB-TV ; ! "build found"
-ishlan:ishlan VERB-TV ; ! ""
+ishlan:ishlan VERB-IV ; ! ""
 ishlat:ishlat VERB-TV ; ! ""
-hisoblan:hisoblan VERB-TV ; ! ""
+hisoblan:hisoblan VERB-IV ; ! ""
 boʻl:boʻl VERB-IV ; ! "be"
 boʻl:boʻl VERB-TV ; ! "divide"
 sodir% boʻl:sodir% boʻl VERB-IV ; ! ""
