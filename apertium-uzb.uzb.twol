@@ -17,8 +17,8 @@ Vow =     A E I O U
           a e i o u 
           %{A%} %{I%} %{E%} %{u%} ;
           
-Cons = b c d f g h j k l m n p q r s t v z x 
-       B C D F G H J K L M N P Q R S T V Z X 
+Cons = b c d f g h j k l m n p q r s t v z x y
+       B C D F G H J K L M N P Q R S T V Z X Y
        %{D%} %{K%} %{Q%} %{G%} %{N%} %{L%} %{M%} %{S%} %{n%} ; ! %- ;
 
 Rules
