@@ -1149,7 +1149,7 @@ p:p MIST ; ! ""
 f:f MIST ; ! !
 ba:ba MIST ; !!
 h:h MIST ; ! ""
-mln:mln MIST ; ! ""
+mln:mln ABBR ; ! ""
 sh:sh MIST ; ! ""
 av:av MIST ; ! ""
 ta:ta MIST ; ! ""
@@ -1209,7 +1209,22 @@ bir%-bir:bir%-bir PRON-IND ; ! ""
 
 
 LEXICON Nouns
+yog':yog' N1 ; !
+chiqaruvchi:chiqaruvchi N1 ; !
+majmui:majmui N1 ; !
+musiqal:musiqal N1 ; !
+choʻl:choʻl N1 ; !
+isteʼmol:isteʼmol N1 ; !
+chidam:chidam N1 ; !
+tugun:tugun N1 ; !
+klaster:klaster N1 ; !
+qoʻngʻir:qoʻngʻir N1 ; !
+doktor:doktor N1 ; !
+rejissyor:rejissyor N1 ; !
+sheʼriyat:sheʼriyat N1 ; !
 sof:sof N1 ; !
+goʻsht:goʻsht N1 ; !
+
 qurilish:qurilish N1 ; !
 kir:kir N1 ; !
 kilometr:kilometr N1 ; !
@@ -1509,6 +1524,13 @@ Oltoy:Oltoy NP-TOP ; !
 Oʻsh:Oʻsh NP-TOP ; !
 Qoʻqon:Qoʻqon NP-TOP ; !
 Elzas:Elzas NP-TOP ; !
+Xiva:Xiva NP-TOP ; !
+Côte:Côte NP-TOP ; !
+Aragón:Aragón NP-TOP ; !
+Jersey:Jersey NP-TOP ; !
+Bad:Bad NP-TOP ; !
+Cher:Cher NP-TOP ; !
+Bas:Bas NP-TOP ; !
 
 Anqara:Anqara NP-TOP ; ! ""
 Ankara:Ankara NP-TOP ; ! ""
@@ -2549,7 +2571,11 @@ Izmir:Izmir NP-TOP ; ! "Izmir"
 
 
 
-
+am:am NP-AL ; !
+les:les NP-AL ; !
+lès:lès NP-AL ; !
+Sankt:Sankt NP-AL ; !
+St:St NP-AL ; !
 la:la NP-AL ; !
 La:La NP-AL ; !
 Sunbula:Sunbula NP-AL ; !
@@ -2831,6 +2857,11 @@ aloqali:aloqali POST ; ! "concerning"
 
 
 LEXICON Adjectives
+ikkita:ikkita A1 ; !
+och:och A1 ; !
+
+qoʻngʻir:qoʻngʻir A1 ; !
+sheʼriy:sheʼriy A1 ; !
 choʻziq:choʻziq A1 ; !
 sunʼiy:sunʼiy A1 ; !
 zamona:zamona A1 ; !
@@ -3045,7 +3076,7 @@ oxirgi:oxirgi A1 ; ! "last"
 qimmatbaho:qimmatbaho A1 ; ! "priceless"
 karrali:karrali A1 ; ! "divisible"
 yumshoq:yumshoq A1 ; ! "soft"
-yarim:yarim A1 ; ! "half"
+yarim:yar%{u%}m A1 ; ! "half"
 pastki:pastki A1 ; ! "low"
 lirik:lirik A1 ; ! "lyric"
 professional:professional A1 ; ! "professional"
@@ -3296,6 +3327,13 @@ qay:qay DET-DEM ; ! ""
 
 
 LEXICON Verbs
+koʻch:koʻch VERB-IV ; !
+oq:oq VERB-IV ; !
+qoʻsh:qoʻsh VERB-TV ; !
+bogʻlan:bogʻlan VERB-IV ; !
+bagʻishlan:bagʻishlan VERB-IV ; !
+bogʻla:bogʻla VERB-TV ; !
+shaklla:shaklla VERB-TV ; 
 quril:quril VERB-IV ; !
 %{🂡%}%<guess%>:%{🂡%} VERB-TD ; ! ""
 tavallud% top:tavallud% top VERB-IV ; !
@@ -3681,6 +3719,7 @@ e:e VERB-COPULA ; ! "special copula"
 LEXICON Interjections
 salom:salom INTERJ ; !
 bas:bas INTERJ ; !
+of:of INTERJ ; !
 
 ey:ey IJ ; ! "hey"
 barakalla:barakalla IJ ; ! "whiz"
@@ -3724,6 +3763,7 @@ togridan-togri:togridan-togri ADV1 ; !
 toygarliksiz:toygarliksiz ADV1 ; !
 uyluksiz:uyluksiz ADV1 ; !
 madaniyatsiz:madaniyatsiz A1 ; !
+hech:hech ADV1 ; !
 
 albatta:albatta ADV1 ; ! "certainly"
 ana:ana ADV1 ; ! "there"
@@ -4064,6 +4104,7 @@ ular%<prn%>%<pers%>%<p3%>%<pl%>%<loc%>:ularda # ;
 ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan # ; 
 
 LEXICON Common
+oʻtkazish:oʻtkazish N1 ; !
 
 aeroport:aeroport N1 ; ! "airport"
 afgʻon:afgʻon N1 ; ! "Afghan"
@@ -4619,6 +4660,7 @@ jamoat:jamoat N1 ; ! "society"
 jang:jang N1 ; ! "battle"
 jang:jang N1 ; ! "war"
 jan:jan N1 ; ! ""
+jan:jan ABBR ; ! ""
 janr:janr N1 ; ! "genre"
 janub:janub N1 ; ! "south"
 jarayon:jarayon N1 ; ! "process"
@@ -7778,7 +7820,8 @@ bashorat:bashorat N1 ; !
 bashoratli:bashoratli A2 ; ! 
 baʻd:baʻd ADV ; ! 
 baʻdaz:baʻdaz ADV ; ! 
-baʻzan:baʻzan ADV ; ! 
+baʻzan:baʻzan ADV ; !
+baʼzan:baʼzan ADV ; !
 baʻzi:baʻzi PRON-IND ; ! 
 baʻzibir:baʻzibir PRON-IND ; ! 
 baʻzida:baʻzida PRON-IND ; ! 
