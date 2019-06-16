@@ -537,6 +537,7 @@ LEXICON NON-FINITE
 %<ger_abst%>:%>ish SUBST ;
 
 %<gna_perf%>:%>ib # ;
+%<gna_perf%>:%>b # ; !! we should use special characters for these. will get to them later
 %<gna_after%>:%>gach # ;
 
 %<gpr_pres%>:%>ayotgan # ;
@@ -562,8 +563,11 @@ LEXICON GERUND
 LEXICON IMPERATIVE
 
 %<imp%>%<p2%>%<sg%>:%> # ;
+%<imp%>%<p2%>%<sg%>:%>gin # ;
+%<imp%>%<p3%>%<sg%>:%>sin # ;
 %<imp%>%<p2%>%<pl%>:%>ng # ; 
 %<imp%>%<p2%>%<pl%>:%>ngiz # ; 
+%<imp%>%<p3%>%<pl%>:%>sinlar # ;
 
 
 LEXICON INDEF-PAST
@@ -1162,11 +1166,11 @@ to:to MIST ; ! ""
 she:she MIST ; ! ""
 qo:qo MIST ; ! ""
 qad:qad MIST ; ! ""
-mm:mm MIST ; ! ""
+mm:mm ABBR ; ! ""
 zan:zan MIST ; ! ""
 la:la MIST ; ! ""
 ro:ro MIST ; ! ""
-sm:sm MIST ; ! ""
+sm:sm ABBR ; ! ""
 en:sm MIST ; ! ""
 z:z MIST ; ! ""
 le:le MIST ; ! ""
@@ -1210,6 +1214,20 @@ mas:mas N1 ; !
 kvadrat:kvadrat N1 ; !
 departament:departament N1 ; !
 oʻz:oʻz N1 ; !
+oʻgʻil% bola:oʻgʻil% bola N1 ; !
+etuvchi:etuvchi N1 ; !
+oʻrmon:oʻrmon N1 ; !
+roʻy:roʻy N1 ; !
+terma:terma N1 ; !
+qora:qora N1 ; !
+qad:qad N1 ; !
+afzal% koʻrish:afzal% koʻrish N1 ; !
+hal:hal N1 ; !
+yengil% oyoq:yengil% oyoq N1 ; !
+
+dorivor:dorivor N1 ; !
+meʼmoriy:meʼmoriy N1 ; !
+
 
 emizuvchi:emizuvchi N1 ; !
 lari:lari N1 ; !
@@ -1481,6 +1499,12 @@ Tavrot:Tavrot NP-ORG ; ! "CORRECT"
 
 
 Antanta:Antanta NP-AL ; ! ""
+Lot:Lot NP-TOP ; !
+Oltoy:Oltoy NP-TOP ; !
+Oʻsh:Oʻsh NP-TOP ; !
+Qoʻqon:Qoʻqon NP-TOP ; !
+Elzas:Elzas NP-TOP ; !
+
 Anqara:Anqara NP-TOP ; ! ""
 Ankara:Ankara NP-TOP ; ! ""
 Rumeli:Rumeli NP-TOP ; ! ""
@@ -2520,7 +2544,15 @@ Izmir:Izmir NP-TOP ; ! "Izmir"
 
 
 
-
+la:la NP-AL ; !
+La:La NP-AL ; !
+Sunbula:Sunbula NP-AL ; !
+Mac:Mac NP-AL ; !
+le:le NP-AL ; !
+Le:Le NP-AL ; !
+al:al NP-AL ; !
+ibn:ibn NP-AL ; !
+New:New NP-AL ; !
 Centre:Centre NP-AL ; ! ""
 TV:TV NP-AL ; ! ""
 HIV:HIV NP-AL ; ! "" @?@
@@ -2725,9 +2757,13 @@ Tribune:Tribune NP-AL ; ! ""
 Centre:Centre NP-AL ; ! ""
 
 LEXICON Postpositions
+orqasından:orqasından POST ; !
+mobaynida:mobaynida POST ; !
 
 !Nominative
-kabi:kabi POST-NOM; ! "like/such as"
+
+
+kabi:kabi POST-NOM ; ! "like/such as"
 uchun:uchun POST-NOM ; ! "for/because"
 bilan:bilan POST-NOM ; ! "with"
 qadar:qadar POST-NOM ; ! "till/up to"
@@ -2789,6 +2825,20 @@ aloqali:aloqali POST ; ! "concerning"
 
 
 LEXICON Adjectives
+choʻziq:choʻziq A1 ; !
+sunʼiy:sunʼiy A1 ; !
+zamona:zamona A1 ; !
+teng:teng A1 ; !
+ikkinchi:ikkinchi A1 ; !
+tumanlik:tumanlik A1 ; !
+mexanik:mexanik A1 ; !
+tik:tik A1 ; !
+elliptik:elliptik A1 ; !
+namoyon:namoyon A1 ; !
+Sovet:Sovet A1 ; !
+past:past A1 ; !
+markaziy:markaziy A1 ; !
+
 mansub:mansub A1 ; !
 vujud:vujud A1 ; !
 mavjud:mavjud A1 ; !
@@ -3242,7 +3292,35 @@ qay:qay DET-DEM ; ! ""
 LEXICON Verbs
 
 %{🂡%}%<guess%>:%{🂡%} VERB-TD ; ! ""
-
+tavallud% top:tavallud% top VERB-IV ; !
+umid% qil:umid% qil VERB-TV ; !
+soʻroq% qil:soʻroq% qil VERB-TV ; !
+joriy% qil:joriy% qil VERB-TV ; !
+magʻlub% et:magʻlub% et VERB-TV ; !
+uz:uz VERB-TV ; !
+bagʻishla:bagʻishla VERB-TV ; !
+moʻljalla:moʻljalla VERB-TV ; !
+deyiladi:deyiladi VERB-IV ; !
+baqil:baqil VERB-IV ; !
+deyil:deyil VERB-IV ; !
+sodir% boʻl:sodir% boʻl VERB-IV ; !
+nobut% boʻl:nobut% boʻl VERB-IV ; !
+belgilan:belgilan VERB-IV ; !
+moʻljallan:moʻljallan VERB-IV ; !
+oʻs:oʻs VERB-IV ; !
+qopla:qopla VERB-TV ; !
+oʻyna:oʻyna VERB-TV ; !
+del:del VERB-TV ; !
+taʻmini% bil:taʻmini% bil VERB-TV ; !
+expluatatsiya% qil:expluatatsiya% qil VERB-TV ; !
+hakamlik% qil:hakamlik% qil VERB-TV ; !
+toshboʻron% qil:toshboʻron% qil VERB-TV ; !
+urgu% ber:urgu% ber VERB-TV ; !
+rivojlantir:rivojlantir VERB-TV ; !
+quzat:quzat VERB-TV ; !
+mağlub% et:mağlub% et VERB-TV ; !
+sodir% et:sodir% et VERB-TV ; !
+kuv:kuv VERB-TV ; !
 qatnash:qatnash VERB-IV ; ! "to attend"
 pasay:pasay VERB-TV ; ! "to lower"
 tarqal:tarqal VERB-TV ; ! "spread"
@@ -3595,6 +3673,8 @@ e:e VERB-COPULA ; ! "special copula"
 
 
 LEXICON Interjections
+salom:salom INTERJ ; !
+bas:bas INTERJ ; !
 
 ey:ey IJ ; ! "hey"
 barakalla:barakalla IJ ; ! "whiz"
@@ -3629,6 +3709,15 @@ nimaga:nimaga ADV-ITG ; ! "why"
 necha:necha ADV1 ; !
 ta:ta ADV1 ; !
 soʻng:soʻng ADV1 ; !
+rasman:rasman ADV1 ; !
+oldin:oldin ADV1 ; !
+doimo:doimo ADV1 ; !
+maxsus:maxsus ADV1 ; !
+qayta:qayta ADV1 ; !
+togridan-togri:togridan-togri ADV1 ; !
+toygarliksiz:toygarliksiz ADV1 ; !
+uyluksiz:uyluksiz ADV1 ; !
+madaniyatsiz:madaniyatsiz A1 ; !
 
 albatta:albatta ADV1 ; ! "certainly"
 ana:ana ADV1 ; ! "there"
@@ -4948,7 +5037,6 @@ olim:olim N1 ; ! "scholar"
 olmos:olmos N1 ; ! "diamond"
 olov:olov N1 ; ! "flame"
 oltin:oltin N1 ; ! "gold"
-Oltoy:Oltoy N1 ; ! "Altay"
 oluvchi:oluvchi N1 ; ! "customer
 omad:omad N1 ; ! "luck"
 ombor:ombor N1 ; ! "warehouse"
