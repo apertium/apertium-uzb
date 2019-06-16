@@ -179,7 +179,8 @@ Multichar_Symbols
 %{s%}		   ! Becomes "s" after a vowel, otherwise null
 %{i%}		   ! Becomes as "i" after a consonant, otherwise null
 %{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
-%{K%}
+%{K%}			!k-g
+%{Q%}			!q-g'
 
 ! Archiphonemes and escaped symbols (from apertium-kaz) ! "FIXME"
 
@@ -1288,7 +1289,7 @@ ozbek:ozbek N1 ; !
 kalifalik:kalifalik N1 ; !
 yevropalik:yevropalik N1 ; !
 bosniyalik:bosniyalik N1 ; !
-zichlik:zichlik N1 ; !
+zichlik:zichli%{K%} N1 ; !
 kasallık:kasallık N1 ; !
 xonlik:xonlik N1 ; !
 iroqlik:iroqlik N1 ; !
@@ -1389,6 +1390,7 @@ NGC:NGC ABBR ; ! ""
 zichligi:zichligi N1 ; ! ""
 oʻrtacha:oʻrtacha N1 ; ! ""
 IC:IC ABBR ; ! ""
+lot:lot ABBR ; !
 zg:zg N1 ; ! ""
 
 !!!!! NATIONALITIES !!!!
@@ -1543,10 +1545,10 @@ Bretan:Bretan NP-TOP ; ! ""
 Holstein:Holstein NP-TOP ; ! ""
 Mayd:Mayd NP-TOP ; ! ""
 Lake:Lake NP-TOP ; ! ""
-Kreis:Kreis NP-TOP ; ! ""
+Kreis:Kreis NP-COG-MF ; ! ""
 Rhin:Rhin NP-TOP ; ! ""
 Janubiy:Janubiy NP-TOP ; ! ""
-Arslon:Arslon NP-TOP ; ! ""
+Arslon:Arslon NP-ANT-M ; ! ""
 Ain:Ain NP-TOP ; ! ""
 Puy:Puy NP-TOP ; ! ""
 Drôme:Drôme NP-TOP ; ! ""
@@ -1593,6 +1595,7 @@ Landes:Landes NP-TOP ; ! "Landes"
 Oise:Oise NP-TOP ; 
 Somme:Somme NP-TOP ; 
 Franche:Franche NP-TOP ; 
+Franche-Comté:Franche-Comté NP-TOP ; !
 Comté:Comté NP-TOP ; 
 Buxoro:Buxoro NP-TOP ; ! "Buxoro (province of Uzbekistan)
 Aisne:Aisne NP-TOP ; ! ""
@@ -1897,13 +1900,13 @@ Florida:Florida NP-TOP ; ! ""
 Burgundiya:Burgundiya NP-TOP ; ! ""
 Missouri:Missouri NP-TOP ; ! ""
 Rossiya:Rossiya NP-TOP ; ! ""
-Qirgʻziston:Qirgʻiziston NP-TOP ; ! ""
+Qirgʻiziston:Qirgʻiziston NP-TOP ; ! ""
 Iowa:Iowa NP-TOP ; ! ""
 Normandiya:Normandiya NP-TOP ; ! ""
-County:County NP-TOP ; ! ""
+County:County NP-AL ; ! ""
 departament:departament NP-TOP ; ! ""
 Olmoniya:Olmoniya NP-TOP ; ! ""
-Saint:Saint NP-TOP ; ! ""
+Saint:Saint NP-AL ; ! ""
 Rhône:Rhône NP-TOP ; ! ""
 Lotaringiya:Lotaringiya NP-TOP ;  ! ""
 New% York:New% York NP-TOP ; ! ""
@@ -1964,7 +1967,7 @@ Iskandar:Iskandar NP-TOP ; ! ""
 City:City NP-TOP ; ! ""
 Arzirum:Arzirum NP-TOP ; ! ""
 Sivas:Sivas NP-TOP ; ! ""
-
+Karolina:Karolina NP-ANT-F ; !
 Havo:Havo NP-ANT-F ; ! !!"EVE"
 Odam:Odam NP-ANT-M ; ! "ADAM"
 Marina:Marina NP-ANT-F ; ! ""
@@ -3290,7 +3293,7 @@ qay:qay DET-DEM ; ! ""
 
 
 LEXICON Verbs
-
+quril:quril VERB-IV ; !
 %{🂡%}%<guess%>:%{🂡%} VERB-TD ; ! ""
 tavallud% top:tavallud% top VERB-IV ; !
 umid% qil:umid% qil VERB-TV ; !
@@ -3323,7 +3326,7 @@ sodir% et:sodir% et VERB-TV ; !
 kuv:kuv VERB-TV ; !
 qatnash:qatnash VERB-IV ; ! "to attend"
 pasay:pasay VERB-TV ; ! "to lower"
-tarqal:tarqal VERB-TV ; ! "spread"
+tarqal:tarqal VERB-IV ; ! "spread"
 gulla:gulla VERB-IV ; ! "to bloom"
 keltir:keltir VERB-TV ; ! "to bring"
 bula:bula VERB-TV ; ! "to dip in"
@@ -3620,7 +3623,7 @@ yoz:yoz VERB-TV ; ! "to write"
 gel:gel VERB-IV ; ! "to come"
 top:top VERB-TV ; ! "to find"
 atal:atal VERB-IV ; ! "to be named"
-ishla:ishla VERB-IV ; ! "to work, function"
+ishla:ishla VERB-TV ; ! "to work, function"
 saqlan:saqlan VERB-IV ; ! "to be kept, saved"
 qoplan:qoplan VERB-IV ; ! "to be covered"
 boshlan:boshlan VERB-TV ; ! "to start"
@@ -4176,8 +4179,7 @@ birgalik:birgalik N1 ; ! "unity"
 birikma:birikma N1 ; ! "combination"
 birlashgan:birlashgan N1 ; ! "united"
 birlashma:birlashma N1 ; ! "union"
-birlik:birlik N1 ; ! "union, unity"
-birlik:birlik N1 ; ! "unity"
+birlik:birli%{K%} N1 ; ! "union, unity"
 birodar:birodar N1 ; ! "brother"
 bit:bit N1 ; ! "louse"
 biznes:biznes N1 ; ! "business"
@@ -4206,7 +4208,7 @@ boshchilik:boshchilik N1 ; ! "leardership"
 boshlangʻich:boshlangʻich N1 ; ! "start"
 boshlanish:boshlanish N1 ; ! "beginning"
 boshlig:boshlig N1 ; ! "leader"
-boshliq:boshliq N1 ; ! "head"
+boshliq:boshli%{Q%} N1 ; ! "head"
 boshqarish:boshqarish N1 ; ! "management"
 boshqarma:boshqarma N1 ; ! "management"
 boshqaruvchi:boshqaruvchi N1 ; ! "manager"
@@ -5181,7 +5183,7 @@ qirollik:qirollik N1 ; ! "kingdom"
 qirol:qirol N1 ; ! "king"
 qir:qir N1 ; ! "grassland"
 qishlog:qishlog N1 ; ! "village"
-qishloq:qishloq N1 ; ! "village"
+qishloq:qishlo%{Q%} N1 ; ! "village"
 qish:qish N1 ; ! "winter"
 qism:qism N1 ; ! "part"
 qism:qism N1 ; ! "part, chapter"
@@ -5663,7 +5665,7 @@ uya:uya N1 ; ! "nest"
 uyushma:uyushma N1 ; ! "union"
 uy:uy N1 ; ! "home"
 uy:uy N1 ; ! "house"
-uzunlik:uzunlik N1 ; ! "length"
+uzunlik:uzunli%{K%} N1 ; ! "length"
 vafot:vafot N1 ; ! "death"
 vakillik:vakillik N1 ; ! "rapresentance"
 vakil:vakil N1 ; ! "representative"
@@ -7482,7 +7484,7 @@ baland:baland N1 ; !
 balandla:balandla V-IV ; ! 
 balandlat:balandlat V-TV-CAUS ; ! 
 balandlash:balandlash V-IV ; ! 
-balandlik:balandlik N1 ; ! 
+balandlik:balandli%{K%} N1 ; ! 
 balandparvoz:balandparvoz A2 ; ! 
 balandparvozlik:balandparvozlik N1 ; ! 
 baland%-past:baland%-past A2 ; ! 
