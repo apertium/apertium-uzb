@@ -2,7 +2,7 @@ Alphabet
  A B C D E F G H I J K L M N O P Q R S T U V W Y Z X
  a b c d e f g h i j k l m n o p q r s t u v w y z x
  %0 1 2 3 4 5 6 7 8 9
- %{K%}:k %{l%}:l %{L%}:l %{M%}:m %{N%}:n %{G%}:g %{D%}:d  ! Cns
+ %{K%}:k  %{Q%}:q %{l%}:l %{L%}:l %{M%}:m %{N%}:n %{G%}:g %{D%}:d  ! Cns
  %{A%}:a %{I%}:i %{E%}:e ! Vow
 
 %{s%}:s %{S%}:s %{i%}:i %{E%}:y %{K%}:k %{n%}:n 
@@ -19,7 +19,7 @@ Vow =     A E I O U
           
 Cons = b c d f g h j k l m n p q r s t v z x y
        B C D F G H J K L M N P Q R S T V Z X Y
-       %{D%} %{K%} %{G%} %{N%} %{L%} %{M%} %{S%} %{n%} ; ! %- ;
+       %{D%} %{K%} %{Q%} %{G%} %{N%} %{L%} %{M%} %{S%} %{n%} ; ! %- ;
 
 Rules
 
@@ -33,6 +33,9 @@ Rules
 
 "{K} becomes g when it is before a vowel"
 %{K%}:g <=>  _ %>: (:0) :Vow ;
+
+"{Q} becomes gʻ when it is before a vowel"
+%{Q%}:gʻ <=>  _ %>: (:0) :Vow ;
 
 "{i} becomes i when following a consonant"
 %{i%}:0 <=> :Vow %>: _ ;
