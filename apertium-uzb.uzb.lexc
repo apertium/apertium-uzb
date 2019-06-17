@@ -1224,6 +1224,18 @@ rejissyor:rejissyor N1 ; !
 sheʼriyat:sheʼriyat N1 ; !
 sof:sof N1 ; !
 goʻsht:goʻsht N1 ; !
+and:and N1 ; !
+kulrang:kulrang N1 ; !
+oʻlchash:oʻlchash N1 ; !
+manbai:manbai N1 ; !
+bogʻi:bogʻi N1 ; !
+ekanlik:ekanlik N1 ; !
+halok:halok N1 ; !
+metal:metal N1 ; !
+koʻmir:koʻmir N1 ; !
+ixtisos:ixtisos N1 ; !
+harorat:harorat N1 ; !
+qogʻoz:qogʻoz N1 ; !
 
 qurilish:qurilish N1 ; !
 kir:kir N1 ; !
@@ -1531,6 +1543,13 @@ Jersey:Jersey NP-TOP ; !
 Bad:Bad NP-TOP ; !
 Cher:Cher NP-TOP ; !
 Bas:Bas NP-TOP ; !
+Jura:Jura NP-TOP ; !
+Orne:Orne NP-TOP ; !
+Indre:Indre NP-TOP ; !
+Sainte:Sainte NP-TOP ; !
+Marth:Marth NP-TOP ; !
+Qoraqalpogʻiston:Qoraqalpogʻiston NP-TOP ; !
+Boku:Boku NP-TOP ; !
 
 Anqara:Anqara NP-TOP ; ! ""
 Ankara:Ankara NP-TOP ; ! ""
@@ -2857,9 +2876,13 @@ aloqali:aloqali POST ; ! "concerning"
 
 
 LEXICON Adjectives
+sovet:sovet A1 ; !
+
 ikkita:ikkita A1 ; !
 och:och A1 ; !
-
+toʻq:toʻq A1 ; !
+hududiy:hududiy A1 ; !
+maʼnaviy:maʼnaviy A1 ; 
 qoʻngʻir:qoʻngʻir A1 ; !
 sheʼriy:sheʼriy A1 ; !
 choʻziq:choʻziq A1 ; !
@@ -3327,6 +3350,9 @@ qay:qay DET-DEM ; ! ""
 
 
 LEXICON Verbs
+hisoblash:hisoblash VERB-IV ; !
+eri:eri VERB-IV ; !
+
 koʻch:koʻch VERB-IV ; !
 oq:oq VERB-IV ; !
 qoʻsh:qoʻsh VERB-TV ; !
@@ -3360,6 +3386,14 @@ expluatatsiya% qil:expluatatsiya% qil VERB-TV ; !
 hakamlik% qil:hakamlik% qil VERB-TV ; !
 toshboʻron% qil:toshboʻron% qil VERB-TV ; !
 urgu% ber:urgu% ber VERB-TV ; !
+boq:boq VERB-TV ; !
+dir:dir VERB-TV ; !
+qarat:qarat VERB-TV ; !
+nomlan:nomlan VERB-IV ; !
+saqla:saqla VERB-TV ; !
+tasvirla:tasvirla VERB-TV ; !
+taʻmini% bil:taʻmini% bil VERB-TV ; !
+
 rivojlantir:rivojlantir VERB-TV ; !
 quzat:quzat VERB-TV ; !
 mağlub% et:mağlub% et VERB-TV ; !
@@ -3958,6 +3992,7 @@ u% holda:u% holda CA ; ! "then/in that case"
 unday% degan% bilan:unday% degan% bilan CA ; ! ""
 ustiga:ustiga CA ; ! "on the top of it/besides"
 va:va CC ; ! "and"
+ya:ya CA ; !
 xabaricha:xabaricha CA ; ! ""
 xabar% qilishicha:xabar% qilishicha CA ; ! ""
 yaʻni:yaʻni CA ; ! "in other words"
@@ -4105,6 +4140,7 @@ ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan # ;
 
 LEXICON Common
 oʻtkazish:oʻtkazish N1 ; !
+qalʼa:qalʼa N1 ; !
 
 aeroport:aeroport N1 ; ! "airport"
 afgʻon:afgʻon N1 ; ! "Afghan"
