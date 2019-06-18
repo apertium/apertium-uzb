@@ -3379,7 +3379,8 @@ qay:qay DET-DEM ; ! ""
 LEXICON Verbs
 hisoblash:hisoblash VERB-IV ; !
 eri:eri VERB-IV ; !
-
+ovlan:ovlan VERB-IV ; !
+ishlay:ishlay VERB-IV ; !
 koʻch:koʻch VERB-IV ; !
 oq:oq VERB-IV ; !
 qoʻsh:qoʻsh VERB-TV ; !
@@ -7923,6 +7924,7 @@ Swift:Swift NP-COG-MF ; !
 Aflotun:Aflotun NP-ANT-M ; ! "Plato"
 Peterburg:Peterburg NP-TOP ; !
 Reyn:Reyn NP-TOP ; !
+Eure:Eure NP-TOP ; !
 
 Buxoro:Buxoro NP-TOP ; ! "Bukhara"
 Afrika:Afrika NP-TOP ; ! "Africa"
