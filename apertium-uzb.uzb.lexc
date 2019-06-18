@@ -95,7 +95,7 @@ Multichar_Symbols
 %<past%>      ! -{G}{A}н
 %<ifi%>       ! -{D}{I}
 %<evid%>      ! -{I}пт{I}
-%<fut%>       ! -{I}р
+%<fut%>       ! -adigan
 %<fut_plan%>  ! -{M}{A}{K}
 %<pih%>       ! -{E}тін       ! ~past imperfect ~"used to"
 
@@ -478,6 +478,7 @@ EVIDENTIAL-PAST ;
 NON-FINITE ;
 PERMISSIVE ;
 IMPERATIVE ;
+FUT ; 
 
 
 
@@ -596,6 +597,9 @@ LEXICON PRES-CONT
 LEXICON AORIST
 
 %<aor%>:%>%{E%} PERS3 ;
+
+LEXICON FUT
+%<fut%>:%>%{E%}digan PERS ;
 
 LEXICON V-PERS-S1-NO3PERSON
 
@@ -2410,6 +2414,7 @@ Ilohiy:Ilohiy NP-ANT-M ; ! ""
 Muhammad:Muhammad NP-ANT-M ; ! ""
 
 Azamat:Azamat NP-ANT-M ; ! ""
+Land:Land NP-COG-MF ; !
 
 Fargʻona:Fargʻona NP-COG-MF ; ! ""
 Rahimov:Rahimov NP-COG-MF; ! ""
