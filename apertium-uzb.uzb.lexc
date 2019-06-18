@@ -1121,7 +1121,7 @@ ir:ir MIST ; !!
 ma:ma MIST ; !!
 ida:ida MIST ;
 FA:FA ABBR ;
-lab:lab MIST ; 
+lab:lab N1  ; 
 iy:iy MIST ; 
 ar:ar MIST ; 
 lgan:lgan MIST ; !""
@@ -1213,6 +1213,19 @@ bir%-bir:bir%-bir PRON-IND ; ! ""
 
 
 LEXICON Nouns
+moliya:moliya N1 ; !
+gʻoʻza:gʻoʻza N1 ; !
+qoʻllash:qoʻllash N1 ; !
+choʻkindi:choʻkindi N1 ; !
+koʻk:koʻk N1 ; !
+tahlil:tahlil N1 ; !
+choʻpon:choʻpon N1 ; !
+vayron:vayron N1 ; !
+sheʼr:sheʼr N1 ; !
+navbat:navbat N1 ; !
+poʻlat:poʻlat N1 ; !
+boʻz:boʻz N1 ; !
+
 yog':yog' N1 ; !
 chiqaruvchi:chiqaruvchi N1 ; !
 majmui:majmui N1 ; !
@@ -1534,7 +1547,7 @@ Tavrot:Tavrot NP-ORG ; ! "CORRECT"
 !!!!!! TOPONYMS !!!!!!!
 
 
-Antanta:Antanta NP-AL ; ! ""
+
 Lot:Lot NP-TOP ; !
 Oltoy:Oltoy NP-TOP ; !
 Oʻsh:Oʻsh NP-TOP ; !
@@ -1962,6 +1975,7 @@ Minnesota:Minnesota NP-TOP ; ! ""
 Fargʻona:Fargʻona NP-TOP ; ! ""
 Pfalz:Pfalz NP-TOP ; ! ""
 Haute:Haute NP-TOP ; ! ""
+OʻzR:OʻzR NP-AL ; !
 
 Emilia:Emilia NP-TOP ; ! ""
 Lons:Lons NP-TOP ; ! ""
@@ -2593,8 +2607,10 @@ Izmir:Izmir NP-TOP ; ! "Izmir"
 
 
 
+bei:bei NP-AL ; !
+Choʻpon:Choʻpon NP-AL ; !
 
-
+Antanta:Antanta NP-AL ; ! ""
 am:am NP-AL ; !
 les:les NP-AL ; !
 lès:lès NP-AL ; !
@@ -2882,7 +2898,13 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 sovet:sovet A1 ; !
-
+karra:karra A1 ; !
+jalb:jalb A1 ; !
+ogʻzaki:ogʻzaki A1 ; !
+qurolli:qurolli A1 ; !
+jinsli:jinsli A1 ; !
+qavatli:qavatli A1 ; !
+etnik:etnik A1 ; !
 ikkita:ikkita A1 ; !
 och:och A1 ; !
 toʻq:toʻq A1 ; !
@@ -3803,6 +3825,13 @@ toygarliksiz:toygarliksiz ADV1 ; !
 uyluksiz:uyluksiz ADV1 ; !
 madaniyatsiz:madaniyatsiz A1 ; !
 hech:hech ADV1 ; !
+fikricha:fikricha ADV1 ; !
+oldingi:oldingi ADV1 ; !
+da:da ADV1 ; !
+nechta:nechta ADV1 ; !
+qariyb:qariyb ADV1 ; !
+doim:doim ADV1 ; !
+boʻlsada:boʻlsada ADV1 ; !
 
 albatta:albatta ADV1 ; ! "certainly"
 ana:ana ADV1 ; ! "there"
@@ -3927,6 +3956,8 @@ agarda:agarda CS ; ! "if"
 aksincha:aksincha CA ; ! "on the contrary"
 aks% xolda:aks% xolda CA ; ! "otherwise"
 ammo:ammo CC ; ! "but"
+yoxud:yoxud CC ; ! 
+
 aytishi% boʻyicha:aytishi% boʻyicha CA ; ! ""
 aytishicha:aytishicha CA ; ! "according to"
 aytkan% bilan:aytkan% bilan CA ; ! ""
@@ -4146,6 +4177,8 @@ ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan # ;
 LEXICON Common
 oʻtkazish:oʻtkazish N1 ; !
 qalʼa:qalʼa N1 ; !
+matematik:matematik N1 ; !
+optik:optik N1 ; !
 
 aeroport:aeroport N1 ; ! "airport"
 afgʻon:afgʻon N1 ; ! "Afghan"
@@ -4306,7 +4339,6 @@ bosqinchi:bosqinchi N1 ; ! "aggressor"
 botanika:botanika N1 ; ! "botany"
 bozor:bozor N1 ; ! "market"
 bronza:bronza N1 ; ! "bronze"
-bu:bu N1 ; ! "this"
 bugʻ:bugʻ N1 ; ! "vapor"
 bugʻdoy:bugʻdoy N1 ; ! "wheat"
 bugun:bugun N1 ; ! "today"
@@ -4317,7 +4349,7 @@ burgʻi:burgʻi N1 ; ! "drill"
 burun:burun N1 ; ! "nose, protuberance"
 buta:buta N1 ; ! "bush, shrub"
 butazor:butazor N1 ; ! "bushy place" 
-Buxoro:Buxoro NP-TOP ; ! "Bukhara"
+
 buyruq:buyruq N1 ; ! "command"
 buyum:buyum N1 ; ! "goods"
 chap:chap N1 ; ! "left"
@@ -7885,8 +7917,14 @@ bakir%-buqir.:bakir%-buqir. IDEO ; !
 baqirish:baqirish V-IV-COOP ; ! 
 
 LEXICON Proper
+Ulugʻbek:Ulugʻbek NP-ANT-M ; !
+Swift:Swift NP-COG-MF ; !
 
 Aflotun:Aflotun NP-ANT-M ; ! "Plato"
+Peterburg:Peterburg NP-TOP ; !
+Reyn:Reyn NP-TOP ; !
+
+Buxoro:Buxoro NP-TOP ; ! "Bukhara"
 Afrika:Afrika NP-TOP ; ! "Africa"
 Alisher:Alisher NP-ANT-M ; ! "Alisher Usmanov"
 Amudaryo:Amudaryo NP-TOP ; ! "Amu Darya"
