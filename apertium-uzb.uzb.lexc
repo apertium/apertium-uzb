@@ -443,6 +443,7 @@ LEXICON PRON-DEM-BU
 !%<prn%>%<dem%>%<com%>:nunla # ;
 !%<prn%>%<dem%>%<px3sp%>:nu%{n%} CASE ;
 %<prn%>%<dem%>%<pl%>:nlar CASE-ETC ;
+%<prn%>%<dem%>%<pl%>:lar CASE-ETC ;
 ! %<prn%>%<dem%>%<pl%>%<px3sp%>:nları%{n%} CASE ;
 
 !======================!
@@ -1246,7 +1247,7 @@ kulrang:kulrang N1 ; !
 oʻlchash:oʻlchash N1 ; !
 manbai:manbai N1 ; !
 bogʻi:bogʻi N1 ; !
-ekanlik:ekanlik N1 ; !
+ekanlik:ekanli%{K%} N1 ; !
 halok:halok N1 ; !
 metal:metal N1 ; !
 koʻmir:koʻmir N1 ; !
@@ -1261,7 +1262,6 @@ mas:mas N1 ; !
 kvadrat:kvadrat N1 ; !
 departament:departament N1 ; !
 oʻz:oʻz N1 ; !
-oʻgʻil% bola:oʻgʻil% bola N1 ; !
 etuvchi:etuvchi N1 ; !
 oʻrmon:oʻrmon N1 ; !
 roʻy:roʻy N1 ; !
@@ -1419,7 +1419,7 @@ noyab%.:noyab%. ABBR ;
 apr%.:apr%. ABBR ; ! "april"
 avg:avg ABBR ; ! "august"
 sek:sek ABBR ; ! "second"
-
+mat:mat ABBR ; ! 
 
 !!!! TO REMOVE LATER!!!!
 
@@ -1615,7 +1615,7 @@ Puy:Puy NP-TOP ; ! ""
 Drôme:Drôme NP-TOP ; ! ""
 Manche:Manche NP-TOP ; ! ""
 Dastlab:Dastlab NP-TOP ; ! ""
-Santa:Santa NP-TOP ; ! ""
+Santa:Santa NP-AL ; ! ""
 Vermont:Vermont NP-TOP ; ! ""
 Atlantiques:Atlantiques NP-TOP ; ! ""
 Wyoming:Wyoming NP-TOP ; ! ""
@@ -1784,7 +1784,8 @@ Rayhon:Rayhon NP-TOP ; ! ""
 Octeville:Octeville NP-TOP ; ! ""
 Cherbourg:Cherbourg NP-TOP ; ! ""
 Potenza:Potenza NP-TOP ; ! ""
-SSR:SSR NP-TOP ; ! ""
+SSR:SSR ABBR ; ! ""
+BMT:BMT ABBR ; !
 Huelva:Huelva NP-TOP ; ! ""
 Norvegiya:Norvegiya NP-TOP ; ! ""
 Cosenza:Cosenza NP-TOP ; ! ""
@@ -2609,6 +2610,7 @@ Izmir:Izmir NP-TOP ; ! "Izmir"
 
 bei:bei NP-AL ; !
 Choʻpon:Choʻpon NP-AL ; !
+ad:ad NP-AL ; !
 
 Antanta:Antanta NP-AL ; ! ""
 am:am NP-AL ; !
@@ -2897,6 +2899,21 @@ aloqali:aloqali POST ; ! "concerning"
 
 
 LEXICON Adjectives
+ingichka:ingichka A1 ; !
+chala:chala A1 ; !
+tomonlama:tomonlama A1 ; !
+yupqa:yupqa A1 ; !
+togʻli:togʻli A1 ; !
+shartli:shartli A1 ; !
+genetik:genetik A1 ; !
+moʻtadil:moʻtadil A1 ; !
+yorqin:yorqin A1 ; !
+bekor:bekor A1 ; !
+yaxlit:yaxlit A1 ; !
+radioaktiv:radioaktiv A1 ; !
+qatʼiy:qatʼiy A1 ; !
+chegaradosh:chegaradosh A1 ; !
+
 sovet:sovet A1 ; !
 karra:karra A1 ; !
 jalb:jalb A1 ; !
@@ -3133,6 +3150,7 @@ professional:professional A1 ; ! "professional"
 mustahkam:mustahkam A1 ; ! "durable"
 tektonik:tektonik A1 ; ! "tectonic"
 kabisa:kabisa A1 ; ! "leap"
+kabisa:kabisa N1 ; ! "leap"
 yuridik:yuridik A1 ; ! "legal"
 diniy:diniy A1 ; ! "religious"
 murakkab:murakkab A1 ; ! "complex"
@@ -3377,9 +3395,15 @@ qay:qay DET-DEM ; ! ""
 
 
 LEXICON Verbs
+ovlan:ovlan VERB-IV ; !
+choʻz:choʻz VERB-TV ; !
+oziqlan:oziqlan VERB-IV ; !
+farqlan:farqlan VERB-IV ; !
+ovlan:ovlan VERB-IV ; !
+ishlay:ishlay VERB-IV ; !
+farqla:farqla VERB-TV ; !
 hisoblash:hisoblash VERB-IV ; !
 eri:eri VERB-IV ; !
-ovlan:ovlan VERB-IV ; !
 ishlay:ishlay VERB-IV ; !
 koʻch:koʻch VERB-IV ; !
 oq:oq VERB-IV ; !
@@ -3813,6 +3837,8 @@ nimaga:nimaga ADV-ITG ; ! "why"
 
 ! More or less regular stuff
 ! ==========================
+hech:hech ADV1 ; !
+aynan:aynan ADV1 ; !
 necha:necha ADV1 ; !
 ta:ta ADV1 ; !
 soʻng:soʻng ADV1 ; !
@@ -4176,11 +4202,33 @@ ular%<prn%>%<pers%>%<p3%>%<pl%>%<loc%>:ularda # ;
 ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan # ; 
 
 LEXICON Common
+kabisa:kabisa N1 ; !
+sugʻorish:sugʻorish N1 ; !
+
+dare:dare N1 ; !
+tiklash:tiklash N1 ; !
+nurlanish:nurlanish N1 ; !
+nuqtai:nuqtai N1 ; !
+sholi:sholi N1 ; !
+qoʻzgʻoloni:qoʻzgʻoloni N1 ; !
+tikuvchilik:tikuvchilik N1 ; !
+genetik:genetik N1 ; !
+nam:nam N1 ; !
+hazm:hazm N1 ; !
+talqin:talqin N1 ; !
+boʻlganliq:boʻlganliq N1 ; !
+uruq:uruq N1 ; !
+sha-har:sha-har N1 ; !
+murojaat:murojaat N1 ; !
+balet:balet N1 ; !
+dasht:dasht N1 ; !
+eksport:eksport N1 ; !
+oltingugurt:oltingugurt N1 ; !
 oʻtkazish:oʻtkazish N1 ; !
 qalʼa:qalʼa N1 ; !
 matematik:matematik N1 ; !
 optik:optik N1 ; !
-
+sugʻorish:sugʻorish N1 ; !
 aeroport:aeroport N1 ; ! "airport"
 afgʻon:afgʻon N1 ; ! "Afghan"
 afzal%koʻrish:afzal%koʻrish N1 ; ! "preference"
@@ -5109,7 +5157,6 @@ ogʻirlik:ogʻirli%{K%} N1 ;  ! "weight"
 ogʻiz:ogʻiz N1 ; ! "mouth"
 ogʻ:ogʻ N1 ; ! "crotch?"
 oʻchma:oʻchma N1 ; ! "vengeance"
-oʻgʻil% bola:oʻgʻil% bola N1 ; ! "boy"
 oʻlim:oʻlim N1 ; ! "death"
 oʻlka:oʻlka N1 ; ! "country"
 oʻlkashunoslik:oʻlkashunosli%{K%} N1 ;  ! "regioal studies"
@@ -7925,6 +7972,11 @@ Aflotun:Aflotun NP-ANT-M ; ! "Plato"
 Peterburg:Peterburg NP-TOP ; !
 Reyn:Reyn NP-TOP ; !
 Eure:Eure NP-TOP ; !
+Venatica:Venatica NP-TOP ; !
+Eure:Eure NP-TOP ; !
+Hessen:Hessen NP-TOP ; !
+Allier:Allier NP-TOP ; !
+Kaspiy:Kaspiy NP-TOP ; !
 
 Buxoro:Buxoro NP-TOP ; ! "Bukhara"
 Afrika:Afrika NP-TOP ; ! "Africa"
