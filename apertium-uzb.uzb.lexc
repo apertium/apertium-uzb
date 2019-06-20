@@ -1210,10 +1210,33 @@ hech% qaerda:hech% qaerda PRON-NEG ; ! "nowhere"
 hech% qanday:hech% qanday PRON-NEG ; ! "not any"
 hech% qancha:hech% qancha PRON-NEG ; ! "not at all"
 
+ikkala:ikkala PRON-QNT ; !
+
 bir%-bir:bir%-bir PRON-IND ; ! ""
 
 
 LEXICON Nouns
+roʻyhat:roʻyhat N1 ; !
+elektromagnit:elektromagnit N1 ; !
+ozuqa:ozuqa N1 ; !
+sura:sura N1 ; !
+eʼtiqod:eʼtiqod N1 ; !
+xavf:xavf N1 ; !
+taʼmirlash:taʼmirlash N1 ; !
+ulush:ulush N1 ; !
+ifodalovchi:ifodalovchi N1 ; !
+issiklik:issiklik N1 ; !
+meʼmorlik:meʼmorlik N1 ; !
+oylik:oylik N1 ; !
+yogʻochsozlik:yogʻochsozlik N1 ; !
+orden:orden N1 ; !
+qorin:qorin N1 ; !
+ustun:ustun N1 ; !
+shilliq:shilliq N1 ; !
+tatar:tatar N1 ; !
+meʼmor:meʼmor N1 ; !
+quvvat:quvvat N1 ; !
+gʻisht:gʻisht N1 ; !
 moliya:moliya N1 ; !
 gʻoʻza:gʻoʻza N1 ; !
 qoʻllash:qoʻllash N1 ; !
@@ -1977,6 +2000,7 @@ Fargʻona:Fargʻona NP-TOP ; ! ""
 Pfalz:Pfalz NP-TOP ; ! ""
 Haute:Haute NP-TOP ; ! ""
 OʻzR:OʻzR NP-AL ; !
+Nyu:Nyu NP-AL ; !
 
 Emilia:Emilia NP-TOP ; ! ""
 Lons:Lons NP-TOP ; ! ""
@@ -2833,6 +2857,7 @@ Centre:Centre NP-AL ; ! ""
 LEXICON Postpositions
 orqasından:orqasından POST ; !
 mobaynida:mobaynida POST ; !
+cha:cha POST ; !
 
 !Nominative
 
@@ -2899,6 +2924,20 @@ aloqali:aloqali POST ; ! "concerning"
 
 
 LEXICON Adjectives
+kenja:kenja A1 ; !
+noyob:noyob A1 ; !
+zich:zich A1 ; !
+surunkali:surunkali A1 ; !
+xavfli:xavfli A1 ; !
+quvvatli:quvvatli A1 ; !
+suvli:suvli A1 ; !
+sari:sari A1 ; !
+oylik:oylik A1 ; !
+moʻʼtadil:moʻʼtadil A1 ; !
+oson:oson A1 ; !
+mutlaq:mutlaq A1 ; !
+majburiy:majburiy A1 ; !
+yogʻochsoz:yogʻochsoz A1 ; !
 ingichka:ingichka A1 ; !
 chala:chala A1 ; !
 tomonlama:tomonlama A1 ; !
@@ -2913,7 +2952,7 @@ yaxlit:yaxlit A1 ; !
 radioaktiv:radioaktiv A1 ; !
 qatʼiy:qatʼiy A1 ; !
 chegaradosh:chegaradosh A1 ; !
-
+madaniyatsiz:madaniyatsiz A1 ; !
 sovet:sovet A1 ; !
 karra:karra A1 ; !
 jalb:jalb A1 ; !
@@ -3395,6 +3434,10 @@ qay:qay DET-DEM ; ! ""
 
 
 LEXICON Verbs
+oʻqi:oʻqi VERB-TV ; !
+ettir:ettir VERB-TV ; !
+taʼmirla:taʼmirla VERB-TV ; !
+
 ovlan:ovlan VERB-IV ; !
 choʻz:choʻz VERB-TV ; !
 oziqlan:oziqlan VERB-IV ; !
@@ -3444,8 +3487,6 @@ qarat:qarat VERB-TV ; !
 nomlan:nomlan VERB-IV ; !
 saqla:saqla VERB-TV ; !
 tasvirla:tasvirla VERB-TV ; !
-taʻmini% bil:taʻmini% bil VERB-TV ; !
-
 rivojlantir:rivojlantir VERB-TV ; !
 quzat:quzat VERB-TV ; !
 mağlub% et:mağlub% et VERB-TV ; !
@@ -3806,6 +3847,7 @@ LEXICON Interjections
 salom:salom INTERJ ; !
 bas:bas INTERJ ; !
 of:of INTERJ ; !
+me:me INTERJ ; !
 
 ey:ey IJ ; ! "hey"
 barakalla:barakalla IJ ; ! "whiz"
@@ -3850,8 +3892,10 @@ qayta:qayta ADV1 ; !
 togridan-togri:togridan-togri ADV1 ; !
 toygarliksiz:toygarliksiz ADV1 ; !
 uyluksiz:uyluksiz ADV1 ; !
-madaniyatsiz:madaniyatsiz A1 ; !
-hech:hech ADV1 ; !
+birmuncha:birmuncha ADV1 ; !
+iyulniki:iyulniki ADV1 ; !
+dek:dek ADV1 ; !
+
 fikricha:fikricha ADV1 ; !
 oldingi:oldingi ADV1 ; !
 da:da ADV1 ; !
