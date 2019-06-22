@@ -212,6 +212,8 @@ SELECT Past IF (1 EOS) ;
 REMOVE V IF (1 FINITE) (2 EOS) ; 
 
 
-
 REMOVE Attr IF (1C Cop);
    ## Shu bilan birga kamolchilik inqilobi kator salbiy xususiyatlarga xam ega edi.
+
+REMOVE Interj IF (NOT -1 BOS) (NOT 1 EOS) ;
+ #yoq, bar
