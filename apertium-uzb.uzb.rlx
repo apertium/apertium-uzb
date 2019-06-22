@@ -189,6 +189,11 @@ REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
 
 SELECT A IF (1C Num) (2C N) ;
 
+## select A if inbetween nouns
+SELECT A IF (-1 N) (1 N) ; 
+ 
+## select A if before copula (idi, iken)
+SELECT A IF (1 Cop) ; 
 
 # 2nd Singular Possessive
 
