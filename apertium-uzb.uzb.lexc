@@ -1223,8 +1223,33 @@ dagi:dagi MIST ; ! ""
 S%0:S%0 MIST ; ! ""
 lon:lon MIST ; ! ""
 
+ba:ba ABBR ; !
+qad:qad ABBR ; !
+prof:prof ABBR ; !
+ch:ch ABBR ; !
+sh:sh ABBR ; !
+si:si ABBR ; !
+min:min ABBR ; !
+av:av ABBR ; !
+uz:uz ABBR ; !
 
 
+na:na ABBR ; !
+Sa:Sa ABBR ; !
+Sb:Sb ABBR ; !
+SB:SB ABBR ; !
+SBbc:SBbc ABBR ; !
+Sbc:Sbc ABBR ; !
+SBc:SBc ABBR ; !
+Sc:Sc ABBR ; !
+ped:ped ABBR ; !
+mlrd:mlrd ABBR ; !
+yun:yun ABBR ; !
+as:as ABBR ; !
+SBs:SBs ABBR ; !
+GES:GES ABBR ; !
+frans:frans ABBR ; !
+st:st ABBR ; !
 
 LEXICON Pronouns
 
@@ -2034,7 +2059,9 @@ Pfalz:Pfalz NP-TOP ; ! ""
 Haute:Haute NP-TOP ; ! ""
 OʻzR:OʻzR NP-AL ; !
 Nyu:Nyu NP-AL ; !
-
+Fisih:Fisih NP-AL ; !
+Injil:Injil NP-AL ; !
+Corinthians:Corinthians NP-AL ; !
 Emilia:Emilia NP-TOP ; ! ""
 Lons:Lons NP-TOP ; ! ""
 Saunier:Saunier NP-TOP ; ! ""
@@ -2090,6 +2117,14 @@ Sivas:Sivas NP-TOP ; ! ""
 Karolina:Karolina NP-ANT-F ; !
 Havo:Havo NP-ANT-F ; ! !!"EVE"
 Odam:Odam NP-ANT-M ; ! "ADAM"
+Hirod:Hirod NP-ANT-M ; !
+Dovud:Dovud NP-ANT-M ; !
+Barnabo:Barnabo NP-ANT-M ; !
+Timo:Timo NP-ANT-M ; !
+Yuhanno:Yuhanno NP-ANT-M ; !
+Ilyos:Ilyos NP-ANT-M ; !
+Matthew:Matthew NP-ANT-M ; !
+
 Marina:Marina NP-ANT-F ; ! ""
 Maryam:Maryam NP-ANT-F ; ! ""
 Diogen:Diogen NP-ANT-M ; !
@@ -2957,6 +2992,21 @@ aloqali:aloqali POST ; ! "concerning"
 
 
 LEXICON Adjectives
+nasib:nasib A1 ; !
+ulug:ulug A1 ; !
+solih:solih A1 ; !
+pok:pok A1 ; !
+harom:harom A1 ; !
+mahkum:mahkum A1 ; !
+chin:chin A1 ; !
+hayron:hayron A1 ; !
+sodiq:sodiq A1 ; !
+loyiq:loyiq A1 ; !
+gunohkor:gunohkor A1 ; !
+tayyor:tayyor A1 ; !
+samoviy:samoviy A1 ; !
+yovuz:yovuz A1 ; !
+
 kenja:kenja A1 ; !
 noyob:noyob A1 ; !
 zich:zich A1 ; !
@@ -3470,6 +3520,10 @@ LEXICON Verbs
 oʻqi:oʻqi VERB-TV ; !
 ettir:ettir VERB-TV ; !
 taʼmirla:taʼmirla VERB-TV ; !
+ushla:ushla VERB-TV ; !
+ergash:ergash VERB-TV ; !
+chaqir:chaqir VERB-TV ; !
+suz:suz VERB-TV ; !
 
 ovlan:ovlan VERB-IV ; !
 choʻz:choʻz VERB-TV ; !
@@ -3881,7 +3935,10 @@ salom:salom IJ ; !
 bas:bas IJ ; !
 of:of IJ ; !
 me:me IJ ; !
-
+of:of IJ ; !
+nahotki:nahotki IJ ; !
+omin:omin IJ ; !
+voy:voy IJ ; !
 ey:ey IJ ; ! "hey"
 barakalla:barakalla IJ ; ! "whiz"
 yoʻq:yoʻq IJ ; ! "no"
@@ -4281,6 +4338,19 @@ ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan # ;
 LEXICON Common
 kabisa:kabisa N1 ; !
 sugʻorish:sugʻorish N1 ; !
+imonli:imonli N1 ; !
+ekan:ekan N1 ; !
+eshit:eshit N1 ; !
+qila:qila N1 ; !
+podshoh:podshoh N1 ; !
+harom:harom N1 ; !
+ulamo:ulamo N1 ; !
+xaloyiq:xaloyiq N1 ; !
+muhabbat:muhabbat N1 ; !
+nasihat:nasihat N1 ; !
+sunnat:sunnat N1 ; !
+Hazrat:Hazrat N1 ; !
+farziy:farziy N1 ; !
 
 dare:dare N1 ; !
 tiklash:tiklash N1 ; !
@@ -6899,6 +6969,10 @@ andalib:andalib N1 ; !
 andarmon:andarmon A2 ; ! 
 andaryagiga:andaryagiga ADV ; ! 
 andaryaq:andaryaq ADV ; ! 
+eshitgach:eshitgach ADV ; !
+javoban:javoban ADV ; !
+zero:zero ADV ; !
+
 andi:andi N1 ; ! 
 andisha:andisha N1 ; ! 
 andishali:andishali A2 ; ! 
@@ -13566,14 +13640,14 @@ ilvirash:ilvirash N1-VN ; ! 0.999935287106678
 ilvirs:ilvirs N1 ; ! 0.9999744031841161
 ylgak:ylgak N1 ; ! 0.9999998507208768
 ilgakli:ilgakli A2 ; ! 0.9999963256785852
-ilgari:ilgari AV ; ! 0.649576921977235
+ilgari:ilgari ADV ; ! 0.649576921977235
 ilgarigi:ilgarigi A2 ; ! 0.9790265754948121
 ilgarigideq:ilgarigideq ADV ; ! 0.7959707072614906
 ilgarigilar:ilgarigilar N1 ; ! 0.999998939517565
 ilgarigicha:ilgarigicha ADV ; ! 0.995298804069214
 ilgaridan:ilgaridan ADV ; ! 0.9967103484256813
 ilgarila:ilgarila V-IV ; ! 0.9998881924512316
-ilgarilar:ilgarilar AV ; ! 0.9858302308408472
+!ilgarilar:ilgarilar AV ; ! 0.9858302308408472
 ilgarilari:ilgarilari N1 ; ! 0.9093918682188207
 ilgarilat:ilgarilat V-TV-CAUS ; ! 0.9999998242364928
 ilgarilash:ilgarilash V-IV-COOP ; ! 0.968673270526135
