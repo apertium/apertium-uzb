@@ -1276,6 +1276,10 @@ bir%-bir:bir%-bir PRON-IND ; ! ""
 
 
 LEXICON Nouns
+jiza:jiza N1 ; !
+azab:azab N1 ; !
+solihlik:solihlik N1 ; !
+
 roʻyhat:roʻyhat N1 ; !
 elektromagnit:elektromagnit N1 ; !
 ozuqa:ozuqa N1 ; !
@@ -1630,6 +1634,7 @@ Tavrot:Tavrot NP-ORG ; ! "CORRECT"
 !!!!!! TOPONYMS !!!!!!!
 
 
+Yahudiya:Yahudiya NP-TOP ; !
 
 Lot:Lot NP-TOP ; !
 Oltoy:Oltoy NP-TOP ; !
@@ -1693,6 +1698,8 @@ Kreis:Kreis NP-COG-MF ; ! ""
 Rhin:Rhin NP-TOP ; ! ""
 Janubiy:Janubiy NP-TOP ; ! ""
 Arslon:Arslon NP-ANT-M ; ! ""
+Luke:Luke NP-ANT-M ; !
+
 Ain:Ain NP-TOP ; ! ""
 Puy:Puy NP-TOP ; ! ""
 Drôme:Drôme NP-TOP ; ! ""
@@ -2705,6 +2712,7 @@ Izmir:Izmir NP-TOP ; ! "Izmir"
 bei:bei NP-AL ; !
 Choʻpon:Choʻpon NP-AL ; !
 ad:ad NP-AL ; !
+Zabur:Zabur NP-AL ; !
 
 Antanta:Antanta NP-AL ; ! ""
 am:am NP-AL ; !
@@ -2928,6 +2936,7 @@ LEXICON Postpositions
 orqasından:orqasından POST ; !
 mobaynida:mobaynida POST ; !
 cha:cha POST ; !
+bilanoq:bilanoq POST ; !
 
 !Nominative
 
@@ -3008,7 +3017,13 @@ gunohkor:gunohkor A1 ; !
 tayyor:tayyor A1 ; !
 samoviy:samoviy A1 ; !
 yovuz:yovuz A1 ; !
-
+fosh:fosh A1 ; !
+rozi:rozi A1 ; !
+qurbonlik:qurbonlik A1 ; !
+duchor:duchor A1 ; !
+oshkor:oshkor A1 ; !
+birgina:birgina A1 ; !
+solihlik:solihlik A1 ; !
 kenja:kenja A1 ; !
 noyob:noyob A1 ; !
 zich:zich A1 ; !
@@ -3164,6 +3179,8 @@ sogʻliq:sogʻli%{Q%} N1 ;  ! ! "health"
 xarakat:xarakat N1 ; ! "movement"
 kamolchilik:kamolchili%{K%} N1 ;  ! "kemalism"
 devr:devr N1 ; ! "period"
+xafa:xafa N1 ; !
+borish:borish N1 ; !
 ustoz:ustoz N1 ; ! 
 lahja:lahja N1 ; ! 
 immigrant:immigrant N1 ; ! 
@@ -3950,6 +3967,9 @@ ha:ha IJ ; ! "yes"
 albatta:albatta IJ ; ! "of course"
 aytganday:aytganday IJ ; ! ""
 demak:demak IJ ; ! ""
+xoh:xoh IJ ; !
+axir:axir IJ ; !
+
 
 ora:ora PRON-ADV ; ! "there"
 
@@ -3975,6 +3995,9 @@ nega:nega ADV-ITG ; ! 0.9999882284017634
 
 ! More or less regular stuff
 ! ==========================
+agarda:agarda ADV1 ; !
+kelgach:kelgach ADV1 ; !
+deya:deya ADV1 ; !
 hech:hech ADV1 ; !
 aynan:aynan ADV1 ; !
 necha:necha ADV1 ; !
@@ -26883,6 +26906,8 @@ tirillat:tirillat V-TV-CAUS ; ! 0.9999999522879489
 tiril:tiril V-IV ; ! 0.9128706667079617
 tiriltir:tiriltir V-TV-CAUS ; ! 0.9999999969381349
 tirinka:tirinka N1 ; ! 0.999999999774366
+tiriltir:tiriltir V-TV-CAUS ; ! 0.9999999969381349
+tirilt:tirilt VERB-TV ; ! 0.9999999969381349
 tirish:tirish N1 ; ! 0.9975873114055632
 tirishib%-tirmashib:tirishib%-tirmashib ADV ; ! 0.9070593452809423
 tirish:tirish V-TV-CAUS ; ! 0.9986085441482011
