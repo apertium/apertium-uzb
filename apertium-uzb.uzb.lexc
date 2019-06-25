@@ -605,6 +605,7 @@ LEXICON IMPERATIVE
 %<imp%>%<p3%>%<sg%>:%>sin # ;
 %<imp%>%<p2%>%<pl%>:%>ng # ; 
 %<imp%>%<p2%>%<pl%>:%>ngiz # ; 
+%<imp%>%<p2%>%<pl%>:%>nglar # ; 
 %<imp%>%<p3%>%<pl%>:%>sinlar # ;
 
 
@@ -1269,6 +1270,7 @@ hech% qanday:hech% qanday PRON-NEG ; ! "not any"
 hech% qancha:hech% qancha PRON-NEG ; ! "not at all"
 
 ikkala:ikkala PRON-QNT ; !
+hamma:hamma PRON-QNT ; !
 
 bir%-bir:bir%-bir PRON-IND ; ! ""
 
@@ -2533,7 +2535,7 @@ Kemal:Kemal NP-COG-MF ; ! ""
 Berdimuhammedov:Berdimuhammedov NP-COG-MF ; ! ""
 Otaturk:Otaturk NP-COG-MF ;  !  ""
 Gul:Gul NP-COG-MF ; ! ""
-Pilat:Pilat NP-COG-MF ; ! ""
+Pilat:Pilat NP-ANT-M ; ! ""
 Nobel:Nobel NP-COG-MF ; ! ""
 Karimov:Karimov NP-COG-MF ; ! ""
 Abdullayev:Abdullayev NP-COG-MF ; ! ""
@@ -3524,7 +3526,9 @@ ushla:ushla VERB-TV ; !
 ergash:ergash VERB-TV ; !
 chaqir:chaqir VERB-TV ; !
 suz:suz VERB-TV ; !
-
+bajo% bo‘l:bajo% bo‘l VERB-IV ; !
+bajo% kel:bajo% kel VERB-IV ; !
+bajo% keltir:bajo% keltir VERB-TV ; !
 ovlan:ovlan VERB-IV ; !
 choʻz:choʻz VERB-TV ; !
 oziqlan:oziqlan VERB-IV ; !
@@ -3966,6 +3970,8 @@ qayerdan:qayerdan ADV-ITG ; ! ""
 qanday:qanday ADV-ITG ; ! "how"
 qachon:qachon ADV-ITG ; ! "when"
 nimaga:nimaga ADV-ITG ; ! "why"
+naqadar:naqadar ADV-ITG ; ! "how much"
+nega:nega ADV-ITG ; ! 0.9999882284017634
 
 ! More or less regular stuff
 ! ==========================
@@ -4210,6 +4216,7 @@ qaysi:qaysi PRON-ITG-INFL ; ! "which one"
 qanday:qanday PRON-ITG-INFL ; ! "which one"
 kim:kim PRON-ITG-INFL ; ! "who"
 qancha:qancha PRON-ITG-INFL ; ! "how many"
+biron:biron PRON-ITG-INFL ; ! "whichever"
 
 LEXICON Numerals
 
@@ -4305,9 +4312,16 @@ u%<prn%>%<pers%>%<p3%>%<sg%>%<acc%>:uni # ;
 u%<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:unda # ; 
 u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:undan # ; 
 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz # ; 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:bizlar # ; 
 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:bizlar # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<dat%>:bizlarga # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizlarning # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<acc%>:bizlarni # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<loc%>:bizlarda # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<loc%>:bizlardan # ; 
+
+
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz # ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizning # ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<dat%>:bizga # ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<acc%>:bizni # ; 
@@ -5567,6 +5581,7 @@ quyon:quyon N1 ; ! "hare"
 quyosh:quyosh N1 ; ! "sun"
 rabbi:rabbi N1 ;  ! "master/lord"
 rabbiy:rabbiy N1 ; ! "hoja"
+Rabbiy:Rabbiy N1 ; ! "hoja"
 rad:rad N1 ; ! "rejection"
 rahbarlik:rahbarli%{K%} N1 ; ! "guidance"
 rahbar:rahbar N1 ; ! "guide"
@@ -6866,6 +6881,7 @@ algʻi:algʻi N1 ; !
 algʻov:algʻov N1 ; ! 
 algʻov%-dalgʻov:algʻov%-dalgʻov N1 ; ! 
 alhamdulillox:alhamdulillox IJ ; ! 
+hamdu% sano:hamdu% sano N1 ; !
 alxol:alxol ADV ; ! 
 alxosil:alxosil PAREN ; ! 
 amaki:amaki N1 ; ! 
@@ -19421,7 +19437,7 @@ nevara:nevara N1 ; ! 0.9999999546800732
 nevara%-chevara:nevara%-chevara N1 ; ! 0.9970958243647856
 nevroz:nevroz N1 ; ! 0.9999999966608317
 nevropatologiya:nevropatologiya N1 ; ! 0.9999999999721485
-nega:nega N1 ; ! 0.9999882284017634
+
 negadir:negadir N1 ; ! 0.9999506134257966
 negativ:negativ A2 ; ! 0.9999997183656893
 negiz:negiz N1 ; ! 0.9999999999377319
