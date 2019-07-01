@@ -34,7 +34,7 @@ oʻzligining
 o‘zini
 har
 maʼmuriy
-(ma’shuqa)
+ma’shuqa
 joylashgan
 ishga
 tirik
@@ -43,7 +43,7 @@ VA
 turmush
 oklash
 shtatida
-"Parol
+Parol
 aksariyat
 birlashtirilishi
 kishi
@@ -145,7 +145,6 @@ berishni
 amalga
 xalq
 quruqlik
-Carolina)Hyde
 muhandisligi
 Chimyon
 kilometrga
@@ -193,7 +192,7 @@ Grinvich
 Winterberg
 Fransuz
 Moʻgʻuliston
-"Tazkirat
+Tazkirat
 umumiy
 taxmin
 xususan
