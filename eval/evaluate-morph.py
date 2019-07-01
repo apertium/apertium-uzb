@@ -1,0 +1,1 @@
+../../apertium-tyv/eval/evaluate-morph.py
