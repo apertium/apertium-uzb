@@ -1132,7 +1132,7 @@ LASTDIGIT-REST ; ! Use/Circ
 !! There are only 4 lexicons below:
 !! - Punctuation
 !! - Hardcoded (any entry which has a %<tag%> in it)
-!! - Common (read: not a proper noun, abbreviation or punctuation)
+!! - Common (read: not punctuation, hardcoded or proper)
 !! - Proper (proper nouns)
 !!
 !! In each section, lines are sorted alphabetically with the
