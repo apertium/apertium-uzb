@@ -1,0 +1,25 @@
+## uzb.all.txt =
+##
+## cat ~/src/turkiccorpora/uzb.bible.ibt.txt >> ~/src/turkiccorpora/uzb.all.txt
+## bzcat ~/src/turkiccorpora/uzb.rferl.2011.xml.bz2 >> ~/src/turkiccorpora/uzb.all.txt
+## bzcat ~/src/turkiccorpora/uzb.rferl.2012.xml.bz2 >> ~/src/turkiccorpora/uzb.all.txt
+## cat ~/src/turkiccorpora/uzb.udhr.ohchr.txt >> ~/src/turkiccorpora/uzb.all.txt
+## bzcat ~/src/turkiccorpora/uzb.wikipedia.20130514.txt.bz2 >> ~/src/turkiccorpora/uzb.all.txt
+##
+## ref.txt =
+        
+corpus = []
+with open('/home/selimcan/src/turkiccorpora/uzb.all.txt') as inf:
+    for line in inf:
+        line = line.strip()
+        for w in line.split():
+            corpus.append(re.sub(r'[,\.!\)\]]$', '', w))
+
+i = 0
+seen = set()
+while i < 500:
+    w = random.choice(corpus)
+    if w not in seen:
+        seen.add(w)
+        print(w)
+        i += 1
