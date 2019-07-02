@@ -56,6 +56,17 @@
     </pipeline>
   </mode>
 
+  <mode name="uzb-tagger" install="yes">                                                    
+    <pipeline>                                                                              
+      <program name="lt-proc -w">                                                           
+        <file name="uzb.automorf.bin"/>                                                     
+      </program>                                                                            
+      <program name="cg-proc -1">                                                           
+        <file name="uzb.rlx.bin"/>                                                          
+      </program>                                                                            
+    </pipeline>                                                                             
+  </mode>                                                                                   
+ 
   <mode name="uzb-disam-debug">
     <pipeline>
       <program name="lt-proc -w">
