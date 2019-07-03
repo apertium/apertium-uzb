@@ -330,6 +330,9 @@ N1 ;
 LEXICON N1-REMOVE
 N1 ;
 
+LEXICON N1-ADR
+N1 ;
+
 LEXICON N-COMPOUND-PX
 
 %<n%>:%>%{S%}%{I%}%{n%} CASES-ETC ;
@@ -1506,9 +1509,7 @@ azavozlik:azavozli%{K%} N1 ;  !
 azador:azador N1 ; ! 
 azadorlik:azadorli%{K%} N1 ;  ! 
 azayimxon:azayimxon N1 ; ! 
-azayimxonlik:azayimxonli%{K%} N1 ;  ! 
-
-azal:azal N1 ; ! 
+azayimxonlik:azayimxonli%{K%} N1 ;  !
 azal:azal N1 ; ! "distant past"
 azalgi:azalgi A2 ; ! 
 azaliy:azaliy A2 ; ! 
@@ -1528,7 +1529,6 @@ azm:azm N1 ; !
 azmqor:azmqor A1 ; ! 
 azmoyish:azmoyish N1 ; ! 
 azmoyish% ol:azmoyish% ol V-TV ; ! 
-azob:azob N1 ; ! 
 azob:azob N1 ; ! "torture"
 azobla:azobla V-TV ; ! 
 azoblan:azoblan V-IV-REFL ; ! 
@@ -1537,21 +1537,20 @@ azon:azon N1 ; !
 azonlab:azonlab ADV ; ! 
 azonchi:azonchi N1 ; ! 
 azop:azop N1 ; !
-azot:azot N1 ; ! 
 azot:azot N1→V ; ! 
+azot% ko%’tar:azot% ko%’tar V-TV ; ! 
 azot:azot N1 ; ! "nitrogen"
-azot% qo%’tar:azot% qo%’tar V-TV ; ! 
 azotla:azotla V-TV ; ! 
 azotli:azotli A2 ; ! 
 azroil:azroil N1 ; ! 
-aztaxidil:aztaxidil ADV ; ! 
+aztahidil:aztahidil ADV ; ! 
+ay:ay IJ ; ! 
 ayb:ayb N1 ; ! 
 aybaki:aybaki N1 ; ! 
 aybdor:aybdor A1 ; ! 
 aybdor:aybdor N1 ; ! 
 aybdorlik:aybdorli%{K%} N1 ;  ! 
-aybla:aybla VERB-TV ; ! "to blame"
-aybla:aybla V-TV ; ! 
+aybla:aybla V-TV ; ! "to blame"
 ayblanuvchhi:ayblanuvchhi N1 ; ! 
 ayblash:ayblash V-TV-COOP ; ! 
 ayblash:ayblash N1-VN ; ! 
@@ -1561,30 +1560,17 @@ ayblovchhi:ayblovchhi N1 ; !
 aybnoma:aybnoma N1 ; ! 
 aybona:aybona N1 ; ! 
 aybsiz:aybsiz A1 ; ! 
-aybsiz:aybsiz ADV2 ; ! "innocent/ly"
 aybsizlik:aybsizli%{K%} N1 ;  ! 
 aybsit:aybsit V-TV ; ! 
-ayvon:ayvon N1 ; ! 
 ayvon:ayvon N1 ; ! "veranda"
-aygʻiz:aygʻiz N1 ; ! 
-aygʻir:aygʻir N1 ; ! 
-aygʻirqiyoq:aygʻirqiyoq N1 ; ! 
-aygʻoq:aygʻoq N1 ; ! 
-aygʻoqla:aygʻoqla V-TV ; ! 
-aygʻoqchi:aygʻoqchi N1 ; ! 
-aygʻoqchilik:aygʻoqchili%{K%} N1 ;  ! 
-ayyom:ayyom N1-PL ; ! 
+ayyom:ayyom N1 ; ! 
 ayyor:ayyor N1 ; ! 
 ayyorgarlik:ayyorgarli%{K%} N1 ;  ! 
-ayyorgarchhilik:ayyorgarchhili%{K%} N1 ;  ! 
-ayyorlarchha:ayyorlarchha ADV ; ! 
+ayyorgarchilik:ayyorgarchili%{K%} N1 ;  ! 
+ayyorlarcha:ayyorlarcha ADV ; ! 
 ayyorlik:ayyorli%{K%} N1 ;  ! 
 ayyorona:ayyorona A1 ; ! 
 ayyorcha:ayyorcha ADV ; ! 
-ayiq:ayiq N1 ; ! 
-ayiq:ayiq N1 ; ! "bear"
-ayiqmurut:ayiqmurut N1 ; ! 
-ayiqtovon:ayiqtovon N1 ; ! 
 ayil:ayil N1 ; ! 
 ayir:ayir V-TV ; ! 
 ayirbosh:ayirbosh N1 ; ! 
@@ -1595,29 +1581,26 @@ ayirma:ayirma N1 ; !
 ayirmali:ayirmali A1 ; ! 
 ayirmachilik:ayirmachili%{K%} N1 ;  ! 
 ayirtir:ayirtir V-TV-CAUS ; ! 
-ayqash:ayqash V-IV ; ! 
-ayqash% uyqash:ayqash% uyqash A2 ; ! 
-ayqir:ayqir V-IV ; ! 
-ayqish%-tuyqish:ayqish%-tuyqish A2 ; ! 
+ayiq:ayiq N1 ; ! "bear"
+ayiqmurut:ayiqmurut N1 ; ! 
+ayiqtovon:ayiqtovon N1 ; ! 
 ayla:ayla V-TV ; ! 
-aylana:aylana N1 ; ! 
-aylana:aylana N1 ; ! ""
-aylan:aylan VERB-IV ; ! "to spin"
-aylan:aylan V-IV ; ! 
+aylan:aylan V-IV ; ! "to spin"
+aylana:aylana N1 ; !
+aylanay:aylanay N1-ADR ; ! 
 aylanish:aylanish V-IV-COOP ; ! 
 aylanish:aylanish N1-VN ; ! 
-aylanma:aylanma N1 ; ! 
+aylanma:aylanma A2 ; ! 
 aylanma:aylanma N1 ; ! " Whirl"
 aylanmachoq:aylanmachoq A2 ; ! 
-aylantir:aylantir VERB-TV ; ! "to turn"
 aylantir:aylantir V-TV-CAUS ; ! 
-aylash:aylash V-TV-COOP ; ! 
+aylash:aylash V-TV-COOP ; !
 aymash:aymash V-IV ; ! 
 aymoq:aymoq N1 ; ! 
 aymoqi:aymoqi A2 ; ! 
 aymoqi:aymoqi N1 ; ! 
-ayna:ayna V-IV ; ! 
 ayn:ayn A2 ; ! 
+ayna:ayna V-IV ; ! 
 aynama:aynama A2 ; ! 
 aynamachi:aynamachi A2 ; ! 
 aynamachilik:aynamachili%{K%} N1 ;  ! 
@@ -1626,30 +1609,29 @@ aynan:aynan ADV1 ; !
 aynat:aynat V-TV-CAUS ; ! 
 ayni:ayni A1 ; ! "exact"
 ayni:ayni V-IV ; ! 
-ayni:ayni V-TV-CAUS ; ! 
-ayniqsa:ayniqsa ADV2 ; ! "specially"
-ayniqsa:ayniqsa ADV ; ! 
 aynit:aynit V-TV-CAUS ; ! 
 ayniyat:ayniyat N1 ; ! 
+ayniqsa:ayniqsa ADV ; ! "specially"
 ayra:ayra N1→V ; ! 
 ayra% buyril:ayra% buyril V-IV ; ! 
-ayra% sal:ayra% sal V-IV ; ! 
-ayri:ayri N1 ; ! 
+ayra% sol:ayra% sol V-IV ; !
+ayra% tush:ayra% tush V-IV ; ! 
+ayri:ayri N1 ; !
+ayri:ayri A2 ; !
 ayril%-ayril:ayril%-ayril N1→V ; ! 
+ayril%-ayril% boʻlib% ket:ayril%-ayril% boʻlib% ket V-IV ; !
 ayril:ayril V-IV-REFL ; ! 
-ayriliq:ayrili%{Q%} N1 ;  ! 
 ayrilish:ayrilish V-IV-COOP ; ! 
 ayrilish:ayrilish N1-VN ; ! 
+ayrilik:ayrili%{K%} N1 ;  ! 
 ayrilmas:ayrilmas A2 ; ! 
-ayrim:ayrim A1 ; ! 
 ayrim:ayrim A1 ; ! "separate"
-Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
+ayrim%-ayrim ADV ; !
 ayrimlik:ayrimli%{K%} N1 ;  ! 
 ayricha:ayricha A1 ; ! 
 ayron:ayron N1 ; ! 
 ayronchi:ayronchi N1 ; ! 
-ayt:ayt VERB-TV ; ! "to say"
-ayt:ayt V-IV ; ! 
+ayt:ayt V-TV ; ! "to say"
 aytganday:aytganday IJ ; ! ""
 aytganday:aytganday PAREN ; ! 
 aytgandek:aytgandek PAREN ; ! 
@@ -1661,29 +1643,44 @@ aytishi% boʻyicha:aytishi% boʻyicha CA ; ! ""
 aytishicha:aytishicha CA ; ! "according to"
 aytishqoq:aytishqoq N1 ; ! 
 aytkan% bilan:aytkan% bilan CA ; ! ""
-aytkich:aytkich A2 ; ! 
 aytmoqchi:aytmoqchi PAREN ; ! 
 ayttir:ayttir V-TV-CAUS ; ! 
 aytuvli:aytuvli A2 ; ! 
-ayxay:ayxay IJ ; ! 
-ayxayla:ayxayla V-IV ; ! 
+aytqich:aytqich A2 ; ! 
 aysh:aysh N1 ; ! 
-ayshgox:ayshgox N1 ; ! 
+ayshgoh:ayshgoh N1 ; ! 
 aysh%-ishrat:aysh%-ishrat N1 ; ! 
-ayyuxannos:ayyuxannos N1 ; ! 
+ayyuhannos:ayyuhannos IJ ; ! 
+ayyuhannos:ayyuhannos N1 ; ! 
+ayyuhannos% sol:ayyuhannos% sol V-IV ; !
+ayyuhannos% tort:ayyuhannos% tort V-IV ; ! 
+ayqash:ayqash V-IV ; ! 
+ayqash% uyqash:ayqash% uyqash A2 ; ! 
+ayqir:ayqir V-IV ; ! 
+ayqish%-tuyqush:ayqish%-tuyqush A2 ; !
+aygʻiz:aygʻiz N1 ; ! 
+aygʻir:aygʻir N1 ; ! 
+aygʻirqiyoq:aygʻirqiyoq N1 ; ! 
+aygʻoq:aygʻoq N1 ; !
+aygʻoq:aygʻoq A2 ; ! 
+aygʻoqla:aygʻoqla V-TV ; ! 
+aygʻoqchi:aygʻoqchi N1 ; ! 
+aygʻoqchilik:aygʻoqchili%{K%} N1 ;  ! 
+ayhay:ayhay IJ ; ! 
+ayhayla:ayhayla V-IV ; ! 
 aka:aka N1 ; ! 
 akavachcha:akavachcha N1 ; ! 
 akademizm:akademizm N1 ; ! 
 akademik:akademik A2 ; ! 
 akademik:akademik N1 ; ! 
-akademiya:akademiya N1 ; ! 
 akademiya:akademiya N1 ; ! "academy"
 akala:akala V-IV ; ! 
-akas:akas N1 ; ! 
+akas:akas N1 ; !
+akasi:akasi N1-ADR ; ! 
 aka%-singil:aka%-singil N1 ; ! 
 aka%-uka:aka%-uka N1 ; ! 
 akatsiya:akatsiya N1 ; ! 
-akashak:akashak N1 ; ! 
+akashak:akashak A2 ; ! 
 akbar:akbar A2 ; ! 
 akvarel:akvarel N1 ; ! 
 akvarium:akvarium N1 ; ! 
@@ -1701,32 +1698,32 @@ akrobatik:akrobatik A2 ; !
 akrobatchi:akrobatchi N1 ; ! 
 aks:aks A1 ; ! 
 aks:aks N1 ; ! "reflection"
-aksar:aksar N1 ; ! 
+aksa:aksa N1→V ; ! 
+aksa% ur:aksa% ur V-IV ; ! 
 aksar:aksar N1 ; ! "majority"
 aksariyat:aksariyat A1 ; ! "majority"
-aksariyat:aksariyat N1 ; ! 
 aksariyati:aksariyati A1 ; ! "majority"
-aksa% ur:aksa% ur V-IV ; ! 
 aksiga:aksiga ADV ; ! 
 aksilinqilob:aksilinqilob N1 ; ! 
 aksilinqilobiy:aksilinqilobiy A2 ; ! 
 aksilinqilobchi:aksilinqilobchi N1 ; ! 
 aksilharakat:aksilharakat N1 ; ! 
 aksilharakatchi:aksilharakatchi N1 ; ! 
-aksincha:aksincha CA ; ! "on the contrary"
-aksincha:aksincha ADV ; ! 
+aksincha:aksincha ADV ; !
+aksincha:aksincha PAREN ; ! 
 aksioma:aksioma N1 ; ! 
 aksir:aksir V-IV ; ! 
 aksirik:aksirik N1 ; ! 
 aksirish:aksirish N1-VN ; ! 
 aksirtir:aksirtir V-TV-CAUS ; ! 
-aksicha:aksicha ADV ; ! 
+aksicha:aksicha ADV ; !
+aksicha:aksicha PAREN ; ! 
 akslan:akslan V-IV ; ! 
 akslik:aksli%{K%} N1 ;  ! 
 aks% xolda:aks% xolda CA ; ! "otherwise"
-aks% et:aks% et V-IV ; ! 
+aks% et:aks% et V-IV ; !
+aks% ettir:aks% ettir V-TV-CAUS ; ! 
 akt:akt N1 ; ! 
-aktyor:aktyor N1 ; ! 
 aktyor:aktyor N1 ; ! "actor"
 aktyorlik:aktyorli%{K%} N1 ;  ! 
 aktiv:aktiv A1 ; ! 
@@ -1743,56 +1740,30 @@ akustik:akustik A2 ; !
 akusher:akusher N1 ; ! 
 akusherka:akusherka N1 ; ! 
 akusherlik:akusherli%{K%} N1 ;  ! 
-aktsent:aktsent N1 ; ! 
-aktsept:aktsept N1 ; ! 
+aksent:aksent N1 ; ! 
+aksept:aksept N1 ; ! 
 aktseptlash:aktseptlash N1-VN ; ! 
-aktsiz:aktsiz N1 ; ! 
-aktsioner:aktsioner N1 ; ! 
-aktsiya:aktsiya N1 ; ! 
-aktsiyador:aktsiyador N1 ; ! 
+aksiz:aksiz N1 ; ! 
+aksioner:aksioner N1 ; ! 
+aksiya:aksiya N1 ; ! 
+aksiyador:aksiyador N1 ; ! 
 aksiyadorlik:aksiyadorli%{K%} N1 ;  ! "joint-stock"
-aktsiyali:aktsiyali A2 ; ! 
-aktsiyachi:aktsiyachi N1 ; ! 
-aqalli:aqalli N1 ; ! 
-aqba:aqba N1 ; ! 
-aqida:aqida N1 ; ! 
-aqidaparast:aqidaparast N1 ; ! 
-aqidaparastlik:aqidaparastli%{K%} N1 ;  ! 
-aqiqa:aqiqa N1 ; ! 
-aqiq:aqiq N1 ; ! 
-aqir:aqir V-IV ; ! 
-aqirin:aqirin A1 ; ! 
-aql:aql N1 ; ! 
-aql:aql N1 ; ! "mind"
-aqlan:aqlan ADV ; ! 
-aql%-zexn:aql%-zexn N1 ; ! 
-aqliy:aqliy A2 ; ! 
-aqllash:aqllash V-IV ; ! 
-aqlli:aqlli A2 ; ! 
-aqlli:aqlli ADV2 ; ! "smartly"
-aqllilik:aqllili%{K%} N1 ;  ! 
-aqlsiz:aqlsiz A1 ; ! 
-aqlsizlik:aqlsizli%{K%} N1 ;  ! 
-aql%-tushuncha:aql%-tushuncha N1 ; ! 
-aql%-xush:aql%-xush N1 ; ! 
-aql%-xushli:aql%-xushli A2 ; ! 
-aqrab:aqrab N1 ; ! 
-aqrabo:aqrabo N1 ; ! 
-aqcha:aqcha N1 ; ! 
-alagʻda:alagʻda A1 ; ! 
+aksiyali:aksiyali A2 ; ! 
+aksiyachi:aksiyachi N1 ; ! 
 alay%-balay:alay%-balay ADV ; ! 
 alay%-bulay:alay%-bulay ADV ; ! 
 alaykum:alaykum IJ←IJ ; !
-alayno%-oshqor:alayno%-oshqor A1 ; ! 
-alayxillana:alayxillaʼna IJ ; ! 
-alayxissalom:alayxissalom IJ ; ! 
+alayno:alayno A1→A1 ; ! 
+alayno%-oshkor:alayno%-oshkor A1 ; ! 
+alayhillaʼna:alayhillaʼna A2 ; ! 
+alayxissalom:alayxissalom A2 ; ! 
 alak:alak N1 ; ! 
-alaqa%-shalaqa:alaqa%-shalaqa A1 ; ! 
+alaka%-shalaka:alaka%-shalaka A1 ; ! 
 al:al MIST ; ! ""
 alalxusus:alalxusus ADV ; ! 
 alam:alam N1 ; ! 
 alamangiz:alamangiz A2 ; ! 
-alam%-achchik:alam%-achchik N1 ; ! 
+alam%-achchiq:alam%-achchiq N1 ; ! 
 alamdiyda:alamdiyda A2 ; ! 
 alamdor:alamdor N1 ; ! 
 alamzada:alamzada A2 ; ! 
@@ -1824,6 +1795,7 @@ alaxsira:alaxsira V-IV ; !
 alaxsit:alaxsit V-TV-CAUS ; ! 
 alacha:alacha N1 ; ! 
 alash:alash N1 ; ! 
+alagʻda:alagʻda A1 ; ! 
 alban:alban N1-NAT ; ! 
 Alban:Alban N1-NAT ; ! "Albanian"
 albat:albat ADV ; ! 
@@ -2789,6 +2761,32 @@ ayanch:ayanch A1 ; !
 ayanchli:ayanchli A2 ; ! 
 ayacha:ayacha N1 ; ! 
 ayash:ayash V-IV-COOP ; ! 
+aqalli:aqalli N1 ; ! 
+aqba:aqba N1 ; ! 
+aqida:aqida N1 ; ! 
+aqidaparast:aqidaparast N1 ; ! 
+aqidaparastlik:aqidaparastli%{K%} N1 ;  ! 
+aqiqa:aqiqa N1 ; ! 
+aqiq:aqiq N1 ; ! 
+aqir:aqir V-IV ; ! 
+aqirin:aqirin A1 ; ! 
+aql:aql N1 ; ! 
+aql:aql N1 ; ! "mind"
+aqlan:aqlan ADV ; ! 
+aql%-zexn:aql%-zexn N1 ; ! 
+aqliy:aqliy A2 ; ! 
+aqllash:aqllash V-IV ; ! 
+aqlli:aqlli A2 ; ! 
+aqlli:aqlli ADV2 ; ! "smartly"
+aqllilik:aqllili%{K%} N1 ;  ! 
+aqlsiz:aqlsiz A1 ; ! 
+aqlsizlik:aqlsizli%{K%} N1 ;  ! 
+aql%-tushuncha:aql%-tushuncha N1 ; ! 
+aql%-xush:aql%-xush N1 ; ! 
+aql%-xushli:aql%-xushli A2 ; ! 
+aqrab:aqrab N1 ; ! 
+aqrabo:aqrabo N1 ; ! 
+aqcha:aqcha N1 ; ! 
 aʻyon:aʻyon N1 ; ! 
 aʻzam:aʻzam A2 ; ! 
 aʻzo:aʻzo N1 ; ! 
