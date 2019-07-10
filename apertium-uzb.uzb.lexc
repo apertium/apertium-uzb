@@ -505,7 +505,7 @@ LEXICON VERB-TV
 %<v%>%<tv%>%<ref%>:in VERB-TV-FULL ;
 %<v%>%<tv%>%<ref%>%<neg%>:inma VERB-TV-FULL ;
 
-%<neg%>:ma VERB-TV-FULL ; 
+%<v%>%<tv%>%<neg%>:ma VERB-TV-FULL ; 
 
 
 %<v%>%<tv%>: VERB-TV-FULL ;
