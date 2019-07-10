@@ -629,7 +629,7 @@ LEXICON V-PERS-S1
 
 V-PERS-S1-NO3PERSON ;
 %<p3%>%<sg%>: CLITICS-NO-COP ;
-%<p3%>%<pl%>: CLITICS-NO-COP ;
+%<p3%>%<pl%>: CLITICS-NO-COP ; ! #CHECK shouldn't this have -l{a}r to avoid ambiguity?
 
 LEXICON V-PERS-S2
 
@@ -672,9 +672,9 @@ LEXICON PERS3
 %<p3%>%<sg%>:%>di  # ;
 ! %<p3%>%<sg%>:%>  # ;
 
-%<p3%>%<pl%>:%>siz # ;
+%<p3%>%<pl%>:%>tilar # ;
 %<p1%>%<pl%>:%>miz  # ;
-%<p2%>%<pl%>:%>tilar  # ;
+%<p2%>%<pl%>:%>siz  # ;
 
 
 LEXICON ADV1
@@ -968,8 +968,15 @@ N-INFL-COMMON ;
 
 LEXICON N-INFL-COMMON
 
-POSS-REAL ;
-CASE-ETC ;
+POSS-REAL ; ! this leads to non-final analyses. was it intentional? (no cop reading, etc) should we change it with POSSESSIVES?
+
+CASE-ETC ; ! this leads to non-final analyses. was it intentional? (no cop reading etc) should we change it with CASES-ETC?
+
+!CASES-ETC ;
+!POSSESSIVES ;
+
+ABESSIVE-POSTPOSITION ;
+LI-POSTPOSITION ;
 
 LEXICON POSS-REAL 
 
