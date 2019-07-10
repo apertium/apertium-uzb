@@ -18667,7 +18667,8 @@ namxush:namxush N1 ; ! 0.999999511786911
 na:na ABBR ; !
 na:na N1 ; ! 0.713803676846564
 na:na N1 ; ! 0.9999998434049812
-na% na:na% na CC ; ! "neither/nor"
+na:na CC ; ! "neither/nor" 
+na% na:na% na CC ; ! "neither/nor" ! how could we effectively use this in this form?
 narvoy:narvoy N1 ; ! 0.9929446569484791
 narvoy:narvoy N1 ; ! 0.9999914753378
 nargas:nargas N1 ; ! 0.9996415440004538
