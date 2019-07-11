@@ -58,7 +58,7 @@ SET PRE-N = Det | Num | Attr | A | Gen | ("-") ; # CC
 SET NOMINAL-HEAD = N | Ger | Subst ; 
 
 SET WORD = N | V | A | Post | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
-SET MARK =  (",") | ("\\") | ("\;") ; #"
+SET MARK =  (",") | ("\\") | ("\;") | ("–"); #"
 SET WORDMARK = WORD | MARK ;
 
 #To be fixed, ugly
@@ -169,7 +169,8 @@ SELECT Gen IF (1C Poss3) ;
 
 "<qaraganda>" SELECT Post IF (-1 Dat) ; 
 
-
+"<deb>" SELECT CS IF (-1 MARK) (1 V) ; 
+#“Qadimgilarga: “Zino qilma”, – deb aytilganini eshitgansizlar.
 
 # ATTRIBUTIVE ADJ
 
@@ -210,7 +211,6 @@ SELECT Past IF (1 EOS) ;
 #Remove V + V reading
 
 REMOVE V IF (1 FINITE) (2 EOS) ; 
-
 
 REMOVE Attr IF (1C Cop);
    ## Shu bilan birga kamolchilik inqilobi kator salbiy xususiyatlarga xam ega edi.
