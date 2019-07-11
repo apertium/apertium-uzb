@@ -92,7 +92,7 @@ Multichar_Symbols
 %<ifi%>       ! -{D}{I}
 %<evid%>      ! -{I}пт{I}
 %<fut%>       ! -adigan
-%<fut_plan%>  ! -{M}{A}{K}
+%<fut_plan%>  ! -future with -moqchi (planned)
 %<pih%>       ! -{E}тін       ! ~past imperfect ~"used to"
 
 %<attr%>
@@ -609,6 +609,7 @@ LEXICON AORIST
 
 LEXICON FUT
 %<fut%>:%>%{E%}digan PERS ;
+%<fut_plan%>:%>moqchi PERS ;
 
 LEXICON V-PERS-S1-NO3PERSON
 
