@@ -81,6 +81,7 @@ Multichar_Symbols
 %<com%>                         !
 %<ger_abst%>                         !
 %<gpr_fut%>                         !
+%<gpr_fut_plan%> 			!
 %<mistake%>                         !
 %<part%>                         !
 %<title%>                         !
@@ -555,6 +556,7 @@ LEXICON NON-FINITE
 %<gpr_pres%>:%>ayotgan # ;
 
 %<gpr_fut%>:%>ar # ; 
+%<gpr_fut_plan%>:%>moqchi # ; !what is the negative form?
 %<neg%>%<gpr_fut%>:%>mas # ; 
 
 !%<part%>:%>ing SUBST ; 
