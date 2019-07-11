@@ -549,8 +549,8 @@ LEXICON NON-FINITE
 %<ger_inf%>:%>moq SUBST ;
 %<ger_abst%>:%>ish SUBST ;
 
-%<gna_perf%>:%>ib # ;
-%<gna_perf%>:%>b # ; !! we should use special characters for these. will get to them later
+
+%<gna_perf%>:%>%{i%}b # ; 
 %<gna_after%>:%>gach # ;
 
 %<gpr_pres%>:%>ayotgan # ;
@@ -579,9 +579,9 @@ LEXICON IMPERATIVE
 %<imp%>%<p2%>%<sg%>:%> # ;
 %<imp%>%<p2%>%<sg%>:%>gin # ;
 %<imp%>%<p3%>%<sg%>:%>sin # ;
-%<imp%>%<p2%>%<pl%>:%>ng # ; 
-%<imp%>%<p2%>%<pl%>:%>ngiz # ; 
-%<imp%>%<p2%>%<pl%>:%>nglar # ; 
+%<imp%>%<p2%>%<pl%>:%>%{i%}ng # ; 
+%<imp%>%<p2%>%<pl%>:%>%{i%}ngiz # ; 
+%<imp%>%<p2%>%<pl%>:%>%{i%}nglar # ; 
 %<imp%>%<p3%>%<pl%>:%>sinlar # ;
 
 
@@ -4236,7 +4236,6 @@ boʻlash:boʻlash V-TV-COOP ; !
 boʻl:boʻl A2 ; ! 
 boʻl:boʻl VERB-IV ; ! "be"
 boʻl:boʻl VERB-TV ; ! "divide"
-boʻl:boʻl V-IV ; ! 
 boʻl:boʻl N1 ; ! 
 boʻlganliq:boʻlganliq N1 ; !
 boʻldir:boʻldir V-TV-CAUS ; ! 
