@@ -665,6 +665,8 @@ LEXICON PERS2
 %<p3%>%<sg%>:%>  # ;
 %<p1%>%<pl%>:%>k # ;
 %<p2%>%<pl%>:%>ning  # ;
+%<p2%>%<pl%>:%>ngiz  # ; !Dir/LR
+%<p2%>%<pl%>:%>ngizlar # ; !Dir/LR
 %<p3%>%<pl%>:%>ishsa  # ;
 %<p3%>%<pl%>:%>lar  # ;
 
@@ -3944,6 +3946,7 @@ binokorlik:binokorlik N1 ; !
 binom:binom N1 ; ! 
 bint:bint N1 ; ! 
 bintla:bintla V-TV ; ! 
+Binyamin:Binyamin NP-ANT-M ; !
 biografik:biografik A2 ; ! 
 biografiya:biografiya N1 ; ! 
 biolog:biolog N1 ; ! 
@@ -4741,8 +4744,8 @@ boshsizlantir:boshsizlantir V-TV-CAUS ; !
 boshchi:boshchi N1 ; ! 
 boshchilik:boshchilik N1 ; ! 
 boshchilik:boshchili%{K%} N1 ;  ! "leadership"
-boshchilik:boshchili%{K%} N1 ;  ! "leardership"
 bosh% shtab:bosh% shtab N1 ; ! "militar"
+bosh% vazir:bosh% vazir N1 ; ! "prime minister"
 boyugʻli:boyugʻli N1 ; ! 
 boya:boya ADV-ATTR ; ! 
 boyad:boyad A2 ; ! 
@@ -18868,6 +18871,7 @@ neptun:neptun N1 ; ! 0.99996729151568
 nerv:nerv N1 ; ! 0.9990431152110697
 nerv:nerv N1 ; ! "nerve"
 nest%-nobud:nest%-nobud A2--V ; ! 0.954719692426326
+Netanyahu:Netanyahu NP-COG-MF ; !
 netmoq:netmoq ADV ; ! 0.9924962319386563
 netto:netto N1 ; ! 0.9996659571129228
 nefrit:nefrit N1 ; ! 0.9999999417787956
@@ -32032,6 +32036,7 @@ hamshira:hamshira N1 ; ! 0.99999999914247
 hamshisha:hamshisha N1 ; ! 0.9999999994651678
 hamshoʻr:hamshoʻr N1 ; ! 0.9999881025686171
 hamyurt:hamyurt N1 ; ! 0.9999999999641009
+Hanafiya:Hanafiya N1 ; ! "hanafi"
 hangamalash:hangamalash V-IV ; ! 0.9998102262641871
 hangama:hangama N1 ; ! 0.9999994486798495
 hangilla:hangilla V-IV ; ! 0.917314718749459
