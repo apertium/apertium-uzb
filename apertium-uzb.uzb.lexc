@@ -185,7 +185,7 @@ Multichar_Symbols
 %{N%}         ! Archiphoneme 'n': realised as н, д, т
 %{M%}         ! Archiphoneme 'm': realised as м, б, п
 %{G%}         ! Archiphoneme 'g': realised as к, қ, г, ғ
-%{G%}         ! Archiphoneme 'k': realised as к, қ  >>>FIXME ???<<<
+!%{G%}         ! Archiphoneme 'k': realised as к, қ  >>>FIXME ???<<<
 %{D%}         ! Archiphoneme 'd': realised as д, т
 %{A%}         ! Archiphoneme 'a': realsied as е, а
 %{I%}         ! Archiphoneme 'i': realised as і, ы
@@ -556,7 +556,7 @@ LEXICON NON-FINITE
 %<gpr_pres%>:%>ayotgan # ;
 
 %<gpr_fut%>:%>ar # ; 
-%<gpr_fut_plan%>:%>moqchi # ; !what is the negative form?
+%<gpr_fut_plan%>:%>moqchi # ; !what is the negative form? !the negative form is constructed with emas, so might be better to handle lexically, like bormoqchi emasman = gidecek değilim
 %<neg%>%<gpr_fut%>:%>mas # ; 
 
 !%<part%>:%>ing SUBST ; 
@@ -1011,7 +1011,7 @@ LEXICON CASE
 
 %<nom%>: # ;               
 %<gen%>:%>ning # ;      
-%<dat%>:%>ga # ;   
+%<dat%>:%>%{G%}a # ;   
 %<acc%>:%>ni # ;
 %<loc%>:%>da # ;   
 %<abl%>:%>dan # ;  
@@ -1020,7 +1020,7 @@ LEXICON CASE
 LEXICON CASE-NONOM
 
 %<gen%>:%>ning # ;      
-%<dat%>:%>ga # ;   
+%<dat%>:%>%{G%}a # ;   
 %<acc%>:%>ni # ;
 %<loc%>:%>da # ;   
 %<abl%>:%>dan # ;  

@@ -42,7 +42,10 @@ Rules
 
 
 "Voicing assimilation of front G"
-%{G%}:k <=> [ :p | :t | :k | :g ]/%>: _ ; ! "from "Учебник узбекского языка для стран СНГ" there only -k and -g endings transfer to k"
+%{G%}:k <=> :k %>: _ ; ! "from "Учебник узбекского языка для стран СНГ" there only -k and -g endings transfer to k" !  should be only for k/q final words for now - will update if I find contrary examples.
+
+"Voicing assimilation of front G"
+%{G%}:q <=> :q %>: _ ; ! "from "Учебник узбекского языка для стран СНГ" there only -k and -g endings transfer to k" !  should be only for k/qfinal words for now - will update if I find contrary examples.
 
 "{u} deletion"
 %{u%}:0 <=> _ Cons: %>: (:0) :Vow ;
