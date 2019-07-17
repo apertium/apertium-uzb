@@ -74,9 +74,7 @@ REMOVE Ger IF (1 EOS OR Lpar);
 REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
 
 
-SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
 
-# Do not read Copula if the following item is not the end of sentence
 
 REMOVE Cop IF (NOT 1C EOS);
 	
@@ -212,8 +210,15 @@ SELECT Past IF (1 EOS) ;
 
 REMOVE V IF (1 FINITE) (2 EOS) ; 
 
+SELECT A IF (-1 N) (0 Nom) (1 N) ; 
+# Aholining koʻpchilik qismi
+
 REMOVE Attr IF (1C Cop);
    ## Shu bilan birga kamolchilik inqilobi kator salbiy xususiyatlarga xam ega edi.
 
 REMOVE Interj IF (NOT -1 BOS) (NOT 1 EOS) ;
  #yoq, bar
+
+SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
+
+# Do not read Copula if the following item is not the end of sentence

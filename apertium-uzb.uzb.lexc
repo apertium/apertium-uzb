@@ -3828,7 +3828,7 @@ bijir%-bijir:bijir%-bijir IDEO ; !
 bijirla:bijirla V-IV ; ! 
 bijirlat:bijirlat V-TV-CAUS ; ! 
 bijirlash:bijirlash V-IV-COOP ; ! 
-biz:biz # ; ! 
+!biz:biz # ; ! 
 bizbizak:bizbizak N1 ; ! 
 bizilla:bizilla V-IV ; ! 
 biznes:biznes N1 ; ! 
@@ -12500,6 +12500,7 @@ koʻpchik:koʻpchik N1 ; ! 0.9999999650318891
 koʻpchik:koʻpchik N1 ; ! 0.9999999998302858
 koʻpchi:koʻpchi V-IV ; ! 0.999999667235072
 koʻpchilik:koʻpchilik N1 ; ! 0.9897289289051083
+koʻpchilik:koʻpchilik A1 ; ! 
 koʻpchilik:koʻpchili%{K%} N1 ;  ! "majority"
 koʻpchit:koʻpchit V-TV-CAUS ; ! 0.9999991029385531
 koʻrak:koʻrak N1 ; ! 0.9999999516212963
@@ -24627,7 +24628,7 @@ sizlogʻich:sizlogʻich N1 ; ! 0.9999998884571151
 sizniki:sizniki A2 ; ! 0.5240594915047512
 sizot:sizot N1 ; ! 0.9998301427027623
 siz:siz V-IV ; ! 0.9999970620389167
-siz:siz N1 ; ! 0.9999801016809027
+!siz:siz N1 ; ! 0.9999801016809027
 sizsira:sizsira V-IV ; ! 0.9871457050046916
 siygʻala:siygʻala V-IV ; ! 0.9391668659717373
 siygʻoqlik:siygʻoqlik N1 ; ! 0.9999999859321709
