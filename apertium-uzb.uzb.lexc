@@ -18590,6 +18590,7 @@ naiza:naiza N1 ; ! 0.9999999979625276
 nailaram:nailaram N1 ; ! 0.9999926753125655
 nainki:nainki ADV ; ! 0.9024398232773312
 nainov:nainov N1 ; ! 0.9983448701744411
+nayza:nayza N1 ; !
 nayzabardor:nayzabardor N1 ; ! 0.9997932723595631
 nayzabozlik:nayzabozlik N1 ; ! 0.9999999999998178
 nayzaboz:nayzaboz N1 ; ! 0.9999999995226636
@@ -23895,6 +23896,7 @@ santal:santal N1 ; ! 0.9999999998861857
 santigramm:santigramm N1 ; ! 0.9999999782807564
 santimetr:santimetr N1 ; ! 0.9999973502713614
 sanchiq:sanchiq N1 ; ! 0.9999999996435356
+sanch:sanch V-TV ; ! 0.9999985020734581
 sanchil:sanchil V-IV-REFL ; ! 0.9999985020734581
 sanchish:sanchish V-IV-COOP ; ! 0.9992729765441227
 sanchqi:sanchqi N1 ; ! 0.9999999173553964
@@ -29945,9 +29947,9 @@ utopiya:utopiya N1 ; ! 0.9999999999997045
 utorid:utorid N1 ; ! 0.9999999650200787
 uttir:uttir V-TV-CAUS ; ! 0.9999999981599506
 ut:ut V-TV-CAUS ; ! 0.8611835339953186
-u:u ADV ; ! 0.5886383858143768
-u:u QST ; ! "" 
-u:u N1 ; ! 0.9999929168381635
+!u:u ADV ; ! 0.5886383858143768  
+!u:u QST ; ! "" !what are these?
+!u:u N1 ; ! 0.9999929168381635
 ufar:ufar N1 ; ! 0.9999999978120114
 ufk:ufk N1 ; ! 0.9999999314613941
 ufqyy:ufqyy A2 ; ! 0.9225881235932057
