@@ -2012,6 +2012,7 @@ anʼanav:anʼanav N1 ; !
 anʼanaviy:anʼanaviy A2 ; ! 
 ana:ana ADV1 ; ! "there"
 ana:ana DET-DEM ; ! 
+Anado’lu:Anado’lu NP-TOP ; !
 anavi:anavi PRON-DEM ; ! 
 analiz:analiz N1 ; ! 
 analiz:analiz N1 ; ! "test(medical)"
@@ -29071,6 +29072,7 @@ tupurik:tupurik N1 ; ! 0.9417181906631757
 turangʻi:turangʻi N1 ; ! 0.9999877606998406
 turanga:turanga N1 ; ! 0.9995779532550603
 turar:turar N1 ; ! 0.8131022731078165
+turar-joy:turar-joy N1 ; !
 turbat:turbat N1 ; ! 0.9999999973360392
 turbinali:turbinali A2 ; ! 0.9999999972689543
 turbina:turbina N1 ; ! 0.9999999999714245
