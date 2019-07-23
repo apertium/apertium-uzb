@@ -441,7 +441,8 @@ LEXICON CC-PROTIV
 CC ;
 
 LEXICON QST
-%<qst%>: # ;
+%<qst%>: # ; 
+%+mi%<qst%>:mi # ;
 
 LEXICON POSTADV
 %<postadv%>: # ;
@@ -740,7 +741,7 @@ LEXICON CLIT-QST-MA
 %+ma%<qst%>:%>% %{M%}%{A%} # ;
 
 LEXICON CLIT-QST
-
+QST ;
 CLIT-QST-MA ;
 %+mekan%<qst%>:% %{M%}ekan # ;
 
@@ -17444,7 +17445,7 @@ milt:milt N1 ; ! 0.9999999992208579
 milchoʻp:milchoʻp N1 ; ! 0.9999999891752651
 mimika:mimika N1 ; ! 0.9999999999956708
 mimikriya:mimikriya N1 ; ! 0.9999999999669427
-mi:mi QST ; ! "" 
+mi:mi QST ; ! ""
 mi:mi N1 ; ! 0.9999976536286082
 mimit:mimit N1 ; ! 0.9998940026370677
 mim:mim N1 ; ! 0.9999999931068991
