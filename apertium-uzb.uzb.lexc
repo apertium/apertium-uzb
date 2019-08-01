@@ -441,7 +441,6 @@ LEXICON CC-PROTIV
 CC ;
 
 LEXICON QST
-%<qst%>: # ; 
 %+mi%<qst%>:mi # ;
 
 LEXICON POSTADV
@@ -655,9 +654,9 @@ LEXICON PERS
 %<p2%>%<sg%>:%>san  # ;
 %<p3%>%<sg%>:%>ti  # ;
 %<p3%>%<sg%>:%>  # ;
-%<p3%>%<pl%>:%>siz # ;
+%<p2%>%<pl%>:%>siz # ;
 %<p1%>%<pl%>:%>miz  # ;
-%<p2%>%<pl%>:%>tilar  # ;
+%<p3%>%<pl%>:%>tilar  # ;
 
 LEXICON PERS2
 
@@ -699,7 +698,7 @@ LEXICON ADV3
 
 LEXICON ADV-ITG
 
-%<adv%>%<itg%>: CLITICS-INCL-COP ;
+%<adv%>%<itg%>: CASES ;
 
 LEXICON DET-IND
 
@@ -14075,7 +14074,7 @@ qachongi:qachongi N1 ; ! 0.9891218695742036
 qachondir:qachondir N1 ; ! 0.9999971100796612
 qachonki:qachonki N1 ; ! 0.7693970588676764
 qachon:qachon ADV-ITG ; ! "when"
-qachon:qachon N1 ; ! 0.9987543623378525
+!qachon:qachon N1 ; ! 0.9987543623378525
 qashi:qashi V-TV ; ! 0.9432173842774895
 qashin:qashin V-IV-REFL ; ! 0.9998775317810941
 qashit:qashit V-TV-CAUS ; ! 0.9999999708004844
