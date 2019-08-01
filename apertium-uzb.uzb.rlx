@@ -60,6 +60,7 @@ SET NOMINAL-HEAD = N | Ger | Subst ;
 SET WORD = N | V | A | Post | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
 SET MARK =  (",") | ("\\") | ("\;") | ("–"); #"
 SET WORDMARK = WORD | MARK ;
+SET PHRASEMARK =  ("\\") | ("\;") ; #"
 
 #To be fixed, ugly
 
@@ -222,3 +223,7 @@ REMOVE Interj IF (NOT -1 BOS) (NOT 1 EOS) ;
 SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
 
 # Do not read Copula if the following item is not the end of sentence
+
+SELECT Sub:1 FINITE IF
+	#(0/1 Ger)                # FIXME: why does this only work when commented
+	(1 EOS OR PHRASEMARK) ;
