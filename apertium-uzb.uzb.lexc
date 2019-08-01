@@ -441,8 +441,8 @@ LEXICON CC-PROTIV
 CC ;
 
 LEXICON QST
-%+mi%<qst%>:mi # ;
-
+!%+mi%<qst%>:%>mi # ;
+%<qst%>: # ;
 LEXICON POSTADV
 %<postadv%>: # ;
 
@@ -740,7 +740,7 @@ LEXICON CLIT-QST-MA
 %+ma%<qst%>:%>% %{M%}%{A%} # ;
 
 LEXICON CLIT-QST
-QST ;
+!QST ;
 CLIT-QST-MA ;
 %+mekan%<qst%>:% %{M%}ekan # ;
 
@@ -13374,6 +13374,7 @@ qadamjoy:qadamjoy N1 ; ! "holy place"
 qadamjo:qadamjo N1 ; ! 0.9998116274527734
 qadam:qadam N1 ; ! 0.9999988423391047
 qadam:qadam N1 ; ! "step"
+qadam% qo‘y:qadam% qo‘y V-IV ; ! Use/MT
 qadamla:qadamla V-TV ; ! 0.7455633850723624
 qadar:qadar A1 ; ! 0.5723093273113992
 qadar:qadar POST-DAT ; ! "up to"
@@ -31327,6 +31328,7 @@ xor%-zorlik:xor%-zorlik N1 ; ! 0.9999999999308613
 xor%-zor:xor%-zor N1 ; ! 0.999941807437121
 xorijii:xorijii N1 ; ! 0.6076449348080867
 xorijiy:xorijiy A1 ; ! "foreign"
+xorijlik:xorijlik N1 ; ! "foreigner"
 xorij:xorij N1 ; ! 0.9999973442225679
 xorij:xorij N1 ; ! "excluded/out of"
 xoriqulodda:xoriqulodda A2 ; ! 0.9508545963827413
