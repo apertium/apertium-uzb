@@ -588,7 +588,7 @@ LEXICON IMPERATIVE
 LEXICON INDEF-PAST
 
 %<past%>:%>gan PERS2 ;
-
+%<past%>%<evid%>:%>%{i%}bdi PERS2 ;
 LEXICON PAST
 
 %<ifi%>:%>%di PERS2 ;
@@ -4787,7 +4787,7 @@ broshyura:broshyura N1 ; !
 brus:brus N1 ; ! 
 brutsyollyoz:brutsyollyoz N1 ; ! 
 bubnom:bubnom N1 ; ! 
-bu:bu # ; ! 
+!bu:bu # ; ! what's this? 
 bu:bu PRON-DEM-BU ; ! "this"
 buva:buva N1 ; ! 
 buvadexqon:buvadexqon N1 ; ! 
