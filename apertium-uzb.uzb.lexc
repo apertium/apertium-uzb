@@ -570,7 +570,7 @@ LEXICON GERUND
 
 %<ger%>:%>uv SUBST ; 
 %<ger_past%>:%>%{G%}an SUBST ;    
-
+%<gpr_rsub%>:%>%{G%}an SUBST ;    
 !%<ger_past%>:%>ish SUBST ;    
 
 
@@ -650,36 +650,36 @@ LEXICON V-PERS-S2
 
 LEXICON PERS
 
-%<p1%>%<sg%>:%>man  # ;
-%<p2%>%<sg%>:%>san  # ;
-%<p3%>%<sg%>:%>ti  # ;
-%<p3%>%<sg%>:%>  # ;
-%<p2%>%<pl%>:%>siz # ;
-%<p1%>%<pl%>:%>miz  # ;
-%<p3%>%<pl%>:%>tilar  # ;
+%<p1%>%<sg%>:%>man  CLITICS ;
+%<p2%>%<sg%>:%>san  CLITICS ;
+%<p3%>%<sg%>:%>ti  CLITICS ;
+%<p3%>%<sg%>:%>  CLITICS ;
+%<p2%>%<pl%>:%>siz CLITICS ;
+%<p1%>%<pl%>:%>miz  CLITICS ;
+%<p3%>%<pl%>:%>tilar  CLITICS ;
 
 LEXICON PERS2
 
-%<p1%>%<sg%>:%>m  # ;
-%<p2%>%<sg%>:%>ng  # ;
-%<p3%>%<sg%>:%>  # ;
-%<p1%>%<pl%>:%>k # ;
-%<p2%>%<pl%>:%>ning  # ;
-%<p2%>%<pl%>:%>ngiz  # ; !Dir/LR
-%<p2%>%<pl%>:%>ngizlar # ; !Dir/LR
-%<p3%>%<pl%>:%>ishsa  # ;
-%<p3%>%<pl%>:%>lar  # ;
+%<p1%>%<sg%>:%>m  CLITICS ;
+%<p2%>%<sg%>:%>ng  CLITICS ;
+%<p3%>%<sg%>:%>  CLITICS ;
+%<p1%>%<pl%>:%>k CLITICS ;
+%<p2%>%<pl%>:%>ning  CLITICS ; !Dir/LR
+%<p2%>%<pl%>:%>ngiz  CLITICS ; 
+%<p2%>%<pl%>:%>ngizlar CLITICS ; !Dir/LR
+%<p3%>%<pl%>:%>ishsa  CLITICS ;
+%<p3%>%<pl%>:%>lar  CLITICS ;
 
 LEXICON PERS3 
 
-%<p1%>%<sg%>:%>man  # ;
-%<p2%>%<sg%>:%>san  # ;
-%<p3%>%<sg%>:%>di  # ;
-! %<p3%>%<sg%>:%>  # ;
+%<p1%>%<sg%>:%>man  CLITICS ;
+%<p2%>%<sg%>:%>san  CLITICS ;
+%<p3%>%<sg%>:%>di  CLITICS ;
+! %<p3%>%<sg%>:%>  CLITICS ;
 
-%<p3%>%<pl%>:%>tilar # ;
-%<p1%>%<pl%>:%>miz  # ;
-%<p2%>%<pl%>:%>siz  # ;
+%<p3%>%<pl%>:%>tilar CLITICS ;
+%<p1%>%<pl%>:%>miz  CLITICS ;
+%<p2%>%<pl%>:%>siz  CLITICS ;
 
 
 LEXICON ADV1
@@ -733,7 +733,10 @@ LEXICON MIST
 
 %<mistake%>: # ;
 
-
+LEXICON CLITICS
+# ; 
+%+mi%<qst%>:mi # ;
+%+ki%<cnjadv%>:ki # ;
 
 LEXICON CLIT-QST-MA
 
@@ -8339,6 +8342,7 @@ yorgʻi:yorgʻi N1 ; ! 0.9999998766448607
 yorguchoq:yorguchoq N1 ; ! 0.999997256123931
 yordam:yordam N1 ; ! 1.0000000000000049
 yordam:yordam N1 ; ! "help, aid"
+yordam% ber:yordam% ber V-IV ; ! Use/MT
 yordamlash:yordamlash V-IV ; ! 0.981891108987753
 yordamsiz:yordamsiz A1 ; ! 0.9983751418533527
 yordamchi:yordamchi N1 ; ! 0.9999999999999754
@@ -27340,6 +27344,7 @@ tekstologiya:tekstologiya N1 ; ! 0.9999999999878103
 tekstolog:tekstolog N1 ; ! 0.9999999430962272
 tekst:tekst N1 ; ! 0.9999622264882324
 tek:tek A1 ; ! 0.9999999998856243
+tek:tek V-IV ; !
 tektonika:tektonika N1 ; ! 0.9999999969419765
 tektonik:tektonik A1 ; ! "tectonic"
 tektonik:tektonik A2 ; ! 0.99999990409913
