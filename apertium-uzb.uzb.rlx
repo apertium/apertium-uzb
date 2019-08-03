@@ -47,7 +47,9 @@ LIST Cog = (np cog);
 LIST Recip = rec ; 
 LIST Caus = caus ; 
 
-LIST Ger = ger1 ger2 ger3 ger4 ger5 gna2 gna3 gna4; 
+LIST Ger = ger_past ger2 ger3 ger4 ger5 gna2 gna3 gna4 gpr_rsub; #these numbers are to be replaced with actual ones, right?
+
+LIST rsub = gpr_rsub ; 
 
 LIST Imper = imp ; 
 
@@ -70,12 +72,19 @@ REMOVE Imper IF (NOT 0C Imper) ;
 
 REMOVE Ger IF (1 EOS OR Lpar); 
 
-# Two nominatives in a row are pretty rare
+
+# N+attr selections
+
+REMOVE Attr IF (NOT 1 PRE-N) (NOT 1 NOMINAL-HEAD) (NOT 1/1 NOMINAL-HEAD) ; 
 
 REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
 
+SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
+
+#
 
 
+SELECT Pron IF (0 N) ; 
 
 REMOVE Cop IF (NOT 1C EOS);
 	
@@ -107,9 +116,7 @@ SELECT Prop IF (0 N) (0 Ant)(1 Cog) (-1 BOS);
 
 SELECT N IF (0 N) (0 Ger) ;
 
-#In case we have an item present both as Noun and Adjective, select adjective if 1 is a noun. 
 
-REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
 
 #Construction gen + poss (ataturk'un cumhuriyeti)
 
@@ -220,9 +227,8 @@ REMOVE Attr IF (1C Cop);
 REMOVE Interj IF (NOT -1 BOS) (NOT 1 EOS) ;
  #yoq, bar
 
-SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
-
-# Do not read Copula if the following item is not the end of sentence
+SELECT rsub IF (-1 N) (1 N) ;
+#yor olgan tasvir
 
 SELECT Sub:1 FINITE IF
 	#(0/1 Ger)                # FIXME: why does this only work when commented
