@@ -74,6 +74,8 @@ REMOVE Ger IF (1 EOS OR Lpar);
 
 
 # N+attr selections
+REMOVE Attr IF (0 A); 
+#select adjectives over n.attr
 
 REMOVE Attr IF (NOT 1 PRE-N) (NOT 1 NOMINAL-HEAD) (NOT 1/1 NOMINAL-HEAD) ; 
 
