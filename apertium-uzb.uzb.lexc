@@ -592,7 +592,7 @@ LEXICON INDEF-PAST
 LEXICON PAST
 
 %<ifi%>:%>%di PERS2 ;
-
+%<ifi%>%<p3%>%<pl%>:%>%{i%}shdi CLITICS ;
 LEXICON EVIDENTIAL-PAST
 
 %<evid%>:%>mish PERS ;
