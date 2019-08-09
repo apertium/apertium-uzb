@@ -545,9 +545,9 @@ LEXICON KAN
 %<kan%>%<neg%>:%>kansiz # ;
 
 LEXICON NON-FINITE
-
+%<ger_inf%>:%>maq SUBST ; !Dir/LR !are we sure -moq is the standard form? my grammar book gives -maq as the standard but it's better if a native decides this
 %<ger_inf%>:%>moq SUBST ;
-%<ger_abst%>:%>ish SUBST ;
+%<ger_abst%>:%>{i%}sh SUBST ;
 
 
 %<gna_perf%>:%>%{i%}b # ; 
@@ -589,10 +589,12 @@ LEXICON INDEF-PAST
 
 %<past%>:%>gan PERS2 ;
 %<past%>%<evid%>:%>%{i%}bdi PERS2 ;
+
 LEXICON PAST
 
 %<ifi%>:%>%di PERS2 ;
 %<ifi%>%<p3%>%<pl%>:%>%{i%}shdi CLITICS ;
+
 LEXICON EVIDENTIAL-PAST
 
 %<evid%>:%>mish PERS ;
