@@ -26,17 +26,24 @@ LIST Poss3 = px3sg px3sp px3pl ;
 LIST Poss2 = px2sg ; 
 LIST Past = past ; 
 LIST Px3Sp = px3sp ; 
-LIST Px2Sg = px2sg ; 
+LIST Px2Sg = px2sg ;
 
-
+LIST 1PS = p1 sg ; 
+LIST 2PS = p2 sg ; 
 LIST 3PS = p3 sg ; 
+LIST 1Pl = p1 pl ; 
+LIST 2Pl = p2 pl ; 
+LIST 3Pl = p3 pl ; 
+
+LIST Person = p1 p2 p3 ; 
 
 LIST Nom = nom ; 
 LIST Gen = gen ; 
 LIST Abe = abe ; 
 LIST Acc = acc ; 
 LIST Dat = dat ;  
-
+LIST Loc = loc ; 
+ 
 LIST Subst = subst ; 
 LIST Attr = attr ; 
 LIST Advl = advl ; 
@@ -50,6 +57,8 @@ LIST Caus = caus ;
 LIST Ger = ger_past ger2 ger3 ger4 ger5 gna2 gna3 gna4 gpr_rsub; #these numbers are to be replaced with actual ones, right?
 
 LIST rsub = gpr_rsub ; 
+
+LIST Gerinf = ger_inf ; 
 
 LIST Imper = imp ; 
 
@@ -208,7 +217,8 @@ SELECT A IF (1 Cop) ;
 
 REMOVE Poss2 IF (NOT 0 Gen)(1 Poss3) ;
 
-
+REMOVE Gerinf IF (0 Loc) ;
+#ketmoqda
 
 #VERBS
 
