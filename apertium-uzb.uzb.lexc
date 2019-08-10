@@ -68,6 +68,7 @@ Multichar_Symbols
 %<cond%>
 %<prog%>
 %<prog_inf%> 	! progressive constructed with -maqda
+%<prog_fut%> 	! "hareketin yakın geleceğe de uzayacağını anlatır."
 %<evid%>
 %<kan%>
 %<imp%>
@@ -609,6 +610,7 @@ LEXICON PRES-CONT
 %<prog%>:%>yap PERS ;
 %<prog_inf%>:%>moqda PERS ;
 %<prog_inf%>:%>maqda PERS ; ! Dir/LR
+%<prog_fut%>:%>%{E%}yatir PERS ;
 
 LEXICON AORIST
 
