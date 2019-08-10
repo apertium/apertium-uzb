@@ -67,6 +67,7 @@ Multichar_Symbols
 %<ger_past%>
 %<cond%>
 %<prog%>
+%<prog_inf%> 	! progressive constructed with -maqda
 %<evid%>
 %<kan%>
 %<imp%>
@@ -606,6 +607,8 @@ LEXICON PERMISSIVE
 LEXICON PRES-CONT 
 
 %<prog%>:%>yap PERS ;
+%<prog_inf%>:%>moqda PERS ;
+%<prog_inf%>:%>maqda PERS ; ! Dir/LR
 
 LEXICON AORIST
 
