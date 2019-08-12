@@ -54,7 +54,7 @@ LIST Cog = (np cog);
 LIST Recip = rec ; 
 LIST Caus = caus ; 
 
-LIST Ger = ger_past ger2 ger3 ger4 ger5 gna2 gna3 gna4 gpr_rsub; #these numbers are to be replaced with actual ones, right?
+LIST Ger = ger_past ger_abst ger_inf ger4 ger5 gna2 gna3 gna4 gpr_rsub; #these numbers are to be replaced with actual ones, right?
 
 LIST rsub = gpr_rsub ; 
 
@@ -196,6 +196,9 @@ SELECT Gen IF (1C Poss3) ;
 SELECT Advl IF (1C FINITE) ; 
 
 #If an adjective is right before the end of a sentence, we can safely expect it to be an adjective.
+
+SELECT N IF (0 Ger);
+#kurash
 
 REMOVE Advl IF (0 A)(1 EOS) ;
 
