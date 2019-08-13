@@ -590,9 +590,9 @@ LEXICON IMPERATIVE
 LEXICON INDEF-PAST
 
 %<past%>:%>gan PERS3 ;
-%<past%>%<evid%>:%>%{i%}b PERS3 ;
+%<past%>%<evid%>:%>%{i%}b PERS ;
 %<past%>%<evid%>:%>mish PERS3 ; ! Dir/LR
-%<past%>%<evid%>%<ifi%>:%>%{i%}bdi PERS2 ;
+
 
 LEXICON PAST
 
@@ -661,11 +661,11 @@ LEXICON PERS
 
 %<p1%>%<sg%>:%>man  CLITICS ;
 %<p2%>%<sg%>:%>san  CLITICS ;
-%<p3%>%<sg%>:%>ti  CLITICS ;
+%<p3%>%<sg%>:%>%{D%}i  CLITICS ;
 %<p3%>%<sg%>:%>  CLITICS ;
 %<p2%>%<pl%>:%>siz CLITICS ;
 %<p1%>%<pl%>:%>miz  CLITICS ;
-%<p3%>%<pl%>:%>tilar  CLITICS ;
+%<p3%>%<pl%>:%>%{D%}ilar  CLITICS ;
 
 LEXICON PERS2
 
@@ -683,10 +683,10 @@ LEXICON PERS3
 
 %<p1%>%<sg%>:%>man  CLITICS ;
 %<p2%>%<sg%>:%>san  CLITICS ;
-%<p3%>%<sg%>:%>di  CLITICS ;
+%<p3%>%<sg%>:%>%{D%}i  CLITICS ;
 ! %<p3%>%<sg%>:%>  CLITICS ;
 
-%<p3%>%<pl%>:%>tilar CLITICS ;
+%<p3%>%<pl%>:%>%{D%}ilar CLITICS ;
 %<p1%>%<pl%>:%>miz  CLITICS ;
 %<p2%>%<pl%>:%>siz  CLITICS ;
 
