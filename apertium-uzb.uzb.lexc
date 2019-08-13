@@ -589,8 +589,10 @@ LEXICON IMPERATIVE
 
 LEXICON INDEF-PAST
 
-%<past%>:%>gan PERS2 ;
-%<past%>%<evid%>:%>%{i%}bdi PERS2 ;
+%<past%>:%>gan PERS3 ;
+%<past%>%<evid%>:%>%{i%}b PERS3 ;
+%<past%>%<evid%>:%>mish PERS3 ; ! Dir/LR
+%<past%>%<evid%>%<ifi%>:%>%{i%}bdi PERS2 ;
 
 LEXICON PAST
 
