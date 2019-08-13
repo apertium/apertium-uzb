@@ -589,8 +589,8 @@ LEXICON IMPERATIVE
 
 LEXICON INDEF-PAST
 
-%<past%>:%>gan PERS3 ;
-%<past%>%<evid%>:%>%{i%}b PERS ;
+%<past%>:%>gan PERS ;
+%<past%>%<evid%>:%>%{i%}b PERS3 ;
 
 
 LEXICON PAST
