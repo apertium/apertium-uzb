@@ -616,6 +616,7 @@ LEXICON PRES-CONT
 LEXICON AORIST
 
 %<aor%>:%>%{E%} PERS3 ;
+%<aor%>:%>%{E%}r PERS3 ; ! Dir/LR !maybe a different tag for this?
 
 LEXICON FUT
 %<fut%>:%>%{E%}digan PERS ;
