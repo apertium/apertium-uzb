@@ -591,7 +591,6 @@ LEXICON INDEF-PAST
 
 %<past%>:%>gan PERS3 ;
 %<past%>%<evid%>:%>%{i%}b PERS ;
-%<past%>%<evid%>:%>mish PERS3 ; ! Dir/LR
 
 
 LEXICON PAST
