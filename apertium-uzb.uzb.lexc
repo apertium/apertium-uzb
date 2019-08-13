@@ -586,6 +586,7 @@ LEXICON IMPERATIVE
 %<imp%>%<p2%>%<pl%>:%>%{i%}nglar # ; 
 %<imp%>%<p3%>%<pl%>:%>sinlar # ;
 
+%<imp%>:%>gay PERS ; ! Dir/LR !archaic/literary form: tila-gay-man
 
 LEXICON INDEF-PAST
 
@@ -620,6 +621,7 @@ LEXICON AORIST
 
 LEXICON FUT
 %<fut%>:%>%{E%}digan PERS ;
+%<fut%>:%>%{E%}ajak PERS ; ! Dir/LR !maybe a different tag for this?
 %<fut_plan%>:%>moqchi PERS ;
 
 LEXICON V-PERS-S1-NO3PERSON
