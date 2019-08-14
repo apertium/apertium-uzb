@@ -577,14 +577,22 @@ LEXICON GERUND
 
 
 LEXICON IMPERATIVE
+%<imp%>%<p1%>%<sg%>:%>%{E%}y # ;
+%<imp%>%<p1%>%<sg%>:%>%{E%}yin # ; !Dir/LR
 
 %<imp%>%<p2%>%<sg%>:%> # ;
-%<imp%>%<p2%>%<sg%>:%>gin # ;
+%<imp%>%<p2%>%<sg%>:%>gin # ; !Dir/LR
+
 %<imp%>%<p3%>%<sg%>:%>sin # ;
-%<imp%>%<p2%>%<pl%>:%>%{i%}ng # ; 
+
+%<imp%>%<p1%>%<pl%>:%>%{E%}ylik # ;
+
+%<imp%>%<p2%>%<pl%>:%>%{i%}ng # ; !Dir/LR
 %<imp%>%<p2%>%<pl%>:%>%{i%}ngiz # ; 
-%<imp%>%<p2%>%<pl%>:%>%{i%}nglar # ; 
+%<imp%>%<p2%>%<pl%>:%>%{i%}nglar # ; !Dir/LR
+
 %<imp%>%<p3%>%<pl%>:%>sinlar # ;
+
 
 %<imp%>:%>gay PERS ; ! Dir/LR !archaic/literary form: tila-gay-man
 
