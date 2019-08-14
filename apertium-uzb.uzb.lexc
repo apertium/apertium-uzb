@@ -107,6 +107,9 @@ Multichar_Symbols
 %<p3%>
 %<frm%>       ! Formality
 
+%<cha%> ! eşitlik/benzerlik/miktar
+%<day%> ! eşitlik/benzerlik/miktar
+%<dek%> ! eşitlik/benzerlik/miktar
 ! Modal particles
 %<qst%>       ! Modal question particle
               !# m{A}
@@ -756,6 +759,10 @@ LEXICON CLITICS
 # ; 
 %+mi%<qst%>:mi # ;
 %+ki%<cnjadv%>:ki # ;
+
+%+dek%<dek%>:dek # ; ! x gibi
+%+day%<day%>:day # ; ! x gibi
+%+cha%<cha%>:cha # ; ! x kadar
 
 LEXICON CLIT-QST-MA
 
@@ -18909,7 +18916,7 @@ neft:neft N1 ; ! "nafta"
 neftchi:neftchi N1 ; ! 0.9999999999860077
 necha:necha ADV1 ; !
 necha:necha DET-ITG ; ! " how many"
-necha:necha N1 ; ! 0.9993757648687447
+!necha:necha N1 ; ! 0.9993757648687447
 necha%-necha:necha%-necha ADV ; ! 0.944220820314935
 nechanchi:nechanchi N1 ; ! 0.9999848013443522
 nechikdir:nechikdir N1 ; ! 0.9999985067702768
