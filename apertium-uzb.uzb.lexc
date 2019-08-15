@@ -555,13 +555,18 @@ LEXICON NON-FINITE
 %<ger_abst%>:%>{i%}sh SUBST ;
 
 
-%<gna_perf%>:%>%{i%}b # ; 
+%<gna_perf%>:%>%{i%}b # ;
+ 
 %<gna_when%>:%>gach # ;
+
+%<gna_neg%>:%>masdan # ;
 
 %<gpr_pres%>:%>ayotgan # ;
 
 %<gpr_fut%>:%>ar # ; 
+
 %<gpr_fut_plan%>:%>moqchi # ; !what is the negative form? !the negative form is constructed with emas, so might be better to handle lexically, like bormoqchi emasman = gidecek değilim
+
 %<neg%>%<gpr_fut%>:%>mas # ; 
 
 !%<part%>:%>ing SUBST ; 
