@@ -74,7 +74,7 @@ Multichar_Symbols
 %<imp%>
 %<perm%>
 %<ger_inf%>
-%<gna1%>
+%<gna_when%>
 %<gna_perf%>
 %<gpr_pres%>
 %<gna_until%>
@@ -556,7 +556,7 @@ LEXICON NON-FINITE
 
 
 %<gna_perf%>:%>%{i%}b # ; 
-%<gna_after%>:%>gach # ;
+%<gna_when%>:%>gach # ;
 
 %<gpr_pres%>:%>ayotgan # ;
 
@@ -24021,6 +24021,7 @@ sarin:sarin A2 ; ! 0.99999990182181
 sari:sari A1 ; !
 sari:sari A2 ; ! 0.8673675644812733
 sari:sari N1 ; ! 0.9987825203035755
+sari:sari POST-NOM ; !
 saritol:saritol N1 ; ! 0.9999999580263754
 sarishtalik:sarishtalik N1 ; ! 0.9999999983342401
 sarishta:sarishta N1 ; ! 0.978638182005376
