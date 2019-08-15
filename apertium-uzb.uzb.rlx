@@ -140,6 +140,8 @@ SELECT Gen IF (1C Poss3) ;
 
 "<bilan>" SELECT Post IF (-1 Ger + Poss) ;
 
+"<sari>" SELECT Post IF (-1 Ger) ;
+
 "<qadar>" SELECT Post IF (-1 Dat) ; 
 
 "<haqida>" SELECT Post IF (-1 Nom) ;
@@ -244,6 +246,9 @@ REMOVE Interj IF (NOT -1 BOS) (NOT 1 EOS) ;
 
 SELECT rsub IF (-1 N) (1 N) ;
 #yor olgan tasvir
+
+SELECT Ger IF (0 A) ; 
+#o'tgan
 
 SELECT Sub:1 FINITE IF
 	#(0/1 Ger)                # FIXME: why does this only work when commented
