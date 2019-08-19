@@ -750,7 +750,7 @@ LEXICON DET-ITG
 
 LEXICON PRON-REF
 
-%<prn%>%<ref%>: # ;
+%<prn%>%<ref%>: N-INFL-COMMON ;
 
 LEXICON PRON-ADV 
 
