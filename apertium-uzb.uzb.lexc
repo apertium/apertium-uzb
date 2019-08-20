@@ -27061,7 +27061,7 @@ ta:ta ADV1 ; !
 tatabbu:tatabbu N1 ; ! 0.9999914294700973
 tatalamoq:tatalamoq N1 ; ! 0.7502540581635138
 tatalash:tatalash V-IV-COOP ; ! 0.958470951154786
-ta:ta MIST ; ! ""
+!ta:ta MIST ; ! ""
 tatar:tatar N1 ; !
 tatbiqiy:tatbiqiy A2 ; ! 0.9999105961671222
 tatbiq:tatbiq N1 ; ! 0.9999999999939962
@@ -28949,7 +28949,7 @@ tugma:tugma N1 ; ! 0.9999998267107381
 tugmachagul:tugmachagul N1 ; ! 0.9999999990889143
 tugmacha:tugmacha N1 ; ! 0.8711996633852963
 tugmoq:tugmoq N1 ; ! 0.9986591092978346
-tug:tug VERB-IV ; ! "to reproduce"
+tug‘:tug‘ VERB-IV ; ! "to reproduce"
 tug:tug V-TV-CAUS ; ! 0.9933577590623623
 tuguklik:tuguklik A2 ; ! 0.9999999872601472
 tuguk:tuguk A2 ; ! 0.9997837549704727
