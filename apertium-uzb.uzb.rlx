@@ -62,6 +62,8 @@ LIST Gerinf = ger_inf ;
 
 LIST Imper = imp ; 
 
+LIST Mistake = mistake ;
+
 SET FINITE = V - Ger ;
 
 SET PRE-N = Det | Num | Attr | A | Gen | ("-") ; # CC 
@@ -72,6 +74,12 @@ SET WORD = N | V | A | Post | Pron | Det | Adv | CC | CS | Interj | Num | ("\?")
 SET MARK =  (",") | ("\\") | ("\;") | ("–"); #"
 SET WORDMARK = WORD | MARK ;
 SET PHRASEMARK =  ("\\") | ("\;") ; #"
+
+
+
+REMOVE Mistake ;
+#why is there a tag like this anyway?
+
 
 #To be fixed, ugly
 
