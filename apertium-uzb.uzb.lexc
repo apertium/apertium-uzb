@@ -8675,7 +8675,8 @@ jazmlanmok:jazmlanmok N1 ; ! 0.9266608880337817
 jazo:jazo N1 ; ! 0.9999999175844755
 jazo:jazo N1 ; ! "punishment"
 jazoir:jazoir N1 ; ! 0.9999999999145641
-jazolan:jazolan V-TV ; ! 0.5935717198906486
+jazolan:jazolan V-IV ; ! 0.5935717198906486
+jazolantir:jazolantir V-TV-CAUS ; !
 jazolovchi:jazolovchi N1 ; ! 0.9995491969632364
 jaib:jaib N1 ; ! 0.9999858731152742
 jaidari:jaidari A2 ; ! 0.9995759462676362
@@ -13216,6 +13217,7 @@ kunjutpoya:kunjutpoya N1 ; ! 0.999999999958373
 kuniga:kuniga N1 ; ! 0.9486109532636601
 kun:kun A1 ; ! 0.970983951067146
 kun:kun N1 ; ! "day"
+kunimizgacha:kunimizgacha ADV ; ! "to our day" Use/MT
 kunlash:kunlash V-TV ; ! 0.7136107601158482
 kunlik:kunlik A1 ; ! "daily"
 kunlik:kunlik N1 ; ! 0.9999999850769359
