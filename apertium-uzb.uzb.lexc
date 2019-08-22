@@ -17438,7 +17438,7 @@ millatdosh:millatdosh N1 ; ! 0.9999998860134202
 millatli:millatli A1 ; ! 
 millat:millat N1 ; ! 0.9999999999999113
 millat:millat N1 ; ! "nation"
-millatparvarlik:millatparvarli%{%K} N1 ; ! "nationalism"
+millatparvarlik:millatparvarli%{K%} N1 ; ! "nationalism"
 millatchilik:millatchilik A2 ; ! 0.9996124720699423
 millatchi:millatchi N1 ; ! 0.99999766538043
 milliard:milliard N1 ; ! 0.9994198423772241
@@ -23070,6 +23070,7 @@ revanshizm:revanshizm N1 ; ! 0.9999999719767969
 revanshistlik:revanshistlik N1 ; ! 0.9999999999963357
 revanshist:revanshist N1 ; ! 0.9999997985039245
 revansh:revansh N1 ; ! 0.9999978027686388
+revani:revani N1 ; ! "a turk dessert"
 revizionizm:revizionizm N1 ; ! 0.9999999902108082
 revizionist:revizionist N1 ; ! 0.9999999986055496
 revizion:revizion A2 ; ! 0.9994897087176228
@@ -30826,7 +30827,7 @@ xalqaro:xalqaro A2 ; ! 0.9970250553535609
 xalqaro:xalqaro A2 ; ! "international"
 xalqarochi:xalqarochi N1 ; ! 0.9999999997766513
 xalqob:xalqob A1 ; ! 0.9707982507562744
-xalqparvarlik:xalqparvarlik%{%K} N1 ; ! "populism"
+xalqparvarlik:xalqparvarlik%{K%} N1 ; ! "populism"
 xalq:xalq N1 ; ! 0.9999999999999705
 xalq:xalq N1 ;  ! "people"
 xalqchiilik:xalqchiilik N1 ; ! 0.9999999708479477
@@ -34631,7 +34632,7 @@ shirilla:shirilla V-IV ; ! 0.9999997062513777
 shirindimogʻ:shirindimogʻ A2 ; ! 0.9451303720955748
 shirinkoma:shirinkoma N1 ; ! 0.999999739152164
 shirinla:shirinla V-TV ; ! 0.6327981724413599
-shirinlik:shirinlik N1 ; ! 0.9999999982866242
+shirinlik:shirinli%{K%} N1 ; ! 0.9999999982866242
 shirinmiya:shirinmiya N1 ; ! 0.9999999999874459
 shirinsuzliq:shirinsuzliq N1 ; ! 0.9999995901881239
 shirinsuz:shirinsuz N1 ; ! 0.9973061321004053
