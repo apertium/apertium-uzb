@@ -10157,6 +10157,7 @@ ilgarigi:ilgarigi A2 ; ! 0.9790265754948121
 ilgarigilar:ilgarigilar N1 ; ! 0.999998939517565
 ilgarigicha:ilgarigicha ADV ; ! 0.995298804069214
 ilgaridan:ilgaridan ADV ; ! 0.9967103484256813
+ilgari:ilgari N1 ; ! 0.649576921977235
 ilgari:ilgari ADV ; ! 0.649576921977235
 ilgari:ilgari ADV1 ; ! "before"
 ilgarila:ilgarila V-IV ; ! 0.9998881924512316
@@ -26292,8 +26293,8 @@ tavallo:tavallo N1 ; ! 0.9321382518009814
 tavallud:tavallud A1 ; !
 tavallud:tavallud N1 ; ! 0.9999988796395813
 tavallud:tavallud N1 ; ! "birth"
-tavallud% top:tavallud% top VERB-IV ; !
-tavallud% top:tavallud% top VERB-IV ; ! "to derive"
+tavallud% top:tavallud% top VERB-IV ; ! Use/MT
+tavallud% top:tavallud% top VERB-IV ; ! "to derive" Use/MT
 tavanboshi:tavanboshi N1 ; ! 0.9999999674829276
 tavan:tavan N1 ; ! 0.9999959943165893
 tavanxona:tavanxona N1 ; ! 0.9999999999452623
