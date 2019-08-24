@@ -20813,7 +20813,7 @@ olovxona:olovxona N1 ; ! 0.999999985043854
 ol:ol A2 ; ! 0.9983168030574339
 ol:ol A2 ; ! 0.9998701811517419
 ol:ol VERB-TV ; ! "to take"
-ol:ol V-IV ; ! 0.932389603685712
+!ol:ol V-IV ; ! 0.932389603685712
 olomon:olomon N1 ; ! 0.9999992188511924
 oltiburchak:oltiburchak N1 ; ! 0.9999999974337386
 oltiyoq:oltiyoq N1 ; ! 0.9999999999174749
