@@ -183,26 +183,26 @@ Multichar_Symbols
 %{i%}		   ! Becomes as "i" after a consonant, otherwise null
 %{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
 %{K%}			!k-g
-%{Q%}			!q-g'
+%{Q%}			!q-g‘
 
 ! Archiphonemes and escaped symbols (from apertium-kaz) ! "FIXME"
 
-%{L%}         ! Archiphoneme 'l': realised as л, д, т
-%{N%}         ! Archiphoneme 'n': realised as н, д, т
-%{M%}         ! Archiphoneme 'm': realised as м, б, п
-%{G%}         ! Archiphoneme 'g': realised as к, қ, г, ғ
-!%{G%}         ! Archiphoneme 'k': realised as к, қ  >>>FIXME ???<<<
-%{D%}         ! Archiphoneme 'd': realised as д, т
-%{A%}         ! Archiphoneme 'a': realsied as е, а
-%{I%}         ! Archiphoneme 'i': realised as і, ы
-%{S%}         ! Realised as 'с' or ''; only used in 3rd person morphology
-%{K%}         ! Realised as 'к' or 'қ'
-%{n%}         ! Realised as 'н' or '';
+%{L%}         ! Archiphoneme ‘l‘: realised as л, д, т
+%{N%}         ! Archiphoneme ‘n‘: realised as н, д, т
+%{M%}         ! Archiphoneme ‘m‘: realised as м, б, п
+%{G%}         ! Archiphoneme ‘g‘: realised as к, қ, г, ғ
+!%{G%}         ! Archiphoneme ‘k‘: realised as к, қ  >>>FIXME ???<<<
+%{D%}         ! Archiphoneme ‘d‘: realised as д, т
+%{A%}         ! Archiphoneme ‘a‘: realsied as е, а
+%{I%}         ! Archiphoneme ‘i‘: realised as і, ы
+%{S%}         ! Realised as ‘с‘ or ‘‘; only used in 3rd person morphology
+%{K%}         ! Realised as ‘к‘ or ‘қ‘
+%{n%}         ! Realised as ‘н‘ or ‘‘;
               ! only used in 3rd person morphology and -NIKI
-%{l%}         ! Realised as 'л' or 'н'; only used in passive -{I}{l}
-%{y%}         ! Realised as '' or '{I}'; only used in epenthesis for nouns
-%{o%}         ! Realised as ''; triggers dialectal interpretation of Iп
-%{E%}         ! Realised as 'а', 'е', 'й' (={A}/й)
+%{l%}         ! Realised as ‘л‘ or ‘н‘; only used in passive -{I}{l}
+%{y%}         ! Realised as ‘‘ or ‘{I}‘; only used in epenthesis for nouns
+%{o%}         ! Realised as ‘‘; triggers dialectal interpretation of Iп
+%{E%}         ! Realised as ‘а‘, ‘е‘, ‘й‘ (={A}/й)
 %{д%}         ! Realised as д before vowels, 0 otherwise
 %{т%}         ! Realised as т before vowels, 0 otherwise
 
@@ -551,7 +551,7 @@ LEXICON KAN
 %<kan%>%<neg%>:%>kansiz # ;
 
 LEXICON NON-FINITE
-%<ger_inf%>:%>maq SUBST ; !Dir/LR !are we sure -moq is the standard form? my grammar book gives -maq as the standard but it's better if a native decides this
+%<ger_inf%>:%>maq SUBST ; !Dir/LR !are we sure -moq is the standard form? my grammar book gives -maq as the standard but it‘s better if a native decides this
 %<ger_inf%>:%>moq SUBST ;
 %<ger_abst%>:%>{i%}sh SUBST ;
 
@@ -660,7 +660,7 @@ LEXICON V-PERS-S1
 
 V-PERS-S1-NO3PERSON ;
 %<p3%>%<sg%>: CLITICS-NO-COP ;
-%<p3%>%<pl%>: CLITICS-NO-COP ; ! #CHECK shouldn't this have -l{a}r to avoid ambiguity?
+%<p3%>%<pl%>: CLITICS-NO-COP ; ! #CHECK shouldn‘t this have -l{a}r to avoid ambiguity?
 
 LEXICON V-PERS-S2
 
@@ -838,7 +838,7 @@ LEXICON GENERAL-POSSESSIVE-ETC
 
 !------------------------------------------------------------------------------!
 ! <n.pl.нікі.pl> sequence should not be allowed. This form is rare (1 (!)
-! match in RFERL corpus for 'нікілар'), probably not worh bothering at all.
+! match in RFERL corpus for ‘нікілар‘), probably not worh bothering at all.
 ! It could be handled in a way abessive is handled, but since NIKI in contrast
 ! to the abessive SIZ can appear after possessves, that would require
 ! duplicating possessives as well.
@@ -899,7 +899,7 @@ FULL-NOMINAL-INFLECTION ;
 !!!!!!!   G E R U N D S   I N F L E C T I O N
 
 ! This is a somewhat simplified version of FULL-NOMINAL-INFLECTION.
-! The idea was to avoid overgeneration (I don't think that ger+DAGI would take
+! The idea was to avoid overgeneration (I don‘t think that ger+DAGI would take
 ! case endings e.g. Same for ger+NIKI). Still, this cont.class might be not
 ! suitable for all of the gerunds. /IS/
 
@@ -923,7 +923,7 @@ LEXICON GER-ABE-ATTR/ADVL/SUBST
 !%<subst%>: CASE-2 ;
 !%<subst%>%<pl%>:%>%{L%}%{A%}р CASE-2 ;
 
-LEXICON GER-ABE-ETC          ! Stuff which doesn't appear after possessives
+LEXICON GER-ABE-ETC          ! Stuff which doesn‘t appear after possessives
 
 %+siz%<post%>:%>s%{I%}z CLITICS-NO-COP ; ! 2014-08-16//FMT: this was "GER-ABE-ATTR/ADVL/SUBST"
 
@@ -1168,7 +1168,7 @@ DIGITLEX ; ! Use/Circ
 LASTDIGIT ; ! Use/Circ
 LASTDIGIT-REST ; ! Use/Circ
 
-! FIXME: We probably need a flag diacritic here, or an alternative '<percent>' lexicon
+! FIXME: We probably need a flag diacritic here, or an alternative ‘<percent>‘ lexicon
 %%:%% DIGITLEX ;  ! Use/Circ
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -2254,8 +2254,8 @@ arazchi:arazchi A2 ; !
 arayishini% ol:arayishini% ol V-IV ; ! 
 araq:araq N1 ; ! 
 araqi:araqi N1 ; ! 
-araqxo'r:araqxo'r N1 ; ! 
-araqxo'rlik:araqxo'rli%{K%} N1 ;  ! 
+araqxo‘r:araqxo‘r N1 ; ! 
+araqxo‘rlik:araqxo‘rli%{K%} N1 ;  ! 
 aralash:aralash A1 ; ! 
 aralash:aralash A1 ; ! "mixed"
 aralash:aralash V-IV ; ! 
@@ -4819,7 +4819,7 @@ broshyura:broshyura N1 ; !
 brus:brus N1 ; ! 
 brutsyollyoz:brutsyollyoz N1 ; ! 
 bubnom:bubnom N1 ; ! 
-!bu:bu # ; ! what's this? 
+!bu:bu # ; ! what‘s this? 
 bu:bu PRON-DEM-BU ; ! "this"
 buva:buva N1 ; ! 
 buvadexqon:buvadexqon N1 ; ! 
@@ -8037,7 +8037,7 @@ yogochsoz:yogochsoz N1 ; ! 0.9999999996691707
 yogochsozlik:yogochsozlik N1 ; ! 0.9999999999999458
 yegulik:yegulik N1 ; ! 0.9999999989621913
 yegulik%-ichgulik:yegulik%-ichgulik N1 ; ! 0.9999998777923784
-yog':yog' N1 ; !
+yog‘:yog‘ N1 ; !
 yodakay:yodakay N1 ; ! 0.9999657637178935
 yodaki:yodaki N1 ; ! 0.9999999969182276
 yodgor:yodgor N1 ; ! 0.9999999988103404
@@ -11205,7 +11205,7 @@ yiqchi:yiqchi N1 ; ! 0.9998615030240043
 yilbay:yilbay A1 ; ! 0.8257023624504082
 yilgʻa:yilgʻa N1 ; ! 0.9999952631225726
 yilgacha:yilgacha ADV1 ; ! "until (that year)"   ???????????
-yilgi:yilgi A1 ; ! "year's"
+yilgi:yilgi A1 ; ! "year‘s"
 yilgi:yilgi A2 ; ! 0.8944956185531486
 yildirim:yildirim N1 ; ! 0.9999998861319576
 yiliga:yiliga N1 ; ! 0.9999999213419575
@@ -28129,7 +28129,7 @@ toʻyimlik:toʻyimlik N1 ; ! 0.9898383658711006
 toʻyimlilik:toʻyimlilik N1 ; ! 0.9999999999992809
 toʻyimli:toʻyimli A2 ; ! 0.9999999996347787
 toʻyintir:toʻyintir V-TV-CAUS ; ! 0.9999999999144706
-toʻyin:toʻyin VERB-IV ; ! "to be quite full"******** i don't know turkish
+toʻyin:toʻyin VERB-IV ; ! "to be quite full"******** i don‘t know turkish
 toʻyin:toʻyin V-IV-REFL ; ! 0.9959886954059209
 toʻyin:toʻyin N1 ; ! 0.9996012232477752
 toʻyla:toʻyla V-TV ; ! 0.9249736320054613
@@ -36685,7 +36685,7 @@ LEXICON Punctuation
 %—%<guio%>:%— # ;
 ,%<cm%>:, # ;
 %?%<sent%>:%? # ; 
-%'%<apos%>:%' # ;
+%‘%<apos%>:%‘ # ;
 %"%<sent%>:%" # ;
 %«%<lquot%>:%« # ;
 %»%<rquot%>:%» # ;
@@ -36716,7 +36716,7 @@ Abbos:Abbos NP-ANT-M ; ! ""
 Abdulla:Abdulla NP-ANT-M ; ! ""
 Abdullayev:Abdullayev NP-COG-MF ; ! ""
 Abdüllah:Abdüllah NP-ANT-M ; ! ""
-Abruzzo:Abruzzo NP-TOP ; ! ''
+Abruzzo:Abruzzo NP-TOP ; ! ‘‘
 Abu:Abu NP-ANT-M ; ! ""
 Adalet:Adalet NP-ANT-M ; ! ""
 Adam:Adam NP-ANT-M ; ! ""
@@ -36813,14 +36813,14 @@ Atanasiü:Atanasiü NP-ANT-M ; ! ""
 Athletic% Bilbao:Athletic% Bilbao NP-ORG ; ! ""
 Atlantika:Atlantika NP-TOP ; ! ""
 Atlantiques:Atlantiques NP-TOP ; ! ""
-Atletico% Madrid:Atletico% Madrid NP-ORG ; ! "" ! i suppose many languages don't use the è while writing ATLTETICIOITAOMADRID
+Atletico% Madrid:Atletico% Madrid NP-ORG ; ! "" ! i suppose many languages don‘t use the è while writing ATLTETICIOITAOMADRID
 Atlético% Madrid:Atlético% Madrid NP-ORG ; ! ""
 Auvergne:Auvergne NP-TOP ; ! "
 Auxerre:Auxerre NP-TOP ; ! "Auxerre"
 Avellino:Avellino NP-TOP ; ! ""
 Avstraliya:Avstraliya NP-TOP ; ! "Australia"
 Avstriya:Avstriya NP-TOP ; ! ""
-Axsi:Axsi NP-TOP ; ! "Axsi" ************ i couldn't find turkish
+Axsi:Axsi NP-TOP ; ! "Axsi" ************ i couldn‘t find turkish
 Aydınspor:Aydınspor NP-ORG ; ! ""
 Aygul:Aygul NP-ANT-F ; ! ""
 Ayhan:Ayhan NP-ANT-M ; ! ""
@@ -36974,7 +36974,7 @@ Colak:Colak NP-ANT-M ; ! ""
 Colin:Colin NP-ANT-M ; ! ""
 Colorado:Colorado NP-TOP ; ! "Colorado"
 Columbia:Columbia NP-TOP ; ! ""
-Como:Como NP-TOP ; ! ''
+Como:Como NP-TOP ; ! ‘‘
 Comté:Comté NP-TOP ; 
 Connecticut:Connecticut NP-TOP ; ! ""
 Corinthians:Corinthians NP-AL ; !
@@ -36984,7 +36984,7 @@ Cosenza:Cosenza NP-TOP ; ! ""
 County:County NP-AL ; ! ""
 Creek:Creek NP-TOP ; ! ""
 Cremona:Cremona NP-TOP ; ! ""
-Creuse:Creuse NP-TOP ; ! ''
+Creuse:Creuse NP-TOP ; ! ‘‘
 Cristian:Cristian NP-ANT-M ; ! ""
 Cuneo:Cuneo NP-TOP ; ! ""
 Cvjetan:Cvjetan NP-ANT-M ; ! ""
@@ -37051,7 +37051,7 @@ EUFOR:EUFOR NP-ORG ; ! ""
 EULEX:EULEX NP-ORG ; ! ""
 EUobserver:EUobserver NP-AL ; ! ""
 EUpolitix:EUpolitix NP-AL ; ! ""
-East:East NP-TOP ; ! ''
+East:East NP-TOP ; ! ‘‘
 Edouard:Edouard NP-ANT-M ; ! ""
 Elazığspor:Elazığspor NP-ORG ; ! ""
 Elzas:Elzas NP-TOP ; !
@@ -37179,7 +37179,7 @@ Hills:Hills NP-TOP ; ! ""
 Hindiston:Hindiston NP-TOP ; ! ""
 Hirod:Hirod NP-ANT-M ; !
 Hirot:Hirot NP-TOP ; ! "Herat"
-Hisor:Hisor NP-TOP ; ! ''
+Hisor:Hisor NP-TOP ; ! ‘‘
 Hizbüllah:Hizbüllah NP-ANT-M ; ! ""
 Holstein:Holstein NP-TOP ; ! ""
 Horst:Horst NP-ANT-M ; ! ""
@@ -37233,6 +37233,7 @@ Ivica:Ivica NP-ANT-M ; ! ""
 Ivica:Ivica NP-ANT-M ; ! "" ! Dir/LR
 Ivo:Ivo NP-ANT-M ; ! ""
 Ivo:Ivo NP-ANT-M ; ! "" ! Dir/LR
+Asal:Asal NP-ANT-F ; ! "Asal"
 Izmir:Izmir NP-TOP ; ! "Izmir"
 JAT:JAT NP-ORG ; ! ""
 Jaap:Jaap NP-ANT-M ; ! ""
@@ -37433,7 +37434,7 @@ Mirko:Mirko NP-ANT-M ; ! ""
 Miroljüb:Miroljüb NP-ANT-M ; ! ""
 Miroslav:Miroslav NP-ANT-M ; ! ""
 Mirsad:Mirsad NP-ANT-M ; ! ""
-Mirzachoʻl:Mirzachoʻl NP-TOP ; ! "Mirzacho'l" ************* i couldn't find turkish
+Mirzachoʻl:Mirzachoʻl NP-TOP ; ! "Mirzacho‘l" ************* i couldn‘t find turkish
 Misr:Misr NP-TOP ; ! ""
 Mississippi:Mississippi NP-TOP ; ! ""
 Missouri:Missouri NP-TOP ; ! ""
@@ -37499,7 +37500,7 @@ Novara:Novara NP-ORG ; ! ""
 Novese:Novese NP-ORG ; ! ""
 Novqat:Novqat NP-TOP ; ! ""
 Nukus:Nukus NP-TOP ; ! ""
-Nurota:Nurota NP-TOP ; ! ''
+Nurota:Nurota NP-TOP ; ! ‘‘
 Nyu% York:Nyu% York NP-TOP ; ! ""
 Nyu:Nyu NP-AL ; !
 Nüri:Nüri NP-ANT-M ; ! ""
@@ -37599,7 +37600,7 @@ Qozogʻiston:Qozogʻiston NP-TOP ; !
 Qoʻqon:Qoʻqon NP-TOP ; !
 Qrim:Qrim NP-TOP ; ! ""
 Quddus:Quddus NP-TOP ; ! "jerusalem"
-Qurama:Qurama NP-TOP ; ! "Qurama"  *********** couldn't find turkish
+Qurama:Qurama NP-TOP ; ! "Qurama"  *********** couldn‘t find turkish
 RFE:RFE NP-ORG ; ! "Radio Free Europe"
 RL:RL NP-ORG ; ! "Radio Liberty" ! FIXME: Should be joined up
 Racan:Racan NP-ANT-M ; ! ""
@@ -37711,7 +37712,7 @@ Sevilla:Sevilla NP-ORG ; ! ""
 Shahrisabz:Shahrisabz NP-TOP ; ! "Shakhrisabz"
 Shayx:Shayx NP-TOP ; ! "" 
 Sheffield% Wednesday:Sheffield% Wednesday NP-ORG ; ! ""
-Sherobod:Sherobod NP-TOP ; ! "Shirabad" couldn't find turkish eq.****************
+Sherobod:Sherobod NP-TOP ; ! "Shirabad" couldn‘t find turkish eq.****************
 Shtiriya:Shtiriya NP-TOP ; ! "Shtiriya"
 Shvetsiya:Shvetsiya NP-TOP ; ! ""
 Sierra% Nevada:Sierra% Nevada NP-TOP ; ! ""
@@ -37752,7 +37753,7 @@ Stjepan:Stjepan NP-ANT-M ; ! ""
 Stojan:Stojan NP-ANT-M ; ! ""
 Sunbula:Sunbula NP-AL ; !
 Sunderland:Sunderland NP-ORG ; ! ""
-Suriya:Suriya NP-TOP ; ! ''
+Suriya:Suriya NP-TOP ; ! ‘‘
 Surxondaryo:Surxondaryo NP-TOP ; ! "Surxondaryo"
 Svetozar:Svetozar NP-ANT-M ; ! ""
 Swift:Swift NP-COG-MF ; !
@@ -37827,7 +37828,7 @@ Udinese:Udinese NP-ORG ; ! ""
 Ulugʻbek:Ulugʻbek NP-ANT-M ; !
 Ural:Ural NP-TOP ; ! ""
 Urbino:Urbino NP-TOP ; ! ""
-Urganch:Urganch NP-TOP ; ! ''
+Urganch:Urganch NP-TOP ; ! ‘‘
 Us:Us NP-TOP ; ! ""
 Utah:Utah NP-TOP ; ! "Utah"
 VMRO%-DPMNE:VMRO%-DPMNE NP-ORG ; ! ""
@@ -37838,7 +37839,7 @@ Valencia:Valencia NP-ORG ; ! ""
 Valensiya:Valensiya NP-TOP ; ! "Valencia"
 Valentin:Valentin NP-ANT-M ; ! ""
 Valladolid:Valladolid NP-ORG ; ! ""
-Valley:Valley NP-TOP ; ! ''
+Valley:Valley NP-TOP ; ! ‘‘
 Van:Van NP-TOP ; ! "Van"
 Vanspor:Vanspor NP-ORG ; ! ""
 Varese:Varese NP-TOP ; ! ""
@@ -37864,7 +37865,7 @@ Vestfaliya:Vestfaliya NP-TOP ; ! ""
 Vicenza:Vicenza NP-TOP ; ! ""
 Vienne:Vienne NP-TOP ; ! ""
 Villanueva:Villanueva NP-TOP ; ! ""
-Ville:Ville NP-TOP ; ! ''
+Ville:Ville NP-TOP ; ! ‘‘
 Villefranche:Villefranche NP-TOP ; ! ""
 Villeneuve:Villeneuve NP-TOP ; ! "Villeneuve"
 Villers:Villers NP-TOP ; ! "Villers"
