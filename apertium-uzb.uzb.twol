@@ -7,6 +7,8 @@ Alphabet
 
 %{s%}:s %{S%}:s %{i%}:i %{E%}:y %{K%}:k %{n%}:n 
 
+%{a%}:a
+
 ʻ 
 
 %>:0 %  ; 
@@ -37,8 +39,8 @@ Rules
 "{Q} becomes gʻ when it is before a vowel"
 %{q%}:gʻ <=>  _ %>: (:0) :Vow ;
 
-"{i} becomes i when following a consonant"
-%{i%}:0 <=> :Vow %>: _ ;
+"{i} is null after a vowel"
+%{i%}:0 <=> :Vow :0* _ ;
 
 
 "Voicing assimilation of front G"
@@ -50,4 +52,5 @@ Rules
 "{u} deletion"
 %{u%}:0 <=> _ Cons: %>: (:0) :Vow ;
 
-
+"{a} is null after a vowel"
+%{a%}:0 <=> :Vow :0* _ ;

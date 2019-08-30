@@ -477,11 +477,11 @@ LEXICON PRON-DEM-BU
 LEXICON VERB-IV
 
 %<v%>%<iv%>: VERB-IV-FULL ; 
-%<v%>%<iv%>%<pass%>:il VERB-IV-FULL ;
-%<v%>%<iv%>%<ref%>:in VERB-IV-FULL ;
-%<v%>%<iv%>%<neg%>:ma VERB-IV-FULL ;
-%<v%>%<iv%>%<pass%>%<neg%>:ilma VERB-IV-FULL ;
-%<v%>%<iv%>%<ref%>%<neg%>:inma VERB-IV-FULL ;
+%<v%>%<iv%>%<pass%>:%>il VERB-IV-FULL ;
+%<v%>%<iv%>%<ref%>:%>in VERB-IV-FULL ;
+%<v%>%<iv%>%<neg%>:%>ma VERB-IV-FULL ;
+%<v%>%<iv%>%<pass%>%<neg%>:%>il%>ma VERB-IV-FULL ;
+%<v%>%<iv%>%<ref%>%<neg%>:%>in%>ma VERB-IV-FULL ;
 
 LEXICON VERB-IV-FULL
 
@@ -626,7 +626,10 @@ LEXICON PERMISSIVE
 
 LEXICON PRES-CONT 
 
-%<prog%>:%>yap PERS ;
+%<prog%>:%>yap PERS ;       ! Dir/LR
+%<prog%>:%>yab PERS ;       ! Dir/LR
+%<prog%>:%>%{i%}yab PERS ;  ! Dir/LR
+%<prog%>:%>%{a%}yab PERS ;
 %<prog_inf%>:%>moqda PERS ;
 %<prog_inf%>:%>maqda PERS ; ! Dir/LR
 %<prog_fut%>:%>%{E%}yatir PERS ;
@@ -681,7 +684,7 @@ LEXICON PERS
 %<p1%>%<sg%>:%>man  CLITICS ;
 %<p2%>%<sg%>:%>san  CLITICS ;
 %<p3%>%<sg%>:%>%{D%}i  CLITICS ;
-%<p3%>%<sg%>:%>  CLITICS ;
+%<p3%>%<sg%>:%>  CLITICS ;       ! Dir/LR
 %<p2%>%<pl%>:%>siz CLITICS ;
 %<p1%>%<pl%>:%>miz  CLITICS ;
 %<p3%>%<pl%>:%>%{D%}ilar  CLITICS ;
