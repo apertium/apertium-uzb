@@ -22,7 +22,7 @@ Alphabet
  E:Е
  F:Ф
  G:Г
- Gʻ:Ғ
+ Ğ:Ғ
  H:Ҳ
  I:И
  J:Ж
@@ -31,7 +31,7 @@ Alphabet
  M:М
  N:Н
  O:О
- Oʻ:Ў
+ Ö:Ў
  P:П
  R:Р
  S:С
@@ -41,8 +41,8 @@ Alphabet
  X:X
  Y:Й
  Z:З
- Sh:Ш
- Ch:Ч
+ Ş:Ш
+ Ç:Ч
  Q:Қ
 
   a:а
@@ -51,7 +51,7 @@ Alphabet
   e:е
   f:ф
   g:г
-  gʻ:ғ
+  ğ:ғ
   h:ҳ
   i:и
   j:ж
@@ -60,7 +60,7 @@ Alphabet
   m:м
   n:н
   o:о
-  oʻ:ў
+  ö:ў
   p:п
   r:р
   s:с
@@ -70,8 +70,8 @@ Alphabet
   x:x
   y:й
   z:з
-  sh:ш
-  ch:ч
+  ş:ш
+  ç:ч
   q:қ
 
 
