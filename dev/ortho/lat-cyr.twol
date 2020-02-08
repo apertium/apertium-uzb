@@ -75,6 +75,8 @@ Alphabet
   ç:ч
   q:қ
 
+  ʻ:ъ
+
 
  ;
 
@@ -83,13 +85,18 @@ Sets
 
 Vow = и ү е э ө а о у ы ;
 
+Yot = я ё ю е ;
+
 Rules
 
 "Yot letters"
-y:Vx <=> _ Vy: ;
-     where Vx in ( я ё ю е )
-           Vy in ( a o u e )
+Vx:Vy <=> y: _ ;
+     where Vy in ( a o u e )
+           Vx in ( я ё ю е )
      matched ;
+
+"And delete y"
+y:0 <=> _ :Yot ;
 
 "э at beginning of word"
 e:э <=> .#. _ ;

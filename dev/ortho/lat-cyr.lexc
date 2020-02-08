@@ -70,6 +70,10 @@ y:y AlphaLoop "weight: 1.0" ;
 Y:y AlphaLoop "weight: 1.0" ;
 z:z AlphaLoop "weight: 1.0" ;
 Z:z AlphaLoop "weight: 1.0" ;
+aʻ:aʻ AlphaLoop "weight: 1.0" ;
+eʻ:eʻ AlphaLoop "weight: 1.0" ;
+Aʻ:Aʻ AlphaLoop "weight: 1.0" ;
+Eʻ:Eʻ AlphaLoop "weight: 1.0" ;
 
 
 
