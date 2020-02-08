@@ -1,4 +1,4 @@
-all: tuk-CYR.automorf.bin #ara-cyr.lexc.hfst
+all: uzb-CYR.automorf.bin #ara-cyr.lexc.hfst
 
 %.lexc.hfst: %.lexc
 	hfst-lexc $< -o $@
@@ -9,13 +9,13 @@ all: tuk-CYR.automorf.bin #ara-cyr.lexc.hfst
 lat-cyr.hfst: lat-cyr.lexc.hfst lat-cyr.twol.hfst
 	hfst-compose-intersect -1 $< -2 lat-cyr.twol.hfst | hfst-minimise -o $@
 
-tuk-CYR.autogen.hfst: ../../.deps/tuk.LR.hfst lat-cyr.hfst
+uzb-CYR.autogen.hfst: ../../.deps/uzb.LR.hfst lat-cyr.hfst
 	hfst-minimise $< | hfst-compose-intersect -1 - -2 lat-cyr.hfst -o $@
 
-tuk-CYR.REVautomorf.hfst: ../../.deps/tuk.RL.hfst lat-cyr.hfst
+uzb-CYR.REVautomorf.hfst: ../../.deps/uzb.RL.hfst lat-cyr.hfst
 	hfst-minimise $< | hfst-compose-intersect -1 - -2 lat-cyr.hfst -o $@
 
-tuk-CYR.automorf.hfst: tuk-CYR.REVautomorf.hfst
+uzb-CYR.automorf.hfst: uzb-CYR.REVautomorf.hfst
 	hfst-invert $< -o $@
 
 %.att.gz: %.hfst
