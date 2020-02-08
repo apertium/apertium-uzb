@@ -104,4 +104,4 @@ y:0 <=> _ :Yot ;
 e:э <=> .#. _ ;
 
 "е not at beginning of word"
-e:е <=> Cons: _ ;
+e:е <=> [ Cons: - y: ] _ ;
