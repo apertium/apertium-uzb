@@ -74,6 +74,8 @@ aʻ:aʻ AlphaLoop "weight: 1.0" ;
 eʻ:eʻ AlphaLoop "weight: 1.0" ;
 Aʻ:Aʻ AlphaLoop "weight: 1.0" ;
 Eʻ:Eʻ AlphaLoop "weight: 1.0" ;
+x:x AlphaLoop "weight: 1.0" ;
+X:X AlphaLoop "weight: 1.0" ;
 
 
 
