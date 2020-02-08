@@ -83,16 +83,18 @@ Alphabet
 
 Sets
 
-Vow = и ү е э ө а о у ы ;
+Vow = a e i o u ;
 
 Yot = я ё ю е ;
+
+Cons = b d f g ğ h j k l m n p r s t v x y z ş ç q ;
 
 Rules
 
 "Yot letters"
 Vx:Vy <=> y: _ ;
-     where Vy in ( a o u e )
-           Vx in ( я ё ю е )
+     where Vx in ( a o u e )
+           Vy in ( я ё ю е )
      matched ;
 
 "And delete y"
@@ -100,3 +102,6 @@ y:0 <=> _ :Yot ;
 
 "э at beginning of word"
 e:э <=> .#. _ ;
+
+"е not at beginning of word"
+e:е <=> Cons: _ ;
