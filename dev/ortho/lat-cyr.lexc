@@ -1,0 +1,100 @@
+Multichar_Symbols
+
+%{й%}
+
+LEXICON Root
+
+Punct ;
+!Exceptions ;
+Digits ;
+Alpha ;
+
+LEXICON AlphaLoop
+
+Alpha ;
+ # ;
+
+LEXICON Alpha
+
+a:a AlphaLoop "weight: 1.0" ;
+A:a AlphaLoop "weight: 1.0" ;
+b:b AlphaLoop "weight: 1.0" ;
+B:b AlphaLoop "weight: 1.0" ;
+d:d AlphaLoop "weight: 1.0" ;
+D:d AlphaLoop "weight: 1.0" ;
+e:e AlphaLoop "weight: 1.0" ;
+E:e AlphaLoop "weight: 1.0" ;
+f:f AlphaLoop "weight: 1.0" ;
+F:f AlphaLoop "weight: 1.0" ;
+gʻ:gʻ AlphaLoop "weight: 1.0" ;
+Gʻ:gʻ AlphaLoop "weight: 1.0" ;
+g:g AlphaLoop "weight: 1.0" ;
+G:g AlphaLoop "weight: 1.0" ;
+h:h AlphaLoop "weight: 1.0" ;
+H:h AlphaLoop "weight: 1.0" ;
+i:i AlphaLoop "weight: 1.0" ;
+I:i AlphaLoop "weight: 1.0" ;
+j:j AlphaLoop "weight: 1.0" ;
+J:j AlphaLoop "weight: 1.0" ;
+k:k AlphaLoop "weight: 1.0" ;
+K:k AlphaLoop "weight: 1.0" ;
+q:q AlphaLoop "weight: 1.0" ;
+Q:q AlphaLoop "weight: 1.0" ;
+l:l AlphaLoop "weight: 1.0" ;
+L:l AlphaLoop "weight: 1.0" ;
+m:m AlphaLoop "weight: 1.0" ;
+M:m AlphaLoop "weight: 1.0" ;
+n:n AlphaLoop "weight: 1.0" ;
+N:n AlphaLoop "weight: 1.0" ;
+o:o AlphaLoop "weight: 1.0" ;
+O:o AlphaLoop "weight: 1.0" ;
+oʻ:oʻ AlphaLoop "weight: 1.0" ;
+Oʻ:oʻ AlphaLoop "weight: 1.0" ;
+p:p AlphaLoop "weight: 1.0" ;
+P:p AlphaLoop "weight: 1.0" ;
+r:r AlphaLoop "weight: 1.0" ;
+R:r AlphaLoop "weight: 1.0" ;
+s:s AlphaLoop "weight: 1.0" ;
+S:s AlphaLoop "weight: 1.0" ;
+sh:sh AlphaLoop "weight: 1.0" ;
+Sh:sh AlphaLoop "weight: 1.0" ;
+ch:ch AlphaLoop "weight: 1.0" ;
+Ch:ch AlphaLoop "weight: 1.0" ;
+t:t AlphaLoop "weight: 1.0" ;
+T:t AlphaLoop "weight: 1.0" ;
+u:u AlphaLoop "weight: 1.0" ;
+U:u AlphaLoop "weight: 1.0" ;
+v:v AlphaLoop "weight: 1.0" ;
+V:v AlphaLoop "weight: 1.0" ;
+y:y AlphaLoop "weight: 1.0" ;
+Y:y AlphaLoop "weight: 1.0" ;
+ý:ý AlphaLoop "weight: 1.0" ;
+Ý:ý AlphaLoop "weight: 1.0" ;
+z:z AlphaLoop "weight: 1.0" ;
+Z:z AlphaLoop "weight: 1.0" ;
+
+
+
+LEXICON Digits
+
+<[%0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9]+> # ;
+
+LEXICON Punct
+
+%.:%. # ;
+%-:%- # ;
+%,:%, # ;
+!%,:%، # ;  ! Arabic comma
+!،:، # ;
+!,:، # ;
+%;:%; # ;
+%::%: # ;
+%!:%! # ;
+%?:%? # ;
+%“:%“ # ;
+%”:%” # ;
+%«:%« # ;
+%»:%» # ;
+%(:%( # ;
+%):%) # ;
+%–:%– # ;
