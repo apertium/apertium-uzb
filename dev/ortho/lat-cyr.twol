@@ -49,6 +49,7 @@ Alphabet
   b:б
   d:д
   e:е
+  e:э
   f:ф
   g:г
   ğ:ғ
@@ -89,3 +90,6 @@ y:Vx <=> _ Vy: ;
      where Vx in ( я ё ю е )
            Vy in ( a o u e )
      matched ;
+
+"э at beginning of word"
+e:э <=> .#. _ ;
