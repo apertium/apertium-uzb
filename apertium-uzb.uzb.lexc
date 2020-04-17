@@ -1,64 +1,106 @@
-Multichar_Symbols
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!    M O R P H O L O G I C A L · T R A N S D U C E R · F O R · U Z B E K    !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-%<n%>          ! Noun
-%<np%>          ! Proper noun
-%<adj%>
-%<adv%>
-%<post%>       ! Postposition
-%<prep%>       ! Preposition
-%<cnjcoo%>     ! Co-ordinating conjunction  
-%<cnjadv%>
-%<cnjsub%>
+! See http://wiki.apertium.org/wiki/Turkic_lexicon
+
+!=================!
+ Multichar_Symbols
+!=================!
+
+! Followed http://wiki.apertium.org/wiki/Turkic_languages
+
+! Part of speech categories = First-level tags
+%<n%>         ! Noun                       ! Ot
+%<np%>        ! Proper noun                ! Atoqli ot
+%<adj%>       ! Adjective                  ! Sifat
+%<adv%>       ! Adverb                     ! 
+%<post%>      ! Postposition               !
+%<prep%>      ! Preposition                !
+%<cnjcoo%>    ! Co-ordinating conjunction  !
+%<cnjadv%>    ! Adverbial conjunction      !
+%<cnjsub%>    ! Sub-ordinating conjunction !
 %<ij%>        ! Interjection               ! 
-%<num%>
-%<prn%>
-%<det%>       ! Determiner                 ! Детерминатив
-%<abbr%>
-%<postadv%>   ! Postadverb
-%<cop%>       ! Copula                     ! Копула
-%<ideo%>      ! Ideophone/onomatopoeia
-%<paren%>
-%<phrase%>
+%<num%>       ! Numeral                    ! Son
+%<prn%>       ! Pronoun                    ! 
+%<det%>       ! Determiner                 ! Aniqovchi
+%<abbr%>      ! Abbreviation               ! Qisqartma
+%<postadv%>   ! Postadverb                 !
+%<cop%>       ! Copula                     ! Kopula
+%<ideo%>      ! Ideophone/onomatopoeia     ! Ideofon???
+%<paren%>     ! Parentheses                ! Qo'shtirnoq
+%<phrase%>    ! Phrase                     ! Fraza
 
-! Cases ! "Case is a lie!" (quot.)
+! Cases                       ! Kelishiklar
+%<nom%>       ! Nominative    ! Bosh kelishik
+%<gen%>       ! Genitive      ! Qaratqich kelishigi
+%<dat%>       ! Dative        ! Jo'nalish kelishigi
+%<acc%>       ! Accusative    ! Tushum kelishigi
+%<abl%>       ! Ablative      ! Chiqish kelishigi
+%<loc%>       ! Locative      ! O'rin-payt kelishigi
+%<ins%>       ! Instrumental  ! Instrumental=comitative 
 
-%<nom%>            
-%<gen%>            
-%<dat%>            
-%<acc%>            
-%<abl%>            
-%<loc%>            
-%<ins%>            ! Instrumental=comitative 
+!! some additional ~cases                  ! Ba`zi qo'shimcha kelishiklar
+%<sim%>       ! Similative                 !# DAй
+%<abe%>       ! Abessive=Privative         ! Лишительный
+              ! # SIZ (not used after posessives and cases)
+%<reas%>      ! not used rigth now, just in case for # LIKDAN
 
-!! some additional ~cases
-%<sim%>       ! Similative
-              !# DAй
-%<abe%>       ! Abessive=Privative ! Лишительный
-              !# SIZ (not used after posessives and cases)
-%<reas%>      ! not used rigth now, just in case for
-              !# LIKTAN
+! Levels of comparison of adjectives   ! Sifatlarning solishtirma darajalari
+%<comp%>      ! Comparative            ! Solishtirma
+
+! TODO
+!! Some adjecives have a "weakening" form, e.g. oq>oqish, sariq>sarg'ish; but
+!! also oq>oqimtir, qora>qoramtir. Sometimes they take the comparative ROQ affix,
+!! e.g. qizg'ishroq.
+
+! TODO
+!! There is also what can be called a synthetic superlative form (as opposed
+!! to the /eng<adv>+X<adj>/ construction) -- qop-qora, sap-sariq, ko'm-ko'k etc.
+!! Probably easiest way would be just to lexicalize them, but make sure that
+!! they don't take the comparative affix.
+
 
 ! Possessives
-%<px1sg%>     ! First person singular
-%<px2sg%>     ! Second person singular
-%<px3sp%>     ! Third person singular/plural
-%<px1pl%>     ! First person plural
-%<px2pl%>     ! Second person plural
-%<px3pl%>     ! Third person plural (for reflexive)
-!%<px%>        ! General possessive          !# -нікі  ! now gen.subst
+%<px1sg%>     ! First person singular                   ! 1-shaxs birlik
+%<px2sg%>     ! Second person singular                  ! 2-shaxs birlik
+%<px3sp%>     ! Third person singular/plural            ! 3-shaxs birlik/ko'plik
+%<px1pl%>     ! First person plural                     ! 1-shaxs ko'plik
+%<px2pl%>     ! Second person plural                    ! 2-shaxs ko'plik
+%<px3pl%>     ! Third person plural (for reflexive)     ! 3-shaxs ko'plik
+!%<px%>        ! General possessive                     ! # -niki  ! now gen.subst
+
+
+! Proper noun types          ! Atoqli otlar turari
+%<top%>       ! Toponym      ! Toponim
+%<ant%>       ! Anthroponym  ! Shaxs ismi
+%<cog%>       ! Cognomen     ! Familiya
+%<pat%>       ! Patronym     ! Sharif/ Otchestva
+%<org%>       ! Organisation ! Korxona-Tashkilot nomi
+%<al%>        ! Other        ! Boshqalar
+
+!! Gender of anthroponyms and cognoms  !! Shaxs ismi va familiyasi jinsi
+%<m%>         ! Masculine          ! Erkak
+%<f%>         ! Feminine           ! Ayol
+%<mf%>        ! Masculine/feminine !# basically cognoms without -ov/-ova,-in/-ina endings
+
+! Verbal features   ! Fel xususiyatlari
+
+!! Mood                          ! Kayfiyatni bildiruvchi
+%<imp%>       ! Imperative       ! Imperativ
+%<opt%>       ! Optative/jussive ! ?? / Imported from Kazakh, not used yet
+%<evid%>      ! Evidential, a.k.a. "indirect" / non-eyewitness / hearsay
+
+!! Derivation                ! Kelib chiqishiga qarab
+%<caus%>      ! Causative    ! ?? / Imported from Kazakh, not used yet
+%<pass%>      ! Passive      ! Passiv
+%<coop%>      ! Cooperative  ! ?? / Imported from Kazakh, not used yet
+
+
+
+
 
 !!!!!! MISC!!!!
-
-%<top%> ! TOPONYMS
-%<al%> ! ALTER
-%<ant%>       ! Anthroponym
-%<cog%>       ! Cognomen     ! Фамилия
-%<org%>
-%<al%> !others
-
-%<m%> ! 
-%<f%> !
-%<mf%> !
 
 %<v%>
 %<iv%>
@@ -69,17 +111,11 @@ Multichar_Symbols
 %<prog%>
 %<prog_inf%> 	! progressive constructed with -maqda
 %<prog_fut%> 	! "hareketin yakın geleceğe de uzayacağını anlatır."
-%<evid%>
 %<kan%>
-%<imp%>
 %<perm%>
 %<ger_inf%>
-%<gna_when%>
-%<gna_perf%>
-%<gna_neg%>
 %<gpr_pres%>
-%<gna_until%>
-%<pass%>
+
 
 %<com%>                         !
 %<ger_abst%>                         !
@@ -90,17 +126,18 @@ Multichar_Symbols
 %<title%>                         !
 
 !! Tense / finite forms
-%<pres%>      ! for "жатыр", "тұр", "отыр" and "жүр"
+%<pres%>      ! for "yotir", "dir",..
 %<aor%>       ! -{E}
-%<past%>      ! -{G}{A}н
+%<past%>      ! -{G}{A}n
 %<ifi%>       ! -{D}{I}
-%<evid%>      ! -{I}пт{I}
+%<evid%>      ! -{I}pt{I}
 %<fut%>       ! -adigan
 %<fut_plan%>  ! -future with -moqchi (planned)
-%<pih%>       ! -{E}тін       ! ~past imperfect ~"used to"
+%<pih%>       ! -{E}tin       ! ~past imperfect ~"used to"
 
-%<attr%>
-%<subst%>
+! "Syntactic" tags. Attributive use of non-adjectives etc.
+%<attr%>      ! Attributive
+%<subst%>     ! Substantive
 %<advl%>      ! Adverbial
 
 %<p1%>
@@ -124,28 +161,71 @@ Multichar_Symbols
 
 %<guess%>     ! 
 
-%<sg%>
-%<pl%>
+! Number
+%<sg%>        ! Singular ! Birlik
+%<pl%>        ! Plural   ! Ko'plik
 
-%<prn%>
-%<adv%>
-! %<ref%>
-%<pers%>
-! %<dem%>
+! Pronoun types
+%<pers%>      ! Personal
+%<recip%>     ! Reciprocal
 
 !! Pronoun&Determiner types
 %<dem%>       ! Demonstrative
 %<ind%>       ! Indefinite
 %<itg%>       ! Interrogative
 %<qnt%>       ! Quantifier
-%<neg%>       ! Negative       !# ешкім
-              ! (NOTE: also used to denote negation in verbs, i.e for м{A})
+%<neg%>       ! Negative    !# ешкім ! (NOTE: also used to denote negation in verbs, i.e for м{A})
 %<ref%>       ! Reflexive
 
 ! Numeral types
 %<ord%>       ! Ordinal
 %<coll%>      ! Collective
 %<dist%>      ! Distributive
+
+!! Non-Finite verb forms
+
+!!! Participles
+!TODO 
+!This part was derived from Kazakh transucers and need to be applied for Uzbek as welll
+!%<prc_perf%>  ! Perfect participle
+              ! -{I}п
+              !# "Бірақ мысығы үйде, _ұйықтап_ жатыр.";
+!%<prc_impf%>  ! Imperfect participle
+              ! -{E}
+              !# "...олар далада _ойнай_ алмады...";
+!%<prc_vol%>   ! Volition participle
+              ! -{G}{I}
+              !# барғым келмейді;
+!%<prc_cond%>  ! Conditional participle
+              ! -с{A}
+              !# ...жесең болады...;
+!%<prc_fplan%> ! Future plan participle
+              ! -{M}{A}{K},
+              ! -{M}{A}{K}ш{I} Dir/LR
+              !# "Шал қазға бармақшы болады.";
+!%<prc_plan%>  ! Plan participle
+              ! -{G}{A}л{I}
+              !# мен сөйлескелі келдім;
+!!%<prc_irre%> ! Irrealis participle
+              ! -{E}{T}{I}н
+              ! (This form is analyzed as <gpr_impf> and <ger_impf>)
+              ! (FIXME this might be wrong)
+
+!!! Verbal adverbs        ! Ravishdosh        !Глагольные наречия
+%<gna_perf%>  ! -{I}b,   ! # O'sha vaqt endi quyosh _botib_, yulduzlar ko'rina boshlagan edi
+              !# "...ул вакытта инде кояш _баеп_, йолдызлар күренә башлаган
+              !# иде..." (Ф.Хөсни);
+%<gna_impf%>  ! -{A}	      
+%<gna_cond%>  ! -с{A}
+              !# ...қайда екенін _білсе_, маған бұл туралы айтыр еді...;
+%<gna_until%> ! -{G}{A}нш{A}
+              !# "Мен кеткенше ол жауап бермейді.";
+%<gna_after%> ! -{G}{A}л{I}
+              ! (NOTE: ambiguous with prc_plan)
+              !# "Сабақ _біткелі_ екі сағат өтті."; Ол кеткелі біз жұмыс
+              !# істемейдік;
+
+
 
 !!! Gerunds (verbal nouns)
 %<ger%>       ! -{U}
