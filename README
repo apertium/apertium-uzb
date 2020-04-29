@@ -52,23 +52,18 @@ Testing
 If you are in the source directory after running make, the following
 commands should work:
 
-* Morphological analysis:
+```
+$ echo "Brav eo an amzer" | apertium -d . uzb-morph
+^Brav/brav<adj><mf><sp>$ ^eo/bezañ<vblex><pri><p3><sg>$
+^an/an<det><def><sp>/mont<vblex><pri><p1><sg>/monet<vblex><pri><p1><sg>$ 
+^amzer/amzer<n><f><sg>$^./.<sent>$
+```
 
-      $ echo "Bilim barchamizga baxt keltiradi" | apertium -d . uzb-morph
-      ^Bilim/bilim<n><attr>/bilim<n><nom>$ ^barchamizga/barcha<prn><coll><px1pl><dat>$ ^baxt/baxt<n><attr>/baxt<n><nom>$ ^keltiradi/keltir<v><tv><aor><p3><sg>$^./.<sent>$
-
-* Tagging (analysis + disambiguation):
-
-      $ echo "Bilim barchamizga baxt keltiradi" | apertium -d . uzb-tagger
-      ^Bilim/bilim<n><nom>$ ^barchamizga/barcha<prn><coll><px1pl><dat>$ ^baxt/baxt<n><nom>$ ^keltiradi/keltir<v><tv><aor><p3><sg>$^./.<sent>$
-
-* Morphological generation:
-
-      $ echo "^Bilim/bilim<n><nom>$ ^barchamizga/barcha<prn><coll><px1pl><dat>$ ^baxt/baxt<n><nom>$ ^keltiradi/keltir<v><tv><aor><p3><sg>$^./.<sent>$" | apertium -f none  -d . uzb-gener
-      #Bilim\/bilim #barchamizga\/barcha #baxt\/baxt #keltiradi\/keltir#.\/.
-      # NOTE: Generation needs some work.  The correct output should be:
-      # Bilim barchamizga baxt keltiradi
-
+```
+$ echo "Brav eo an amzer" | apertium -d . uzb-tagger
+^Brav/Brav<adj><mf><sp>$ ^eo/bezañ<vblex><pri><p3><sg>$ 
+^an/an<det><def><sp>$ ^amzer/amzer<n><f><sg>$^./.<sent>$
+```
 
 Files and data
 ===============================================================================
