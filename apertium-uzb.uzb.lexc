@@ -68,7 +68,7 @@
 %<px1pl%>     ! First person plural                     ! 1-shaxs ko'plik
 %<px2pl%>     ! Second person plural                    ! 2-shaxs ko'plik
 %<px3pl%>     ! Third person plural (for reflexive)     ! 3-shaxs ko'plik
-!%<px%>        ! General possessive                     ! # -niki  ! now gen.subst
+
 
 
 ! Proper noun types          ! Atoqli otlar turari
@@ -91,10 +91,10 @@
 %<opt%>       ! Optative/jussive ! ?? / Imported from Kazakh, not used yet
 %<evid%>      ! Evidential, a.k.a. "indirect" / non-eyewitness / hearsay
 
-!! Derivation                ! Kelib chiqishiga qarab
-%<caus%>      ! Causative    ! ?? / Imported from Kazakh, not used yet
+!! Derivation                ! Kelib chiqishiga qarab.  !We should discuss them and their implementation.
+%<caus%>      ! Causative    ! 
 %<pass%>      ! Passive      ! Passiv
-%<coop%>      ! Cooperative  ! ?? / Imported from Kazakh, not used yet
+%<coop%>      ! Cooperative  !
 
 
 
@@ -126,14 +126,14 @@
 %<title%>                         !
 
 !! Tense / finite forms
-%<pres%>      ! for "yotir", "dir",..
+!%<pres%>      ! for "yotir", "dir",.. !Most probably not needed in Uzbek, so commented out.
 %<aor%>       ! -{E}
-%<past%>      ! -{G}{A}n
-%<ifi%>       ! -{D}{I}
-%<evid%>      ! -{I}pt{I}
+%<past%>      ! -{G}an
+%<ifi%>       ! -{i}btir
+%<evid%>      ! -{G}an ekan
 %<fut%>       ! -adigan
 %<fut_plan%>  ! -future with -moqchi (planned)
-%<pih%>       ! -{E}tin       ! ~past imperfect ~"used to"
+%<pih%>       ! -{a}yotgan       ! ~past imperfect ~"used to"
 
 ! "Syntactic" tags. Attributive use of non-adjectives etc.
 %<attr%>      ! Attributive

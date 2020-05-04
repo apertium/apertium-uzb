@@ -64,10 +64,8 @@ commands should work:
 
 * Morphological generation:
 
-      $ echo "^Bilim/bilim<n><nom>$ ^barchamizga/barcha<prn><coll><px1pl><dat>$ ^baxt/baxt<n><nom>$ ^keltiradi/keltir<v><tv><aor><p3><sg>$^./.<sent>$" | apertium -f none  -d . uzb-gener
-      #Bilim\/bilim #barchamizga\/barcha #baxt\/baxt #keltiradi\/keltir#.\/.
-      # NOTE: Generation needs some work.  The correct output should be:
-      # Bilim barchamizga baxt keltiradi
+      $ echo "^Bilim<n><nom>$ ^barcha<prn><coll><px1pl><dat>$ ^baxt<n><nom>$ ^keltir<v><tv><aor><p3><sg>$^.<sent>$" | apertium -f none  -d . uzb-gener
+      Bilim barchamizga baxt keltiradi.
 
 
 Files and data
