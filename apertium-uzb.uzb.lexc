@@ -341,6 +341,7 @@ Punctuation ;
 Hardcoded ;
 Common ;
 Proper ;
+Copula ;
 
 !! INTERFACE
 !! =========
@@ -433,10 +434,13 @@ LEXICON N-COMPOUND-PX
 !! Adjectives
 !! ----------
 
+! FIXME: bring in line with kaz.lexc
+! FIXME: add comparative
+
 LEXICON A1
-%<adj%>: # ; 
+%<adj%>: CLITICS-INCL-COP ; 
 %<adj%>%<subst%>: SUBST ;
-%<adj%>%<advl%>: # ;
+%<adj%>%<advl%>: CLITICS-INCL-COP ;
 
 LEXICON A1-SUP
 A1 ;
@@ -448,7 +452,7 @@ LEXICON A1→V
 A1 ;
 
 LEXICON A2 
-%<adj%>: # ; 
+%<adj%>: CLITICS-INCL-COP ;
 %<adj%>%<subst%>: SUBST ;
 
 LEXICON A2-SUP
@@ -456,6 +460,11 @@ A2 ;
 
 LEXICON A2--V
 A2 ;
+
+
+LEXICON A5
+
+%<adj%>: CLITICS-INCL-COP ;
 
 !! Adverbs
 !! -------
@@ -894,6 +903,7 @@ LEXICON CLITICS-NO-COP
 CLIT-QST ;
 CLIT-MODASS ;
 CLIT-GHANA-ETC ;
+# ;
 
 LEXICON CLITICS-NO-COP-NO-QST
 
@@ -35489,8 +35499,8 @@ emakdosh:emakdosh N1 ; ! 0.9998735180190271
 emakla:emakla V-TV ; ! 0.999883556085782
 emanzor:emanzor N1 ; ! 0.9999982706242326
 eman:eman A2 ; ! 0.9966668192122807
-emas:emas A1 ; ! 0.9054339171908455
-emas:emas A1 ; !
+! emas:emas A1 ; ! 0.9054339171908455
+! emas:emas A1 ; !
 embriologik:embriologik A2 ; ! 0.9999986185623088
 embriologiya:embriologiya N1 ; ! 0.9988856519753601
 embrional:embrional N1 ; ! 0.7743796248155471
