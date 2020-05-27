@@ -114,13 +114,9 @@
 %<kan%>
 %<perm%>
 %<ger_inf%>
-%<gpr_pres%>
 
 
 %<com%>                         !
-%<ger_abst%>                         !
-%<gpr_fut%>                         !
-%<gpr_fut_plan%> 			!
 %<mistake%>                         !
 %<part%>                         !
 %<title%>                         !
@@ -206,10 +202,7 @@
 !%<prc_plan%>  ! Plan participle
               ! -{G}{A}л{I}
               !# мен сөйлескелі келдім;
-!!%<prc_irre%> ! Irrealis participle
-              ! -{E}{T}{I}н
-              ! (This form is analyzed as <gpr_impf> and <ger_impf>)
-              ! (FIXME this might be wrong)
+
 
 !!! Verbal adverbs        ! Ravishdosh        !Глагольные наречия
 %<gna_perf%>  ! -{I}b,   ! # O'sha vaqt endi quyosh _botib_, yulduzlar ko'rina boshlagan edi
@@ -237,9 +230,19 @@
 %<ger_abs%>   ! -уш{I}л{I}{K}          FIXME CHECK
 %<ger_fut%>   ! -{A}р
               !# "Мен айтарымды айттым";
-%<ger_impf%>  ! -{E}{T}{I}н
+%<ger_impf%>  ! -adigan
               !# "Ол бүгін кешкілік болатынын айтты";
+%<ger_abst%>                         !
 ! TODO cover -{E}{T}{I}нд{I}{K} form
+
+
+!!! Verbal adjectives (gpr)
+
+%<gpr_impf%>  ! -adigan
+%<gpr_pres%>
+%<gpr_fut%>                         !
+%<gpr_fut_plan%> 			!
+
 
 !! Transitivity
 %<tv%>
@@ -645,6 +648,8 @@ LEXICON NON-FINITE
 
 %<gpr_pres%>:%>ayotgan # ;
 
+%<gpr_impf%>:%>adigan # ;
+
 %<gpr_fut%>:%>ar # ; 
 
 %<gpr_fut_plan%>:%>moqchi # ; !what is the negative form? !the negative form is constructed with emas, so might be better to handle lexically, like bormoqchi emasman = gidecek değilim
@@ -664,6 +669,7 @@ LEXICON GERUND
 %<ger_past%>:%>%{G%}an SUBST ;    
 %<gpr_rsub%>:%>%{G%}an SUBST ;    
 !%<ger_past%>:%>ish SUBST ;    
+%<ger_impf%>:%>adigan SUBST ;
 
 
 LEXICON IMPERATIVE
@@ -764,9 +770,11 @@ LEXICON PERS
 
 %<p1%>%<sg%>:%>man  CLITICS ;
 %<p2%>%<sg%>:%>san  CLITICS ;
+%<p2%>%<frm%>%<sg%>:%>siz CLITICS ;
 %<p3%>%<sg%>:%>%{D%}i  CLITICS ;
 %<p3%>%<sg%>:%>  CLITICS ;       ! Dir/LR
-%<p2%>%<pl%>:%>siz CLITICS ;
+%<p2%>%<pl%>:%>silar CLITICS ;
+%<p2%>%<frm%>%<pl%>:%>sizlar CLITICS ;
 %<p1%>%<pl%>:%>miz  CLITICS ;
 %<p3%>%<pl%>:%>%{D%}ilar  CLITICS ;
 
@@ -786,13 +794,14 @@ LEXICON PERS3
 
 %<p1%>%<sg%>:%>man  CLITICS ;
 %<p2%>%<sg%>:%>san  CLITICS ;
+%<p2%>%<frm%>%<sg%>:%>siz CLITICS ;
 %<p3%>%<sg%>:%>%{D%}i  CLITICS ;
 ! %<p3%>%<sg%>:%>  CLITICS ;
 
-%<p3%>%<pl%>:%>%{D%}ilar CLITICS ;
 %<p1%>%<pl%>:%>miz  CLITICS ;
-%<p2%>%<pl%>:%>siz  CLITICS ;
-
+%<p2%>%<pl%>:%>silar CLITICS ;
+%<p2%>%<frm%>%<pl%>:%>sizlar CLITICS ;
+%<p3%>%<pl%>:%>%{D%}ilar CLITICS ;
 
 LEXICON ADV1
 %<adv%>: # ; ! this is for when the adverb is used as an adverb
