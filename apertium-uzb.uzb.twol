@@ -2,8 +2,11 @@ Alphabet
  A B C D E F G H I J K L M N O P Q R S T U V W Y Z X
  a b c d e f g h i j k l m n o p q r s t u v w y z x
  %0 1 2 3 4 5 6 7 8 9
- %{K%}:k %{Q%}:q %{l%}:l %{L%}:l %{M%}:m %{N%}:n %{G%}:g %{D%}:d  ! Cns
+ %{K%}:k %{Q%}:q
+ %{G%}:g %{G%}:k %{G%}:q
+ %{l%}:l %{L%}:l %{M%}:m %{N%}:n %{D%}:d  ! Cns
  %{A%}:a %{I%}:i %{E%}:e %{u%}:i ! Vow
+ %{ʻ%}:0 %{ʻ%}:ʻ
 
 %{s%}:s %{S%}:s %{i%}:i %{E%}:y %{K%}:k %{n%}:n 
 
@@ -19,7 +22,7 @@ Vow =     A E I O U
           a e i o u 
           %{A%} %{I%} %{E%} %{u%} ;
           
-Cons = b c d f g h j k l m n p q r s t v z x y
+Cons = b c d f g h j k l m n p q r s t v z x y ʻ
        B C D F G H J K L M N P Q R S T V Z X Y
        %{D%} %{K%} %{Q%} %{G%} %{N%} %{L%} %{M%} %{S%} %{n%} ; ! %- ;
 
@@ -28,29 +31,53 @@ Rules
  
 
 "{s} is deleted following a consonant"
-%{s%}:0 <=> :Cons %>: _ ;
+%{s%}:0 <=> :Cons %>:/[ :0 | :ʻ ]* _ ;
 
 "{E} becomes y when following a vowel"
 %{E%}:a <=> :Cons %>: _ ;
 
-"{K} becomes g when it is before a vowel"
-%{K%}:g <=>  _ %>: (:0) :Vow ;
+!"{K} becomes g when it is before a vowel"
+!%{K%}:g <=>  _ %>: (:0) :Vow ;
 
-"{Q} becomes gʻ when it is before a vowel"
-%{q%}:gʻ <=>  _ %>: (:0) :Vow ;
+!"{Q} becomes gʻ when it is before a vowel"
+!%{q%}:gʻ <=>  _ %>: (:0) :Vow ;
 
 "{i} is null after a vowel"
 %{i%}:0 <=> :Vow :0* _ ;
 
+"{G} is k/q after {k/q}>"
+%{G%}:Cy <=> :Cx %>:/[ :0 - %>: ]* _ ;
+         where
+             Cx in ( k q )
+             Cy in ( k q )
+         matched ;
 
-"Voicing assimilation of front G"
-%{G%}:k <=> :k %>: _ ; ! "from "Учебник узбекского языка для стран СНГ" there only -k and -g endings transfer to k" !  should be only for k/q final words for now - will update if I find contrary examples.
+"{G} is g everywhere but after k/q"
+%{G%}:g <=> _ ;
+        except
+            [ :k | :q ] %>:/[ :0 - %>: ]* _ ;
 
-"Voicing assimilation of front G"
-%{G%}:q <=> :q %>: _ ; ! "from "Учебник узбекского языка для стран СНГ" there only -k and -g endings transfer to k" !  should be only for k/qfinal words for now - will update if I find contrary examples.
+"intervocalic stem-final k & q voice before vowels, but only in N/Adj forms"
+Cx:g <=> :Vow _ %>: [ :0 - [ %>: | %{ʻ%}: ] ]* %{ʻ%}: [ :0 - [ %>: | %{ʻ%}: ] ]* :Vow ;
+     where Cx in ( k q ) ;
 
-"{u} deletion"
-%{u%}:0 <=> _ Cons: %>: (:0) :Vow ;
+!"intervocalic stem-final q voices before vowels, but only in N/Adj forms"
+!q:g <=> :Vow _ %>: [ :0 - [ %>: | %{ʻ%}: ] ]* %{ʻ%}: [ :0 - [ %>: | %{ʻ%}: ] ]* :Vow ;
 
-"{a} is null after a vowel"
-%{a%}:0 <=> :Vow :0* _ ;
+"{ʻ}:ʻ only when q:gʻ"
+%{ʻ%}:ʻ <=> :Vow q: %>: [ :0 - [ %>: | %{ʻ%}: ] ]* _ [ :0 - [ %>: | %{ʻ%}: ] ]* :Vow ;
+!%{ʻ%}:ʻ <=> _ ;
+!        except
+!            :Vow q: %>: [ :0 - [ %>: | %{ʻ%}: ] ]* _ [ :0 - [ %>: | %{ʻ%}: ] ]* :Vow ;
+
+!"Voicing assimilation of front G"
+!%{G%}:k <=> :k %>: _ ; ! "from "Учебник узбекского языка для стран СНГ" there only -k and -g endings transfer to k" !  should be only for k/q final words for now - will update if I find contrary examples.
+
+!"Voicing assimilation of front G"
+!%{G%}:q <=> :q %>: _ ; ! "from "Учебник узбекского языка для стран СНГ" there only -k and -g endings transfer to k" !  should be only for k/qfinal words for now - will update if I find contrary examples.
+
+!"{u} deletion"
+!%{u%}:0 <=> _ Cons: %>: (:0) :Vow ;
+
+!"{a} is null after a vowel"
+!%{a%}:0 <=> :Vow :0* _ ;
