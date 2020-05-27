@@ -1,0 +1,38 @@
+Config:
+  hfst:
+    App: hfst-lookup
+    Gen: ../../uzb.autogen.hfst
+    Morph: ../../uzb.automorf.hfst
+
+Tests:
+  "[twol] intervocalic stem-final q voicing":
+    baliq<n><nom> : baliq
+    baliq<n><px3sp><nom> : baligʻi
+    bayroq<n><px3sp><nom> : bayrogʻi
+
+  "[twol] intervocalic stem-final q voicing doesn't affect verbs":
+    chiq<v><iv><aor><p3><sg> : chiqadi
+
+  "[twol] intervocalic stem-final k voicing":
+    suyak<n><nom> : suyak
+    suyak<n><px3sp><nom> : suyagi
+    mushuk<n><nom> : mushuk
+    mushuk<n><px3sp><nom> : mushugi
+
+  "[twol] no voicing when not intervocalic":
+    bank<n><px3sp><nom> : banki
+    disk<n><px3sp><nom> : diski
+    barq<n><px3sp><nom> : barqi
+
+  "[twol] -{G}an after most consonants":
+    ket<v><iv><past><p1><sg> : ketganman
+
+  "[twol] -{G}an after k":
+    tik<v><tv><past><p1><sg> : tikkanman
+
+  "[twol] -{G}an after q":
+    chiq<v><iv><past><p1><sg> : chiqqanman
+    qishloq<n><dat> : qishloqqa
+
+  "[twol] -{G}an after gʻ":
+    yigʻ<v><tv><past><p1><sg> : yigʻganman
