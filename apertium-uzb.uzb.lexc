@@ -872,13 +872,13 @@ LEXICON CLITICS
 %+day%<day%>:day # ; ! x gibi
 %+cha%<cha%>:cha # ; ! x kadar
 
-LEXICON CLIT-QST-MA
+LEXICON CLIT-QST-MI
 
-%+ma%<qst%>:%>% %{M%}%{A%} # ;
+%+mi%<qst%>:%>mi # ;
 
 LEXICON CLIT-QST
 !QST ;
-CLIT-QST-MA ;
+CLIT-QST-MI ;
 %+mekan%<qst%>:% %{M%}ekan # ;
 
 LEXICON CLIT-MODASS
