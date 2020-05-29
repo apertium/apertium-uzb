@@ -759,7 +759,9 @@ LEXICON V-PERS-S1
 
 V-PERS-S1-NO3PERSON ;
 %<p3%>%<sg%>: CLITICS-NO-COP ;
+%<p3%>%<frm%>%<sg%>:dir CLITICS-NO-COP ;
 %<p3%>%<pl%>: CLITICS-NO-COP ; ! #CHECK shouldn‘t this have -l{a}r to avoid ambiguity?
+%<p3%>%<frm%>%<pl%>:dir CLITICS-NO-COP ;
 
 LEXICON V-PERS-S2
 
