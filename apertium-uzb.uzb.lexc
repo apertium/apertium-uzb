@@ -397,7 +397,7 @@ V-TV ;
 !! -----
 
 LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PLURAL*-POSSESSIVE*-CASE in this order
-%<n%>: SUBST ;
+%<n%>: FULL-NOMINAL-INFLECTION ;
 %<n%>%<attr%>: # ; 
 
 LEXICON N1-NAT ! Nationalities which can form language, etc.
@@ -917,17 +917,16 @@ CLIT-COP ;
 
 LEXICON CASES-COMMON
 
-%<gen%>:%>%{N%}%{I%}ng CLITICS-NO-COP ;
-%<dat%>:%>%{G%}%{A%} CLITICS-NO-COP ;
-%<acc%>:%>%{N%}%{I%} CLITICS-NO-COP ;
-! %<ins%>:%>%{M%}en CLITICS-NO-COP ;
+%<gen%>:%>ning CLITICS-NO-COP ;
+%<dat%>:%>%{G%}a CLITICS-NO-COP ;
+%<acc%>:%>ni CLITICS-NO-COP ;
 
 LEXICON CASES
 
 CASES-COMMON ;
 %<nom%>: CLITICS-INCL-COP ;
-%<abl%>:%>%{D%}%{A%}n CLITICS-INCL-COP ;
-%<loc%>:%>%{D%}%{A%} CLITICS-INCL-COP ;
+%<abl%>:%>dan CLITICS-INCL-COP ;
+%<loc%>:%>da CLITICS-INCL-COP ;
 
 LEXICON ATTR-SUBST
 
@@ -965,28 +964,26 @@ GENERAL-POSSESSIVE-ETC ;
 
 LEXICON POSSESSIVES
 
-%<px1sg%>:%>%{I%}m CASES-ETC ;
-%<px2sg%>:%>%{I%}ng CASES-ETC ;
-%<px3sp%>:%>%{S%}%{I%}%{n%} CASES-ETC ;
-%<px1pl%>:%>%{I%}m%{I%}z CASES-ETC ;
-%<px2pl%>:%>%{I%}ngd%{A%}r CASES-ETC ;
-
-%<px2sg%>%<frm%>:%>%{I%}ng%{I%}z CASES-ETC ;
-%<px2pl%>%<frm%>:%{I%}ng%{I%}zl%{A%}r CASES-ETC ;
+%<px1sg%>:%>%{ʻ%}%{i%}m CASE-ETC ;                
+%<px2sg%>:%>%{ʻ%}%{i%}ng CASE-ETC ;                 
+%<px3sp%>:%>%{ʻ%}%{s%}i CASE-ETC ; 
+%<px1pl%>:%>%{ʻ%}%{i%}miz CASE-ETC ;           
+%<px2pl%>:%>%{ʻ%}%{i%}ngiz CASE-ETC ;      
+%<px3pl%>:%>lari CASE-ETC ; 
 
 LEXICON ABESSIVE-POSTPOSITION
 
-%+siz%<post%>:%>s%{I%}z CLITICS-NO-COP ;
+%+siz%<post%>:%>siz CLITICS-NO-COP ;
 
 LEXICON LI-POSTPOSITION
 
-%+li%<post%>:%>%{L%}%{I%} CLITICS-NO-COP ;
+%+li%<post%>:%>li CLITICS-NO-COP ;
 
 LEXICON PLURAL
 
-%<pl%>:%>%{L%}%{A%}r CASES-ETC ;
-%<pl%>:%>%{L%}%{A%}r POSSESSIVES ;
-%<pl%>:%>%{L%}%{A%}r ABESSIVE-POSTPOSITION ;
+%<pl%>:%>lar CASES-ETC ;
+%<pl%>:%>lar POSSESSIVES ;
+%<pl%>:%>lar ABESSIVE-POSTPOSITION ;
 
 LEXICON FULL-NOMINAL-INFLECTION
 
@@ -1147,31 +1144,32 @@ GENPOSS-ETC ;
 
 LEXICON CASE 
 
-%<nom%>: # ;               
-%<gen%>:%>ning # ;      
-%<dat%>:%>%{G%}a # ;   
-%<acc%>:%>ni # ;
-%<loc%>:%>da # ;   
-%<abl%>:%>dan # ;  
-! %<ins%>:%>ins # ;   
+%<nom%>: CLITICS-INCL-COP ;
+
+CASE-COMMON ;
 
 LEXICON CASE-NONOM
 
-%<gen%>:%>ning # ;      
-%<dat%>:%>%{G%}a # ;   
-%<acc%>:%>ni # ;
-%<loc%>:%>da # ;   
-%<abl%>:%>dan # ;  
-! %<ins%>:%>ins # ;  
+CASE-COMMON ;
+
+LEXICON CASE-COMMON
+
+%<gen%>:%>ning CLITICS-NO-COP ;
+%<dat%>:%>%{G%}a CLITICS-NO-COP ;
+%<acc%>:%>ni CLITICS-NO-COP ;
+%<loc%>:%>da CLITICS-INCL-COP ;
+%<abl%>:%>dan CLITICS-INCL-COP ;
+
+
 
 LEXICON GENPOSS-ETC 
 
 ! %<px%>:%>%{n%}%{I%}ki%{n%} CASE ;
 %<loc%>%<attr%>:%>dagi # ;
 
-LEXICON SUB-COP
-
-%+e%<cop%>:%>dir # ;  
+!LEXICON SUB-COP
+!
+!%+e%<cop%>:%>dir # ;  
 
 LEXICON DIGITLEX
 
@@ -12386,7 +12384,7 @@ kishtkishla:kishtkishla V-IV ; ! 0.9982022062076568
 kisht:kisht N1 ; ! 0.9999999553499271
 kiya:kiya N1 ; ! 0.9999999999997095
 kytobshunos:kytobshunos N1 ; ! 0.9999966215571015
-k:k V-IV ; ! 0.818250445098013
+!k:k V-IV ; ! 0.818250445098013
 klaviatura:klaviatura N1 ; ! 0.9999999976735814
 klavish:klavish N1 ; ! 0.9999999999522462
 klavishli:klavishli A2 ; ! 0.9999668729438493
