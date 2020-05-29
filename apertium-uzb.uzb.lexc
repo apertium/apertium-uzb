@@ -1140,7 +1140,7 @@ LEXICON CASE-ETC
 
 CASE ;
 GENPOSS-ETC ;
-%<nom%>: SUB-COP ;  ! FIXME
+!%<nom%>: SUB-COP ;  ! FIXME
 
 LEXICON CASE 
 
