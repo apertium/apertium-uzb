@@ -4,7 +4,8 @@ Alphabet
  %0 1 2 3 4 5 6 7 8 9
  %{K%}:k %{Q%}:q
  %{G%}:g %{G%}:k %{G%}:q
- %{l%}:l %{L%}:l %{M%}:m %{N%}:n %{D%}:d  ! Cns
+ %{D%}:d %{D%}:t
+ %{l%}:l %{L%}:l %{M%}:m %{N%}:n ! Cns
  %{A%}:a %{I%}:i %{E%}:e %{u%}:i ! Vow
  %{ʻ%}:0 %{ʻ%}:ʻ
 
@@ -28,7 +29,8 @@ Cons = b c d f g h j k l m n p q r s t v z x y ʻ
 
 Rules
 
- 
+"{D} as t after (some?) voiceless cons"
+%{D%}:t <=> [ :p ]/[ :0 | %>: ]* _ ;
 
 "{s} is deleted following a consonant"
 %{s%}:0 <=> :Cons %>:/[ :0 | :ʻ ]* _ ;

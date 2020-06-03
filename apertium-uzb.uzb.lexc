@@ -703,7 +703,7 @@ LEXICON IMPERATIVE
 
 LEXICON INDEF-PAST
 
-%<past%>:%>%{G%}an PERS ;
+%<past%>:%>%{G%}an V-PERS-S1 ;
 %<past%>%<evid%>:%>%{i%}b PERS3 ;
 
 
@@ -714,7 +714,7 @@ LEXICON PAST
 
 LEXICON EVIDENTIAL-PAST
 
-%<evid%>:%>mish PERS ;
+%<past%>%<evid%>:%>mish PERS ;
 
 LEXICON PERMISSIVE
 
@@ -726,9 +726,9 @@ LEXICON PRES-CONT
 %<prog%>:%>yab PERS ;       ! Dir/LR
 %<prog%>:%>%{i%}yab PERS ;  ! Dir/LR
 %<prog%>:%>%{a%}yab PERS ;
-%<prog_inf%>:%>moqda PERS ;
-%<prog_inf%>:%>maqda PERS ; ! Dir/LR
-%<prog_fut%>:%>%{E%}yatir PERS ;
+%<prog_inf%>:%>moqda V-PERS-S1 ;
+%<prog_inf%>:%>maqda V-PERS-S1 ; ! Dir/LR
+%<prog_fut%>:%>%{E%}yatir V-PERS-S1 ;
 
 LEXICON AORIST
 
@@ -736,9 +736,9 @@ LEXICON AORIST
 %<fut2%>:%>%{E%}r PERS3 ; ! Dir/LR ! FIXME: need a different tag for this?
 
 LEXICON FUT
-%<fut%>:%>%{E%}digan PERS ;
-%<fut%>:%>%{E%}ajak PERS ; ! Dir/LR ! FIXME: need a different tag for this?
-%<fut_plan%>:%>moqchi PERS ;
+%<fut%>:%>%{E%}digan V-PERS-S1 ;
+%<fut%>:%>%{E%}ajak V-PERS-S1 ; ! Dir/LR ! FIXME: need a different tag for this?
+%<fut_plan%>:%>moqchi V-PERS-S1 ;
 
 LEXICON V-PERS-S1-NO3PERSON
 
