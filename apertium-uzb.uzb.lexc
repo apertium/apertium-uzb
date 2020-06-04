@@ -37335,6 +37335,7 @@ Barnabo:Barnabo NP-ANT-M ; !
 Barselona:Barselona NP-TOP ; ! "Barcelona"
 Bas:Bas NP-TOP ; !
 Bavariya:Bavariya NP-TOP ; ! ""
+Baxtiyor:Baxtiyor NP-ANT-M ; ! ""
 Bayram:Bayram NP-ANT-M ; ! ""
 Beaune:Beaune NP-TOP ; ! "Beaune"
 Beauvais:Beauvais NP-TOP ; ! "Beauvais"
@@ -37721,6 +37722,7 @@ Ivica:Ivica NP-ANT-M ; ! "" ! Dir/LR
 Ivo:Ivo NP-ANT-M ; ! ""
 Ivo:Ivo NP-ANT-M ; ! "" ! Dir/LR
 Asal:Asal NP-ANT-F ; ! "Asal"
+Oygul:Oygul NP-ANT-F ; ! ""
 Izmir:Izmir NP-TOP ; ! "Izmir"
 JAT:JAT NP-ORG ; ! ""
 Jaap:Jaap NP-ANT-M ; ! ""
