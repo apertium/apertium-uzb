@@ -25521,7 +25521,6 @@ soʻngra:soʻngra N1 ; ! 0.9999999921396968
 soʻngra:soʻngra ADV ; ! "later"
 soʻngsiz:soʻngsiz A1 ; ! 0.9999963102670268
 soʻng:soʻng ADV ; ! 0.4935114082661687
-soʻng:soʻng ADV1 ; !
 soʻng:soʻng N1 ; ! "finish"
 soʻng:soʻng POST-NOM ; ! ""
 soʻngsuz:soʻngsuz N1 ; ! 0.9999979900687788
@@ -28997,6 +28996,7 @@ top%-toza:top%-toza A2 ; ! 0.9931308754372602
 top:top VERB-TV ; ! "to find"
 top:top V-TV ; ! 0.9999174924832647
 top:top N1 ; ! 0.9994055374348901
+topish:topish V-IV ; ! "to find"
 topshiriq:topshiriq N1 ; ! 0.9999999996982879
 topshirish:topshirish V-IV-COOP ; ! 0.9995173764259005
 topshir:topshir VERB-TV ; ! "to delVERB-IVer"
@@ -32226,6 +32226,7 @@ halitdan:halitdan ADV ; ! 0.9999882263903339
 hali:hali A2 ; ! 0.9978478319506465
 hali:hali ADV3 ; ! "a while ago"
 hali:hali ADV ; ! "still"
+haliyam:haliyam ADV3 ; ! "still"
 hali%-hali:hali%-hali A2 ; ! 0.9937234885876963
 halqalan:halqalan V-IV-REFL ; ! 0.9999998795265971
 halqala:halqala V-IV ; ! 0.9936396168341748
@@ -36681,7 +36682,7 @@ yamoq%-yasqoq:yamoq%-yasqoq N1 ; ! 0.9933984070428298
 yam%-yash:yam%-yash A2 ; ! 0.9828268701474608
 yanagi:yanagi A2 ; ! 0.981893060680912
 yanada:yanada ADV1 ; ! "and yet"
-yana:yana A1 ; ! 0.7251485337885802
+yana:yana CC ; ! 0.7251485337885802
 yana:yana ADV3; ! "again"
 yanvar:Yanvar N1 ; ! "January"
 Yanvar:Yanvar N1 ; ! "January"
