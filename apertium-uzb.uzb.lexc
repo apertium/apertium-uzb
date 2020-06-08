@@ -669,7 +669,7 @@ LEXICON NON-FINITE
 
 LEXICON PRES-COND 
 
-%<cond%>:%>sa PERS2 ;
+%<prc_cond%>:%>sa PERS2 ;
 
 
 LEXICON GERUND 
@@ -869,7 +869,7 @@ LEXICON CLITICS
 # ; 
 %+mi%<qst%>:mi # ;
 %+ki%<cnjadv%>:ki # ;
-
+%+da%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
 %+dek%<dek%>:dek # ; ! x gibi
 %+day%<day%>:day # ; ! x gibi
 %+cha%<cha%>:cha # ; ! x kadar
