@@ -57,7 +57,7 @@ Rules
 "{G} is g everywhere but after k/q"
 %{G%}:g <=> _ ;
         except
-            [ :k |:q ] %>:/[ :0 - %>: ]* _ ;
+            [ :k | :q ] %>:/[ :0 - %>: ]* _ ;
 
 "intervocalic stem-final k & q voice before vowels, but only in N/Adj forms"
 Cx:g <=> :Vow _ %>: [ :0 - [ %>: | %{ʻ%}: ] ]* %{ʻ%}: [ :0 - [ %>: | %{ʻ%}: ] ]* :Vow ;

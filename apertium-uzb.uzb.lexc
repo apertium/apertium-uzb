@@ -542,6 +542,7 @@ CC ;
 LEXICON QST
 !%+mi%<qst%>:%>mi # ;
 %<qst%>: # ;
+
 LEXICON POSTADV
 %<postadv%>: # ;
 
@@ -669,7 +670,7 @@ LEXICON NON-FINITE
 
 LEXICON PRES-COND 
 
-%<prc_cond%>:%>sa PERS2 ;
+%<gna_cond%>:%>sa PERS2 ;
 
 
 LEXICON GERUND 
@@ -866,13 +867,14 @@ LEXICON MIST
 %<mistake%>: # ;
 
 LEXICON CLITICS
-# ; 
+
 %+mi%<qst%>:mi # ;
 %+ki%<cnjadv%>:ki # ;
-%+da%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
-%+dek%<dek%>:dek # ; ! x gibi
-%+day%<day%>:day # ; ! x gibi
-%+cha%<cha%>:cha # ; ! x kadar
+%+da%<cnjcoo%>:da # ; ! ""
+%+dek%<mod%>:dek # ; ! x gibi
+%+day%<mod%>:day # ; ! x gibi
+%+cha%<mod%>:cha # ; ! x kadar
+# ; 
 
 LEXICON CLIT-QST-MI
 
@@ -6876,7 +6878,6 @@ davriy:davriy A2 ; !
 davriylik:davriylik N1 ; ! 
 davron:davron N1 ; ! 
 davur:davur N1 ; ! 
-dagʻal:dagʻal A1 ; ! 
 dagʻal:dagʻal A1 ; ! "rough"
 dagʻallash:dagʻallash V-IV ; ! 
 dagʻalliq:dagʻalliq N1 ; ! 
@@ -6885,14 +6886,10 @@ dagʻdagʻali:dagʻdagʻali A2 ; !
 dagʻ%-dagʻ:dagʻ%-dagʻ IDEO ; ! 
 dag:dag N1 ; !
 dagi:dagi MIST ; ! ""
-da:da ADV1 ; !
+da:da CC ; ! "also, even"
 da’:da’ V-IV ; ! 
-da:da V-IV-REFL ; ! 
-da:da V-TV-CAUS ; ! 
-da:da V-TV ; ! 
 dada:dada N1 ; ! 
 da:da QST ; ! "" 
-da:da MIST ; ! ""
 %-da:%-da POSTADV ; ! 
 dadil:dadil A1 ; ! 
 dadillan:dadillan V-IV ; ! 
