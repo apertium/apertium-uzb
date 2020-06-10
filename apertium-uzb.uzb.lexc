@@ -183,10 +183,10 @@
 !!! Participles
 !TODO 
 !This part was derived from Kazakh transucers and need to be applied for Uzbek as welll
-!%<prc_perf%>  ! Perfect participle
+%<prc_perf%>  ! Perfect participle
               ! -{I}п
               !# "Бірақ мысығы үйде, _ұйықтап_ жатыр.";
-!%<prc_impf%>  ! Imperfect participle
+%<prc_impf%>  ! Imperfect participle
               ! -{E}
               !# "...олар далада _ойнай_ алмады...";
 !%<prc_vol%>   ! Volition participle
@@ -645,28 +645,31 @@ LEXICON KAN
 %<kan%>%<neg%>:%>kansiz # ;
 
 LEXICON NON-FINITE
+
+! FIXME: more <neg> forms
+
 %<ger_inf%>:%>maq SUBST ; !Dir/LR !are we sure -moq is the standard form? my grammar book gives -maq as the standard but it‘s better if a native decides this
 %<ger_inf%>:%>moq SUBST ;
 %<ger_abst%>:%>%{i%}sh SUBST ;
 
 
 %<gna_perf%>:%>%{i%}b # ;
- 
-%<gna_when%>:%>gach # ;
-
-%<gna_neg%>:%>masdan # ;
+%<gna_when%>:%>gach # ;     ! FIXME: rename
+%<gna_neg%>:%>masdan # ;    ! FIXME: rename
 
 %<gpr_pres%>:%>ayotgan # ;
-
 %<gpr_impf%>:%>adigan # ;
-
 %<gpr_fut%>:%>ar # ; 
-
 %<gpr_fut_plan%>:%>moqchi # ; !what is the negative form? !the negative form is constructed with emas, so might be better to handle lexically, like bormoqchi emasman = gidecek değilim
 
 %<neg%>%<gpr_fut%>:%>mas # ; 
 
 !%<part%>:%>ing SUBST ; 
+
+%<prc_perf%>:%>%{i%}b # ;
+%<prc_impf%>:%>%{E%} # ;
+%<neg%>%<prc_impf%>:%>%{i%}b # ;
+
 
 LEXICON PRES-COND 
 
