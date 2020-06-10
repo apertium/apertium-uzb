@@ -787,6 +787,7 @@ LEXICON PERS
 %<p2%>%<sg%>:%>san  CLITICS ;
 %<p2%>%<frm%>%<sg%>:%>siz CLITICS ;
 %<p3%>%<sg%>:%>%{D%}i  CLITICS ;
+%<p3%>%<sg%>:%>di  CLITICS ;     ! Dir/LR
 %<p3%>%<sg%>:%>  CLITICS ;       ! Dir/LR
 %<p2%>%<pl%>:%>silar CLITICS ;
 %<p2%>%<frm%>%<pl%>:%>sizlar CLITICS ;
