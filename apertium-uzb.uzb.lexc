@@ -571,6 +571,10 @@ LEXICON PRON-DEM-BU
 LEXICON VERB-IV
 
 %<v%>%<iv%>: VERB-IV-FULL ; 
+%<v%>%<iv%>%<coop%>:%>%{i%}sh VERB-IV-FULL ;
+%<v%>%<tv%>%<pass%>%<coop%>:%>%{i%}%{L%}%{i%}sh VERB-IV-FULL ;
+%<v%>%<tv%>%<caus%>%<coop%>:%>%{D%}ir%{i%}sh VERB-IV-FULL ;
+%<v%>%<tv%>%<caus%>%<coop%>:%>t%{i%}sh VERB-IV-FULL ;
 %<v%>%<iv%>%<pass%>:%>il VERB-IV-FULL ;
 %<v%>%<iv%>%<ref%>:%>in VERB-IV-FULL ;
 %<v%>%<iv%>%<neg%>:%>ma VERB-IV-FULL ;
@@ -601,8 +605,11 @@ LEXICON VERB-TD
 LEXICON VERB-TV
 
 %<v%>%<tv%>%<pass%>:%>il VERB-TV-FULL ;
+%<v%>%<tv%>%<coop%>:%>%{i%}sh VERB-TV-FULL ;
 %<v%>%<tv%>%<pass%>%<neg%>:%>ilma VERB-TV-FULL ;
-
+%<v%>%<tv%>%<pass%>%<coop%>:%>%{i%}%{L%}%{i%}sh VERB-TV-FULL ;
+%<v%>%<tv%>%<caus%>%<coop%>:%>%{D%}ir%{i%}sh VERB-TV-FULL ;
+%<v%>%<tv%>%<caus%>%<coop%>:%>t%{i%}sh VERB-TV-FULL ;
 %<v%>%<tv%>%<ref%>:%>in VERB-TV-FULL ;
 %<v%>%<tv%>%<ref%>%<neg%>:%>inma VERB-TV-FULL ;
 
@@ -4033,6 +4040,8 @@ bildirish:bildirish N1-VN ; !
 bilet:bilet N1 ; ! 
 biletchi:biletchi N1 ; ! 
 biljira:biljira V-IV ; ! 
+o'tir:o'tir V-IV ;
+bog'la:bog'la V-IV ;
 biljirat:biljirat V-TV-CAUS ; ! 
 biligiz:biligiz V-TV-CAUS ; ! 
 bilik:bilik N1 ; ! 
