@@ -111,9 +111,9 @@ SELECT Attr (0 Nom) (1C Px3Sp + Nom) ;
 
 SELECT Pron IF (0 N) ; 
 
-REMOVE Cop IF (NOT 1C EOS);
+#REMOVE Cop IF (NOT 1C EOS);
 	
-SELECT Cop IF (1 EOS) ; 
+SELECT SUB:1 Cop IF (1 EOS) ; 
 
  REMOVE SUB:1 Cop IF
         (NOT 1 EOS OR MARK OR ("da"))
@@ -303,3 +303,5 @@ SELECT Ger IF (0 A) ;
 SELECT Sub:1 FINITE IF
 	#(0/1 Ger)                # FIXME: why does this only work when commented
 	(1 EOS OR PHRASEMARK) ;
+
+SELECT Prop IF (0 N) (-1 Post) ;  # e.g. asal/Asal
