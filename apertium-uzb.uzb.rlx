@@ -216,6 +216,8 @@ REMOVE Advl IF (0 A)(1 EOS) ;
 
 REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
 
+REMOVE A IF (0 A) (NOT 1 Subst) ;
+
 #If an adjective is right before a numeral + noun it is an adjective for sure
 
 SELECT A IF (1C Num) (2C N) ;
