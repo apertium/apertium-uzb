@@ -54,7 +54,11 @@ LIST Cog = (np cog);
 LIST Recip = rec ; 
 LIST Caus = caus ; 
 
+LIST FiniteVerb = pres aor past ifi ifi_evid fut fut_plan imp opt pih ;
+
 LIST Ger = ger_past ger_abst ger_inf ger4 ger5 gna2 gna3 gna4 gpr_rsub; #these numbers are to be replaced with actual ones, right?
+
+LIST Vaux = vaux ;
 
 LIST rsub = gpr_rsub ; 
 
@@ -63,6 +67,8 @@ LIST Gerinf = ger_inf ;
 LIST Imper = imp ; 
 
 LIST Mistake = mistake ;
+
+LIST Colon = ":" ;
 
 SET FINITE = V - Ger ;
 
@@ -108,6 +114,40 @@ SELECT Pron IF (0 N) ;
 REMOVE Cop IF (NOT 1C EOS);
 	
 SELECT Cop IF (1 EOS) ; 
+
+ REMOVE SUB:1 Cop IF
+        (NOT 1 EOS OR MARK OR ("da"))
+;
+ REMOVE SUB:1 Cop IF
+        (-1 BOS OR MARK) ## Headings or enumerations
+        (NOT 1 EOS)
+;
+
+ SELECT SUB:1 Cop IF
+        (1 (lpar))
+        (2* (rpar) BARRIER EOS)
+        (NOT -1 Colon) 
+ ;
+
+
+
+#
+ SELECT SUB:1 Cop IF
+        (1 MARK)
+        (2*/1 Cop BARRIER EOS)
+        (NOT 0 Interj) ## Дұрыс, оның мысығы бар.
+        (NOT 0 FiniteVerb) ## 74 ... барлығы 53 ел [0]қатысты.
+        (NOT 2 N)
+;
+## Жоқ, Айгүлдің күшігі [0]жоқ, оның мысығы [0]бар.
+
+ SELECT SUB:1 Cop IF
+        (1 EOS)
+        (NOT 0 V OR Vaux)
+ ;
+
+
+
 
 #SInce the 3 singular can be mute in some cases, better to remove it if it is not the end of the sentence!
 
