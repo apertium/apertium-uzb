@@ -312,6 +312,7 @@
 %{ъ%}         ! Force back harmony
 
 %{a%}                         !
+%{u%}                         !
 %{b%}                         !
 %{p%}                         !
 %{z%}                         !
@@ -572,14 +573,13 @@ LEXICON VERB-IV
 
 %<v%>%<iv%>: VERB-IV-FULL ; 
 %<v%>%<iv%>%<coop%>:%>%{i%}sh VERB-IV-FULL ;
-%<v%>%<tv%>%<pass%>%<coop%>:%>%{i%}%{L%}%{i%}sh VERB-IV-FULL ;
-%<v%>%<tv%>%<caus%>%<coop%>:%>%{D%}ir%{i%}sh VERB-IV-FULL ;
-%<v%>%<tv%>%<caus%>%<coop%>:%>t%{i%}sh VERB-IV-FULL ;
-%<v%>%<iv%>%<pass%>:%>il VERB-IV-FULL ;
-%<v%>%<iv%>%<ref%>:%>in VERB-IV-FULL ;
-%<v%>%<iv%>%<neg%>:%>ma VERB-IV-FULL ;
-%<v%>%<iv%>%<pass%>%<neg%>:%>il%>ma VERB-IV-FULL ;
-%<v%>%<iv%>%<ref%>%<neg%>:%>in%>ma VERB-IV-FULL ;
+%<v%>%<iv%>%<pass%>%<coop%>:%>%{i%}%{L%}%>%{i%}sh VERB-IV-FULL ;
+%<v%>%<iv%>%<caus%>%<coop%>:%>%{D%}ir%>%{i%}sh VERB-IV-FULL ;
+%<v%>%<iv%>%<pass%>:%>%{i%}%{L%} VERB-IV-FULL ;
+!%<v%>%<iv%>%<ref%>:%>in VERB-IV-FULL ;   ! These should just be lexicalised
+!%<v%>%<iv%>%<neg%>:%>ma VERB-IV-FULL ;
+!%<v%>%<iv%>%<pass%>%<neg%>:%>il%>ma VERB-IV-FULL ;
+!%<v%>%<iv%>%<ref%>%<neg%>:%>in%>ma VERB-IV-FULL ;
 
 LEXICON VERB-IV-FULL
 
@@ -587,12 +587,15 @@ GERUND ;
 PRES-CONT ;
 PRES-COND ;
 AORIST ;
+%<neg%>:%>ma AORIST ;
 INDEF-PAST ; 
 PAST ;
 EVIDENTIAL-PAST ;
 NON-FINITE ;
 PERMISSIVE ;
 IMPERATIVE ;
+%<neg%>:%>ma IMPERATIVE ;
+
 FUT ; 
 
 !!!!!!!COPULA SUFFIXES!!!!!!
@@ -606,16 +609,12 @@ LEXICON VERB-TV
 
 %<v%>%<tv%>%<pass%>:%>il VERB-TV-FULL ;
 %<v%>%<tv%>%<coop%>:%>%{i%}sh VERB-TV-FULL ;
-%<v%>%<tv%>%<pass%>%<neg%>:%>ilma VERB-TV-FULL ;
-%<v%>%<tv%>%<pass%>%<coop%>:%>%{i%}%{L%}%{i%}sh VERB-TV-FULL ;
-%<v%>%<tv%>%<caus%>%<coop%>:%>%{D%}ir%{i%}sh VERB-TV-FULL ;
-%<v%>%<tv%>%<caus%>%<coop%>:%>t%{i%}sh VERB-TV-FULL ;
-%<v%>%<tv%>%<ref%>:%>in VERB-TV-FULL ;
-%<v%>%<tv%>%<ref%>%<neg%>:%>inma VERB-TV-FULL ;
-
-%<v%>%<tv%>%<neg%>:ma VERB-TV-FULL ; 
-
-
+!%<v%>%<tv%>%<pass%>%<neg%>:%>ilma VERB-TV-FULL ;
+%<v%>%<tv%>%<pass%>%<coop%>:%>%{i%}%{L%}%>%{i%}sh VERB-TV-FULL ;
+%<v%>%<tv%>%<caus%>%<coop%>:%>%{D%}ir%>%{i%}sh VERB-TV-FULL ;
+!%<v%>%<tv%>%<ref%>:%>in VERB-TV-FULL ;     ! These should just be lexicalised
+!%<v%>%<tv%>%<ref%>%<neg%>:%>inma VERB-TV-FULL ;
+!%<v%>%<tv%>%<neg%>:ma VERB-TV-FULL ; 
 %<v%>%<tv%>: VERB-TV-FULL ;
 
 
@@ -625,13 +624,14 @@ GERUND ;
 PRES-CONT ;
 PRES-COND ;
 AORIST ;
+%<neg%>:%>ma AORIST ;
 INDEF-PAST ;
 PAST ;
 EVIDENTIAL-PAST ;
 NON-FINITE ;
 PERMISSIVE ;
 IMPERATIVE ;
-
+%<neg%>:%>ma IMPERATIVE ;
 
 
 LEXICON VERB-COPULA
@@ -664,11 +664,14 @@ LEXICON NON-FINITE
 %<gna_when%>:%>gach # ;     ! FIXME: rename
 %<gna_neg%>:%>masdan # ;    ! FIXME: rename
 
-%<gpr_pres%>:%>ayotgan # ;
-%<gpr_impf%>:%>adigan # ;
-%<gpr_fut%>:%>ar # ; 
-%<gpr_fut_plan%>:%>moqchi # ; !what is the negative form? !the negative form is constructed with emas, so might be better to handle lexically, like bormoqchi emasman = gidecek değilim
+%<gpr_rsub%>:%>%{G%}an # ;
 
+%<gpr_pres%>:%>%{a%}yotgan # ;
+%<gpr_impf%>:%>%{a%}digan # ;
+%<gpr_fut_plan%>:%>moqchi # ; !what is the negative form? !the negative form is constructed with emas, so might be better to handle lexically, like bormoqchi emasman = gidecek değilim
+! This isn't a negative form of gpr (глаголное прилагательное); it's the negative form of a finite form.  This is like "bir yerga barmoqchi kishi" (is this correct?) -JNW
+
+%<gpr_fut%>:%>%{a%}r # ; 
 %<neg%>%<gpr_fut%>:%>mas # ; 
 
 !%<part%>:%>ing SUBST ; 
@@ -685,11 +688,16 @@ LEXICON PRES-COND
 
 LEXICON GERUND 
 
-%<ger%>:%>uv SUBST ; 
+%<ger%>:%>%{u%}v SUBST ; 
+%<neg%>%<ger%>:%>ma%>%{u%}v SUBST ; 
+
 %<ger_past%>:%>%{G%}an SUBST ;    
-%<gpr_rsub%>:%>%{G%}an SUBST ;    
+%<neg%>%<ger_past%>:%>ma%>%{G%}an SUBST ;    
+
 !%<ger_past%>:%>ish SUBST ;    
-%<ger_impf%>:%>adigan SUBST ;
+
+%<ger_impf%>:%>%{E%}digan SUBST ;
+%<neg%>%<ger_impf%>:%>ma%>%{E%}digan SUBST ;
 
 
 LEXICON IMPERATIVE
