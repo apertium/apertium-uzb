@@ -4133,7 +4133,7 @@ bir:bir NUM ; ! "one"
 bir%-biroviga:bir%-biroviga # ; ! 
 birvarakay:birvarakay ADV ; ! 
 birvarakayiga:birvarakayiga ADV ; ! 
-birga:birga ADV1 ; ! "together" ! "FIXME is it true?"
+birga:birga ADV3 ; ! "together" !
 birga:birga ADV ; ! 
 birga:birga POST-NOM ; ! ""
 birgalash:birgalash V-IV ; ! 
@@ -7672,6 +7672,8 @@ dozalangan:dozalangan A2 ; !
 dozax:dozax N1 ; ! 0.9999989884210337
 dozor:dozor N1 ; ! 
 doim:doim ADV1 ; !
+har% doim:har% doim ADV1 ; ! "always"
+har% doim:har% doim ADV3 ; ! "always"
 doim:doim ADV ; ! 
 doimiy:doimiy A1 ; ! "constant"
 doimiy:doimiy A2 ; ! 
@@ -9885,6 +9887,7 @@ zuv%-zuv:zuv%-zuv IDEO ; ! 0.9999989630496791
 zuvilla:zuvilla V-IV ; ! 0.9999997692046494
 zud:zud N1 ; ! 0.647076842547046
 zudlik:zudlik N1 ; ! 0.9993863284251231
+zudlik% bilan:zudlik% bilan ADV3 ; !
 zukko:zukko N1 ; ! 0.9905364982690026
 zukkolik:zukkolik N1 ; ! 0.9999999308427441
 zulqa’da:zulqa’da N1 ; ! 0.9999999984828553
@@ -12366,7 +12369,7 @@ kifoyalan:kifoyalan V-IV ; ! 0.99999294806531
 kifoyat:kifoyat N1 ; ! 0.9999993383611359
 kift:kift N1 ; ! 0.6902015678707469
 kiftli:kiftli A2 ; ! 0.6046106634518471
-kichik:kichik A1 ; ! "small"
+kichik:kichik A2 ; ! "small"
 kichik:kichik N1 ; ! 0.9990737552545993
 kichiklash:kichiklash V-IV ; ! 0.999801764583891
 kichiklashtir:kichiklashtir V-TV-CAUS ; ! 0.9999999996101089
@@ -24348,7 +24351,6 @@ sevinchi:sevinchi N1 ; ! 0.9987987088099946
 sevinchli:sevinchli A2 ; ! 0.9999999994490726
 sevinch:sevinch N1 ; ! 0.9999999998977843
 sevish:sevish V-TV-COOP ; ! 0.9818763030757244
-sevor:sevor N1 ; ! "lover" "fan" 
 sev:sev V-TV ; ! 0.44973860446022235
 sev:sev V-TV-CAUS ; ! 0.8179123319526167
 sevuvchi:sevuvchi N1 ; ! 0.9946546829680083
