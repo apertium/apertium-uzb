@@ -729,7 +729,7 @@ LEXICON INDEF-PAST
 LEXICON PAST
 
 %<ifi%>:%>di PERS2 ;
-%<ifi%>%<p3%>%<pl%>:%>%{i%}sh%>di CLITICS ;
+%<ifi%>%<p3%>%<pl%>:%>%{i%}sh%>di CLITICS ;   ! Dir/LR
 
 LEXICON EVIDENTIAL-PAST
 
@@ -818,7 +818,7 @@ LEXICON PERS2
 %<p2%>%<pl%>:%>ning  CLITICS ; !Dir/LR
 %<p2%>%<pl%>:%>ngiz  CLITICS ; 
 %<p2%>%<pl%>:%>ngizlar CLITICS ; !Dir/LR
-%<p3%>%<pl%>:%>ishsa  CLITICS ;
+!%<p3%>%<pl%>:%>ishsa  CLITICS ;   ! FIXME: this seems wrong, so I commented it out -JNW
 %<p3%>%<pl%>:%>lar  CLITICS ;
 
 LEXICON PERS3 
