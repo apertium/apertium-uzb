@@ -678,7 +678,7 @@ LEXICON NON-FINITE
 
 %<prc_perf%>:%>%{i%}b # ;
 %<prc_impf%>:%>%{E%} # ;
-%<neg%>%<prc_impf%>:%>%{i%}b # ;
+%<neg%>%<prc_impf%>:%>ma%>%{E%} # ;
 
 
 LEXICON PRES-COND 
