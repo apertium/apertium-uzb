@@ -602,6 +602,7 @@ LEXICON VERB-TV
 
 %<v%>%<tv%>%<pass%>:%>il VERB-TV-FULL ;
 %<v%>%<tv%>%<coop%>:%>%{i%}sh VERB-TV-FULL ;
+%<v%>%<tv%>%[%-coop%]:%>%{i%}sh VERB-IV-FULL ;
 !%<v%>%<tv%>%<pass%>%<neg%>:%>ilma VERB-TV-FULL ;
 %<v%>%<tv%>%<pass%>%<coop%>:%>%{i%}%{L%}%>%{i%}sh VERB-TV-FULL ;
 %<v%>%<tv%>%<caus%>%<coop%>:%>%{D%}ir%>%{i%}sh VERB-TV-FULL ;
