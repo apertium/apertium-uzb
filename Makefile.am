@@ -35,8 +35,8 @@ TARGETS_COMMON = $(LANG1).automorf.hfst $(LANG1).autogen.hfst \
 .deps/$(LANG1)_guesser.hfst: .deps/$(LANG1)_guesser.lexc.hfst .deps/$(LANG1).twol.hfst 
 	hfst-compose-intersect -1 .deps/$(LANG1)_guesser.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
 
-$(LANG1)_guesser.automorf.hfst: .deps/$(LANG1)_guesser.hfst .deps/spellrelax.hfst .deps/$(LANG1).restrict_guesser.hfst 
-	cat .deps/$(LANG1)_guesser.hfst | hfst-invert | hfst-compose -1 - -2 .deps/$(LANG1).restrict_guesser.hfst | hfst-invert | hfst-compose-intersect -1 - -2 .deps/spellrelax.hfst | hfst-invert | hfst-fst2fst -O -o $@
+$(LANG1)_guesser.automorf.hfst: .deps/$(LANG1)_guesser.hfst .deps/$(LANG1).spellrelax.hfst .deps/$(LANG1).restrict_guesser.hfst 
+	cat .deps/$(LANG1)_guesser.hfst | hfst-invert | hfst-compose -1 - -2 .deps/$(LANG1).restrict_guesser.hfst | hfst-invert | hfst-compose-intersect -1 - -2 .deps/$(LANG1).spellrelax.hfst | hfst-invert | hfst-fst2fst -O -o $@
 
 $(LANG1)_guesser.automorf.bin: $(LANG1)_guesser.automorf.hfst .deps/.d
 	hfst-fst2txt $(LANG1)_guesser.automorf.hfst   > .deps/$(LANG1)_guesser.autogen.att
@@ -46,10 +46,16 @@ $(LANG1)_guesser.automorf.bin: $(LANG1)_guesser.automorf.hfst .deps/.d
 ## Spellrelax
 ####
 
-.deps/spellrelax.hfst: dev/spellrelax.twol .deps/.d
-	hfst-twolc $< -o $@
+#.deps/$(LANG1).spellrelax.hfst: dev/spellrelax.twol .deps/.d
+#	hfst-twolc $< -o $@
+
+.deps/$(LANG1).spellrelax.hfst: $(BASENAME).$(LANG1).spellrelax
+	hfst-regexp2fst -S -o $@ < $<
 
 .deps/$(LANG1).twol.hfst: $(BASENAME).$(LANG1).twol .deps/.d
+	hfst-twolc $< -o $@
+
+.deps/$(LANG1).twoc.hfst: $(BASENAME).$(LANG1).twoc .deps/.d
 	hfst-twolc $< -o $@
 
 .deps/$(LANG1).RL.lexc: $(BASENAME).$(LANG1).lexc .deps/.d
@@ -70,11 +76,11 @@ $(LANG1)_guesser.automorf.bin: $(LANG1)_guesser.automorf.hfst .deps/.d
 .deps/$(LANG1).LR.hfst: .deps/$(LANG1).LR.lexc.hfst .deps/$(LANG1).twol.hfst
 	hfst-compose-intersect -1 .deps/$(LANG1).LR.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
 
-$(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst
-	hfst-fst2fst -O $< -o $@
+$(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst .deps/$(LANG1).twoc.hfst
+	hfst-compose-intersect -1 $< -2 .deps/$(LANG1).twoc.hfst | hfst-fst2fst -w -o $@
 
-$(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst .deps/spellrelax.hfst
-	hfst-compose-intersect -1 $< -2 .deps/spellrelax.hfst | hfst-invert | hfst-fst2fst -O -o $@
+$(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst .deps/$(LANG1).twoc.hfst .deps/$(LANG1).spellrelax.hfst
+	hfst-compose-intersect -1 $< -2 .deps/$(LANG1).twoc.hfst | hfst-invert | hfst-compose-intersect -1 - -2 .deps/$(LANG1).spellrelax.hfst | hfst-fst2fst -w -o $@
 
 $(LANG1).autogen.att.gz: $(LANG1).autogen.hfst
 	hfst-fst2txt $< | gzip -9 -c -n > $@
