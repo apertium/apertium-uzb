@@ -232,6 +232,7 @@
               !# "Мен айтарымды айттым";
 %<ger_impf%>  ! -adigan
               !# "Ол бүгін кешкілік болатынын айтты";
+%<ger_pres%>  ! -ayotgan
 %<ger_abst%>                         !
 ! TODO cover -{E}{T}{I}нд{I}{K} form
 
@@ -659,6 +660,7 @@ LEXICON NON-FINITE
 %<ger_inf%>:%>maq SUBST ; !Dir/LR !are we sure -moq is the standard form? my grammar book gives -maq as the standard but it‘s better if a native decides this
 %<ger_inf%>:%>moq SUBST ;
 %<ger_abst%>:%>%{i%}sh SUBST ;
+%<ger_pres%>:%>%{a%}yotgan SUBST ;
 
 
 %<gna_perf%>:%>%{i%}b # ;
