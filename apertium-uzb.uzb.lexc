@@ -8155,10 +8155,9 @@ yodli:yodli A2 ; ! 0.999361157670073
 yodnoma:yodnoma N1 ; ! 0.9999999981744894
 yo:yo CA ; ! "either...or"
 e:e VERB-COPULA ; ! "special copula"
-ye:ye VERB-TV ; ! "to eat"
 e:e V-IV ; ! 0.6564157069010513
 yo:yo V-IV ; ! 0.9996918899551015
-ye:ye V-TV ; ! 0.9999268675619511
+ye:ye%{й%} V-TV ; ! "to eat" ! 0.9999268675619511
 yo:yo IJ ; ! 0.6631133016309078
 e:e MIST ;
 yo:yo N1 ; ! 0.9992431134935172

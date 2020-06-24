@@ -12,6 +12,7 @@ Alphabet
 %{s%}:s %{S%}:s %{i%}:i %{E%}:y %{K%}:k %{n%}:n 
 
 %{a%}:a
+%{й%}:y %{й%}:0
 
 ʻ 
 
@@ -45,10 +46,14 @@ Rules
 !%{q%}:gʻ <=>  _ %>: (:0) :Vow ;
 
 "{i} is null after a vowel"
-%{i%}:0 <=> :Vow :0* _ ;
+%{i%}:0 <=> :Vow [ :0 - %{й%}: ]* _ ;
+            :Vow (%{й%}:0) %>: _ \[ :s :h ] ;
 
 "{a} is null after a vowel"
 %{a%}:0 <=> :Vow :0* _ ;
+
+"{й}:y only before -ish"
+%{й%}:y <=> _ %>: %{i%}: :s :h ;
 
 "{G} is k/q after {k/q}>"
 %{G%}:Cy <=> :Cx %>:/[ :0 - %>: ]* _ ;
