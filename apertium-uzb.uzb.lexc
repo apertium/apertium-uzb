@@ -998,12 +998,12 @@ LEXICON POSSESSIVES
 
 LEXICON V-PERS-VOL
 
-%<px1sg%>:%>%{ʻ%}%{i%}m # ;
-%<px2sg%>:%>%{ʻ%}%{i%}ng # ;
-%<px3sp%>:%>%{ʻ%}%{s%}i # ;
-%<px1pl%>:%>%{ʻ%}%{i%}miz # ;
-%<px2pl%>:%>%{ʻ%}%{i%}ngiz # ;
-%<px3pl%>:%>lari # ;
+%<p1%>%<sg%>:%>%{ʻ%}%{i%}m # ;
+%<p2%>%<sg%>:%>%{ʻ%}%{i%}ng # ;
+%<p3%>%<sp%>:%>%{ʻ%}%{s%}i # ;
+%<p1%>%<pl%>:%>%{ʻ%}%{i%}miz # ;
+%<p2%>%<pl%>:%>%{ʻ%}%{i%}ngiz # ;
+%<p3%>%<pl%>:%>lari # ;
 
 LEXICON ABESSIVE-POSTPOSITION
 
