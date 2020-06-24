@@ -337,6 +337,11 @@
 %ʻ
 %  
 
+%[%-coop%]
+
+%[%+p3pl%]
+
+
 LEXICON Root
 
 Digits ;
@@ -575,6 +580,7 @@ LEXICON VERB-IV
 
 %<v%>%<iv%>: VERB-IV-FULL ; 
 %<v%>%<iv%>%<coop%>:%>%{i%}sh VERB-IV-FULL ;
+%<v%>%<iv%>%[%-coop%]:%>%{i%}sh VERB-IV-FULL ;
 %<v%>%<iv%>%<pass%>%<coop%>:%>%{i%}%{L%}%>%{i%}sh VERB-IV-FULL ;
 %<v%>%<iv%>%<caus%>%<coop%>:%>%{D%}ir%>%{i%}sh VERB-IV-FULL ;
 %<v%>%<iv%>%<pass%>:%>%{i%}%{L%} VERB-IV-FULL ;
@@ -727,6 +733,7 @@ LEXICON IMPERATIVE
 %<imp%>%<p2%>%<pl%>:%>%{i%}nglar # ; !Dir/LR
 
 %<imp%>%<p3%>%<pl%>:%>sinlar # ;
+%<imp%>%<p3%>%<pl%>%[%+p3pl%]:%>sin # ;  ! Dir/LR
 
 
 %<imp%>:%>gay PERS ; ! Dir/LR !archaic/literary form: tila-gay-man
@@ -740,7 +747,7 @@ LEXICON INDEF-PAST
 LEXICON PAST
 
 %<ifi%>:%>di PERS2 ;
-%<ifi%>%<p3%>%<pl%>:%>%{i%}sh%>di CLITICS ;   ! Dir/LR
+!%<ifi%>%<p3%>%<pl%>:%>%{i%}sh%>di CLITICS ;   ! Dir/LR
 
 LEXICON EVIDENTIAL-PAST
 
@@ -795,6 +802,7 @@ V-PERS-S1-NO3PERSON ;
 %<p3%>%<sg%>: CLITICS-NO-COP ;
 %<p3%>%<frm%>%<sg%>:dir CLITICS-NO-COP ;
 %<p3%>%<pl%>: CLITICS-NO-COP ; ! #CHECK shouldn‘t this have -l{a}r to avoid ambiguity?
+%<p3%>%<pl%>%[%+p3pl%]: CLITICS-NO-COP ; ! Dir/LR
 %<p3%>%<frm%>%<pl%>:dir CLITICS-NO-COP ;
 
 LEXICON V-PERS-S2
@@ -807,6 +815,7 @@ LEXICON V-PERS-S2
 %<p1%>%<pl%>:%>%{K%} CLITICS-NO-COP ;
 %<p2%>%<pl%>:%>ngd%{A%}r CLITICS-NO-COP ;
 %<p3%>%<pl%>: CLITICS-NO-COP ;
+%<p3%>%<pl%>%[%+p3pl%]: CLITICS-NO-COP ;  ! Dir/LR
 
 %<p2%>%<frm%>%<sg%>:%>ng%{I%}z CLITICS-NO-COP ;
 %<p2%>%<frm%>%<pl%>:%>ng%{I%}zl%{A%}r CLITICS-NO-COP ;
@@ -823,18 +832,19 @@ LEXICON PERS
 %<p2%>%<frm%>%<pl%>:%>sizlar CLITICS ;
 %<p1%>%<pl%>:%>miz  CLITICS ;
 %<p3%>%<pl%>:%>%{D%}ilar  CLITICS ;
+%<p3%>%<pl%>%[%+p3pl%]:%>%{D%}i  CLITICS ;  ! Dir/LR
 
 LEXICON PERS2
 
 %<p1%>%<sg%>:%>m  CLITICS ;
 %<p2%>%<sg%>:%>ng  CLITICS ;
-%<p3%>%<sg%>:%>  CLITICS ;
+%<p3%>%<sg%>:  CLITICS ;
 %<p1%>%<pl%>:%>k CLITICS ;
 %<p2%>%<pl%>:%>ning  CLITICS ; !Dir/LR
 %<p2%>%<pl%>:%>ngiz  CLITICS ; 
 %<p2%>%<pl%>:%>ngizlar CLITICS ; !Dir/LR
-!%<p3%>%<pl%>:%>ishsa  CLITICS ;   ! FIXME: this seems wrong, so I commented it out -JNW
 %<p3%>%<pl%>:%>lar  CLITICS ;
+%<p3%>%<pl%>%[+p3pl%]:  CLITICS ;    ! Dir/LR
 
 LEXICON PERS3 
 
@@ -848,6 +858,7 @@ LEXICON PERS3
 %<p2%>%<pl%>:%>silar CLITICS ;
 %<p2%>%<frm%>%<pl%>:%>sizlar CLITICS ;
 %<p3%>%<pl%>:%>%{D%}ilar CLITICS ;
+%<p3%>%<pl%>%[%+p3pl%]:%>%{D%}i CLITICS ;   ! Dir/LR
 
 LEXICON ADV1
 %<adv%>: # ; ! this is for when the adverb is used as an adverb
