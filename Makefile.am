@@ -47,9 +47,11 @@ $(LANG1)_guesser.automorf.bin: $(LANG1)_guesser.automorf.hfst .deps/.d
 ####
 
 $(LANG1).spellrelax.hfst: $(BASENAME).$(LANG1).spellrelax 
-	hfst-regexp2fst -S -o $@ < $<
 
 .deps/$(LANG1).twol.hfst: $(BASENAME).$(LANG1).twol .deps/.d
+	hfst-twolc $< -o $@
+
+.deps/$(LANG1).twoc.hfst: $(BASENAME).$(LANG1).twoc .deps/.d
 	hfst-twolc $< -o $@
 
 .deps/$(LANG1).RL.lexc: $(BASENAME).$(LANG1).lexc .deps/.d
