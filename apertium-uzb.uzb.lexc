@@ -189,7 +189,7 @@
 %<prc_impf%>  ! Imperfect participle
               ! -{E}
               !# "...олар далада _ойнай_ алмады...";
-!%<prc_vol%>   ! Volition participle
+%<prc_vol%>   ! Volition participle
               ! -{G}{I}
               !# барғым келмейді;
 !%<prc_cond%>  ! Conditional participle
@@ -681,6 +681,7 @@ LEXICON NON-FINITE
 %<prc_impf%>:%>%{E%} # ;
 %<neg%>%<prc_impf%>:%>ma%>%{E%} # ;
 
+%<prc_vol%>:%>%{G%}i V-PERS-VOL ;
 
 LEXICON PRES-COND 
 
@@ -994,6 +995,15 @@ LEXICON POSSESSIVES
 %<px1pl%>:%>%{ʻ%}%{i%}miz CASE-ETC ;           
 %<px2pl%>:%>%{ʻ%}%{i%}ngiz CASE-ETC ;      
 %<px3pl%>:%>lari CASE-ETC ; 
+
+LEXICON V-PERS-VOL
+
+%<px1sg%>:%>%{ʻ%}%{i%}m # ;
+%<px2sg%>:%>%{ʻ%}%{i%}ng # ;
+%<px3sp%>:%>%{ʻ%}%{s%}i # ;
+%<px1pl%>:%>%{ʻ%}%{i%}miz # ;
+%<px2pl%>:%>%{ʻ%}%{i%}ngiz # ;
+%<px3pl%>:%>lari # ;
 
 LEXICON ABESSIVE-POSTPOSITION
 
