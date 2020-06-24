@@ -106,6 +106,7 @@
 %<iv%>
 %<tv%>
 %<TD%>
+%<vaux%>
 %<ger_past%>
 %<cond%>
 %<prog%>
@@ -607,6 +608,10 @@ LEXICON VERB-TV-FULL
 
 VERB-INFL-COMMON ;
 
+LEXICON V-AUX
+
+%<vaux%>: VERB-INFL-COMMON ;
+
 LEXICON VERB-INFL-COMMON
 
 GERUND ;
@@ -633,6 +638,8 @@ IMPERATIVE ;
 %<neg%>:%>ma IMPERATIVE ;
 
 FUT ;
+
+V-INFL-ABIL ;
 
 !!!!!!!COPULA SUFFIXES!!!!!!
 
@@ -762,6 +769,10 @@ LEXICON FUT
 %<fut%>:%>%{E%}digan V-PERS-S1 ;
 %<fut%>:%>%{E%}ajak V-PERS-S1 ; ! Dir/LR ! FIXME: need a different tag for this?
 %<fut_plan%>:%>moqchi V-PERS-S1 ;
+
+LEXICON V-INFL-ABIL
+
+%<prc_impf%>+ol%<vaux%>:%>ol V-AUX ;
 
 LEXICON V-PERS-S1-NO3PERSON
 
@@ -20926,6 +20937,7 @@ olovxona:olovxona N1 ; ! 0.999999985043854
 ol:ol A2 ; ! 0.9983168030574339
 ol:ol A2 ; ! 0.9998701811517419
 ol:ol VERB-TV ; ! "to take"
+ol:ol V-AUX ; ! "can"
 !ol:ol V-IV ; ! 0.932389603685712
 olomon:olomon N1 ; ! 0.9999992188511924
 oltiburchak:oltiburchak N1 ; ! 0.9999999974337386
