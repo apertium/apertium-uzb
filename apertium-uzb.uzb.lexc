@@ -24333,7 +24333,6 @@ svyazist:svyazist N1 ; ! 0.9999999918902844
 seans:seans N1 ; ! 0.9999985363868145
 sevala:sevala V-TV ; ! 0.9991294044576616
 sevarga:sevarga N1 ; ! 0.9999999780675485
-sevar:sevar N1 ; ! 0.9108648108079972
 sevgili:sevgili A2 ; ! 0.9999999645058384
 sevgi:sevgi N1 ; ! 0.9999802071325401
 sevguvchi:sevguvchi N1 ; ! 0.9997704949154126
@@ -25038,7 +25037,7 @@ sipohlik:sipohlik N1 ; ! 0.9999367600460386
 sipoh:sipoh N1 ; ! 0.9999999930276493
 sipsar:sipsar N1 ; ! 0.9999994631542162
 sip%-silliq:sip%-silliq N1 ; ! 0.9983201161806161
-sirasiga:sirasiga ADV ; ! 0.8570558858164166
+!sirasiga:sirasiga ADV ; ! 0.8570558858164166  ! This one can be formed from "sira", no?
 sira:sira ADV ; ! 0.9999996969638798
 sira:sira N1 ; ! 0.9999999999961289
 sira:sira N1 ; ! "never, ever"
