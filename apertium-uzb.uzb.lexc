@@ -609,20 +609,28 @@ VERB-INFL-COMMON ;
 LEXICON VERB-INFL-COMMON
 
 GERUND ;
+
 PRES-CONT ;
+%<neg%>:%>ma PRES-CONT ;
+
 PRES-COND ;
 %<neg%>:%>ma PRES-COND ;
+
 AORIST ;
 %<neg%>:%>ma AORIST ;
+
 INDEF-PAST ;
-%<neg%>:%>ma AORIST ;
-%<neg%>:%>ma PAST ;
+
 PAST ;
+%<neg%>:%>ma PAST ;
+
 EVIDENTIAL-PAST ;
 NON-FINITE ;
 PERMISSIVE ;
+
 IMPERATIVE ;
 %<neg%>:%>ma IMPERATIVE ;
+
 FUT ;
 
 !!!!!!!COPULA SUFFIXES!!!!!!

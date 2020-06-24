@@ -47,6 +47,9 @@ Rules
 "{i} is null after a vowel"
 %{i%}:0 <=> :Vow :0* _ ;
 
+"{a} is null after a vowel"
+%{a%}:0 <=> :Vow :0* _ ;
+
 "{G} is k/q after {k/q}>"
 %{G%}:Cy <=> :Cx %>:/[ :0 - %>: ]* _ ;
          where
