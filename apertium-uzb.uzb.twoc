@@ -1,0 +1,18 @@
+Alphabet
+
+ %[%+p3pl%]:0  %[%-coop%]:0
+
+ %<v%> ;
+
+Sets 
+
+Verb = %<v%> ;
+
+Rules 
+
+"Match cooperative and p3pl"
+%[%-coop%]:0 /<= _ ; 
+   except
+       _ (:*) %[%+p3pl%]:0 ; 
+
+
