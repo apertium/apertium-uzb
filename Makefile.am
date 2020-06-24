@@ -35,8 +35,8 @@ TARGETS_COMMON = $(LANG1).automorf.hfst $(LANG1).autogen.hfst \
 .deps/$(LANG1)_guesser.hfst: .deps/$(LANG1)_guesser.lexc.hfst .deps/$(LANG1).twol.hfst 
 	hfst-compose-intersect -1 .deps/$(LANG1)_guesser.lexc.hfst -2 .deps/$(LANG1).twol.hfst -o $@
 
-$(LANG1)_guesser.automorf.hfst: .deps/$(LANG1)_guesser.hfst $(LANG1).spellrelax.hfst .deps/$(LANG1).restrict_guesser.hfst 
-	cat .deps/$(LANG1)_guesser.hfst | hfst-invert | hfst-compose -1 - -2 .deps/$(LANG1).restrict_guesser.hfst | hfst-invert | hfst-compose-intersect -1 - -2 $(LANG1).spellrelax.hfst | hfst-invert | hfst-fst2fst -w -o $@
+$(LANG1)_guesser.automorf.hfst: .deps/$(LANG1)_guesser.hfst .deps/$(LANG1).spellrelax.hfst .deps/$(LANG1).restrict_guesser.hfst 
+	cat .deps/$(LANG1)_guesser.hfst | hfst-invert | hfst-compose -1 - -2 .deps/$(LANG1).restrict_guesser.hfst | hfst-invert | hfst-compose-intersect -1 - -2 .deps/$(LANG1).spellrelax.hfst | hfst-invert | hfst-fst2fst -w -o $@
 
 $(LANG1)_guesser.automorf.bin: $(LANG1)_guesser.automorf.hfst .deps/.d
 	hfst-fst2txt $(LANG1)_guesser.automorf.hfst   > .deps/$(LANG1)_guesser.autogen.att
@@ -46,7 +46,8 @@ $(LANG1)_guesser.automorf.bin: $(LANG1)_guesser.automorf.hfst .deps/.d
 ## Spellrelax
 ####
 
-$(LANG1).spellrelax.hfst: $(BASENAME).$(LANG1).spellrelax 
+.deps/$(LANG1).spellrelax.hfst: $(BASENAME).$(LANG1).spellrelax 
+	hfst-regexp2fst -S -o $@ < $<
 
 .deps/$(LANG1).twol.hfst: $(BASENAME).$(LANG1).twol .deps/.d
 	hfst-twolc $< -o $@
@@ -75,8 +76,8 @@ $(LANG1).spellrelax.hfst: $(BASENAME).$(LANG1).spellrelax
 $(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst
 	hfst-fst2fst -w $< -o $@
 
-$(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst $(LANG1).spellrelax.hfst
-	hfst-compose-intersect -1 $< -2 $(LANG1).spellrelax.hfst -o .deps/$(LANG1).LR.relaxed.hfst
+$(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst .deps/$(LANG1).spellrelax.hfst
+	hfst-compose-intersect -1 $< -2 .deps/$(LANG1).spellrelax.hfst -o .deps/$(LANG1).LR.relaxed.hfst
 	hfst-subtract -1 .deps/$(LANG1).LR.relaxed.hfst -2 .deps/$(LANG1).LR.hfst | hfst-reweight -a 1 -e -o .deps/$(LANG1).LR.errors.hfst
 	hfst-union -1 .deps/$(LANG1).LR.hfst -2 .deps/$(LANG1).LR.errors.hfst | hfst-invert | hfst-fst2fst -w -o $@
 
