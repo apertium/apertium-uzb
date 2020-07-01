@@ -1849,7 +1849,8 @@ aytish:aytish N1-VN ; !
 aytishi% boʻyicha:aytishi% boʻyicha CA ; ! ""
 aytishicha:aytishicha CA ; ! "according to"
 aytishqoq:aytishqoq N1 ; ! 
-aytkan% bilan:aytkan% bilan CA ; ! ""
+! aytkan% bilan:aytkan% bilan CA ; ! Typo?
+aytgan% bilan:aytgan% bilan CA ; ! ""
 aytmoqchi:aytmoqchi PAREN ; ! 
 ayttir:ayttir V-TV-CAUS ; ! 
 aytuvli:aytuvli A2 ; ! 
@@ -8580,6 +8581,7 @@ yetar:yetar N1 ; ! 0.6242842941897577
 yetar%-yetmas:yetar%-yetmas ADV ; ! 0.8874513358164692
 yetarli:yetarli A1 ; ! "enough"
 yetarli:yetarli N1 ; ! 0.9094774554675801
+yetarlicha:yetarlicha ADV3 ; ! "enough"
 yot:yot A1 ; ! 0.9999142727351916
 yot:yot VERB-IV ; ! "to lie down"
 yet:yet VERB-IV ; ! "to suffice"
@@ -12021,7 +12023,8 @@ kegay:kegay N1 ; ! 0.9999999828927988
 kedr:kedr N1 ; ! 0.9999999567393194
 kezak:kezak N1 ; ! 0.9980332805355693
 kezdir:kezdir V-TV-CAUS ; ! 0.9984510927892454
-kez:kez V-TV ; ! 0.999987692414763
+kez:kez V-IV ; ! 0.999987692414763
+kezib% yur:kezib% yur V-IV ; ! "hang around, wander around"
 kez:kez N1 ; ! 0.9999999706636502
 keyingi:keyingi A1 ; ! "following"
 keyingi:keyingi N1 ; ! 0.9945417118739955
@@ -19060,7 +19063,7 @@ neft:neft N1 ; ! 0.9999999998483954
 neft:neft N1 ; ! "nafta"
 neftchi:neftchi N1 ; ! 0.9999999999860077
 necha:necha ADV1 ; !
-necha:necha DET-ITG ; ! " how many"
+necha:necha DET-QNT ; ! " how many"
 !necha:necha N1 ; ! 0.9993757648687447
 necha%-necha:necha%-necha ADV ; ! 0.944220820314935
 nechanchi:nechanchi N1 ; ! 0.9999848013443522
@@ -19665,7 +19668,7 @@ oʻylab%-netmoq:oʻylab%-netmoq ADV ; ! 0.7395323032638026
 oʻylamsira:oʻylamsira V-IV ; ! 0.9999992610858041
 oʻylan:oʻylan V-IV-REFL ; ! 0.999350828209418
 oʻylantir:oʻylantir V-TV-CAUS ; ! 0.9999999998558667
-oʻyla:oʻyla VERB-TV ; ! ""
+oʻyla:oʻyla V-TV ; ! ""
 oʻyla:oʻyla V-TV ; ! 0.9964843277125514
 oʻylat:oʻylat V-TV-CAUS ; ! 0.9999999999351363
 oʻylashimcha:oʻylashimcha ADV ; ! 0.6542739672758761
@@ -21067,7 +21070,7 @@ ontar%-tuntar:ontar%-tuntar N1 ; ! 0.9999776455747562
 ont:ont N1 ; ! 0.9999999983094324
 ontxur:ontxur N1 ; ! 0.9999998511886535
 o:o N1 ; ! 0.9999921413288344
-o:o PRON-DEM-BU ; ! "this"
+! o:o PRON-DEM-BU ; ! "this" ! This is Turkish?
 opajon:opajon N1 ; ! 0.9999999877371635
 opalik:opalik N1 ; ! 0.99999996287583
 opa:opa N1 ; ! 0.9999999999918933
@@ -21125,7 +21128,13 @@ oraliq:oraliq N1 ;  ! "time interval"
 orangutang:orangutang N1 ; ! 0.9999999823395468
 ora:ora N1 ; ! 0.9999999999999901
 ora:ora N1 ; ! "gap/distance/interval"
-ora:ora PRON-ADV ; ! "there"
+! ora:ora PRON-ADV ; ! "there" ! This is Turkish?
+u% yer:u% yer PRON-ADV ; ! "there"
+bu% yer:bu% yer PRON-ADV ; ! "here"
+shu% yer:shu% yer PRON-ADV ; ! "here"
+uyoq:uyoq PRON-ADV ; ! "there"
+buyoq:buyoq PRON-ADV ; ! "here"
+shuyoq:shuyoq PRON-ADV ; ! "there"
 orasiga:orasiga N1 ; ! 0.9999998790395237
 orasta:orasta N1 ; ! 0.9831978811175529
 ora%-chora:ora%-chora N1 ; ! 0.9999426726312294
@@ -29840,7 +29849,7 @@ ulugʻlash:ulugʻlash V-IV-COOP ; ! 0.5365619472265065
 ulugʻsifatlik:ulugʻsifatlik N1 ; ! 0.9999999999907506
 ulugʻ:ulugʻ A1 ; ! "great"
 ulugʻ:ulugʻ N1 ; ! 0.9999999999997932
-ulug:ulug A1 ; !
+! ulug:ulug A1 ; ! This is a typo?
 ul:ul N1 ; ! 0.9452108541475877
 ul:ul N1 ; ! "son"
 ulum:ulum N1 ; ! 0.9999989282160745
@@ -35978,7 +35987,7 @@ eshittir:eshittir V-TV-CAUS ; ! 0.9999999999906325
 eshituvchi:eshituvchi N1 ; ! 0.9980570730864023
 eshit:eshit VERB-TV ; ! "to hear"
 eshit:eshit V-IV ; ! 0.8266280442810705
-eshit:eshit N1 ; !
+! eshit:eshit N1 ; ! There is no such noun
 eshkakli:eshkakli A2 ; ! 0.999999999983555
 eshkakchi:eshkakchi N1 ; ! 0.9999999997681063
 eshkak:eshkak N1 ; ! 0.9999736344296678
@@ -36722,7 +36731,8 @@ yashillan:yashillan V-IV ; ! 0.9999988772285816
 yashillik:yashillik N1 ; ! 0.9999999369093353
 yashil:yashil A1 ; ! "green"
 yashil:yashil N1 ; ! 0.9999936580703643
-yashinmachoq:yashinmachoq N1 ; ! 0.9999981045017577
+yashinmachoq:yashinmachoq N1 ; ! 0.9999981045017577 ! "Hide-and-seek"
+yashirinmachoq:yashirinmachoq N1 ; ! "Hide-and-seek"
 yashin%-topa:yashin%-topa V-TV-CAUS ; ! 0.9386492546215929
 yashin:yashin N1 ; ! 0.9998179636692877
 yashiriqlik:yashiriqlik A2 ; ! 0.9964927796608264
@@ -36866,7 +36876,7 @@ Afrika:Afrika NP-TOP ; ! ""
 Afrika:Afrika NP-TOP ; ! "Africa"
 Agim:Agim NP-ANT-M ; ! ""
 Ahmad:Ahmad NP-ANT-M ; ! ""
-Ahmet:Ahmet NP-ANT-M ; ! ""
+Muge:Muge NP-ANT-F ; !
 Ain:Ain NP-TOP ; ! ""
 Aisne:Aisne NP-TOP ; ! ""
 Ajdaho:Ajdaho NP-TOP ; ! ""
@@ -36956,6 +36966,7 @@ Avstriya:Avstriya NP-TOP ; ! ""
 Axsi:Axsi NP-TOP ; ! "Axsi" ************ i couldn‘t find turkish
 Aydınspor:Aydınspor NP-ORG ; ! ""
 Aygul:Aygul NP-ANT-F ; ! ""
+Malika:Malika NP-ANT-F ; ! ""
 Ayhan:Ayhan NP-ANT-M ; ! ""
 Azamat:Azamat NP-ANT-M ; ! ""
 Aziz:Aziz NP-ANT-M ; ! ""
