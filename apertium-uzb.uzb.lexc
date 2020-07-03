@@ -6328,7 +6328,7 @@ gapir:gapir V-IV ; !
 gapir:gapir V-TV-CAUS ; ! 
 gapirish:gapirish V-IV-COOP ; ! 
 gapirtir:gapirtir V-TV-CAUS ; ! 
-gaplash:gaplash V-IV ; ! 
+gaplash:gaplash V-TV ; ! 
 gaplashtir:gaplashtir V-TV-CAUS ; ! 
 gap%-soʻz:gap%-soʻz N1 ; ! 
 gapxoʻr:gapxoʻr N1 ; ! 
@@ -6921,6 +6921,7 @@ davolash:davolash N1-VN ; !
 davolash:davolash N1 ; ! "treatment"
 davomat:davomat N1 ; ! 
 davom:davom N1 ; ! "continuation"
+davomida:davomida POST-NOM ; ! "during"
 davomiylik:davomiylik N1 ; 
 davomli:davomli A2 ; ! 
 davomlilik:davomlilik N1 ; ! 
@@ -9367,6 +9368,7 @@ jugud:jugud N1 ; !
 Jugud:Jugud N1-NAT ; ! "Jewish"
 juda:juda ADV ; ! 0.9999824158441356
 juda:juda ADV3 ; ! "very"
+juda:juda A1; ! "very"
 judayam:judayam N1 ; ! 0.9927857766837302
 judo:judo N1 ; ! 0.5436384252953633
 judolik:judolik N1 ; ! 0.9999997841295868
@@ -21363,6 +21365,7 @@ otli:otli A2 ; ! 0.9999999992291468
 otnon:otnon N1 ; ! 0.9999999648590228
 ot%-otakam:ot%-otakam N1 ; ! 0.9986739654491227
 ot:ot V-IV ; ! 0.976737669832858
+ot:ot V-TV ; ! "to throw"
 ot:ot N1 ; ! 0.9339044083960308
 ot:ot N1 ; ! 0.9999999999997882
 ot:ot N1 ; ! "noun"
@@ -26435,8 +26438,8 @@ tavallo:tavallo N1 ; ! 0.9321382518009814
 tavallud:tavallud A1 ; !
 tavallud:tavallud N1 ; ! 0.9999988796395813
 tavallud:tavallud N1 ; ! "birth"
-tavallud% top:tavallud% top VERB-IV ; ! Use/MT
-tavallud% top:tavallud% top VERB-IV ; ! "to derive" Use/MT
+tavallud% top:tavallud% top VERB-TV ; ! Use/MT
+tavallud% top:tavallud% top VERB-TV ; ! "to derive" Use/MT
 tavanboshi:tavanboshi N1 ; ! 0.9999999674829276
 tavan:tavan N1 ; ! 0.9999959943165893
 tavanxona:tavanxona N1 ; ! 0.9999999999452623
@@ -27350,7 +27353,7 @@ tashlandi:tashlandi A2 ; ! 0.9999999224992098
 tashlanil:tashlanil V-TV ; ! 0.9430221136676139
 tashlan:tashlan VERB-IV ; ! "to attack"
 tashlan:tashlan V-IV-REFL ; ! 0.9994028409676743
-tashla:tashla VERB-TV ; ! "to throw"
+tashla:tashla VERB-TV ; ! "to throw, to pass"
 tashla:tashla V-TV ; ! 0.9981815707849406
 tashlat:tashlat V-TV-CAUS ; ! 0.9999999782056977
 tashlattir:tashlattir V-TV-CAUS ; ! 0.9999998303564148
@@ -29058,7 +29061,7 @@ tugʻdoq:tugʻdoq N1 ; ! 0.9100923843076577
 tugʻdor:tugʻdor N1 ; ! 0.9998585715131177
 tugʻyon:tugʻyon N1 ; ! 0.9999999999586192
 tugʻyon:tugʻyon N1 ; ! "turmoil"
-tugʻil:tugʻil VERB-IV ; ! "" "to born"
+tugʻil:tugʻil VERB-TV ; ! "" "to born"
 tugʻil:tugʻil V-IV-REFL ; ! 0.9999997066157568
 tugʻishgan:tugʻishgan N1 ; ! 0.9606649011997337
 tugʻma:tugʻma A2 ; ! 0.9999982276076803
@@ -32263,6 +32266,7 @@ harakatlan:harakatlan V-IV ; ! 0.9999995605482987
 harakatli:harakatli A2 ; ! 0.9999995485828995
 harakat:harakat N1 ; ! 0.9999999999999901
 harakat:harakat N1 ; ! "movement"
+harakat% qil:harakat% qil V-TV ; ! "try"
 harakatchanlik:harakatchanlik N1 ; ! 0.9999999999997784
 harakatchan:harakatchan A2 ; ! 0.9999999990941251
 harakatsizlik:harakatsizlik N1 ; ! 0.9999999999999705
@@ -35216,7 +35220,7 @@ shunda:shunda N1 ; ! 0.9999553741442607
 shundoq:shundoq N1 ; ! 0.745233999394598
 shuningdek:shuningdek CA ; ! "likewise"
 shuningdek:shuningdek N1 ; ! 0.3833576278156454
-shuning% uchun:shuning% uchun CA ; ! ""
+shuning% uchun:shuning% uchun ADV1 ; ! "that's why"
 shunqor:shunqor N1 ; ! 0.9999999584169191
 shunchayiki:shunchayiki N1 ; ! 0.9875386472456255
 shunchayin:shunchayin N1 ; ! 0.9993078041608568
@@ -36095,7 +36099,8 @@ yuzta:yuzta N1 ; ! 0.9866183529263054
 yuzuk:yuzuk N1 ; ! 0.9999998432294283
 yuz%-xotirchilik:yuz%-xotirchilik N1 ; ! 0.9999942061824015
 yuz%-xotir:yuz%-xotir N1 ; ! 0.9993336623484967
-yuz:yuz VERB-IV ; ! "to swim"
+! yuz:yuz VERB-IV ; ! "to swim" ! Typo?
+suz:suz VERB-IV ; ! "to swim" 
 yuz:yuz V-TV-CAUS ; ! 0.9517351990354423
 yuz:yuz N1 ; ! 0.9999953683441427
 yuz:yuz N1 ; ! 0.9999993813888767
