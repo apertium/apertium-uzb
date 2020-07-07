@@ -593,6 +593,8 @@ LEXICON VERB-IV-FULL
 
 VERB-INFL-COMMON ;
 
+
+
 LEXICON VERB-TD
 
 %<v%>%<TD%>: VERB-TV-FULL ;
@@ -1128,9 +1130,9 @@ e%<cop%>%<ger_perf%>:ekan%>%{L%}%{I%}k GER-POSSESSIVES ;
 e%<cop%>%<aor%>%<evid%>:ekan V-PERS-S1 ;
 e%<cop%>%<neg%>%<aor%>%<evid%>:emas% ekan V-PERS-S1 ;
 
-е%<cop%>%<ifi%>:е%>%{D%}%{I%} V-PERS-S2 ;
+e%<cop%>%<ifi%>:e%>%{D%}%{I%} V-PERS-S2 ;
 
-е%<cop%>%<neg%>%<aor%>:emas V-PERS-S1 ;
+e%<cop%>%<neg%>%<aor%>:emas V-PERS-S1 ;
 
 
 LEXICON NUM
@@ -4172,6 +4174,7 @@ biratulasiga:biratulasiga ADV ; !
 bir%-bir:bir%-bir ADV ; ! 
 bir%-bir:bir%-bir PRON-IND ; ! ""
 bir:bir DET-IND ; ! "a"
+biron:biron DET-IND ; ! "some kind of"
 bir%-biriga:bir%-biriga # ; ! 
 bir:bir NUM ; ! 
 bir:bir NUM ; ! "one"
@@ -4256,7 +4259,6 @@ birozgina:birozgina ADV ; ! "a very little while"
 biroq: biroq CC ; ! "but"
 biroq:biroq CC-PROTIV ; ! 
 biroq:biroq CA ; ! "only if"
-biron:biron ADV ; ! 
 biron:biron DET-DEM ; ! "some"
 biron:biron PRON-ITG-INFL ; ! "whichever"
 birongʻor:birongʻor N1 ; ! 
@@ -4799,7 +4801,7 @@ bori:bori ADV ; !
 boril:boril VERB-IV ; ! "to proceed"
 boril:boril V-IV-REFL ; ! 
 borinki:borinki PAREN ; ! 
-borish:borish V-IV-COOP ; ! 
+!borish:borish V-IV-COOP ; ! 
 borish:borish N1 ; !
 borish%-kelish:borish%-kelish N1 ; ! 
 borlik:borlik N1 ; ! "existence"
@@ -8226,15 +8228,15 @@ yodlash:yodlash V-TV-COOP ; ! 0.8308314311671633
 yodli:yodli A2 ; ! 0.999361157670073
 yodnoma:yodnoma N1 ; ! 0.9999999981744894
 yo:yo CA ; ! "either...or"
-e:e VERB-COPULA ; ! "special copula"
-e:e V-IV ; ! 0.6564157069010513
+!e:e VERB-COPULA ; ! "special copula"
+!e:e V-IV ; ! 0.6564157069010513
 yo:yo V-IV ; ! 0.9996918899551015
 ye:ye%{й%} V-TV ; ! "to eat" ! 0.9999268675619511
 yo:yo IJ ; ! 0.6631133016309078
-e:e MIST ;
+!e:e MIST ;
 yo:yo N1 ; ! 0.9992431134935172
-e:e N1 ; ! 0.9995404548728833
-e:e N1 ; ! 0.9999995782875437
+!e:e N1 ; ! 0.9995404548728833
+!e:e N1 ; ! 0.9999995782875437
 yo:yo N1 ; ! 0.9999999994395031
 yo:yo N1 ; !
 yozgʻir:yozgʻir V-IV ; ! 0.710947235915735
@@ -8322,6 +8324,8 @@ yoq:yoq V-IV ; ! 0.7833974711362908
 yoq:yoq V-TV-CAUS ; ! 0.7071349214560189
 yoq:yoq N1 ; ! 0.9999999444662392
 yoq:yoq N1 ; ! "node"
+yoq:yoq N1 ; ! ""
+yoq:yoq IJ ; ! "No" 
 yoqiq:yoqiq A2 ; ! 0.861752468209363
 yoqilgʻi:yoqilgʻi N1 ; ! 0.999997720884824
 yoqimli:yoqimli A2 ; ! "pleasant"
@@ -10409,7 +10413,6 @@ ilik:ilik N1 ; ! 0.9999999998296356
 ilik:ilik N1 ;  ! "hand"
 ilikos:ilikos N1 ; ! 0.9771055571053562
 iliq:iliq A2 ; ! 0.9999804457085765
-iliq:iliq V-IV ; ! 0.999991567940784
 iliq%-issiq:iliq%-issiq A1 ; ! 0.9954829345325676
 iliqlik:iliqlik N1 ; ! 0.999999999995006
 iliq%-miliq:iliq%-miliq N1 ; ! 0.8351609793268097
@@ -11718,6 +11721,7 @@ kami:kami V-IV ; ! 0.9960442662375637
 kamina:kamina N1 ; ! 0.9999999674119322
 kamiyat:kamiyat N1 ; ! 0.999999999728272
 kam:kam A1 ; ! 0.9996408780738633
+kamroq:kamroq A1 ; ! ""
 kam%-kam:kam%-kam N1 ; ! 0.9890267185280657
 kam:kam POST-NOM ; ! "till"
 kam%-ketik:kam%-ketik A2 ; ! 0.9743456647020243
@@ -28995,7 +28999,7 @@ top%-toza:top%-toza A2 ; ! 0.9931308754372602
 top:top VERB-TV ; ! "to find"
 top:top V-TV ; ! 0.9999174924832647
 top:top N1 ; ! 0.9994055374348901
-topish:topish V-IV ; ! "to find"
+!topish:topish V-IV ; ! "to find"
 topshiriq:topshiriq N1 ; ! 0.9999999996982879
 topshirish:topshirish V-IV-COOP ; ! 0.9995173764259005
 topshir:topshir VERB-TV ; ! "to delVERB-IVer"
@@ -35720,6 +35724,8 @@ emanzor:emanzor N1 ; ! 0.9999982706242326
 eman:eman N1 ; ! "type of a tree"
 ! emas:emas A1 ; ! 0.9054339171908455
 emas:emas ADV ; ! "not"
+emas:emas A2 ; ! 0.9054339171908455
+! emas:emas A1 ; !
 embriologik:embriologik A2 ; ! 0.9999986185623088
 embriologiya:embriologiya N1 ; ! 0.9988856519753601
 embrional:embrional N1 ; ! 0.7743796248155471
