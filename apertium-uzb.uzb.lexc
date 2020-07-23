@@ -8037,6 +8037,7 @@ yoʻqlik:yoʻqlik N1 ; ! 0.999999999999537
 yoʻqlov:yoʻqlov N1 ; ! 0.9995100569242894
 yoʻqlovchi:yoʻqlovchi N1 ; ! 0.999433182439507
 yoʻqol:yoʻqol V-IV ; ! 0.9997319068102647
+yoʻqolgan:yoʻqolgan A1 ; ! "lost"
 yoʻqot:yoʻqot V-TV ; ! 0.9027012710739876
 yoʻqot:yoʻqot V-TV-CAUS ; ! 0.9980217966457227
 yoʻqotish:yoʻqotish V-IV-COOP ; ! 0.9931795003422559
@@ -20319,7 +20320,7 @@ obida:obida N1 ; ! 0.9705950902617123
 obida:obida N1 ; ! 0.9999999958517597
 obi%-diyda:obi%-diyda N1 ; ! 0.9918149012060907
 obid:obid A2 ; ! 0.9728936833694046
-obi%-yovgon:obi%-yovgon A1 ; ! 0.5083667012271789
+obi%-yovgʻon:obi%-yovgʻon A1 ; ! 0.5083667012271789
 obi%-zamzam:obi%-zamzam N1 ; ! 0.7319244657521916
 obi%-novvot:obi%-novvot N1 ; ! 0.9999945193237891
 obinon:obinon N1 ; ! 0.9999999607171114
@@ -23654,7 +23655,7 @@ Sc:Sc ABBR ; !
 sıfatli:sıfatli A1 ; !
 sababiy:sababiy N1 ; ! 0.569099636799183
 sababiyat:sababiyat N1 ; ! 0.9999999971247817
-sababko:sababko CS ; ! 0.7240748620969347
+! sababko:sababko CS ; ! 0.7240748620969347 ! Typo
 sababli:sababli CS ; ! "due to/because"
 sababli:sababli CS ; ! "for/so that"
 sababli:sababli A2 ; ! 0.9999993784575583
@@ -29457,6 +29458,7 @@ tufaylidan:tufaylidan N1 ; ! 0.9081506118818583
 tufayli:tufayli A2 ; ! 0.9994889791322332
 tufayli:tufayli N1 ; ! 0.9861401626745055
 tufayli:tufayli POST-NOM ; ! "because of"
+tufayli:tufayli CS ; ! "because of"
 tufdon:tufdon N1 ; ! 0.9999999529507525
 tufla:tufla V-IV ; ! 0.9843501590431317
 tuflash:tuflash V-IV-COOP ; ! 0.9903822361612622
