@@ -4688,6 +4688,7 @@ boqtir:boqtir V-TV-CAUS ; !
 bola%-baqra:bola%-baqra N1 ; ! 
 bola:bola N1 ; ! 
 bola:bola N1 ; ! "child"
+bolakay:bolakay N1 ; ! "youngling, laddie"
 bolagʻina:bolagʻina N1 ; ! 
 bolajon:bolajon N1 ; ! 
 bolajonlik:bolajonlik N1 ; ! 
@@ -10221,6 +10222,7 @@ ikkiyoqlama:ikkiyoqlama A1 ; ! 0.9115637459010729
 ikki:ikki N1 ; ! 0.8521439580573593
 ikki:ikki N1 ; ! 0.9999996719006046
 ikki:ikki NUM ; ! "two"
+ikki:ikki PRON-QNT ; !
 ikkiqat:ikkiqat N1 ; ! 0.999866421241704
 ikkiqatliq:ikkiqatliq N1 ; ! 0.999999999412681
 ikkilan:ikkilan V-IV ; ! 0.9799488705893382
@@ -10387,6 +10389,9 @@ ilovali:ilovali A2 ; ! 0.9999989031778233
 ilovasiz:ilovasiz A1 ; ! 0.9999997506861139
 iloyo:iloyo N1 ; ! 0.9999240254862931
 iloj:iloj N1 ; ! 0.9999987841766701
+iloji% boricha:iloji% boricha ADV1 ; ! "As much as possible"
+imkoni% boricha:imkoni% boricha ADV1 ; ! "As much as possible"
+imkon% qadar:imkon% qadar ADV1 ; ! "As much as possible"
 ilojsiz:ilojsiz A1 ; ! 0.9999996305898464
 ilojsizlik:ilojsizlik N1 ; ! 0.9999999853351691
 iloyim:iloyim N1 ; ! 0.9999849199844988
