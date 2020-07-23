@@ -19129,14 +19129,15 @@ nilufar:nilufar N1 ; ! 0.9999974040641445
 nimagaki:nimagaki CS ; ! 0.9997323666498277
 nimaga:nimaga ADV-ITG ; ! "why"
 nimaga:nimaga N1 ; ! 0.9973778811353041
+nima% uchun:nima% uchun ADV-ITG ; ! "why, what for"
 nimaiki:nimaiki N1 ; ! 0.9999764765812968
 nimalik:nimalik N1 ; ! 0.9999996202861497
 nima:nima CC ; ! ""
 nima:nima N1 ; ! 0.8998462855917048
 nima:nima PRON-ITG-INFL ; ! "what"
-nimarsa:nimarsa N1 ; ! 0.9999955192511796
-nimga:nimga N1 ; ! 0.9421045489276619
-nimdosh:nimdosh N1 ; ! 0.8710604584903213
+! nimarsa:nimarsa N1 ; ! 0.9999955192511796 ! Typo!.
+! nimga:nimga N1 ; ! 0.9421045489276619 !Ttypo!.
+! nimdosh:nimdosh N1 ; ! 0.8710604584903213 ! Typo!.
 nimjonlan:nimjonlan V-IV ; ! 0.9999953246599083
 nimjonlik:nimjonlik N1 ; ! 0.9999999999994681
 nimjon:nimjon A2 ; ! 0.9999999972791838
@@ -35344,7 +35345,6 @@ egri:egri A2 ; ! 0.9779356893240784
 edik:edik N1 ; ! 0.9999873285702601
 edingiz:edingiz N1 ; ! 0.9936020297650058
 eding:eding N1 ; ! 0.9999982492908169
-edi:edi N1 ; ! 0.9999932888947288
 ejikilamoq:ejikilamoq N1 ; ! 0.9915256223421799
 ezgʻila:ezgʻila V-TV ; ! 0.9999983090949455
 ezgin:ezgin A2 ; ! 0.9918081851431789
