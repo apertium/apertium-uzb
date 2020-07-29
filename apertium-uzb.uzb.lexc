@@ -1815,7 +1815,8 @@ aynan:aynan A1 ; !
 aynan:aynan ADV1 ; !
 aynat:aynat V-TV-CAUS ; ! 
 ayni:ayni A1 ; ! "exact"
-ayni:ayni V-IV ; ! 
+ayni:ayni ADV ; ! "exactly"
+ayni:ayni V-IV ; ! "spoil"
 aynit:aynit V-TV-CAUS ; ! 
 ayniyat:ayniyat N1 ; ! 
 ayniqsa:ayniqsa ADV ; ! "specially"
@@ -5127,6 +5128,9 @@ bunday:bunday ADV1 ; ! "thusly"
 bundayin:bundayin # ; ! 
 bundaqa:bundaqa # ; ! 
 bundan% tashqari:bundan% tashqari CA ; ! "moreover"
+bundan% buyon:bundan% buyon ADV ; ! "no more"
+bundan% keyin:bundan% keyin ADV ; ! "no more"
+bundan% buyogʻiga:bundan% buyogʻiga ADV ; ! "no more"
 bundqangi:bundqangi # ; ! 
 bundoq:bundoq # ; ! 
 bunyod:bunyod N1 ; ! 
@@ -6923,6 +6927,8 @@ davolash:davolash N1 ; ! "treatment"
 davomat:davomat N1 ; ! 
 davom:davom N1 ; ! "continuation"
 davomida:davomida POST-NOM ; ! "during"
+davomiy:davomiy ADV ;  ! "Continuous"
+davomiy:davomiy A1 ; ! "Continuous"
 davomiylik:davomiylik N1 ; 
 davomli:davomli A2 ; ! 
 davomlilik:davomlilik N1 ; ! 
@@ -8164,6 +8170,7 @@ yogʻlamachi:yogʻlamachi N1 ; ! 0.8730901730276546
 yogʻlogʻi:yogʻlogʻi N1 ; ! 0.9999999839524207
 yogʻoch:yogʻoch N1 ; ! 0.999797097663915
 yogʻoch:yogʻoch N1 ; ! "wood"
+yogʻoch:yogʻoch A1 ; ! "wooden"
 yogʻochli:yogʻochli A2 ; ! 0.9993512569354935
 yogʻochlik:yogʻochlik N1 ;  ! "wood"
 yogʻochsoz:yogʻochsoz A1 ; !
@@ -9270,10 +9277,10 @@ jodugarlik:jodugarlik N1 ; ! 0.999981951152805
 jodu:jodu N1 ; ! 0.9999757784923976
 jo:jo N1 ; ! 0.9949286383022276
 jozibador:jozibador A2 ; ! 0.9999999999968332
-jozibadorlik:jozibadorlik N1 ; ! 1.0
+jozibadorlik:jozibadorlik N1 ; ! "charmingness"
 joziba:joziba N1 ; ! 0.9999999999999458
-joziba:joziba N1 ; !
-jozibali:jozibali A2 ; ! 0.9999945699859454
+joziba:joziba N1 ; ! "charm"
+jozibali:jozibali A2 ; ! "charming"
 jozib:jozib N1 ; ! 0.9806133064414995
 joiz:joiz A1 ; ! 0.9985721133064592
 joy:joy ADV1 ; ! "late"
@@ -9856,6 +9863,7 @@ zoʻray:zoʻray V-IV ; ! 0.9999999748971686
 zoʻraytir:zoʻraytir V-TV-CAUS ; ! 0.9999999974852749
 zoʻraki:zoʻraki A2 ; ! 0.5965361585009433
 zoʻr%-bazur:zoʻr%-bazur ADV ; ! 0.6582647051874466
+zoʻrgʻa:zoʻrgʻa ADV ; ! "barely"
 zoʻrgʻatdan:zoʻrgʻatdan N1 ; ! 0.433965118580717
 zoʻr:zoʻr N1 ; ! 0.9996826437763732
 zoʻriq:zoʻriq V-TV-CAUS ; ! 0.9662214066707547
@@ -14352,7 +14360,8 @@ qiziqish:qiziqish N1 ; ! "curiosity"
 qiziqish:qiziqish N1-VN ; ! 0.9621382684252353
 qiziqish:qiziqish N1 ; ! "interest"
 qiziq:qiziq V-IV ; ! 0.9999335462935676
-qiziq:qiziq N1 ; ! 0.5459691403187705
+qiziq:qiziq A1 ; ! "interesting"
+qiziqarli:qiziqarli A1 ; ! "interesting"
 qiziqqon:qiziqqon A2 ; ! 0.9999183669006263
 qiziqqonli:qiziqqonli N1 ; ! 0.8576870062772665
 qiziqqonliq:qiziqqonliq N1 ; ! 0.9999999999987736
@@ -20588,6 +20597,7 @@ ozgʻinlan:ozgʻinlan V-IV-REFL ; ! 0.5632902029144407
 ozgʻinlik:ozgʻinlik N1 ; ! 0.9999984865843697
 ozgʻin:ozgʻin A2 ; ! 0.998992208396148
 ozgina:ozgina N1 ; ! 0.999999995312431
+ozgina:ozgina ADV ; ! "a little"
 ozdira:ozdira V-TV-CAUS ; ! 0.9999255483805952
 ozdir:ozdir V-TV-CAUS ; ! 0.9999999991579003
 ozib%-yozib:ozib%-yozib ADV ; ! 0.9958241631466679
@@ -20602,7 +20612,7 @@ oziq%-ovkat:oziq%-ovkat N1 ; ! 0.9512701998253378
 oziq-ovqat:oziq-ovqat N1 ; ! "groceries"
 oziq:oziq N1 ; ! "food"
 ozlik:ozlik N1 ; ! 0.9987308018329272
-ozmi%-kupmi:ozmi%-kupmi ADV ; ! 0.9289167157216282
+ozmi%-koʻpmi:ozmi%-koʻpmi ADV ; ! "more or less"
 oz%-moz:oz%-moz N1 ; ! 0.9999485887370646
 ozmuncha:ozmuncha N1 ; ! 0.999132385323824
 ozodagarchilik:ozodagarchilik N1 ; ! 0.9999999998859591
@@ -21244,7 +21254,7 @@ ortiga:ortiga N1 ; ! 0.999994501688324
 ortidan:ortidan N1 ; ! 0.9958447410596405
 ortida:ortida N1 ; ! 0.9999995259779275
 ortiqliq:ortiqliq N1 ; ! 0.9999999999998473
-ortiq:ortiq ADV3 ; ! "artik"
+ortiq:ortiq ADV3 ; ! "no more"
 ortiq:ortiq N1 ; ! 0.9999084902406626
 ortiqchalik:ortiqchalik N1 ; ! 0.9999999999858256
 ortiqcha:ortiqcha A1 ; ! "too much"
@@ -21474,7 +21484,10 @@ ochiq%-oshkor:ochiq%-oshkor ADV ; ! 0.4666088297969051
 ochiqtir:ochiqtir V-TV-CAUS ; ! 0.9999999995570852
 ochiqcha:ochiqcha N1 ; ! 0.9999722651922113
 ochiqchasiga:ochiqchasiga N1 ; ! 0.8188492249086471
+ochiqcha:ochiqcha ADV ; ! 0.9999722651922113
+ochiqchasiga:ochiqchasiga ADV ; ! 0.8188492249086471
 ochiq%-chochiq:ochiq%-chochiq N1 ; ! 0.9998918720552935
+ochiq%-shochiq:ochiq%-shochiq N1 ; ! 0.9998918720552935
 ochilish:ochilish N1 ; ! "opening"
 ochiltir:ochiltir V-TV-CAUS ; ! 0.9999972334381974
 ochinqira:ochinqira V-IV ; ! 0.9997894313336078
@@ -28574,7 +28587,8 @@ toʻxtat:toʻxtat V-TV-CAUS ; ! 0.9985940430098027
 toʻxtat:toʻxtat V-TV-CAUS ; ! 0.9999663692292681
 toʻxtash:toʻxtash V-IV-COOP ; ! 0.9999516279426424
 toʻxtovsiz:toʻxtovsiz A1 ; ! 0.9999999999999901
-toʻshak:toʻshak A2 ; ! 0.9944008705371169
+toʻxtovsiz:toʻxtovsiz ADV; ! "non-stop"
+toʻshak:toʻshak N ; ! "matrass"
 toʻshal:toʻshal V-TV-CAUS ; ! 0.7759270349747099
 toʻshama:toʻshama N1 ; ! 0.999999228620361
 toʻsha:toʻsha V-TV ; ! 0.9988912328941846
@@ -31613,7 +31627,7 @@ xuvari:xuvari N1 ; ! 0.9999999970960585
 xudbinlik:xudbinlik N1 ; ! 0.9999999999836043
 xudbin:xudbin N1 ; ! 0.9455440981655954
 xud%-vexud:xud%-vexud A2 ; ! 0.9989570353374793
-xuddi:xuddi ADV3 ; ! "nearly"
+aynanuddi ADV3 ; ! "nearly"
 xuddi:xuddi N1 ; ! 0.617075518567076
 xudkomlik:xudkomlik N1 ; ! 0.99999992689239
 xudkom:xudkom N1 ; ! 0.9999930033108709
@@ -35575,7 +35589,7 @@ emakla:emakla V-TV ; ! 0.999883556085782
 emanzor:emanzor N1 ; ! 0.9999982706242326
 eman:eman A2 ; ! 0.9966668192122807
 ! emas:emas A1 ; ! 0.9054339171908455
-! emas:emas A1 ; !
+emas:emas ADV ; ! "not"
 embriologik:embriologik A2 ; ! 0.9999986185623088
 embriologiya:embriologiya N1 ; ! 0.9988856519753601
 embrional:embrional N1 ; ! 0.7743796248155471
