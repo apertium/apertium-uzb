@@ -2734,7 +2734,7 @@ atavizm:atavizm N1 ; !
 atavistik:atavistik A2 ; ! 
 atay:atay ADV ; ! 
 ataydan:ataydan ADV ; ! 
-atayin:atayin ADV ; ! 
+atayin:atayin ADV ; ! "wittingly"
 ataylab:ataylab ADV ; ! 
 ataka:ataka N1 ; ! 
 atak%-chechak% qil:atak%-chechak% qil V-IV ; ! 
@@ -4091,6 +4091,8 @@ biljira:biljira V-IV ; !
 o'tir:o'tir V-IV ;
 bog'la:bog'la V-IV ;
 biljirat:biljirat V-TV-CAUS ; ! 
+bilib% turib:bilib% turib ADV ; ! "knowingly"
+qasddan:qasddan ADV ; ! "knowingly"
 biligiz:biligiz V-TV-CAUS ; ! 
 bilik:bilik N1 ; ! 
 biliksit:biliksit V-TV-CAUS ; ! 
@@ -13761,7 +13763,7 @@ qaysi:qaysi N1 ; ! 0.8678462438379936
 qaysi:qaysi PRON-ITG-INFL ; ! "which one"
 qaytaga:qaytaga N1 ; ! 0.9994756899200077
 qaytadan:qaytadan ADV1 ; ! "once more"
-qaytadan:qaytadan N1 ; ! 0.8490212162889111
+! qaytadan:qaytadan N1 ; ! 0.8490212162889111 ! Not a noun!.
 qaytayin:qaytayin N1 ; ! 0.9997043571752088
 qayta:qayta ADV1 ; !
 qayta%-qayta:qayta%-qayta N1 ; ! 0.9239094350991637
@@ -26656,9 +26658,10 @@ takomillashtir:takomillashtir V-TV-CAUS ; ! 0.9996177536200438
 takomillashtir:takomillashtir V-TV-CAUS ; ! 0.9999999995816368
 takomillik:takomillik N1 ; ! 0.999999999999409
 takomil:takomil N1 ; ! 0.999959838171627
-takroran:takroran A2 ; ! 0.9898482163572642
-takroriy:takroriy A2 ; ! 0.9999999604065046
-takrorlan:takrorlan V-IV-REFL ; ! 0.999999995867323
+! takroran:takroran A2 ; ! 0.9898482163572642 ! Not an adjective!.
+takroran:takroran ADV1 ; ! "again"
+takroriy:takroriy A2 ; ! "repeated"
+takrorlan:takrorlan V-IV-REFL ; ! "prepare"
 takrorla:takrorla VERB-TV ; ! "to repeat"
 takrorla:takrorla V-TV ; ! 0.9999999902607094
 takrorlat:takrorlat V-TV-CAUS ; ! 0.9999999961199909
