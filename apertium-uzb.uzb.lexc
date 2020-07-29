@@ -3023,11 +3023,12 @@ agʻray:agʻray V-IV ; !
 bʻol:bʻol VERB-IV ; ! "to be"
 baʻdaz:baʻdaz ADV ; ! 
 baʻd:baʻd ADV ; ! 
-baʻzan:baʻzan ADV ; !
-baʻzi:baʻzi PRON-IND ; ! 
+baʻzan:baʻzan ADV ; ! "sometimes"
+baʻzida:baʻzida ADV ; ! "sometimes"
+baʻzi:baʻzi PRON-IND ; !  "sometimes"
 baʻzibir:baʻzibir PRON-IND ; ! 
 baʻzida:baʻzida PRON-IND ; ! 
-baʼzan:baʼzan ADV ; !
+baʼzan:baʼzan ADV ; ! "sometimes"
 baʼzi:baʼzi A1 ; !
 baadab:baadab N1 ; ! 
 baadablik:baadablik N1 ;  ! 
@@ -3394,7 +3395,8 @@ barqut:barqut N1 ; !
 barlos:barlos N1 ; ! 
 barmoq:barmoq N1 ; ! 
 barno:barno A2 ; ! 
-barobar:barobar A1 ; ! 
+barobar:barobar A1 ; ! "equal"
+barobar:barobar A1 ; ! "together"
 barobarida:barobarida ADV ; ! 
 barograf:barograf N1 ; ! 
 barok:barok A2 ; ! 
@@ -6669,9 +6671,13 @@ gospital:gospital N1 ; !
 gotovalnya:gotovalnya N1 ; ! 
 goh:goh CC ; ! "at times"
 goh:goh CC-RAZDEL ; ! 
-goh%-goh:goh%-goh ADV ; ! 
+goh:goh ADV ; !  "at times"
+gohida:gohida ADV ; !  "at times"
+goh%-goh:goh%-goh ADV ; ! "at times"
 goho:goho CC-RAZDEL ; ! 
-goho%-goho:goho%-goho ADV ; ! 
+goho:goho ADV ; ! "sometimes"
+! goho%-goho:goho%-goho ADV ; ! 
+goh%-goh:goh%-goh ADV ; ! "sometimes"
 gravyura:gravyura N1 ; ! 
 gradus:gradus N1 ; ! 
 grajdan:grajdan N1 ; ! "citizen"
@@ -21154,9 +21160,11 @@ shu% yer:shu% yer PRON-ADV ; ! "here"
 uyoq:uyoq PRON-ADV ; ! "there"
 buyoq:buyoq PRON-ADV ; ! "here"
 shuyoq:shuyoq PRON-ADV ; ! "there"
-orasiga:orasiga N1 ; ! 0.9999998790395237
-orasta:orasta N1 ; ! 0.9831978811175529
+! orasiga:orasiga N1 ; ! 0.9999998790395237
+orasta:orasta A1 ; ! "chic"
 ora%-chora:ora%-chora N1 ; ! 0.9999426726312294
+ora%-sira:ora%-sira ADV ; "at times"
+ora%-sirada:ora%-sirada ADV ; "at times"
 orbital:orbital N1 ; ! 0.9999987024894859
 orbita:orbita N1 ; ! 0.9999995584710373
 organizm:organizm N1 ; ! 0.9999886614678815
@@ -21482,10 +21490,10 @@ ochiq:ochiq A2 ; ! 0.9999610198077497
 ochiq:ochiq V-IV ; ! 0.9999817790835686
 ochiq%-oshkor:ochiq%-oshkor ADV ; ! 0.4666088297969051
 ochiqtir:ochiqtir V-TV-CAUS ; ! 0.9999999995570852
-ochiqcha:ochiqcha N1 ; ! 0.9999722651922113
-ochiqchasiga:ochiqchasiga N1 ; ! 0.8188492249086471
-ochiqcha:ochiqcha ADV ; ! 0.9999722651922113
-ochiqchasiga:ochiqchasiga ADV ; ! 0.8188492249086471
+! ochiqcha:ochiqcha N1 ; ! 0.9999722651922113 ! Not a noun
+! ochiqchasiga:ochiqchasiga N1 ; ! "evidently" ! Not a noun
+ochiqcha:ochiqcha ADV ; ! "openly"
+ochiqchasiga:ochiqchasiga ADV ; ! "evidently"
 ochiq%-chochiq:ochiq%-chochiq N1 ; ! 0.9998918720552935
 ochiq%-shochiq:ochiq%-shochiq N1 ; ! 0.9998918720552935
 ochilish:ochilish N1 ; ! "opening"
@@ -29672,7 +29680,7 @@ uzoqlash:uzoqlash VERB-IV ; ! ""
 uzoq:uzoq A1 ; ! "far"
 uzoq:uzoq N1 ; ! 0.9999986022663345
 uzor:uzor N1 ; ! 0.9922469518799655
-uzra:uzra N1 ; ! 0.9999997779148863
+uzra:uzra ADV ; ! "over"
 uzrlilik:uzrlilik N1 ; ! 0.9999999984358944
 uzrli:uzrli A2 ; ! 0.9999999997578867
 uzr%-ma’zur:uzr%-ma’zur N1 ; ! 0.9863866304002737
