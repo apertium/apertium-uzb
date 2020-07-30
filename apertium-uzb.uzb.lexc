@@ -3396,7 +3396,7 @@ barlos:barlos N1 ; !
 barmoq:barmoq N1 ; ! 
 barno:barno A2 ; ! 
 barobar:barobar A1 ; ! "equal"
-barobar:barobar A1 ; ! "together"
+barobar:barobar ADV ; ! "together"
 barobarida:barobarida ADV ; ! 
 barograf:barograf N1 ; ! 
 barok:barok A2 ; ! 
@@ -21165,8 +21165,8 @@ shuyoq:shuyoq PRON-ADV ; ! "there"
 ! orasiga:orasiga N1 ; ! 0.9999998790395237
 orasta:orasta A1 ; ! "chic"
 ora%-chora:ora%-chora N1 ; ! 0.9999426726312294
-ora%-sira:ora%-sira ADV ; "at times"
-ora%-sirada:ora%-sirada ADV ; "at times"
+ora%-sira:ora%-sira ADV ; ! "at times"
+ora%-sirada:ora%-sirada ADV ; ! "at times"
 orbital:orbital N1 ; ! 0.9999987024894859
 orbita:orbita N1 ; ! 0.9999995584710373
 organizm:organizm N1 ; ! 0.9999886614678815
