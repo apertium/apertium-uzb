@@ -8315,14 +8315,15 @@ yoqasiz:yoqasiz A1 ; ! 0.9999999454784521
 yoq:yoq V-IV ; ! 0.7833974711362908
 yoq:yoq V-TV-CAUS ; ! 0.7071349214560189
 yoq:yoq N1 ; ! 0.9999999444662392
-yoq:yoq N1 ; ! "" 
+yoq:yoq N1 ; ! "node"
 yoqiq:yoqiq A2 ; ! 0.861752468209363
 yoqilgʻi:yoqilgʻi N1 ; ! 0.999997720884824
-yoqimli:yoqimli A2 ; ! 0.9999999999999212
+yoqimli:yoqimli A2 ; ! "pleasant"
+yoqimli% ishtaha:yoqimli% ishtaha A2 ; ! "bon appetite", "enjoy your meal"
 yoqimlilik:yoqimlilik N1 ; ! 0.9999999999362543
-yoqimsiz:yoqimsiz A1 ; ! 0.9999863720048965
+yoqimsiz:yoqimsiz A1 ; ! "unpleasant"
 yoqimsizlik:yoqimsizlik N1 ; ! 0.9999999934112166
-yoqimtoy:yoqimtoy A2 ; ! 0.9999999999994336
+yoqimtoy:yoqimtoy A2 ; ! "cute"
 yoqinqira:yoqinqira V-IV ; ! 0.9996270977489983
 yoqla:yoqla V-TV ; ! 0.9999999983096738
 yoqlama:yoqlama N1 ; ! 0.9927138632215904
@@ -11275,10 +11276,11 @@ ishratgoh:ishratgoh N1 ; ! 0.9506144112737004
 ishrat:ishrat N1 ; ! 0.9999999997253514
 ishratparast:ishratparast N1 ; ! 0.9999999998240703
 ishratxona:ishratxona N1 ; ! 0.9999989836060841
-ishsiz:ishsiz A1 ; ! 0.9999999998657022
-ishsizlik:ishsizlik N1 ; ! 0.9999999999999113
-ishtarapla:ishtarapla V-IV ; ! 0.9007677552974866
-ishtaha:ishtaha N1 ; ! 0.9999999999983747
+ishsiz:ishsiz A1 ; ! "unemployed"
+ishsiz:ishsiz A1 ; ! "unemplyee"
+ishsizlik:ishsizlik N1 ; ! "unemployment"
+! ishtarapla:ishtarapla V-IV ; ! 0.9007677552974866 ! No such word!
+ishtaha:ishtaha N1 ; ! "appetite"
 ishtahali:ishtahali A2 ; ! 0.999999999922331
 ishtahasiz:ishtahasiz A1 ; ! 0.9971067524083161
 ishtahasizlik:ishtahasizlik N1 ; ! 0.9999999763609054
@@ -25560,7 +25562,7 @@ sogʻinchli:sogʻinchli A2 ; ! 0.9999999918650236
 sogʻinch:sogʻinch N1 ; ! 0.9999999999957349
 sogʻish:sogʻish V-IV-COOP ; ! 0.5389538378466228
 sogʻlantir:sogʻlantir V-TV-CAUS ; ! 0.9999999965039374
-sogʻlik:sogʻlik N1 ; ! 0.9999999999979708
+sogʻlik:sogʻlik N1 ; ! "health", "healthyness"
 sogʻliq:sogʻliq N1 ;  ! ! "health"
 sogʻlomlanmok:sogʻlomlanmok A2 ; ! 0.990721438626547
 sogʻlomlantir:sogʻlomlantir V-TV-CAUS ; ! 0.9999999997828866
