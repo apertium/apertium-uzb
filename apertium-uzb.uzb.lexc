@@ -1920,6 +1920,7 @@ aksilinqilobchi:aksilinqilobchi N1 ; !
 aksilharakat:aksilharakat N1 ; ! 
 aksilharakatchi:aksilharakatchi N1 ; ! 
 aksincha:aksincha ADV ; !
+aksincha:aksincha CA ; !
 aksincha:aksincha PAREN ; ! 
 aksioma:aksioma N1 ; ! 
 aksir:aksir V-IV ; ! 
@@ -7386,6 +7387,7 @@ detsigramm:detsigramm N1 ; !
 detsilitr:detsilitr N1 ; ! 
 detsimetr:detsimetr N1 ; ! 
 deya:deya ADV1 ; !
+deya:deya CS ; !
 deyarli:deyarli ADV1 ; ! "almost"
 deyarli:deyarli ADV1 ; ! "nearly"
 deyarli:deyarli ADV ; ! 
@@ -8341,7 +8343,8 @@ yelvagay:yelvagay N1 ; ! 0.8559612970041915
 yelvizak:yelvizak A2 ; ! 0.9999736144997066
 yelvizak:yelvizak N1 ; ! 0.9997609679908432
 yolvor:yolvor V-TV ; ! 0.6924599850450681
-yolgʻiz:yolgʻiz A1 ; ! 0.9999177351785912
+yolgʻiz:yolgʻiz A1 ; ! "alone"
+yolgʻiz:yolgʻiz CC ; ! "only"
 yolgʻizla:yolgʻizla V-IV ; ! 0.9279649789337676
 yolgʻizlat:yolgʻizlat V-TV-CAUS ; ! 0.9999999996265143
 yolgʻizlik:yolgʻizlik N1 ; ! 0.9999999979455901
@@ -8679,8 +8682,9 @@ yetuk:yetuk A2 ; ! 0.9999999999999705
 yetuklik:yetuklik N1 ; ! 0.9999999582453333
 yefreytor:yefreytor N1 ; ! 0.999999995573442
 yoxud:yoxud CC ; ! 
+yoxud:yoxud CA ; ! 
 yoxud:yoxud ADV1 ; ! "or"
-yoxud:yoxud N1 ; ! 0.9999992724533834
+! yoxud:yoxud N1 ; ! 0.9999992724533834 ! Not a noun!
 yoxu:yoxu N1 ; ! 0.999952273934121
 yotsin:yotsin V-IV ; ! 0.9749317405361808
 yotsira:yotsira V-IV ; ! 0.9999974587131483
@@ -16464,6 +16468,7 @@ magazinli:magazinli A2 ; ! 0.9999999977577121
 magazin:magazin N1 ; ! 0.9999999497356995
 magazinchi:magazinchi N1 ; ! 0.9999999999906521
 magar:magar CA ; ! "to this surprise"
+magarki:magarki CA ; ! "to this surprise"
 magar:magar CS ; ! 0.9999498477616638
 magistral:magistral N1 ; ! 0.9916036454204312
 magistral:magistral N1 ; ! 0.9999999961807174
@@ -16993,7 +16998,8 @@ masala:masala N1 ; ! 0.9999999992908437
 masala:masala N1 ; ! "matter/discussion"
 masala:masala N1 ; ! "problem/matter"
 masalan:masalan CA ; ! "for example"
-masalan:masalan N1 ; ! 0.9998222926652293
+misol% uchun:misol% uchun CA ; ! "for example"
+! masalan:masalan N1 ; ! 0.9998222926652293 ! Not a noun!
 masalaxonlik:masalaxonlik N1 ; ! 0.9999999996561291
 masalliq:masalliq N1 ; ! 0.9999999999999901
 masal:masal N1 ; ! 0.9999998750357915
@@ -18179,7 +18185,9 @@ muddatsiz:muddatsiz A1 ; ! 0.9998852275823288
 mudirlik:mudirlik N1 ; ! 0.9999999999999655
 mudir:mudir N1 ; ! "director"
 mudom:mudom ADV ; ! 0.5341529911469589
-mudofaalan:mudofaalan V-IV ; ! 0.9999974149872154
+mudomiki:mudomiki CA ; ! "whereby"
+madomiki:madomiki CA ; ! "whereby"
+mudofaalan:mudofaalan V-IV ; ! 0.9999974149872154 
 mudofaa:mudofaa A2 ; ! 0.5404737392450132
 mudofaa:mudofaa N1 ; ! "resistence"
 mudofaachilyk:mudofaachilyk N1 ; ! 0.9105642485418745
@@ -27806,7 +27814,9 @@ terchila:terchila V-IV ; ! 0.9999999904143826
 teskarilan:teskarilan V-IV ; ! 0.9999784594435195
 teskarilash:teskarilash V-IV ; ! 0.9999998299139138
 teskarilik:teskarilik N1 ; ! 0.9999999993927147
-teskarisiga:teskarisiga N1 ; ! 0.9999780203656898
+! teskarisiga:teskarisiga N1 ; ! 0.9999780203656898 ! Not a Noun!
+teskarisiga:teskarisiga ADV1 ; ! "backwards"
+teskarisiga:teskarisiga CA ; ! "backwards"
 teskarisicha:teskarisicha N1 ; ! 0.999999980516223
 teskari:teskari A1 ;! "reverse"
 teskari:teskari A2 ; ! 0.8692765931462592
@@ -30466,8 +30476,10 @@ farqlan:farqlan VERB-IV ; !
 farqlan:farqlan V-IV-REFL ; ! 0.9999941913887613
 farqla:farqla VERB-TV ; !
 farqla:farqla V-TV ; ! 0.9794938918792226
-farqli:farqli A1 ; ! "differently"
+farqli:farqli A1 ; ! "different"
 farqli:farqli A2 ; ! 0.9999999999399777
+farqli% oʻlaroq:farqli% oʻlaroq CA ; ! "unlike"
+
 farqsiz:farqsiz A1 ; ! 0.9988668638803546
 farq:farq N1 ; ! 0.9976137102717959
 farq:farq N1 ; ! 0.9999999833265677
