@@ -14021,6 +14021,7 @@ qanchadan%-qancha:qanchadan%-qancha ADV ; ! 0.853332380918643
 qancha:qancha ADV ; ! 0.9585391196216012
 qancha%-qancha:qancha%-qancha ADV ; ! 0.9696764368406735
 qancha:qancha PRON-ITG-INFL ; ! "how many"
+qancha:qancha DET-QNT ; ! "how many"
 qanchalik:qanchalik N1 ; ! 0.9308622042558504
 qanshar:qanshar N1 ; ! 0.9999999632713309
 qapishmoq:qapishmoq N1 ; ! 0.6151072232339921
@@ -19124,8 +19125,9 @@ nechikkim:nechikkim N1 ; ! 0.9999961609410578
 nechikki:nechikki N1 ; ! 0.7814872396493239
 nechov:nechov N1 ; ! 0.9999642178436337
 nechogʻliq:nechogʻliq N1 ; ! 0.9997660649259829
-nechta:nechta ADV1 ; !
-nechta:nechta N1 ; ! 0.8544649019354825
+nechta:nechta ADV1 ; ! "how many"
+nechta:nechta DET-QNT ; ! 
+! nechta:nechta N1 ; ! 0.8544649019354825 ! Not a Noun!
 nechuk:nechuk N1 ; ! 0.9999999834148552
 nechundir:nechundir N1 ; ! 0.9997317916611909
 nechunkim:nechunkim N1 ; ! 0.9999999896362404
@@ -19950,9 +19952,13 @@ oʻnqir:oʻnqir N1 ; ! 0.9999995119411013
 oʻnqir%-choʻnqirliq:oʻnqir%-choʻnqirliq N1 ; ! 0.9999994848915212
 oʻnqir%-choʻnqir:oʻnqir%-choʻnqir N1 ; ! 0.9996236727316311
 oʻnqov:oʻnqov N1 ; ! 0.9999999813061805
-oʻnlab:oʻnlab N1 ; ! 0.9532133677796606
+oʻnlab:oʻnlab DET-QNT ; ! "tens of", "dozens of"
 oʻnlab:oʻnlab N1 ; ! "dozens"
 oʻnlar:oʻnlar N1 ; ! 0.9999997374843804
+oʻnminglab:oʻnminglab DET-QNT ; ! "tens of thousands"
+yuzminglab:yuzminglab DET-QNT ; ! "hundreds of thousands"
+millionlab:millionlab DET-QNT ; ! "millions"
+milliardlab:milliardlab DET-QNT ; ! "billions"
 oʻnlarcha:oʻnlarcha N1 ; ! 0.9876441858500695
 oʻnlik:oʻnlik N1 ; ! 0.9999999994389318
 oʻn:oʻn N1 ; ! 0.9999904443304298
@@ -38191,3 +38197,38 @@ lès:lès NP-AL ; !
 İstanbul% Büyükşehir% Belediyespor:İstanbul% Büyükşehir% Belediyespor NP-ORG ; ! ""
 İstanbulspor:İstanbulspor NP-ORG ; ! ""
 İzmirspor:İzmirspor NP-ORG ; ! ""
+
+! Conjunctions:
+chunki:chunki CC ; ! "because"
+ham:ham CC ; ! "too"
+agar:agar CC ; ! "if"
+garchi:garchi CC ; ! "eventhough"
+holbuki:holbuki CC ; ! "eventhough"
+hamda:hamda CC ; ! "as well"
+harqalay:harqalay CC ; ! "though"
+uchun:uchun CC ; ! "for"
+boʻlgan% boʻlsada:boʻlgan% boʻlsada CC ; ! "eventhough"
+goʻyoki:goʻyoki CC ; ! "as if"
+goʻyo:goʻyo CC ; ! "as if"
+davomida:davomida CC ; ! "during"
+shuki:shuki CC ; ! "so"
+yoxud:yoxud CC ; ! "or"
+yani:yani CC ; ! "so"
+hamda:hamda CC ; ! "and"
+
+boshqa:boshqa DET-IND ; ! "another"
+biroz:biroz DET-IND ; ! "some"
+boʻlib:boʻlib DET-IND ; ! ""
+shunday:shunday DET-IND ; ! "such"
+birgina:birgina DET-IND ; ! "alone"
+
+barcha:barcha DET-DEM ; ! "all"
+bu:bu DET-DEM ; ! "this"
+u:u DET-DEM ; ! "he/she/it"
+boʻldi% shu:boʻldi% shu DET-DEM ; ! "that's it"
+shu:shu DET-DEM ; ! "that"
+ushbu:ushbu DET-DEM ; ! "this"
+butun:butun DET-DEM ; ! "whole"
+ayni:ayni DET-DEM ; ! "same"
+aynan:aynan DET-DEM ; ! "same"
+boshqa:boshqa DET-DEM ; ! "another"
