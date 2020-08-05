@@ -6482,7 +6482,9 @@ Germaniya:Germaniya NP-TOP ; ! "Germany"
 germetik:germetik A2 ; ! 
 gersog:gersog N1 ; ! 
 gersoglik:gersoglik N1 ; ! 
-GES:GES ABBR ; !
+GES:GES ABBR ; ! "Gidro Elektrik Stansiya"
+AB:AB ABBR ; ! 
+BH:BH ABBR ; ! 
 gestapo:gestapo N1 ; ! 
 gestapochi:gestapochi N1 ; ! 
 getman:getman N1 ; ! 
@@ -24638,7 +24640,7 @@ serbaraka:serbaraka N1 ; ! 0.9995492318815331
 serbar:serbar A2 ; ! 0.9964914793386379
 serbar:serbar N1 ; ! 0.9999788646301048
 serboshoq:serboshoq A2 ; ! 0.9349147526349663
-serb:serb N1 ; !
+serb:serb A1 ; ! "Serbian"
 serb:serb N1-NAT ; ! 0.9999600120096936
 Serb:Serb N1-NAT ; ! "Serbian"
 serbuyoq:serbuyoq A2 ; ! 0.99728319756177
@@ -24816,6 +24818,18 @@ sibizgʻachi:sibizgʻachi N1 ; ! 0.9999842319675069
 sibiriyalik:sibiriyalik N1 ; ! 0.9999999996443728
 sibir:sibir N1 ; ! 0.9999938931439574
 Sibir:Sibir NP-TOP ; ! "Siberia"
+Makedoniya:Makedoniya NP-TOP ; ! "Mecedonia"
+Serbiya:Serbiya NP-TOP ; ! "Serbia"
+Kosova:Kosova NP-TOP ; ! "Kosova"
+Xorvatiya:Xorvatiya NP-TOP ; ! "Croatia"
+Belgrad:Belgrad NP-TOP ; ! "Belgrad"
+Serb:Serb N1 ; ! "Serbian"
+Serb:Serb A1 ; ! "Serbian"
+Albaniya:Albaniya NP-TOP ; ! "Albania"
+Chernogoriya:Chernogoriya NP-TOP ; ! "Montenegro"
+Bolgariya:Bolgariya NP-TOP ; ! "Bulgaria"
+Ruminiya:Ruminiya NP-TOP ; ! "Romania"
+Yunoniston:Yunoniston NP-TOP ; ! "Greece"
 sivizgʻa:sivizgʻa N1 ; ! 0.9999994511743556
 sivizgʻachi:sivizgʻachi N1 ; ! 0.9999729743859611
 sivilizatsiyali:sivilizatsiyali A2 ; ! 0.9999999997746419
@@ -28642,7 +28656,7 @@ toʻxtat:toʻxtat V-TV-CAUS ; ! 0.9999663692292681
 toʻxtash:toʻxtash V-IV-COOP ; ! 0.9999516279426424
 toʻxtovsiz:toʻxtovsiz A1 ; ! 0.9999999999999901
 toʻxtovsiz:toʻxtovsiz ADV; ! "non-stop"
-toʻshak:toʻshak N ; ! "matrass"
+toʻshak:toʻshak N1 ; ! "matrass"
 toʻshal:toʻshal V-TV-CAUS ; ! 0.7759270349747099
 toʻshama:toʻshama N1 ; ! 0.999999228620361
 toʻsha:toʻsha V-TV ; ! 0.9988912328941846
@@ -37547,6 +37561,9 @@ Kürbanküli:Kürbanküli NP-ANT-M ; ! ""
 Kırıkkalespor:Kırıkkalespor NP-ORG ; ! ""
 LDK:LDK NP-ORG ; ! ""
 La% Coruña:La% Coruna NP-TOP ; ! ""
+La% Korunya:La% Korunya NP-TOP ; ! ""
+Kosova:Kosova NP-TOP ; ! ""
+Serbiya:Serbiya  NP-TOP ; ! "Serbia"
 La:La NP-AL ; !
 Lake:Lake NP-TOP ; ! ""
 Lamberto:Lamberto NP-ANT-M ; ! ""
