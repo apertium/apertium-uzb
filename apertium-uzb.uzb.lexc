@@ -1458,7 +1458,8 @@ avvallari:avvallari ADV ; !
 avvalo:avvalo ADV ; ! 
 avg%.:avg%. ABBR ;
 avg:avg ABBR ; ! "august"
-avgust:avgust N1 ; ! "August"
+avgust:Avgust N1 ; ! "August"
+Avgust:Avgust N1 ; ! "August"
 avj:avj N1 ; ! 
 avjlantir:avjlantir V-TV-CAUS ; ! 
 avjli:avjli A1 ; ! 
@@ -2385,8 +2386,8 @@ apparat:apparat N1 ; ! "aparatus"
 apparatura:apparatura N1 ; ! 
 appenditsit:appenditsit N1 ; ! 
 apr%.:apr%. ABBR ; ! "april"
-aprel:aprel N1 ; ! 
-aprel:aprel N1 ; ! "April"
+aprel:Aprel N1 ; ! "April"
+Aprel:Aprel N1 ; ! "April"
 aprior:aprior A2 ; ! 
 apriorlik:apriorlik N1 ;  ! 
 aprobatsiya:aprobatsiya N1 ; ! 
@@ -7294,8 +7295,7 @@ deyil:deyil VERB-IV ; !
 deyil:deyil V-TV ; ! 
 deyish:deyish VERB-TV ; ! "to change"
 deyish:deyish V-TV-COOP ; ! 
-dekabr:dekabr N1 ; !
-dekabr:dekabr N1 ; ! 
+dekabr:Dekabr N1 ; ! "December" 
 Dekabr:Dekabr N1 ; ! "December"
 dekabrist:dekabrist N1 ; ! 
 dekada:dekada N1 ; ! 
@@ -11315,11 +11315,11 @@ ishchinamo:ishchinamo A1 ; ! 0.5639544205529449
 ishshay:ishshay V-IV ; ! 0.9999716750260652
 ishshaytir:ishshaytir V-TV-CAUS ; ! 0.9999999993974772
 ishsh:ishsh N1 ; ! 0.9999997790436441
-iyul:iyul N1 ; ! 0.9999984104355552
-iyul:iyul N1 ; ! "july"
+iyul:Iyul N1 ; ! "july"
+Iyul:Iyul N1 ; ! "july"
 iyulniki:iyulniki ADV1 ; !
-iyun:iyun N1 ; ! 0.9999995169974426
-iyun:iyun N1 ; ! "June"
+iyun:Iyun N1 ; ! "June"
+Iyun:Iyun N1 ; ! "June"
 iya:iya N1 ; ! 0.9995507583957257
 iya:iya N1 ; ! 0.9999999354242876
 iyar:iyar V-TV-CAUS ; ! 0.9912268390199156
@@ -16652,10 +16652,10 @@ mayliga:mayliga N1 ; ! 0.9748762730837303
 mayli:mayli CA ; ! "anyway"
 mayli:mayli N1 ; ! 0.6320125211148668
 mayl:mayl N1 ; ! 0.9999999999999163
-may:may N1 ; ! 0.999999893160114
 may:may N1 ; ! "wine"
-may:may N1 ; ! "May"
-maymok:maymok A2 ; ! 0.9997678959756147
+may:May N1 ; ! "May"
+May:May N1 ; ! "May"
+maymoq:maymoq A2 ; ! "purry"
 maymunjon:maymunjon N1 ; ! 0.9999997037792531
 maymun:maymun N1 ; ! 0.9999439146212404
 maymun:maymun N1 ; ! "monkey"
@@ -16984,8 +16984,8 @@ martali:martali A2 ; ! 0.9999799606218306
 marta:marta N1 ; ! 0.9999085979707298
 marta:marta N1 ; ! "times/time"
 marten:marten N1 ; ! 0.9999928023020365
-mart:mart N1 ; ! 0.9999999304559213
-mart:mart N1 ; ! "March"
+mart:Mart N1 ; ! "March"
+Mart:Mart N1 ; ! "March"
 marhabo:marhabo N1 ; ! 0.9997468566770563
 marhaglatli:marhaglatli A2 ; ! 0.9997502770928152
 marhamat:marhamat N1 ; ! 0.9999999272178952
@@ -19522,15 +19522,14 @@ noshukurlik:noshukurlik N1 ; ! 0.9999999998450364
 noshukur:noshukur A2 ; ! 0.9954307048689439
 noshukurchilik:noshukurchilik N1 ; ! 0.9999996829019454
 noyab%.:noyab%. ABBR ;
-noyabr:noyab N1 ; ! "November"
-noyabr:noyabr N1 ; ! 0.9999999973488051
-noyabr:noyabr N1 ; ! "november"
-noyambr:noyambr N1 ; !
+noyabr:Noyabr N1 ; ! "November"
+Noyabr:Noyabr N1 ; ! "November"
+! noyambr:noyambr N1 ; !
 nubuvvat:nubuvvat N1 ; ! 0.9999998993623473
 nujum:nujum N1 ; ! 0.999443096933537
 nuktadon:nuktadon A2 ; ! 0.9692572660769776
-nukta:nukta N1 ; ! 0.999922416150144
-nukta:nukta N1 ;  ! "point"
+! nukta:nukta N1 ; ! 0.999922416150144
+nuqta:nuqta N1 ;  ! "point"
 nuqi:nuqi V-IV ; ! 0.9669933810374216
 nuqra:nuqra N1 ; ! 0.9999993953600741
 nuqs:nuqs N1 ; ! 0.9999999998595507
@@ -20774,7 +20773,7 @@ okt%.:okt%. ABBR ;
 oktyabrist:oktyabrist N1 ; ! 0.9999999934151862
 oktyabr:oktyabr N1 ; ! 0.9999986635423825
 oktabr:oktabr N1 ; ! "October"
-oktabr:oktabr N1 ; ! "OCtober"
+Oktabr:Oktabr N1 ; ! "OCtober"
 oktyabryat:oktyabryat N1 ; ! 0.9999998479352761
 okuchnik:okuchnik N1 ; ! 0.9999835666383445
 oqarish:oqarish V-IV-COOP ; ! 0.9947049409837013
@@ -24613,12 +24612,13 @@ sentrlat:sentrlat V-TV-CAUS ; ! 0.9999998053705491
 sentrovka:sentrovka N1 ; ! 0.9999999952437651
 sent%.:sent%. ABBR ;
 sentyabr:sentyabr N1 ; ! 0.9999970658343309
-sentabr:sentabr N1 ; ! "september"
+sentabr:Sentabr N1 ; ! "september"
 Sentabr:Sentabr N1 ; ! "September"
 sepala:sepala V-TV ; ! 0.9054670295592934
 separa:separa N1 ; ! 0.9999999998275031
 separator:separator N1 ; ! 0.999999968135061
 separat:separat N1 ; ! 0.9997077022263908
+sep:sep V-IV ; ! "splash"
 sepil:sepil V-IV ; ! 0.9949920481958194
 sepiluvchanlik:sepiluvchanlik N1 ; ! 0.999999999527505
 sepiluvchan:sepiluvchan N1 ; ! 0.9999492897649107
@@ -30585,8 +30585,7 @@ fashistlashtir:fashistlashtir V-TV-CAUS ; ! 0.9999977185936842
 fashist:fashist N1 ; ! 0.9999999979364836
 fashistcha:fashistcha A1 ; ! 0.8205134306893932
 faeton:faeton N1 ; ! 0.9998743070619323
-fevral:fevral N1 ; ! 0.999999910273539
-fevral:fevral N1 ; ! "february"
+fevral:Fevral N1 ; ! "february"
 Fevral:Fevral N1 ; ! "February"
 federalizatsiya:federalizatsiya N1 ; ! 0.9999999999980103
 federativ:federativ A2 ; ! 0.9989029033485387
@@ -36644,8 +36643,7 @@ yanagi:yanagi A2 ; ! 0.981893060680912
 yanada:yanada ADV1 ; ! "and yet"
 yana:yana A1 ; ! 0.7251485337885802
 yana:yana ADV3; ! "again"
-yanvar:yanvar N1 ; ! 0.9995761431516671
-yanvar:yanvar N1 ; ! "January"
+yanvar:Yanvar N1 ; ! "January"
 Yanvar:Yanvar N1 ; ! "January"
 yanga:yanga N1 ; ! 0.9999999999830429
 yangidan:yangidan N1 ; ! 0.975619787630088
@@ -36963,7 +36961,7 @@ LEXICON Punctuation
 LEXICON Proper
 
 AFP:AFP NP-ORG ; ! ""
-AGİT:AGİT NP-ORG ; ! ""
+AGIT:AGIT NP-ORG ; ! ""
 AIDS:AIDS NP-AL ; ! ""  @?@
 AKI:AKI NP-ORG ; ! "" 
 AKP:AKP  NP-ORG ; ! ""
