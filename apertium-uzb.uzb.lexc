@@ -3128,7 +3128,7 @@ bayonatchilik:bayonatchilik N1 ;  !
 bayon:bayon N1 ; ! 
 bayon:bayon N1 ; ! "statement"
 bayonnoma:bayonnoma N1 ; ! 
-bayonot:bayonot N1 ; ! 
+bayonot:bayonot N1 ; ! "statement"
 bayot:bayot N1 ; ! 
 bajar:bajar VERB-TV ; ! "to execute"
 bajar:bajar V-TV ; ! 
@@ -6483,8 +6483,8 @@ germetik:germetik A2 ; !
 gersog:gersog N1 ; ! 
 gersoglik:gersoglik N1 ; ! 
 GES:GES ABBR ; ! "Gidro Elektrik Stansiya"
-AB:AB ABBR ; ! 
-BH:BH ABBR ; ! 
+AB:AB NP-TOP ; ! 
+BH:BH NP-TOP ; ! 
 gestapo:gestapo N1 ; ! 
 gestapochi:gestapochi N1 ; ! 
 getman:getman N1 ; ! 
@@ -7774,6 +7774,7 @@ dolzarb:dolzarb N1 ; ! 0.9999999610319588
 doli%-guli:doli%-guli A2 ; ! 0.9996967086943641
 dollar:dollar N1 ; ! 0.999998496584799
 dollar:dollar N1 ; ! "dollar"
+yevro:yevro N1 ; ! "Euro"
 dollarlik:dollarlik N1 ; ! 0.9995558445506901
 dollash:dollash V-TV ; ! 0.6669693980759064
 dolon:dolon N1 ; ! 0.9999567242606753
@@ -8033,7 +8034,8 @@ duch:duch A2 ; ! 0.9999998703494691
 duchma%-duch:duchma%-duch IDEO ; ! 0.5412156119804987
 duchor:duchor A1 ; !
 duchor:duchor N1 ; ! 0.4910885234682559
-dushanba:dushanba N1 ; ! 0.9999940331888577
+dushanba:Dushanba N1 ; ! "Monday"
+Dushanba:Dushanba N1 ; ! "Monday"
 dushvor:dushvor A2 ; ! 0.8509588866953403
 dushvorlik:dushvorlik N1 ; ! 0.9999999998418647
 dush:dush N1 ; ! 0.9999999994021511
@@ -8105,8 +8107,8 @@ yoʻlchiliq:yoʻlchiliq N1 ; ! 0.9999999809664417
 yoʻnal:yoʻnal V-IV ; ! 0.9713508214453975
 yoʻnalish:yoʻnalish N1 ; ! 0.5641173778926621
 yoʻnalish:yoʻnalish N1 ; ! "direction"
-yoʻnaltir:yoʻnaltir V-TV-CAUS ; ! 0.9999992825725623
-yoʻnaltir:yoʻnaltir V-TV-CAUS ; ! 0.9999999916369566
+yoʻnaltirilgan:yoʻnaltirgan A1 ; ! "devoted", "intended"
+yoʻnaltir:yoʻnaltir V-TV-CAUS ; ! "devote"
 yoʻngʻichqa:yoʻngʻichqa N1 ; ! 0.9999998724911466
 yoʻngʻichqazor:yoʻngʻichqazor N1 ; ! 0.9999779527542537
 yoʻndir:yoʻndir V-TV-CAUS ; ! 0.9999999719634696
@@ -9420,7 +9422,8 @@ juyruk:juyruk A2 ; ! 0.8677301848669652
 juldurvoqi:juldurvoqi N1 ; ! 0.9997737595815719
 juldur:juldur N1 ; ! 0.9789116153658628
 jul:jul N1 ; ! 0.9999999833547443
-juma:juma N1 ; ! 0.9999876727636461
+juma:Juma N1 ; ! "Friday"
+Juma:Juma N1 ; ! "Friday"
 jumak:jumak N1 ; ! 0.9998478715120415
 jumalik:jumalik N1 ; ! 0.9999969687368464
 jumard:jumard N1 ; ! 0.9999998746815557
@@ -16099,6 +16102,7 @@ lahzalik:lahzalik N1 ; ! 0.9999999437046847
 lahim:lahim N1 ; ! 0.9999998555179302
 lahimchi:lahimchi N1 ; ! 0.9999999134934776
 lahm:lahm N1 ; ! 0.9999923324871514
+lahm:lahm A1 ; ! "the best"
 lachak:lachak N1 ; ! 0.999983228299906
 lashkarboshi:lashkarboshi N1 ; ! 0.9999994491497093
 lashkarboshiliq:lashkarboshiliq N1 ; ! 0.999999999992834
@@ -21692,7 +21696,8 @@ payt:payt N1 ; ! "time"
 paycha:paycha N1 ; ! 0.9999999940077997
 paychi:paychi N1 ; ! 0.9999999991606042
 payshanbalik:payshanbalik N1 ; ! 0.9999999999460898
-payshanba:payshanba N1 ; ! 0.9795002028758685
+payshanba:Payshanba N1 ; ! "Thursday"
+Payshanba:Payshanba N1 ; ! "Thursday"
 pakanalik:pakanalik N1 ; ! 0.9999999840954459
 pakana:pakana N1 ; ! 0.9999766140190235
 pakgauz:pakgauz N1 ; ! 0.9999572433613466
@@ -24808,7 +24813,8 @@ sehrla:sehrla V-TV ; ! 0.9999999921504286
 sehrli:sehrli A2 ; ! 0.9999999999153275
 sehr:sehr N1 ; ! 0.9999999908033922
 sehrchi:sehrchi N1 ; ! 0.9999999990202239
-seshanba:seshanba N1 ; ! 0.999999743150089
+seshanba:Seshanba N1 ; ! "Tuesday"
+Seshanba:Seshanba N1 ; ! "Tuesday"
 seyalka:seyalka N1 ; ! 0.999999999972252
 seyalkachi:seyalkachi N1 ; ! 0.9999999877144242
 sianli:sianli A2 ; ! 0.9999999999922183
@@ -25463,9 +25469,8 @@ soʻlchilik:soʻlchilik N1 ; ! 0.9999999982359055
 soʻmlab:soʻmlab ADV ; ! 0.99912252891974
 soʻmlik:soʻmlik N1 ; ! 0.9932402856755685
 soʻmli:soʻmli N1 ; ! 0.6976717119056961
-soʻm:soʻm N1 ; ! 0.9999707245178882
-soʻm:soʻm N1 ; ! 0.9999991353659826
-soʻm:soʻm N1 ; ! 0.9999999965417967
+soʻm:soʻm N1 ; ! "sum currency"
+soʻm:soʻm A1 ; ! "the best"
 soʻna:soʻna A2--V ; ! 0.7617449152660457
 soʻna:soʻna N1 ; ! 0.9999999971692701
 soʻngak:soʻngak N1 ; ! 0.9999944520762573
@@ -25713,8 +25718,8 @@ somsapazlik:somsapazlik N1 ; ! 0.999999999971853
 somsapaz:somsapaz N1 ; ! 0.9999996801309038
 somsa:somsa N1 ; ! 0.9999997021010849
 somsafurush:somsafurush N1 ; ! 0.999999794401959
-som:som N1 ; ! 0.9972294808876716
-som:som N1 ; ! 0.9999999982117823
+som:som N1 ; ! "sum currency"
+rubl:rubl N1 ; ! "ruble currency"
 sona:sona N1 ; ! 0.9999999955967426
 soniya:soniya N1 ; ! 0.9999999999100084
 sonli:sonli A1 ; ! "numbered"
@@ -29389,7 +29394,7 @@ turkologiya:turkologiya N1 ; ! 0.9999922148687272
 turkona:turkona N1 ; ! 0.9887373649869973
 turk:turk N1-NAT ; ! 0.9999983976885147
 Turk:Turk N1-NAT ; ! "Turk"
-turk:turk N1 ; ! "turk" NOT SURE
+turk:Turk N1 ; ! "turk" NOT SURE
 turkumla:turkumla V-TV ; ! 0.999999999447078
 turkum:turkum N1 ; ! 0.9999999999980299
 turkum:turkum N1 ; ! "group"
@@ -32269,7 +32274,7 @@ hamiyatsiz:hamiyatsiz A1 ; ! 0.9999999999977541
 hamkasaba:hamkasaba N1 ; ! 0.9998675438616393
 hamkasb:hamkasb N1 ; ! 0.9985169448418438
 hamkorlik:hamkorlik N1 ; ! 0.9999999999999852
-hamkorlik:hamkorlik N1 ;  ! "partnership
+hamkorlik:hamkorlik N1 ;  ! "partnership"
 hamkor:hamkor N1 ; ! 0.9999999615794828
 hamkurs:hamkurs N1 ; ! 0.9988302517735335
 hamqishloq:hamqishloq N1 ; ! 0.9999978437571168
@@ -34029,7 +34034,8 @@ chor:chor N1 ; ! 0.9999597004785176
 chor:chor N1 ; ! 0.9999979334606828
 chor:chor N1 ; ! 0.999999983926564
 chorchup:chorchup N1 ; ! 0.9999999719790921
-chorshanba:chorshanba N1 ; ! 0.9999998865785761
+chorshanba:Chorshanba N1 ; ! "Wednesday"
+Chorshanba:Chorshanba N1 ; ! "Wednesday"
 chotir:chotir N1 ; ! 0.9998389065956226
 chot:chot N1 ; ! 0.999999999781734
 chox:chox N1 ; ! 0.9999722362354373
@@ -34378,7 +34384,8 @@ sham:sham N1 ; ! 0.999999267527194
 shamshir:shamshir N1 ; ! 0.9999997971463954
 shamshod:shamshod A2 ; ! 0.8362431860501236
 shanbalik:shanbalik N1 ; ! 0.9999974126985487
-shanba:shanba N1 ; ! 0.9996941849664339
+shanba:Shanba N1 ; ! "Saturday"
+Shanba:Shanba N1 ; ! "Saturday"
 shangʻillat:shangʻillat V-TV-CAUS ; ! 0.9999999975516112
 shangʻilla:shangʻilla V-TV ; ! 0.8662021685252265
 shangʻi:shangʻi N1 ; ! 0.9994398692531125
@@ -36506,8 +36513,9 @@ yakunlovchi:yakunlovchi N1 ; ! 0.637053803333002
 yakun:yakun N1 ; ! 0.9999999980657529
 yakun:yakun N1 ; ! "result, end"
 yakut:yakut N1 ; ! 0.9894181183537496
-yakshanbaliq:yakshanbaliq N1 ; ! 0.9999999994504368
-yakshanba:yakshanba N1 ; ! 0.9999156791145025
+yakshanbalik:yakshanbalik N1 ; ! 0.9999999994504368
+yakshanba:Yakshanba N1 ; ! "Sunday"
+Yakshanba:Yakshanba N1 ; ! "Sunday"
 yak:yak N1 ; ! 0.9999038406703293
 yaqindagi:yaqindagi A2 ; ! 0.9999772412354734
 yaqindan:yaqindan A2 ; ! 0.5879375857206048
@@ -37914,7 +37922,7 @@ SDA:SDA NP-ORG ; ! ""
 SDP:SDP NP-ORG ; ! ""
 SDSM:SDSM NP-ORG ; ! ""
 SE:SE NP-ORG ; ! ""
-SETimes:SETimes%{b%} NP-ORG ; ! ""
+SETimes:SETimes%{b%} NP-ORG ; ! "Southeastern European Times"
 SFOR:SFOR NP-ORG ; ! ""
 SNSD:SNSD NP-ORG ; ! ""
 SP:SP NP-ORG ; ! ""
@@ -39557,5 +39565,9 @@ Zebra:Zebra  NP-TOP ; ! "" ! El++
 Zenitsa:Zenitsa  NP-TOP ; ! "" ! El++
 Zhuanglar:Zhuanglar  NP-TOP ; ! "" ! El++
 Zimbabve:Zimbabve  NP-TOP ; ! "" ! El++
+xorvat:Xorvat N3 ; ! "Croat"
+Xorvat:Xorvat N3 ; ! "Croat"
+xorvat:xorvat A1 ; ! "Croatian" 
+tashqi% ishlari:tashqi% ishlari N1 ; ! "External Affairs"
 
-
+a`zolik:a`zolik N1 ; ! "membership"
