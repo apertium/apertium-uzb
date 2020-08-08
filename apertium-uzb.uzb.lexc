@@ -2167,6 +2167,7 @@ amalparast:amalparast N1 ; !
 amalparastlik:amalparastlik N1 ;  ! 
 ambulatoriya:ambulatoriya N1 ; ! 
 amvol:amvol N1 ; ! 
+kubok:kubok N1 ; !  "Cup"
 amerikalik:amerikalik N1 ;  ! "American"
 amerikalik:amerikalik N1-NAT ; ! 
 Amerikalik:Amerikalik N1-NAT ; ! "American"
@@ -4142,7 +4143,6 @@ binafsha:binafsha N1 ; !
 binoan:binoan ADV1 ; ! "in accordance with"
 binoan:binoan POST-DAT ; ! 
 binobarin:binobarin CS ; ! 
-bino:bino N1 ; ! 
 bino:bino N1 ; ! "building"
 binoyi:binoyi A1 ; ! 
 binokl:binokl N1 ; ! 
@@ -4724,8 +4724,8 @@ bol:bol N1 ; !
 bolgʻa:bolgʻa N1 ; ! 
 bolgʻala:bolgʻala V-TV ; ! 
 bolgʻalan:bolgʻalan V-TV ; ! 
-bolgar:bolgar N1 ; !
-bolgar:bolgar N1-NAT ; ! 
+bolgar:bolgar N1 ; ! "Bulgarian"
+bolgar:Bolgar N1-NAT ; ! "Bulgarian" 
 Bolgar:Bolgar N1-NAT ; ! "Bulgarian"
 boldiz:boldiz N1 ; ! 
 boldir:boldir N1 ; ! 
@@ -6661,7 +6661,7 @@ govmish:govmish A2 ; !
 govranush:govranush N1 ; ! 
 govron:govron N1 ; ! 
 govsagon:govsagon N1 ; ! 
-gol:gol N1 ; ! 
+gol:gol N1 ; ! "goal"
 golland:golland N1 ; !
 golland:golland N1-NAT ; ! 
 Golland:Golland N1-NAT ; ! ""
@@ -9050,7 +9050,7 @@ jigarrang:jigarrang A1 ; ! "brown"
 jigarchilik:jigarchilik N1 ; ! 0.9999999999999606
 jigi%-jigi:jigi%-jigi A2 ; ! 0.9169623922377839
 jigilla:jigilla V-IV ; ! 0.9912987134342064
-jiddiy:jiddiy A2 ; ! 0.9971519513735163
+jiddiy:jiddiy A2 ; ! "serious"
 jiddiy:jiddiy ADV2 ; ! "philosophically"
 jiddiylash:jiddiylash V-IV ; ! 0.9999999431081509
 jiddiylashtir:jiddiylashtir V-TV-CAUS ; ! 0.9999999999753005
@@ -10748,7 +10748,7 @@ infratovushlar:infratovushlar N1 ; ! 0.9999980699731943
 infuzoriya:infuzoriya N1 ; ! 0.99999999970736
 inchunin:inchunin N1 ; ! 0.9965668437505777
 insho:insho N1 ; ! 0.9999996493881552
-inshoot:inshoot N1 ; ! 0.9999999951192141
+inshoot:inshoot N1 ; !"building"
 inshoot:inshoot N1 ; ! "construction"
 in’ikos:in’ikos N1 ; ! 0.9999999706414922
 in’om:in’om N1 ; ! 0.9999999998132153
@@ -11396,6 +11396,7 @@ yildirim:yildirim N1 ; ! 0.9999998861319576
 yiliga:yiliga N1 ; ! 0.9999999213419575
 yil:yil N1 ; ! 0.9975415199132254
 yil:yil N1 ; ! "year"
+liga:liga N1 ; ! "league"
 yildan% yilga:yildan% yilga ADV ; ! "year by year"
 yilkibon:yilkibon N1 ; ! 0.9999751729746335
 yilki:yilki N1 ; ! 0.9999989901029536
@@ -12198,7 +12199,7 @@ keraga:keraga N1 ; ! 0.9999998423924976
 keragicha:keragicha ADV ; ! 0.9999932414250037
 kerak:kerak A1 ; ! 0.9893715540675458
 kerak:kerak N1 ; ! "necessary/needed"
-kerakli:kerakli A2 ; ! 0.9999999998414214
+kerakli:kerakli A2 ; ! "necessary"
 keraklik:keraklik N1 ; ! 0.999999999963436
 keraksiz:keraksiz A1 ; ! 0.9998829744915959
 keraksizlik:keraksizlik N1 ; ! 0.999999999923321
@@ -13063,7 +13064,7 @@ konstruksiya:konstruksiya N1 ; ! 0.9999999999993745
 konstruksiya:konstruksiya N1 ; ! "design, construction"
 konstruktiv:konstruktiv N1 ; ! 0.9519437542801839
 konstruktor:konstruktor N1 ; ! 0.9999999994262645
-konsul:konsul N1 ; ! 0.9999999595775549
+konsul:konsul N1 ; ! "Council"
 konsullik:konsullik N1 ; ! 0.9999999221312107
 konsultant:konsultant N1 ; ! 0.9999999989169099
 konsultantlik:konsultantlik N1 ; ! 0.9999999999999754
@@ -14452,7 +14453,7 @@ qiyinlash:qiyinlash V-IV ; ! 0.9999999905962225
 qiyinlashtir:qiyinlashtir V-TV-CAUS ; ! 0.9999999965905455
 qiyinlashtir:qiyinlashtir V-TV-CAUS ; ! 0.9999999998345608
 qiyinlik:qiyinlik N1 ; ! 0.9999999999999901
-qiyinchilik:qiyinchilik N1 ; ! 0.9999999997170181
+qiyinchilik:qiyinchilik N1 ; ! "struggle"
 qiyish:qiyish V-IV-COOP ; ! 0.39953033239544916
 qiyqa:qiyqa N1 ; ! 0.9996435358461602
 qiyqangla:qiyqangla V-IV ; ! 0.999717641183856
@@ -15764,8 +15765,7 @@ qurdum:qurdum N1 ; ! 0.9999999951917166
 quri:quri V-IV ; ! 0.9985345392802991
 quri:quri V-IV ; ! 0.9999999921673217
 qurildoq:qurildoq N1 ; ! 0.9628913616431749
-qurilish:qurilish N1 ; ! 0.9999968144073518
-qurilish:qurilish N1 ; !
+qurilish:qurilish N1 ; ! "construction"
 quril:quril VERB-IV ; !
 qurilla:qurilla V-IV ; ! 0.9999954542224567
 qurillat:qurillat V-TV-CAUS ; ! 0.999999943844474
@@ -16448,7 +16448,7 @@ mavsumiy:mavsumiy A1 ; ! "seasonal"
 mavsumiy:mavsumiy A2 ; ! 0.9751359728860302
 mavsumiyatchilik:mavsumiyatchilik N1 ; ! 0.9999999822567853
 mavsumli:mavsumli A2 ; ! 0.9245183715749109
-mavsum:mavsum N1 ; ! 0.9999999999801518
+mavsum:mavsum N1 ; ! "season"
 mavsumchiliq:mavsumchiliq N1 ; ! 0.9999999996000616
 mavxum:mavxum A2 ; ! 0.7145947699784381
 mavxumot:mavxumot N1 ; ! 0.9999999101472149
@@ -16677,8 +16677,8 @@ mayxona:mayxona N1 ; ! 0.9999999991975425
 mayxurlik:mayxurlik N1 ; ! 0.9999999960550336
 mayya:mayya N1 ; ! 0.9999999996030708
 makaron:makaron A2 ; ! 0.8880801094932412
-makedon:makedon N1 ; !
-Makedon:Makedon N1-NAT ; ! "Macedonian"
+Makedon:Makedon N1 ; ! "Macedonian"
+makedon:Makedon N1-NAT ; ! "Macedonian"
 maket:maket N1 ; ! 0.9999999867411837
 makiyen:makiyen N1 ; ! 0.9999999711355739
 makintosh:makintosh N1 ; ! 0.9999998656982184
@@ -17040,7 +17040,6 @@ mas:mas MIST ; ! ""
 mas:mas N1 ; !
 masnaviy:masnaviy N1 ; ! 0.9394588162413345
 masnad:masnad N1 ; ! 0.9999990697088992
-masofa:masofa N1 ; ! 0.9999999999999803
 masofa:masofa N1 ; ! "distance"
 masoha:masoha N1 ; ! 0.9999997752796492
 masrur:masrur A2 ; ! 0.9903290306121574
@@ -17095,7 +17094,6 @@ matashtir:matashtir V-TV-CAUS ; ! 0.9999931263225915
 matbaa:matbaa N1 ; ! 0.9999969066330436
 matbaachilik:matbaachilik N1 ; ! 0.9999999999999015
 matbaachi:matbaachi N1 ; ! 0.9999999999921346
-matbuot:matbuot N1 ; ! 0.9999372473681858
 matbuot:matbuot N1 ; ! "press"
 matematika:matematika N1 ; ! 0.99999999927004
 matematika:matematika N1 ; ! "mathematics"
@@ -17176,8 +17174,8 @@ maxchi:maxchi N1 ; ! 0.9999999881587477
 mahalkom:mahalkom N1 ; ! 0.9999999654464452
 mahalladosh:mahalladosh N1 ; ! 0.9998748059282733
 mahallalik:mahallalik N1 ; ! 0.9999999668462394
-mahalla:mahalla N1 ; ! 0.9999996447371765
-mahallachiliq:mahallachiliq N1 ; ! 0.9999999995453536
+mahalla:mahalla N1 ; ! "neighbourhood"
+mahallachilik:mahallachilik N1 ; ! 0.9999999995453536
 mahalla%-yurt:mahalla%-yurt N1 ; ! 0.9989470318049132
 mahalliylashtir:mahalliylashtir V-TV-CAUS ; ! 0.991166047457025
 mahalliy:mahalliy A1 ; ! "local, regional"
@@ -19069,8 +19067,9 @@ na’matak:na’matak N1 ; ! 0.9999999957470224
 na’rador:na’rador A2 ; ! 0.9999995502340606
 na’ra:na’ra N1 ; ! 0.9999999998729914
 nayaki:nayaki N1 ; ! 0.9999380129445556
-NGC:NGC ABBR ; ! ""
+NGC:NGC NP-AL ; ! ""
 ng:ng MIST ; ! ""
+karyera:karyera N1 ; ! "career"
 nevara:nevara N1 ; ! 0.9999999546800732
 nevara%-chevara:nevara%-chevara N1 ; ! 0.9970958243647856
 nevroz:nevroz N1 ; ! 0.9999999966608317
@@ -19497,6 +19496,8 @@ notinchlik:notinchlik N1 ; ! 0.9999999999215381
 notinch:notinch A1 ; ! 0.9694089622534344
 notoblik:notoblik N1 ; ! 0.9999999688280531
 notob:notob ADV ; ! 0.5005678743530568
+orasida:orasida ADV ; ! "between"
+oʻrtada:oʻrtada ADV ; ! "between"
 notugʻrilik:notugʻrilik N1 ; ! 0.9999999999988229
 notugʻri:notugʻri A1 ; ! 0.999538756904712
 noumidlik:noumidlik N1 ; ! 0.9999999999999606
@@ -20669,7 +20670,7 @@ ozodlik:ozodlik N1 ; ! 0.9999999999977246
 ozodlik:ozodlik N1 ;  ! "freedom"
 ozod:ozod A1 ; ! "free"
 ozod:ozod A2 ; ! 0.9999984625060363
-oz:oz A2 ; ! 0.9068366438339247
+oz:oz A2 ; ! "a few"
 oz:oz VERB-IV ; ! "to lose weight"
 oz:oz V-IV ; ! 0.7959794409710713
 oz:oz V-IV ; ! 0.9901650017051957
@@ -21198,6 +21199,7 @@ ora:ora N1 ; ! "gap/distance/interval"
 ! ora:ora PRON-ADV ; ! "there" ! This is Turkish?
 u% yer:u% yer PRON-ADV ; ! "there"
 bu% yer:bu% yer PRON-ADV ; ! "here"
+bu% yerda:bu% yerda ADV1 ; ! "here"
 shu% yer:shu% yer PRON-ADV ; ! "here"
 uyoq:uyoq PRON-ADV ; ! "there"
 buyoq:buyoq PRON-ADV ; ! "here"
@@ -23673,7 +23675,8 @@ ruslashtirish:ruslashtirish N1 ; ! 0.9999994606403912
 ruslashtir:ruslashtir V-TV-CAUS ; ! 0.9999988096248296
 rus:rus N1-NAT ; ! 0.997852558482486
 Rus:Rus N1-NAT ; ! "Russian"
-rus:rus N1 ; ! "Russian (person)"
+rus:Rus N1 ; ! "Russian (person)"
+transfer:transfer N1 ; ! "transfer"
 rustamona:rustamona A1 ; ! 0.8163405211902127
 rustam:rustam N1 ; ! 0.9999999764309749
 rusta:rusta N1 ; ! 0.9999998067364583
@@ -24270,7 +24273,7 @@ sarlavhali:sarlavhali A2 ; ! 0.9999999801014157
 sarlavha:sarlavha N1 ; ! 0.9999999993813031
 sarmastlik:sarmastlik N1 ; ! 0.999999999712418
 sarmast:sarmast A2 ; ! 0.8085219543326857
-sarmoya:sarmoya N1 ; ! 0.9999999993573524
+sarmoya:sarmoya N1 ; ! "investment"
 sarmunshi:sarmunshi N1 ; ! 0.9999795734604006
 sarnayza:sarnayza N1 ; ! 0.9999999425227428
 sarnigun:sarnigun A2 ; ! 0.9996282632132257
@@ -25478,6 +25481,7 @@ soʻnggi:soʻnggi A1 ; ! "final"
 soʻnggi:soʻnggi ADV1 ; ! "the last"
 soʻnggida:soʻnggida ADV1 ; ! "lastly"
 ! soʻnggi:soʻnggi N1 ; ! 0.5836139326871445
+soʻngra:soʻngra A1 ; ! "next"
 soʻngra:soʻngra CA ; ! "afterwards"
 soʻngra:soʻngra N1 ; ! 0.9999999921396968
 soʻngra:soʻngra ADV ; ! "later"
@@ -28048,7 +28052,7 @@ timdala:timdala V-TV ; ! 0.7868921487920912
 timdalat:timdalat V-TV-CAUS ; ! 0.9999999716740063
 timdalash:timdalash V-TV-COOP ; ! 0.3994908685296089
 time:time N1 ; !
-timsol:timsol N1 ; ! 0.9999999999893076
+timsol:timsol N1 ; ! "representation"
 timsox:timsox N1 ; ! 0.9999999847391573
 timtiq:timtiq N1 ; ! 0.9999998069238143
 tim:tim N1 ; ! 0.9914151490808398
@@ -30939,8 +30943,8 @@ fusaho:fusaho N1 ; ! 0.999848108698399
 fusun:fusun A2 ; ! 0.9754592615207676
 fusun:fusun N1 ; ! 0.9999999998123583
 futa:futa N1 ; ! 0.999999829176229
-futbol:futbol N1 ; ! 0.9914710186346196
 futbol:futbol N1 ; ! "football"
+futbolchi:futbolchi N1 ; ! "football player"
 futbolchi:futbolchi N1 ; ! 0.9999999999996306
 futurizm:futurizm N1 ; ! 0.9999999874040144
 futurist:futurist N1 ; ! 0.9999999946548505
@@ -35662,22 +35666,24 @@ elomon:elomon N1 ; ! 0.9999998240659955
 elparvar:elparvar N1 ; ! 0.9958066231641189
 elsevar:elsevar N1 ; ! 0.7200672089833778
 eltil:eltil V-TV ; ! 0.9013497253580697
-eltmoq:eltmoq N1 ; ! 0.6475634967128101
+elt:elt V-TV ; ! "deliver"
 eltmoq:eltmoq N1 ; ! 0.7426887490316068
 el%-ulus:el%-ulus N1 ; ! 0.769220676155661
 el%-urugʻ:el%-urugʻ N1 ; ! 0.9281506570428507
 elfurush:elfurush N1 ; ! 0.9999999987189747
 elchilik:elchilik N1 ; ! 0.9999999995851189
 elchilik:elchilik N1 ; ! 0.9999999999999409
-elchixona:elchixona N1 ; ! 0.999999999966061
-elchi:elchi N1 ; ! 0.999999999967977
-el:el N1 ; ! 0.9999987947561687
+elchixona:elchixona N1 ; ! "embassy"
+elchi:elchi N1 ; ! "postman"
+elchi:Elchi N1 ; ! "ambassador"
+Elchi:Elchi N1 ; ! "ambassador"
+el:el N1 ; ! "nation"
 el:el N1 ; ! "people"
 el%-yurt:el%-yurt N1 ; ! 0.999774412826534
 emakdosh:emakdosh N1 ; ! 0.9998735180190271
-emakla:emakla V-TV ; ! 0.999883556085782
+emakla:emakla V-TV ; ! "crawl"
 emanzor:emanzor N1 ; ! 0.9999982706242326
-eman:eman A2 ; ! 0.9966668192122807
+eman:eman N1 ; ! "type of a tree"
 ! emas:emas A1 ; ! 0.9054339171908455
 emas:emas ADV ; ! "not"
 embriologik:embriologik A2 ; ! 0.9999986185623088
@@ -36341,10 +36347,10 @@ yundi:yundi N1 ; ! 0.5855107572294064
 yunker:yunker N1 ; ! 0.999998645227668
 yunker:yunker N1 ; ! 0.9999999999468483
 yunoncha:yunoncha N1-NAT ; ! 0.8486271212930225
-yunon:yunon A2 ; ! 0.6456598679911454
+! yunon:yunon A2 ; ! 0.6456598679911454
 yunon:yunon N1 ; ! "greek"
 Yunon:Yunon N1 ; ! "greek"
-Yunon:Yunon N1 ; ! "Greek"
+yunon:Yunon N1 ; ! "Greek"
 yun:yun ABBR ; !
 yupanishmoq:yupanishmoq N1 ; ! 0.9146880415714956
 yupantir:yupantir V-TV-CAUS ; ! 0.9999999999993104
@@ -36972,6 +36978,7 @@ AQSh:AQSh NP-TOP ; ! "United States of America"
 Aargau:Aargau NP-TOP ; ! ""
 Abbeville:Abbeville NP-TOP ; ! "
 Abbos:Abbos NP-ANT-M ; ! ""
+Tadich:Tadich NP-ANT-M ; !
 Abdulla:Abdulla NP-ANT-M ; ! ""
 Abdullayev:Abdullayev NP-COG-MF ; ! ""
 Abdüllah:Abdüllah NP-ANT-M ; ! ""
