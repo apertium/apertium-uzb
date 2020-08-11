@@ -9996,6 +9996,40 @@ zuhra:zuhra N1 ; ! 0.9999999502853069
 zuhur:zuhur N1 ; ! 0.9999958892620343
 ice:ice N1 ; !
 IC:IC ABBR ; ! ""
+A%.:A%.  ABBR ; ! "" ! El++
+Ä%.:Ä%.  ABBR ; ! "" ! El++
+B%.:B%.  ABBR ; ! "" ! El++
+C%.:C%.  ABBR ; ! "" ! El++
+Ch%.:Ch%.  ABBR ; ! "" ! El++
+cm:cm  ABBR ; ! "" ! El++
+D%.:D%.  ABBR ; ! "" ! El++
+Dr:Dr  ABBR ; ! "" ! El++
+E%.:E%.  ABBR ; ! "" ! El++
+F%.:F%.  ABBR ; ! "" ! El++
+G%.:G%.  ABBR ; ! "" ! El++
+Gʻ%.:Gʻ%.  ABBR ; ! "" ! El++
+H%.:H%.  ABBR ; ! "" ! El++
+I%.:I%.  ABBR ; ! "" ! El++
+Ing:Ing  ABBR ; ! "" ! El++
+J%.:J%.  ABBR ; ! "" ! El++
+K%.:K%.  ABBR ; ! "" ! El++
+km:km  ABBR ; ! "" ! El++
+L%.:L%.  ABBR ; ! "" ! El++
+M%.:M%.  ABBR ; ! "" ! El++
+N%.:N%.  ABBR ; ! "" ! El++
+O%.:O%.  ABBR ; ! "" ! El++
+P%.:P%.  ABBR ; ! "" ! El++
+Q%.:Q%.  ABBR ; ! "" ! El++
+R%.:R%.  ABBR ; ! "" ! El++
+S%.:S%.  ABBR ; ! "" ! El++
+Sh%.:Sh%.  ABBR ; ! "" ! El++
+SSR:SSR  ABBR ; ! "" ! El++
+T%.:T%.  ABBR ; ! "" ! El++
+U%.:U%.  ABBR ; ! "" ! El++
+V%.:V%.  ABBR ; ! "" ! El++
+Y%.:Y%.  ABBR ; ! "" ! El++
+Z%.:Z%.  ABBR ; ! "" ! El++
+
 ibi:ibi N1 ; ! 0.9999840053313003
 iblis:iblis N1 ; ! 0.9999901136176561
 iblis:iblis N1 ; ! "devil"
