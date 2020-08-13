@@ -1458,7 +1458,8 @@ avvallari:avvallari ADV ; !
 avvalo:avvalo ADV ; ! 
 avg%.:avg%. ABBR ;
 avg:avg ABBR ; ! "august"
-avgust:avgust N1 ; ! "August"
+avgust:Avgust N1 ; ! "August"
+Avgust:Avgust N1 ; ! "August"
 avj:avj N1 ; ! 
 avjlantir:avjlantir V-TV-CAUS ; ! 
 avjli:avjli A1 ; ! 
@@ -1767,6 +1768,7 @@ ayblovchhi:ayblovchhi N1 ; !
 aybnoma:aybnoma N1 ; ! 
 aybona:aybona N1 ; ! 
 aybsiz:aybsiz A1 ; ! 
+aybsiz:aybsiz ADV ; ! "innocent/ly" 
 aybsizlik:aybsizlik N1 ;  ! 
 aybsit:aybsit V-TV ; ! 
 ayvon:ayvon N1 ; ! "veranda"
@@ -1815,7 +1817,8 @@ aynan:aynan A1 ; !
 aynan:aynan ADV1 ; !
 aynat:aynat V-TV-CAUS ; ! 
 ayni:ayni A1 ; ! "exact"
-ayni:ayni V-IV ; ! 
+ayni:ayni ADV ; ! "exactly"
+ayni:ayni V-IV ; ! "spoil"
 aynit:aynit V-TV-CAUS ; ! 
 ayniyat:ayniyat N1 ; ! 
 ayniqsa:ayniqsa ADV ; ! "specially"
@@ -1849,7 +1852,8 @@ aytish:aytish N1-VN ; !
 aytishi% boʻyicha:aytishi% boʻyicha CA ; ! ""
 aytishicha:aytishicha CA ; ! "according to"
 aytishqoq:aytishqoq N1 ; ! 
-aytkan% bilan:aytkan% bilan CA ; ! ""
+! aytkan% bilan:aytkan% bilan CA ; ! Typo?
+aytgan% bilan:aytgan% bilan CA ; ! ""
 aytmoqchi:aytmoqchi PAREN ; ! 
 ayttir:ayttir V-TV-CAUS ; ! 
 aytuvli:aytuvli A2 ; ! 
@@ -1917,6 +1921,7 @@ aksilinqilobchi:aksilinqilobchi N1 ; !
 aksilharakat:aksilharakat N1 ; ! 
 aksilharakatchi:aksilharakatchi N1 ; ! 
 aksincha:aksincha ADV ; !
+aksincha:aksincha CA ; !
 aksincha:aksincha PAREN ; ! 
 aksioma:aksioma N1 ; ! 
 aksir:aksir V-IV ; ! 
@@ -2162,6 +2167,7 @@ amalparast:amalparast N1 ; !
 amalparastlik:amalparastlik N1 ;  ! 
 ambulatoriya:ambulatoriya N1 ; ! 
 amvol:amvol N1 ; ! 
+kubok:kubok N1 ; !  "Cup"
 amerikalik:amerikalik N1 ;  ! "American"
 amerikalik:amerikalik N1-NAT ; ! 
 Amerikalik:Amerikalik N1-NAT ; ! "American"
@@ -2381,8 +2387,8 @@ apparat:apparat N1 ; ! "aparatus"
 apparatura:apparatura N1 ; ! 
 appenditsit:appenditsit N1 ; ! 
 apr%.:apr%. ABBR ; ! "april"
-aprel:aprel N1 ; ! 
-aprel:aprel N1 ; ! "April"
+aprel:Aprel N1 ; ! "April"
+Aprel:Aprel N1 ; ! "April"
 aprior:aprior A2 ; ! 
 apriorlik:apriorlik N1 ;  ! 
 aprobatsiya:aprobatsiya N1 ; ! 
@@ -2732,7 +2738,7 @@ atavizm:atavizm N1 ; !
 atavistik:atavistik A2 ; ! 
 atay:atay ADV ; ! 
 ataydan:ataydan ADV ; ! 
-atayin:atayin ADV ; ! 
+atayin:atayin ADV ; ! "wittingly"
 ataylab:ataylab ADV ; ! 
 ataka:ataka N1 ; ! 
 atak%-chechak% qil:atak%-chechak% qil V-IV ; ! 
@@ -3021,11 +3027,12 @@ agʻray:agʻray V-IV ; !
 bʻol:bʻol VERB-IV ; ! "to be"
 baʻdaz:baʻdaz ADV ; ! 
 baʻd:baʻd ADV ; ! 
-baʻzan:baʻzan ADV ; !
-baʻzi:baʻzi PRON-IND ; ! 
+baʻzan:baʻzan ADV ; ! "sometimes"
+baʻzida:baʻzida ADV ; ! "sometimes"
+baʻzi:baʻzi PRON-IND ; !  "sometimes"
 baʻzibir:baʻzibir PRON-IND ; ! 
 baʻzida:baʻzida PRON-IND ; ! 
-baʼzan:baʼzan ADV ; !
+baʼzan:baʼzan ADV ; ! "sometimes"
 baʼzi:baʼzi A1 ; !
 baadab:baadab N1 ; ! 
 baadablik:baadablik N1 ;  ! 
@@ -3123,7 +3130,7 @@ bayonatchilik:bayonatchilik N1 ;  !
 bayon:bayon N1 ; ! 
 bayon:bayon N1 ; ! "statement"
 bayonnoma:bayonnoma N1 ; ! 
-bayonot:bayonot N1 ; ! 
+bayonot:bayonot N1 ; ! "statement"
 bayot:bayot N1 ; ! 
 bajar:bajar VERB-TV ; ! "to execute"
 bajar:bajar V-TV ; ! 
@@ -3392,7 +3399,8 @@ barqut:barqut N1 ; !
 barlos:barlos N1 ; ! 
 barmoq:barmoq N1 ; ! 
 barno:barno A2 ; ! 
-barobar:barobar A1 ; ! 
+barobar:barobar A1 ; ! "equal"
+barobar:barobar ADV ; ! "together"
 barobarida:barobarida ADV ; ! 
 barograf:barograf N1 ; ! 
 barok:barok A2 ; ! 
@@ -3445,7 +3453,7 @@ bastalik:bastalik N1 ;  !
 bast:bast N1 ; ! 
 batalyon:batalyon N1 ; ! 
 batamiz:batamiz A2 ; ! 
-batamom:batamom ADV ; ! 
+batamom:batamom ADV ; ! "completely"
 batang:batang A2 ; ! 
 batareya:batareya N1 ; ! 
 batartib:batartib A1 ; ! 
@@ -4087,6 +4095,8 @@ biljira:biljira V-IV ; !
 o'tir:o'tir V-IV ;
 bog'la:bog'la V-IV ;
 biljirat:biljirat V-TV-CAUS ; ! 
+bilib% turib:bilib% turib ADV ; ! "knowingly"
+qasddan:qasddan ADV ; ! "knowingly"
 biligiz:biligiz V-TV-CAUS ; ! 
 bilik:bilik N1 ; ! 
 biliksit:biliksit V-TV-CAUS ; ! 
@@ -4133,7 +4143,6 @@ binafsha:binafsha N1 ; !
 binoan:binoan ADV1 ; ! "in accordance with"
 binoan:binoan POST-DAT ; ! 
 binobarin:binobarin CS ; ! 
-bino:bino N1 ; ! 
 bino:bino N1 ; ! "building"
 binoyi:binoyi A1 ; ! 
 binokl:binokl N1 ; ! 
@@ -4172,6 +4181,7 @@ birvarakayiga:birvarakayiga ADV ; !
 birga:birga ADV3 ; ! "together" !
 birga:birga ADV ; ! 
 birga:birga POST-NOM ; ! ""
+birgalikda:birgalikda ADV ; ! "together"
 birgalash:birgalash V-IV ; ! 
 birgalashtir:birgalashtir V-TV-CAUS ; ! 
 birgalik:birgalik N1 ; ! 
@@ -4200,7 +4210,7 @@ birin%-ketin:birin%-ketin ADV ; !
 birin%-sirin:birin%-sirin ADV ; ! 
 birinch:birinch N1 ; ! 
 birinchi:birinchi NUM ; ! 
-birinchidan:birinchidan ADV2 ; ! "first"
+birinchidan:birinchidan ADV2 ; ! "firstly"
 birinchilik:birinchilik N1 ; ! 
 birisi% kuni:birisi% kuni ADV ; ! 
 birkator:birkator ADV ; ! 
@@ -4238,6 +4248,11 @@ birodarlash:birodarlash V-IV ; !
 birodarlik:birodarlik N1 ; ! 
 biroz:biroz ADV2 ; ! "slightly"
 biroz:biroz ADV ; ! 
+biroz% vaqtgacha:biroz% vaqtgacha ADV ; ! "for a while"
+bir% muddat:bir% muddat ADV ; ! "for a while"
+bir% qancha:bir% qancha ADV ; ! "a few"
+bir% nechta:bir% nechta ADV ; ! "a few"
+birozgina:birozgina ADV ; ! "a very little while"
 biroq: biroq CC ; ! "but"
 biroq:biroq CC-PROTIV ; ! 
 biroq:biroq CA ; ! "only if"
@@ -4687,6 +4702,7 @@ boqtir:boqtir V-TV-CAUS ; !
 bola%-baqra:bola%-baqra N1 ; ! 
 bola:bola N1 ; ! 
 bola:bola N1 ; ! "child"
+bolakay:bolakay N1 ; ! "youngling, laddie"
 bolagʻina:bolagʻina N1 ; ! 
 bolajon:bolajon N1 ; ! 
 bolajonlik:bolajonlik N1 ; ! 
@@ -4708,8 +4724,8 @@ bol:bol N1 ; !
 bolgʻa:bolgʻa N1 ; ! 
 bolgʻala:bolgʻala V-TV ; ! 
 bolgʻalan:bolgʻalan V-TV ; ! 
-bolgar:bolgar N1 ; !
-bolgar:bolgar N1-NAT ; ! 
+bolgar:bolgar N1 ; ! "Bulgarian"
+bolgar:Bolgar N1-NAT ; ! "Bulgarian" 
 Bolgar:Bolgar N1-NAT ; ! "Bulgarian"
 boldiz:boldiz N1 ; ! 
 boldir:boldir N1 ; ! 
@@ -5125,6 +5141,9 @@ bunday:bunday ADV1 ; ! "thusly"
 bundayin:bundayin # ; ! 
 bundaqa:bundaqa # ; ! 
 bundan% tashqari:bundan% tashqari CA ; ! "moreover"
+bundan% buyon:bundan% buyon ADV ; ! "no more"
+bundan% keyin:bundan% keyin ADV ; ! "no more"
+bundan% buyogʻiga:bundan% buyogʻiga ADV ; ! "no more"
 bundqangi:bundqangi # ; ! 
 bundoq:bundoq # ; ! 
 bunyod:bunyod N1 ; ! 
@@ -5256,7 +5275,7 @@ butunla:butunla V-TV ; !
 butunlay:butunlay ADV1 ; ! "completely"
 butunlayin:butunlayin ADV ; ! 
 butunlan:butunlan V-TV ; ! 
-butunligicha:butunligicha ADV ; ! 
+butunligicha:butunligicha ADV ; ! "entirely" 
 butunlik:butunlik N1 ; ! 
 butxona:butxona N1 ; ! 
 bufer:bufer N1 ; ! 
@@ -5797,6 +5816,7 @@ gʻalamis:gʻalamis N1 ; ! 0.9999997400008829
 gʻalamislik:gʻalamislik N1 ; ! 0.9999999977871642
 gʻalat:gʻalat N1 ; ! 0.9119232788147632
 gʻalati:gʻalati A1 ; ! 0.8037637850448602
+gʻalati:gʻalati A1 ; ! "odd"
 gʻalatilik:gʻalatilik N1 ; ! 0.9999999997051979
 gʻalva:gʻalva N1 ; ! 0.999999883896639
 gʻalvay:gʻalvay V-IV ; ! 0.9999145513280211
@@ -6081,6 +6101,7 @@ gʻoyib:gʻoyib A1 ; ! 0.819482379694287
 gʻoyibdagi:gʻoyibdagi A2 ; ! 0.9799409424438366
 gʻoyibdan:gʻoyibdan ADV ; ! 0.9776933780205572
 gʻoyibona:gʻoyibona A1 ; ! 0.9829315267695162
+gʻoyibona:gʻoyibona ADV ; ! "in absentia"
 gʻolib:gʻolib N1 ; ! 0.9955093160700459
 gʻolib:gʻolib N1 ; ! "winner"
 gʻolibiyat:gʻolibiyat N1 ; ! 0.9999998604633525
@@ -6327,7 +6348,7 @@ gapir:gapir V-IV ; !
 gapir:gapir V-TV-CAUS ; ! 
 gapirish:gapirish V-IV-COOP ; ! 
 gapirtir:gapirtir V-TV-CAUS ; ! 
-gaplash:gaplash V-IV ; ! 
+gaplash:gaplash V-TV ; ! 
 gaplashtir:gaplashtir V-TV-CAUS ; ! 
 gap%-soʻz:gap%-soʻz N1 ; ! 
 gapxoʻr:gapxoʻr N1 ; ! 
@@ -6462,7 +6483,9 @@ Germaniya:Germaniya NP-TOP ; ! "Germany"
 germetik:germetik A2 ; ! 
 gersog:gersog N1 ; ! 
 gersoglik:gersoglik N1 ; ! 
-GES:GES ABBR ; !
+GES:GES ABBR ; ! "Gidro Elektrik Stansiya"
+AB:AB NP-TOP ; ! 
+BH:BH NP-TOP ; ! 
 gestapo:gestapo N1 ; ! 
 gestapochi:gestapochi N1 ; ! 
 getman:getman N1 ; ! 
@@ -6629,6 +6652,7 @@ goʻshtli:goʻshtli A2 ; !
 goʻshtxur:goʻshtxur N1 ; ! 
 goʻshtsiz:goʻshtsiz A1 ; ! 
 goʻyanda:goʻyanda N1 ; ! 
+goʻyo:goʻyo ADV ; ! "as to speak"
 gov:gov A2 ; ! 
 govgum:govgum N1 ; ! 
 govkurmak:govkurmak N1 ; ! 
@@ -6637,7 +6661,7 @@ govmish:govmish A2 ; !
 govranush:govranush N1 ; ! 
 govron:govron N1 ; ! 
 govsagon:govsagon N1 ; ! 
-gol:gol N1 ; ! 
+gol:gol N1 ; ! "goal"
 golland:golland N1 ; !
 golland:golland N1-NAT ; ! 
 Golland:Golland N1-NAT ; ! ""
@@ -6663,9 +6687,13 @@ gospital:gospital N1 ; !
 gotovalnya:gotovalnya N1 ; ! 
 goh:goh CC ; ! "at times"
 goh:goh CC-RAZDEL ; ! 
-goh%-goh:goh%-goh ADV ; ! 
+goh:goh ADV ; !  "at times"
+gohida:gohida ADV ; !  "at times"
+goh%-goh:goh%-goh ADV ; ! "at times"
 goho:goho CC-RAZDEL ; ! 
-goho%-goho:goho%-goho ADV ; ! 
+goho:goho ADV ; ! "sometimes"
+! goho%-goho:goho%-goho ADV ; ! 
+goh%-goh:goh%-goh ADV ; ! "sometimes"
 gravyura:gravyura N1 ; ! 
 gradus:gradus N1 ; ! 
 grajdan:grajdan N1 ; ! "citizen"
@@ -6920,6 +6948,9 @@ davolash:davolash N1-VN ; !
 davolash:davolash N1 ; ! "treatment"
 davomat:davomat N1 ; ! 
 davom:davom N1 ; ! "continuation"
+davomida:davomida POST-NOM ; ! "during"
+davomiy:davomiy ADV ;  ! "Continuous"
+davomiy:davomiy A1 ; ! "Continuous"
 davomiylik:davomiylik N1 ; 
 davomli:davomli A2 ; ! 
 davomlilik:davomlilik N1 ; ! 
@@ -7108,7 +7139,7 @@ darrala:darrala V-TV ; !
 darralattir:darralattir V-TV-CAUS ; ! 
 darranda:darranda N1 ; ! 
 darrovdan:darrovdan ADV ; ! 
-darrov:darrov ADV1; ! "fast"              
+darrov:darrov ADV1; ! "immediately"              
 darrov:darrov ADV ; ! 
 darsgoʻylik:darsgoʻylik N1 ; ! 
 dars:dars N1 ; ! 
@@ -7264,8 +7295,7 @@ deyil:deyil VERB-IV ; !
 deyil:deyil V-TV ; ! 
 deyish:deyish VERB-TV ; ! "to change"
 deyish:deyish V-TV-COOP ; ! 
-dekabr:dekabr N1 ; !
-dekabr:dekabr N1 ; ! 
+dekabr:Dekabr N1 ; ! "December" 
 Dekabr:Dekabr N1 ; ! "December"
 dekabrist:dekabrist N1 ; ! 
 dekada:dekada N1 ; ! 
@@ -7359,6 +7389,7 @@ detsigramm:detsigramm N1 ; !
 detsilitr:detsilitr N1 ; ! 
 detsimetr:detsimetr N1 ; ! 
 deya:deya ADV1 ; !
+deya:deya CS ; !
 deyarli:deyarli ADV1 ; ! "almost"
 deyarli:deyarli ADV1 ; ! "nearly"
 deyarli:deyarli ADV ; ! 
@@ -7707,14 +7738,14 @@ dozala:dozala V-TV ; !
 dozalangan:dozalangan A2 ; ! 
 dozax:dozax N1 ; ! 0.9999989884210337
 dozor:dozor N1 ; ! 
-doim:doim ADV1 ; !
+doim:doim ADV1 ; ! "always"
 har% doim:har% doim ADV1 ; ! "always"
 har% doim:har% doim ADV3 ; ! "always"
 doim:doim ADV ; ! 
 doimiy:doimiy A1 ; ! "constant"
 doimiy:doimiy A2 ; ! 
 doimiylik:doimiylik N1 ; ! 
-doimo:doimo ADV1 ; !
+doimo:doimo ADV1 ; ! "always"
 doimo:doimo ADV ; ! 
 doimo:doimo N1 ; ! "constance"
 doiraviy:doiraviy A2 ; ! 
@@ -7743,6 +7774,7 @@ dolzarb:dolzarb N1 ; ! 0.9999999610319588
 doli%-guli:doli%-guli A2 ; ! 0.9996967086943641
 dollar:dollar N1 ; ! 0.999998496584799
 dollar:dollar N1 ; ! "dollar"
+yevro:yevro N1 ; ! "Euro"
 dollarlik:dollarlik N1 ; ! 0.9995558445506901
 dollash:dollash V-TV ; ! 0.6669693980759064
 dolon:dolon N1 ; ! 0.9999567242606753
@@ -8002,7 +8034,8 @@ duch:duch A2 ; ! 0.9999998703494691
 duchma%-duch:duchma%-duch IDEO ; ! 0.5412156119804987
 duchor:duchor A1 ; !
 duchor:duchor N1 ; ! 0.4910885234682559
-dushanba:dushanba N1 ; ! 0.9999940331888577
+dushanba:Dushanba N1 ; ! "Monday"
+Dushanba:Dushanba N1 ; ! "Monday"
 dushvor:dushvor A2 ; ! 0.8509588866953403
 dushvorlik:dushvorlik N1 ; ! 0.9999999998418647
 dush:dush N1 ; ! 0.9999999994021511
@@ -8034,6 +8067,7 @@ yoʻqlik:yoʻqlik N1 ; ! 0.999999999999537
 yoʻqlov:yoʻqlov N1 ; ! 0.9995100569242894
 yoʻqlovchi:yoʻqlovchi N1 ; ! 0.999433182439507
 yoʻqol:yoʻqol V-IV ; ! 0.9997319068102647
+yoʻqolgan:yoʻqolgan A1 ; ! "lost"
 yoʻqot:yoʻqot V-TV ; ! 0.9027012710739876
 yoʻqot:yoʻqot V-TV-CAUS ; ! 0.9980217966457227
 yoʻqotish:yoʻqotish V-IV-COOP ; ! 0.9931795003422559
@@ -8073,8 +8107,8 @@ yoʻlchiliq:yoʻlchiliq N1 ; ! 0.9999999809664417
 yoʻnal:yoʻnal V-IV ; ! 0.9713508214453975
 yoʻnalish:yoʻnalish N1 ; ! 0.5641173778926621
 yoʻnalish:yoʻnalish N1 ; ! "direction"
-yoʻnaltir:yoʻnaltir V-TV-CAUS ; ! 0.9999992825725623
-yoʻnaltir:yoʻnaltir V-TV-CAUS ; ! 0.9999999916369566
+yoʻnaltirilgan:yoʻnaltirgan A1 ; ! "devoted", "intended"
+yoʻnaltir:yoʻnaltir V-TV-CAUS ; ! "devote"
 yoʻngʻichqa:yoʻngʻichqa N1 ; ! 0.9999998724911466
 yoʻngʻichqazor:yoʻngʻichqazor N1 ; ! 0.9999779527542537
 yoʻndir:yoʻndir V-TV-CAUS ; ! 0.9999999719634696
@@ -8160,6 +8194,7 @@ yogʻlamachi:yogʻlamachi N1 ; ! 0.8730901730276546
 yogʻlogʻi:yogʻlogʻi N1 ; ! 0.9999999839524207
 yogʻoch:yogʻoch N1 ; ! 0.999797097663915
 yogʻoch:yogʻoch N1 ; ! "wood"
+yogʻoch:yogʻoch A1 ; ! "wooden"
 yogʻochli:yogʻochli A2 ; ! 0.9993512569354935
 yogʻochlik:yogʻochlik N1 ;  ! "wood"
 yogʻochsoz:yogʻochsoz A1 ; !
@@ -8286,14 +8321,15 @@ yoqasiz:yoqasiz A1 ; ! 0.9999999454784521
 yoq:yoq V-IV ; ! 0.7833974711362908
 yoq:yoq V-TV-CAUS ; ! 0.7071349214560189
 yoq:yoq N1 ; ! 0.9999999444662392
-yoq:yoq N1 ; ! "" 
+yoq:yoq N1 ; ! "node"
 yoqiq:yoqiq A2 ; ! 0.861752468209363
 yoqilgʻi:yoqilgʻi N1 ; ! 0.999997720884824
-yoqimli:yoqimli A2 ; ! 0.9999999999999212
+yoqimli:yoqimli A2 ; ! "pleasant"
+yoqimli% ishtaha:yoqimli% ishtaha A2 ; ! "bon appetite", "enjoy your meal"
 yoqimlilik:yoqimlilik N1 ; ! 0.9999999999362543
-yoqimsiz:yoqimsiz A1 ; ! 0.9999863720048965
+yoqimsiz:yoqimsiz A1 ; ! "unpleasant"
 yoqimsizlik:yoqimsizlik N1 ; ! 0.9999999934112166
-yoqimtoy:yoqimtoy A2 ; ! 0.9999999999994336
+yoqimtoy:yoqimtoy A2 ; ! "cute"
 yoqinqira:yoqinqira V-IV ; ! 0.9996270977489983
 yoqla:yoqla V-TV ; ! 0.9999999983096738
 yoqlama:yoqlama N1 ; ! 0.9927138632215904
@@ -8311,7 +8347,8 @@ yelvagay:yelvagay N1 ; ! 0.8559612970041915
 yelvizak:yelvizak A2 ; ! 0.9999736144997066
 yelvizak:yelvizak N1 ; ! 0.9997609679908432
 yolvor:yolvor V-TV ; ! 0.6924599850450681
-yolgʻiz:yolgʻiz A1 ; ! 0.9999177351785912
+yolgʻiz:yolgʻiz A1 ; ! "alone"
+yolgʻiz:yolgʻiz CC ; ! "only"
 yolgʻizla:yolgʻizla V-IV ; ! 0.9279649789337676
 yolgʻizlat:yolgʻizlat V-TV-CAUS ; ! 0.9999999996265143
 yolgʻizlik:yolgʻizlik N1 ; ! 0.9999999979455901
@@ -8580,6 +8617,7 @@ yetar:yetar N1 ; ! 0.6242842941897577
 yetar%-yetmas:yetar%-yetmas ADV ; ! 0.8874513358164692
 yetarli:yetarli A1 ; ! "enough"
 yetarli:yetarli N1 ; ! 0.9094774554675801
+yetarlicha:yetarlicha ADV3 ; ! "enough"
 yot:yot A1 ; ! 0.9999142727351916
 yot:yot VERB-IV ; ! "to lie down"
 yet:yet VERB-IV ; ! "to suffice"
@@ -8648,8 +8686,9 @@ yetuk:yetuk A2 ; ! 0.9999999999999705
 yetuklik:yetuklik N1 ; ! 0.9999999582453333
 yefreytor:yefreytor N1 ; ! 0.999999995573442
 yoxud:yoxud CC ; ! 
+yoxud:yoxud CA ; ! 
 yoxud:yoxud ADV1 ; ! "or"
-yoxud:yoxud N1 ; ! 0.9999992724533834
+! yoxud:yoxud N1 ; ! 0.9999992724533834 ! Not a noun!
 yoxu:yoxu N1 ; ! 0.999952273934121
 yotsin:yotsin V-IV ; ! 0.9749317405361808
 yotsira:yotsira V-IV ; ! 0.9999974587131483
@@ -9011,7 +9050,7 @@ jigarrang:jigarrang A1 ; ! "brown"
 jigarchilik:jigarchilik N1 ; ! 0.9999999999999606
 jigi%-jigi:jigi%-jigi A2 ; ! 0.9169623922377839
 jigilla:jigilla V-IV ; ! 0.9912987134342064
-jiddiy:jiddiy A2 ; ! 0.9971519513735163
+jiddiy:jiddiy A2 ; ! "serious"
 jiddiy:jiddiy ADV2 ; ! "philosophically"
 jiddiylash:jiddiylash V-IV ; ! 0.9999999431081509
 jiddiylashtir:jiddiylashtir V-TV-CAUS ; ! 0.9999999999753005
@@ -9265,10 +9304,10 @@ jodugarlik:jodugarlik N1 ; ! 0.999981951152805
 jodu:jodu N1 ; ! 0.9999757784923976
 jo:jo N1 ; ! 0.9949286383022276
 jozibador:jozibador A2 ; ! 0.9999999999968332
-jozibadorlik:jozibadorlik N1 ; ! 1.0
+jozibadorlik:jozibadorlik N1 ; ! "charmingness"
 joziba:joziba N1 ; ! 0.9999999999999458
-joziba:joziba N1 ; !
-jozibali:jozibali A2 ; ! 0.9999945699859454
+joziba:joziba N1 ; ! "charm"
+jozibali:jozibali A2 ; ! "charming"
 jozib:jozib N1 ; ! 0.9806133064414995
 joiz:joiz A1 ; ! 0.9985721133064592
 joy:joy ADV1 ; ! "late"
@@ -9365,6 +9404,7 @@ jugud:jugud N1 ; !
 Jugud:Jugud N1-NAT ; ! "Jewish"
 juda:juda ADV ; ! 0.9999824158441356
 juda:juda ADV3 ; ! "very"
+juda:juda A1; ! "very"
 judayam:judayam N1 ; ! 0.9927857766837302
 judo:judo N1 ; ! 0.5436384252953633
 judolik:judolik N1 ; ! 0.9999997841295868
@@ -9382,7 +9422,8 @@ juyruk:juyruk A2 ; ! 0.8677301848669652
 juldurvoqi:juldurvoqi N1 ; ! 0.9997737595815719
 juldur:juldur N1 ; ! 0.9789116153658628
 jul:jul N1 ; ! 0.9999999833547443
-juma:juma N1 ; ! 0.9999876727636461
+juma:Juma N1 ; ! "Friday"
+Juma:Juma N1 ; ! "Friday"
 jumak:jumak N1 ; ! 0.9998478715120415
 jumalik:jumalik N1 ; ! 0.9999969687368464
 jumard:jumard N1 ; ! 0.9999998746815557
@@ -9850,6 +9891,7 @@ zoʻray:zoʻray V-IV ; ! 0.9999999748971686
 zoʻraytir:zoʻraytir V-TV-CAUS ; ! 0.9999999974852749
 zoʻraki:zoʻraki A2 ; ! 0.5965361585009433
 zoʻr%-bazur:zoʻr%-bazur ADV ; ! 0.6582647051874466
+zoʻrgʻa:zoʻrgʻa ADV ; ! "barely"
 zoʻrgʻatdan:zoʻrgʻatdan N1 ; ! 0.433965118580717
 zoʻr:zoʻr N1 ; ! 0.9996826437763732
 zoʻriq:zoʻriq V-TV-CAUS ; ! 0.9662214066707547
@@ -9922,7 +9964,7 @@ zuv%-zuv:zuv%-zuv IDEO ; ! 0.9999989630496791
 zuvilla:zuvilla V-IV ; ! 0.9999997692046494
 zud:zud N1 ; ! 0.647076842547046
 zudlik:zudlik N1 ; ! 0.9993863284251231
-zudlik% bilan:zudlik% bilan ADV3 ; !
+zudlik% bilan:zudlik% bilan ADV3 ; ! "quickly"
 zukko:zukko N1 ; ! 0.9905364982690026
 zukkolik:zukkolik N1 ; ! 0.9999999308427441
 zulqa’da:zulqa’da N1 ; ! 0.9999999984828553
@@ -9954,6 +9996,40 @@ zuhra:zuhra N1 ; ! 0.9999999502853069
 zuhur:zuhur N1 ; ! 0.9999958892620343
 ice:ice N1 ; !
 IC:IC ABBR ; ! ""
+A%.:A%.  ABBR ; ! "" ! El++
+Ä%.:Ä%.  ABBR ; ! "" ! El++
+B%.:B%.  ABBR ; ! "" ! El++
+C%.:C%.  ABBR ; ! "" ! El++
+Ch%.:Ch%.  ABBR ; ! "" ! El++
+cm:cm  ABBR ; ! "" ! El++
+D%.:D%.  ABBR ; ! "" ! El++
+Dr:Dr  ABBR ; ! "" ! El++
+E%.:E%.  ABBR ; ! "" ! El++
+F%.:F%.  ABBR ; ! "" ! El++
+G%.:G%.  ABBR ; ! "" ! El++
+Gʻ%.:Gʻ%.  ABBR ; ! "" ! El++
+H%.:H%.  ABBR ; ! "" ! El++
+I%.:I%.  ABBR ; ! "" ! El++
+Ing:Ing  ABBR ; ! "" ! El++
+J%.:J%.  ABBR ; ! "" ! El++
+K%.:K%.  ABBR ; ! "" ! El++
+km:km  ABBR ; ! "" ! El++
+L%.:L%.  ABBR ; ! "" ! El++
+M%.:M%.  ABBR ; ! "" ! El++
+N%.:N%.  ABBR ; ! "" ! El++
+O%.:O%.  ABBR ; ! "" ! El++
+P%.:P%.  ABBR ; ! "" ! El++
+Q%.:Q%.  ABBR ; ! "" ! El++
+R%.:R%.  ABBR ; ! "" ! El++
+S%.:S%.  ABBR ; ! "" ! El++
+Sh%.:Sh%.  ABBR ; ! "" ! El++
+SSR:SSR  ABBR ; ! "" ! El++
+T%.:T%.  ABBR ; ! "" ! El++
+U%.:U%.  ABBR ; ! "" ! El++
+V%.:V%.  ABBR ; ! "" ! El++
+Y%.:Y%.  ABBR ; ! "" ! El++
+Z%.:Z%.  ABBR ; ! "" ! El++
+
 ibi:ibi N1 ; ! 0.9999840053313003
 iblis:iblis N1 ; ! 0.9999901136176561
 iblis:iblis N1 ; ! "devil"
@@ -10217,6 +10293,7 @@ ikkiyoqlama:ikkiyoqlama A1 ; ! 0.9115637459010729
 ikki:ikki N1 ; ! 0.8521439580573593
 ikki:ikki N1 ; ! 0.9999996719006046
 ikki:ikki NUM ; ! "two"
+ikki:ikki PRON-QNT ; !
 ikkiqat:ikkiqat N1 ; ! 0.999866421241704
 ikkiqatliq:ikkiqatliq N1 ; ! 0.999999999412681
 ikkilan:ikkilan V-IV ; ! 0.9799488705893382
@@ -10285,7 +10362,8 @@ ilvira:ilvira V-IV ; ! 0.9995508985905541
 ilvirat:ilvirat V-TV-CAUS ; ! 0.9999999949301639
 ilvirash:ilvirash N1-VN ; ! 0.999935287106678
 ilvirs:ilvirs N1 ; ! 0.9999744031841161
-ilgʻor:ilgʻor N1 ; ! 0.9999999892754862
+! ilgʻor:ilgʻor N1 ; ! 0.9999999892754862 ! Not a Noun!
+ilgʻor:ilgʻor A1 ; ! "advanced"
 ilgʻorlik:ilgʻorlik N1 ; ! 0.9999999891824853
 ilgakli:ilgakli A2 ; ! 0.9999963256785852
 ilgarigideq:ilgarigideq ADV ; ! 0.7959707072614906
@@ -10305,7 +10383,7 @@ ilgaritdan:ilgaritdan N1 ; ! 0.9151254627534461
 ilgi:ilgi N1 ; ! 0.9999415982177784
 ilgich:ilgich N1 ; ! 0.999999999993031
 ildam%-jildam:ildam%-jildam ADV ; ! 0.4682752047695035
-ildam:ildam A2 ; ! 0.9981699329368358
+ildam:ildam A2 ; ! "ahead"
 ildamlan:ildamlan V-IV ; ! 0.9990247706456485
 ildamlat:ildamlat V-TV-CAUS ; ! 0.6429544709241406
 ildamlash:ildamlash V-IV ; ! 0.9605910167271942
@@ -10383,6 +10461,9 @@ ilovali:ilovali A2 ; ! 0.9999989031778233
 ilovasiz:ilovasiz A1 ; ! 0.9999997506861139
 iloyo:iloyo N1 ; ! 0.9999240254862931
 iloj:iloj N1 ; ! 0.9999987841766701
+iloji% boricha:iloji% boricha ADV1 ; ! "As much as possible"
+imkoni% boricha:imkoni% boricha ADV1 ; ! "As much as possible"
+imkon% qadar:imkon% qadar ADV1 ; ! "As much as possible"
 ilojsiz:ilojsiz A1 ; ! 0.9999996305898464
 ilojsizlik:ilojsizlik N1 ; ! 0.9999999853351691
 iloyim:iloyim N1 ; ! 0.9999849199844988
@@ -10701,7 +10782,7 @@ infratovushlar:infratovushlar N1 ; ! 0.9999980699731943
 infuzoriya:infuzoriya N1 ; ! 0.99999999970736
 inchunin:inchunin N1 ; ! 0.9965668437505777
 insho:insho N1 ; ! 0.9999996493881552
-inshoot:inshoot N1 ; ! 0.9999999951192141
+inshoot:inshoot N1 ; !"building"
 inshoot:inshoot N1 ; ! "construction"
 in’ikos:in’ikos N1 ; ! 0.9999999706414922
 in’om:in’om N1 ; ! 0.9999999998132153
@@ -11096,8 +11177,8 @@ ichgulik:ichgulik N1 ; ! 0.9999923066330355
 ichiga:ichiga N1 ; ! 0.9999983962169591
 ichidagi:ichidagi A2 ; ! 0.9943032560831845
 ichida:ichida ADV1 ; ! "indoor"
-ichida:ichida N1 ; ! 0.9999997070103365
-ichidan:ichidan N1 ; ! 0.9999864519306917
+! ichida:ichida N1 ; ! 0.9999997070103365
+! ichidan:ichidan N1 ; ! 0.9999864519306917
 ichi:ichi V-TV-CAUS ; ! 0.9708795015049074
 ichik:ichik V-IV ; ! 0.9988205622043066
 ichikish:ichikish V-IV-COOP ; ! 0.9209848018492547
@@ -11119,6 +11200,7 @@ ichkariga:ichkariga N1 ; ! 0.9602761275812038
 ichkarida:ichkarida N1 ; ! 0.9999998738907806
 ichkaridan:ichkaridan ADV ; ! 0.9965297546033332
 ichkari:ichkari N1 ; ! 0.9999999999999803
+ichkari:ichkari A1 ; ! "indoor"
 ichkarila:ichkarila V-TV ; ! 0.6644555325451555
 ichkarilik:ichkarilik N1 ; ! 0.9999958768181207
 ichkariroq:ichkariroq N1 ; ! 0.9998707054776373
@@ -11237,10 +11319,11 @@ ishratgoh:ishratgoh N1 ; ! 0.9506144112737004
 ishrat:ishrat N1 ; ! 0.9999999997253514
 ishratparast:ishratparast N1 ; ! 0.9999999998240703
 ishratxona:ishratxona N1 ; ! 0.9999989836060841
-ishsiz:ishsiz A1 ; ! 0.9999999998657022
-ishsizlik:ishsizlik N1 ; ! 0.9999999999999113
-ishtarapla:ishtarapla V-IV ; ! 0.9007677552974866
-ishtaha:ishtaha N1 ; ! 0.9999999999983747
+ishsiz:ishsiz A1 ; ! "unemployed"
+ishsiz:ishsiz A1 ; ! "unemplyee"
+ishsizlik:ishsizlik N1 ; ! "unemployment"
+! ishtarapla:ishtarapla V-IV ; ! 0.9007677552974866 ! No such word!
+ishtaha:ishtaha N1 ; ! "appetite"
 ishtahali:ishtahali A2 ; ! 0.999999999922331
 ishtahasiz:ishtahasiz A1 ; ! 0.9971067524083161
 ishtahasizlik:ishtahasizlik N1 ; ! 0.9999999763609054
@@ -11266,11 +11349,11 @@ ishchinamo:ishchinamo A1 ; ! 0.5639544205529449
 ishshay:ishshay V-IV ; ! 0.9999716750260652
 ishshaytir:ishshaytir V-TV-CAUS ; ! 0.9999999993974772
 ishsh:ishsh N1 ; ! 0.9999997790436441
-iyul:iyul N1 ; ! 0.9999984104355552
-iyul:iyul N1 ; ! "july"
+iyul:Iyul N1 ; ! "july"
+Iyul:Iyul N1 ; ! "july"
 iyulniki:iyulniki ADV1 ; !
-iyun:iyun N1 ; ! 0.9999995169974426
-iyun:iyun N1 ; ! "June"
+iyun:Iyun N1 ; ! "June"
+Iyun:Iyun N1 ; ! "June"
 iya:iya N1 ; ! 0.9995507583957257
 iya:iya N1 ; ! 0.9999999354242876
 iyar:iyar V-TV-CAUS ; ! 0.9912268390199156
@@ -11347,6 +11430,8 @@ yildirim:yildirim N1 ; ! 0.9999998861319576
 yiliga:yiliga N1 ; ! 0.9999999213419575
 yil:yil N1 ; ! 0.9975415199132254
 yil:yil N1 ; ! "year"
+liga:liga N1 ; ! "league"
+yildan% yilga:yildan% yilga ADV ; ! "year by year"
 yilkibon:yilkibon N1 ; ! 0.9999751729746335
 yilki:yilki N1 ; ! 0.9999989901029536
 yilqiboqar:yilqiboqar N1 ; ! 0.999810532114861
@@ -12021,7 +12106,8 @@ kegay:kegay N1 ; ! 0.9999999828927988
 kedr:kedr N1 ; ! 0.9999999567393194
 kezak:kezak N1 ; ! 0.9980332805355693
 kezdir:kezdir V-TV-CAUS ; ! 0.9984510927892454
-kez:kez V-TV ; ! 0.999987692414763
+kez:kez V-IV ; ! 0.999987692414763
+kezib% yur:kezib% yur V-IV ; ! "hang around, wander around"
 kez:kez N1 ; ! 0.9999999706636502
 keyingi:keyingi A1 ; ! "following"
 keyingi:keyingi N1 ; ! 0.9945417118739955
@@ -12054,6 +12140,7 @@ kelasi:kelasi A2 ; ! 0.999190243623076
 kelbat:kelbat N1 ; ! 0.9999999999995025
 kelbatli:kelbatli A2 ; ! 0.9999999998730751
 kelgach:kelgach ADV1 ; !
+kelsak:kelsak ADV1 ; ! "as for"
 kelgindi:kelgindi N1 ; ! 0.999966135902986
 kelgusi:kelgusi A2 ; ! "next"
 kelgusi:kelgusi N1 ; ! 0.9936183462121374
@@ -12146,7 +12233,7 @@ keraga:keraga N1 ; ! 0.9999998423924976
 keragicha:keragicha ADV ; ! 0.9999932414250037
 kerak:kerak A1 ; ! 0.9893715540675458
 kerak:kerak N1 ; ! "necessary/needed"
-kerakli:kerakli A2 ; ! 0.9999999998414214
+kerakli:kerakli A2 ; ! "necessary"
 keraklik:keraklik N1 ; ! 0.999999999963436
 keraksiz:keraksiz A1 ; ! 0.9998829744915959
 keraksizlik:keraksizlik N1 ; ! 0.999999999923321
@@ -12655,8 +12742,9 @@ koʻpirtir:koʻpirtir V-TV-CAUS ; ! 0.9999999797714286
 koʻpirtirma:koʻpirtirma A2 ; ! 0.9999995774418663
 koʻpirt:koʻpirt V-TV-CAUS ; ! 0.9881764430931106
 koʻpkari:koʻpkari N1 ; ! 0.9999998786666489
-koʻp:koʻp A1 ; !
+koʻp:koʻp A1 ; ! "many"
 koʻp:koʻp ADV1 ; ! "very"
+koʻp:koʻp ADV1 ; ! "a good many"
 koʻp:koʻp V-TV-CAUS ; ! 0.8523792022025707
 koʻp:koʻp N1 ; ! 0.9791417304227045
 koʻplab:koʻplab DET-QNT ; ! "hundreds"
@@ -12680,7 +12768,8 @@ koʻpchilik:koʻpchilik N1 ;  ! "majority"
 koʻpchit:koʻpchit V-TV-CAUS ; ! 0.9999991029385531
 koʻrak:koʻrak N1 ; ! 0.9999999516212963
 koʻra:koʻra A1 ; ! 0.933677896704275
-koʻra:koʻra N1 ; ! 0.9999999999964934
+koʻra:koʻra ADV ; ! "according to"
+! koʻra:koʻra N1 ; ! 0.9999999999964934 ! Not a Noun!
 koʻra:koʻra POST-DAT ; ! "according to"
 koʻrgaz:koʻrgaz V-TV-CAUS ; ! 0.9910766955218057
 koʻrgazma:koʻrgazma N1 ; ! 0.9994823323795268
@@ -13009,7 +13098,7 @@ konstruksiya:konstruksiya N1 ; ! 0.9999999999993745
 konstruksiya:konstruksiya N1 ; ! "design, construction"
 konstruktiv:konstruktiv N1 ; ! 0.9519437542801839
 konstruktor:konstruktor N1 ; ! 0.9999999994262645
-konsul:konsul N1 ; ! 0.9999999595775549
+konsul:konsul N1 ; ! "Council"
 konsullik:konsullik N1 ; ! 0.9999999221312107
 konsultant:konsultant N1 ; ! 0.9999999989169099
 konsultantlik:konsultantlik N1 ; ! 0.9999999999999754
@@ -13736,9 +13825,9 @@ qaysi:qaysi N1 ; ! 0.8678462438379936
 qaysi:qaysi PRON-ITG-INFL ; ! "which one"
 qaytaga:qaytaga N1 ; ! 0.9994756899200077
 qaytadan:qaytadan ADV1 ; ! "once more"
-qaytadan:qaytadan N1 ; ! 0.8490212162889111
+! qaytadan:qaytadan N1 ; ! 0.8490212162889111 ! Not a noun!.
 qaytayin:qaytayin N1 ; ! 0.9997043571752088
-qayta:qayta ADV1 ; !
+qayta:qayta ADV1 ; ! "again"
 qayta%-qayta:qayta%-qayta N1 ; ! 0.9239094350991637
 qayta:qayta N1 ; ! 0.8705147028064263
 qaytala:qaytala V-IV ; ! 0.9999305749558945
@@ -13972,6 +14061,7 @@ qanchadan%-qancha:qanchadan%-qancha ADV ; ! 0.853332380918643
 qancha:qancha ADV ; ! 0.9585391196216012
 qancha%-qancha:qancha%-qancha ADV ; ! 0.9696764368406735
 qancha:qancha PRON-ITG-INFL ; ! "how many"
+qancha:qancha DET-QNT ; ! "how many"
 qanchalik:qanchalik N1 ; ! 0.9308622042558504
 qanshar:qanshar N1 ; ! 0.9999999632713309
 qapishmoq:qapishmoq N1 ; ! 0.6151072232339921
@@ -14341,7 +14431,8 @@ qiziqish:qiziqish N1 ; ! "curiosity"
 qiziqish:qiziqish N1-VN ; ! 0.9621382684252353
 qiziqish:qiziqish N1 ; ! "interest"
 qiziq:qiziq V-IV ; ! 0.9999335462935676
-qiziq:qiziq N1 ; ! 0.5459691403187705
+qiziq:qiziq A1 ; ! "interesting"
+qiziqarli:qiziqarli A1 ; ! "interesting"
 qiziqqon:qiziqqon A2 ; ! 0.9999183669006263
 qiziqqonli:qiziqqonli N1 ; ! 0.8576870062772665
 qiziqqonliq:qiziqqonliq N1 ; ! 0.9999999999987736
@@ -14396,7 +14487,7 @@ qiyinlash:qiyinlash V-IV ; ! 0.9999999905962225
 qiyinlashtir:qiyinlashtir V-TV-CAUS ; ! 0.9999999965905455
 qiyinlashtir:qiyinlashtir V-TV-CAUS ; ! 0.9999999998345608
 qiyinlik:qiyinlik N1 ; ! 0.9999999999999901
-qiyinchilik:qiyinchilik N1 ; ! 0.9999999997170181
+qiyinchilik:qiyinchilik N1 ; ! "struggle"
 qiyish:qiyish V-IV-COOP ; ! 0.39953033239544916
 qiyqa:qiyqa N1 ; ! 0.9996435358461602
 qiyqangla:qiyqangla V-IV ; ! 0.999717641183856
@@ -15708,8 +15799,7 @@ qurdum:qurdum N1 ; ! 0.9999999951917166
 quri:quri V-IV ; ! 0.9985345392802991
 quri:quri V-IV ; ! 0.9999999921673217
 qurildoq:qurildoq N1 ; ! 0.9628913616431749
-qurilish:qurilish N1 ; ! 0.9999968144073518
-qurilish:qurilish N1 ; !
+qurilish:qurilish N1 ; ! "construction"
 quril:quril VERB-IV ; !
 qurilla:qurilla V-IV ; ! 0.9999954542224567
 qurillat:qurillat V-TV-CAUS ; ! 0.999999943844474
@@ -16046,6 +16136,7 @@ lahzalik:lahzalik N1 ; ! 0.9999999437046847
 lahim:lahim N1 ; ! 0.9999998555179302
 lahimchi:lahimchi N1 ; ! 0.9999999134934776
 lahm:lahm N1 ; ! 0.9999923324871514
+lahm:lahm A1 ; ! "the best"
 lachak:lachak N1 ; ! 0.999983228299906
 lashkarboshi:lashkarboshi N1 ; ! 0.9999994491497093
 lashkarboshiliq:lashkarboshiliq N1 ; ! 0.999999999992834
@@ -16391,7 +16482,7 @@ mavsumiy:mavsumiy A1 ; ! "seasonal"
 mavsumiy:mavsumiy A2 ; ! 0.9751359728860302
 mavsumiyatchilik:mavsumiyatchilik N1 ; ! 0.9999999822567853
 mavsumli:mavsumli A2 ; ! 0.9245183715749109
-mavsum:mavsum N1 ; ! 0.9999999999801518
+mavsum:mavsum N1 ; ! "season"
 mavsumchiliq:mavsumchiliq N1 ; ! 0.9999999996000616
 mavxum:mavxum A2 ; ! 0.7145947699784381
 mavxumot:mavxumot N1 ; ! 0.9999999101472149
@@ -16418,6 +16509,7 @@ magazinli:magazinli A2 ; ! 0.9999999977577121
 magazin:magazin N1 ; ! 0.9999999497356995
 magazinchi:magazinchi N1 ; ! 0.9999999999906521
 magar:magar CA ; ! "to this surprise"
+magarki:magarki CA ; ! "to this surprise"
 magar:magar CS ; ! 0.9999498477616638
 magistral:magistral N1 ; ! 0.9916036454204312
 magistral:magistral N1 ; ! 0.9999999961807174
@@ -16594,10 +16686,10 @@ mayliga:mayliga N1 ; ! 0.9748762730837303
 mayli:mayli CA ; ! "anyway"
 mayli:mayli N1 ; ! 0.6320125211148668
 mayl:mayl N1 ; ! 0.9999999999999163
-may:may N1 ; ! 0.999999893160114
 may:may N1 ; ! "wine"
-may:may N1 ; ! "May"
-maymok:maymok A2 ; ! 0.9997678959756147
+may:May N1 ; ! "May"
+May:May N1 ; ! "May"
+maymoq:maymoq A2 ; ! "purry"
 maymunjon:maymunjon N1 ; ! 0.9999997037792531
 maymun:maymun N1 ; ! 0.9999439146212404
 maymun:maymun N1 ; ! "monkey"
@@ -16619,8 +16711,8 @@ mayxona:mayxona N1 ; ! 0.9999999991975425
 mayxurlik:mayxurlik N1 ; ! 0.9999999960550336
 mayya:mayya N1 ; ! 0.9999999996030708
 makaron:makaron A2 ; ! 0.8880801094932412
-makedon:makedon N1 ; !
-Makedon:Makedon N1-NAT ; ! "Macedonian"
+Makedon:Makedon N1 ; ! "Macedonian"
+makedon:Makedon N1-NAT ; ! "Macedonian"
 maket:maket N1 ; ! 0.9999999867411837
 makiyen:makiyen N1 ; ! 0.9999999711355739
 makintosh:makintosh N1 ; ! 0.9999998656982184
@@ -16926,8 +17018,8 @@ martali:martali A2 ; ! 0.9999799606218306
 marta:marta N1 ; ! 0.9999085979707298
 marta:marta N1 ; ! "times/time"
 marten:marten N1 ; ! 0.9999928023020365
-mart:mart N1 ; ! 0.9999999304559213
-mart:mart N1 ; ! "March"
+mart:Mart N1 ; ! "March"
+Mart:Mart N1 ; ! "March"
 marhabo:marhabo N1 ; ! 0.9997468566770563
 marhaglatli:marhaglatli A2 ; ! 0.9997502770928152
 marhamat:marhamat N1 ; ! 0.9999999272178952
@@ -16947,7 +17039,8 @@ masala:masala N1 ; ! 0.9999999992908437
 masala:masala N1 ; ! "matter/discussion"
 masala:masala N1 ; ! "problem/matter"
 masalan:masalan CA ; ! "for example"
-masalan:masalan N1 ; ! 0.9998222926652293
+misol% uchun:misol% uchun CA ; ! "for example"
+! masalan:masalan N1 ; ! 0.9998222926652293 ! Not a noun!
 masalaxonlik:masalaxonlik N1 ; ! 0.9999999996561291
 masalliq:masalliq N1 ; ! 0.9999999999999901
 masal:masal N1 ; ! 0.9999998750357915
@@ -16981,7 +17074,6 @@ mas:mas MIST ; ! ""
 mas:mas N1 ; !
 masnaviy:masnaviy N1 ; ! 0.9394588162413345
 masnad:masnad N1 ; ! 0.9999990697088992
-masofa:masofa N1 ; ! 0.9999999999999803
 masofa:masofa N1 ; ! "distance"
 masoha:masoha N1 ; ! 0.9999997752796492
 masrur:masrur A2 ; ! 0.9903290306121574
@@ -17004,6 +17096,7 @@ maston:maston N1 ; ! 0.9957102053589278
 maston:maston N1 ; ! 0.9990346603005866
 mastcha:mastcha ADV ; ! 0.9766663614822897
 ma’suma:ma’suma N1 ; ! 0.9999993506366122
+ma’suma:ma’suma ADV ; ! "innocent/ly"
 bo’lganidan:bo’lganidan N1 ; ! 0.9999999856945465
 ma’sumlik:ma’sumlik N1 ; ! 0.9999999999957694
 ma’sum:ma’sum A1 ; ! 0.90336336178486
@@ -17035,7 +17128,6 @@ matashtir:matashtir V-TV-CAUS ; ! 0.9999931263225915
 matbaa:matbaa N1 ; ! 0.9999969066330436
 matbaachilik:matbaachilik N1 ; ! 0.9999999999999015
 matbaachi:matbaachi N1 ; ! 0.9999999999921346
-matbuot:matbuot N1 ; ! 0.9999372473681858
 matbuot:matbuot N1 ; ! "press"
 matematika:matematika N1 ; ! 0.99999999927004
 matematika:matematika N1 ; ! "mathematics"
@@ -17116,8 +17208,8 @@ maxchi:maxchi N1 ; ! 0.9999999881587477
 mahalkom:mahalkom N1 ; ! 0.9999999654464452
 mahalladosh:mahalladosh N1 ; ! 0.9998748059282733
 mahallalik:mahallalik N1 ; ! 0.9999999668462394
-mahalla:mahalla N1 ; ! 0.9999996447371765
-mahallachiliq:mahallachiliq N1 ; ! 0.9999999995453536
+mahalla:mahalla N1 ; ! "neighbourhood"
+mahallachilik:mahallachilik N1 ; ! 0.9999999995453536
 mahalla%-yurt:mahalla%-yurt N1 ; ! 0.9989470318049132
 mahalliylashtir:mahalliylashtir V-TV-CAUS ; ! 0.991166047457025
 mahalliy:mahalliy A1 ; ! "local, regional"
@@ -18132,7 +18224,9 @@ muddatsiz:muddatsiz A1 ; ! 0.9998852275823288
 mudirlik:mudirlik N1 ; ! 0.9999999999999655
 mudir:mudir N1 ; ! "director"
 mudom:mudom ADV ; ! 0.5341529911469589
-mudofaalan:mudofaalan V-IV ; ! 0.9999974149872154
+mudomiki:mudomiki CA ; ! "whereby"
+madomiki:madomiki CA ; ! "whereby"
+mudofaalan:mudofaalan V-IV ; ! 0.9999974149872154 
 mudofaa:mudofaa A2 ; ! 0.5404737392450132
 mudofaa:mudofaa N1 ; ! "resistence"
 mudofaachilyk:mudofaachilyk N1 ; ! 0.9105642485418745
@@ -18553,7 +18647,7 @@ mutelik:mutelik N1 ; ! 0.9999999999968627
 mute:mute A2 ; ! 0.9909122326397855
 mutlaq:mutlaq A1 ; !
 mutlaq:mutlaq A2 ; ! 0.7847664382012676
-mutlaqo:mutlaqo ADV ; ! 0.9999871471433232
+mutlaqo:mutlaqo ADV ; ! "surely"
 mutoyiba:mutoyiba N1 ; ! 0.9999999783616808
 mutolaa:mutolaa N1 ; ! 0.9999999848351476
 mutrib:mutrib N1 ; ! 0.9999968509162362
@@ -19007,8 +19101,9 @@ na’matak:na’matak N1 ; ! 0.9999999957470224
 na’rador:na’rador A2 ; ! 0.9999995502340606
 na’ra:na’ra N1 ; ! 0.9999999998729914
 nayaki:nayaki N1 ; ! 0.9999380129445556
-NGC:NGC ABBR ; ! ""
+NGC:NGC NP-AL ; ! ""
 ng:ng MIST ; ! ""
+karyera:karyera N1 ; ! "career"
 nevara:nevara N1 ; ! 0.9999999546800732
 nevara%-chevara:nevara%-chevara N1 ; ! 0.9970958243647856
 nevroz:nevroz N1 ; ! 0.9999999966608317
@@ -19060,7 +19155,7 @@ neft:neft N1 ; ! 0.9999999998483954
 neft:neft N1 ; ! "nafta"
 neftchi:neftchi N1 ; ! 0.9999999999860077
 necha:necha ADV1 ; !
-necha:necha DET-ITG ; ! " how many"
+necha:necha DET-QNT ; ! " how many"
 !necha:necha N1 ; ! 0.9993757648687447
 necha%-necha:necha%-necha ADV ; ! 0.944220820314935
 nechanchi:nechanchi N1 ; ! 0.9999848013443522
@@ -19069,8 +19164,9 @@ nechikkim:nechikkim N1 ; ! 0.9999961609410578
 nechikki:nechikki N1 ; ! 0.7814872396493239
 nechov:nechov N1 ; ! 0.9999642178436337
 nechogʻliq:nechogʻliq N1 ; ! 0.9997660649259829
-nechta:nechta ADV1 ; !
-nechta:nechta N1 ; ! 0.8544649019354825
+nechta:nechta ADV1 ; ! "how many"
+nechta:nechta DET-QNT ; ! 
+! nechta:nechta N1 ; ! 0.8544649019354825 ! Not a Noun!
 nechuk:nechuk N1 ; ! 0.9999999834148552
 nechundir:nechundir N1 ; ! 0.9997317916611909
 nechunkim:nechunkim N1 ; ! 0.9999999896362404
@@ -19118,14 +19214,15 @@ nilufar:nilufar N1 ; ! 0.9999974040641445
 nimagaki:nimagaki CS ; ! 0.9997323666498277
 nimaga:nimaga ADV-ITG ; ! "why"
 nimaga:nimaga N1 ; ! 0.9973778811353041
+nima% uchun:nima% uchun ADV-ITG ; ! "why, what for"
 nimaiki:nimaiki N1 ; ! 0.9999764765812968
 nimalik:nimalik N1 ; ! 0.9999996202861497
 nima:nima CC ; ! ""
 nima:nima N1 ; ! 0.8998462855917048
 nima:nima PRON-ITG-INFL ; ! "what"
-nimarsa:nimarsa N1 ; ! 0.9999955192511796
-nimga:nimga N1 ; ! 0.9421045489276619
-nimdosh:nimdosh N1 ; ! 0.8710604584903213
+! nimarsa:nimarsa N1 ; ! 0.9999955192511796 ! Typo!.
+! nimga:nimga N1 ; ! 0.9421045489276619 !Ttypo!.
+! nimdosh:nimdosh N1 ; ! 0.8710604584903213 ! Typo!.
 nimjonlan:nimjonlan V-IV ; ! 0.9999953246599083
 nimjonlik:nimjonlik N1 ; ! 0.9999999999994681
 nimjon:nimjon A2 ; ! 0.9999999972791838
@@ -19178,8 +19275,8 @@ nihoya:nihoya N1 ; ! "end"
 nihoyasiz:nihoyasiz A1 ; ! 0.9999989293595797
 nihoyatda:nihoyatda N1 ; ! 0.9773851277121198
 nihoyati:nihoyati N1 ; ! 0.866386473999072
-nihoyat:nihoyat N1 ; ! 0.9999637134253323
-nihoyat:nihoyat N1 ; !
+! nihoyat:nihoyat N1 ; ! 0.9999637134253323 ! Not a noun!
+nihoyat:nihoyat ADV ; ! "finally"
 nihoyatsiz:nihoyatsiz A1 ; ! 0.9999999975297338
 nitsshechi:nitsshechi N1 ; ! 0.9999998526194362
 nitsщechilik:nitsщechilik N1 ; ! 0.9999999946227585
@@ -19433,6 +19530,8 @@ notinchlik:notinchlik N1 ; ! 0.9999999999215381
 notinch:notinch A1 ; ! 0.9694089622534344
 notoblik:notoblik N1 ; ! 0.9999999688280531
 notob:notob ADV ; ! 0.5005678743530568
+orasida:orasida ADV ; ! "between"
+oʻrtada:oʻrtada ADV ; ! "between"
 notugʻrilik:notugʻrilik N1 ; ! 0.9999999999988229
 notugʻri:notugʻri A1 ; ! 0.999538756904712
 noumidlik:noumidlik N1 ; ! 0.9999999999999606
@@ -19458,15 +19557,14 @@ noshukurlik:noshukurlik N1 ; ! 0.9999999998450364
 noshukur:noshukur A2 ; ! 0.9954307048689439
 noshukurchilik:noshukurchilik N1 ; ! 0.9999996829019454
 noyab%.:noyab%. ABBR ;
-noyabr:noyab N1 ; ! "November"
-noyabr:noyabr N1 ; ! 0.9999999973488051
-noyabr:noyabr N1 ; ! "november"
-noyambr:noyambr N1 ; !
+noyabr:Noyabr N1 ; ! "November"
+Noyabr:Noyabr N1 ; ! "November"
+! noyambr:noyambr N1 ; !
 nubuvvat:nubuvvat N1 ; ! 0.9999998993623473
 nujum:nujum N1 ; ! 0.999443096933537
 nuktadon:nuktadon A2 ; ! 0.9692572660769776
-nukta:nukta N1 ; ! 0.999922416150144
-nukta:nukta N1 ;  ! "point"
+! nukta:nukta N1 ; ! 0.999922416150144
+nuqta:nuqta N1 ;  ! "point"
 nuqi:nuqi V-IV ; ! 0.9669933810374216
 nuqra:nuqra N1 ; ! 0.9999993953600741
 nuqs:nuqs N1 ; ! 0.9999999998595507
@@ -19665,7 +19763,7 @@ oʻylab%-netmoq:oʻylab%-netmoq ADV ; ! 0.7395323032638026
 oʻylamsira:oʻylamsira V-IV ; ! 0.9999992610858041
 oʻylan:oʻylan V-IV-REFL ; ! 0.999350828209418
 oʻylantir:oʻylantir V-TV-CAUS ; ! 0.9999999998558667
-oʻyla:oʻyla VERB-TV ; ! ""
+oʻyla:oʻyla V-TV ; ! ""
 oʻyla:oʻyla V-TV ; ! 0.9964843277125514
 oʻylat:oʻylat V-TV-CAUS ; ! 0.9999999999351363
 oʻylashimcha:oʻylashimcha ADV ; ! 0.6542739672758761
@@ -19894,9 +19992,13 @@ oʻnqir:oʻnqir N1 ; ! 0.9999995119411013
 oʻnqir%-choʻnqirliq:oʻnqir%-choʻnqirliq N1 ; ! 0.9999994848915212
 oʻnqir%-choʻnqir:oʻnqir%-choʻnqir N1 ; ! 0.9996236727316311
 oʻnqov:oʻnqov N1 ; ! 0.9999999813061805
-oʻnlab:oʻnlab N1 ; ! 0.9532133677796606
+oʻnlab:oʻnlab DET-QNT ; ! "tens of", "dozens of"
 oʻnlab:oʻnlab N1 ; ! "dozens"
 oʻnlar:oʻnlar N1 ; ! 0.9999997374843804
+oʻnminglab:oʻnminglab DET-QNT ; ! "tens of thousands"
+yuzminglab:yuzminglab DET-QNT ; ! "hundreds of thousands"
+millionlab:millionlab DET-QNT ; ! "millions"
+milliardlab:milliardlab DET-QNT ; ! "billions"
 oʻnlarcha:oʻnlarcha N1 ; ! 0.9876441858500695
 oʻnlik:oʻnlik N1 ; ! 0.9999999994389318
 oʻn:oʻn N1 ; ! 0.9999904443304298
@@ -20110,6 +20212,7 @@ oʻta:oʻta VERB-TV ; !  two meanings (to weed, to carry out duties)
 oʻta:oʻta VERB-TV ; ! "to carry out"
 oʻta:oʻta V-TV ; ! 0.9693879351076857
 oʻta:oʻta N1 ; ! 0.9857516639134002
+oʻta:oʻta ADV ; ! "beyond"
 oʻtar:oʻtar N1 ; ! 0.9999996559052342
 oʻtar%-utmas:oʻtar%-utmas ADV ; ! 0.7916117037424978
 oʻtat:oʻtat V-TV-CAUS ; ! 0.9999999941112762
@@ -20309,7 +20412,7 @@ obida:obida N1 ; ! 0.9705950902617123
 obida:obida N1 ; ! 0.9999999958517597
 obi%-diyda:obi%-diyda N1 ; ! 0.9918149012060907
 obid:obid A2 ; ! 0.9728936833694046
-obi%-yovgon:obi%-yovgon A1 ; ! 0.5083667012271789
+obi%-yovgʻon:obi%-yovgʻon A1 ; ! 0.5083667012271789
 obi%-zamzam:obi%-zamzam N1 ; ! 0.7319244657521916
 obi%-novvot:obi%-novvot N1 ; ! 0.9999945193237891
 obinon:obinon N1 ; ! 0.9999999607171114
@@ -20521,7 +20624,8 @@ oda:oda N1 ; ! "island"
 odatan:odatan ADV ; ! 0.9938964311339076
 odatdagidan:odatdagidan ADV ; ! 0.9999999985807417
 odatdagi:odatdagi A2 ; ! 0.9995650833431621
-odatda:odatda N1 ; ! 0.7550034957052393
+! odatda:odatda N1 ; ! 0.7550034957052393 ! Not a Noun
+odatda:odatda ADV ; ! "usually"
 odatii:odatii N1 ; ! 0.900048097818001
 odatlan:odatlan V-IV ; ! 0.9999999273027548
 odatlantir:odatlantir V-TV-CAUS ; ! 0.9954189204478479
@@ -20575,7 +20679,8 @@ ozbek:ozbek N1 ; !
 ozgʻinlan:ozgʻinlan V-IV-REFL ; ! 0.5632902029144407
 ozgʻinlik:ozgʻinlik N1 ; ! 0.9999984865843697
 ozgʻin:ozgʻin A2 ; ! 0.998992208396148
-ozgina:ozgina N1 ; ! 0.999999995312431
+! ozgina:ozgina N1 ; ! 0.999999995312431 ! Not a Noun!
+ozgina:ozgina ADV ; ! "a little"
 ozdira:ozdira V-TV-CAUS ; ! 0.9999255483805952
 ozdir:ozdir V-TV-CAUS ; ! 0.9999999991579003
 ozib%-yozib:ozib%-yozib ADV ; ! 0.9958241631466679
@@ -20590,7 +20695,7 @@ oziq%-ovkat:oziq%-ovkat N1 ; ! 0.9512701998253378
 oziq-ovqat:oziq-ovqat N1 ; ! "groceries"
 oziq:oziq N1 ; ! "food"
 ozlik:ozlik N1 ; ! 0.9987308018329272
-ozmi%-kupmi:ozmi%-kupmi ADV ; ! 0.9289167157216282
+ozmi%-koʻpmi:ozmi%-koʻpmi ADV ; ! "more or less"
 oz%-moz:oz%-moz N1 ; ! 0.9999485887370646
 ozmuncha:ozmuncha N1 ; ! 0.999132385323824
 ozodagarchilik:ozodagarchilik N1 ; ! 0.9999999998859591
@@ -20599,7 +20704,7 @@ ozodlik:ozodlik N1 ; ! 0.9999999999977246
 ozodlik:ozodlik N1 ;  ! "freedom"
 ozod:ozod A1 ; ! "free"
 ozod:ozod A2 ; ! 0.9999984625060363
-oz:oz A2 ; ! 0.9068366438339247
+oz:oz A2 ; ! "a few"
 oz:oz VERB-IV ; ! "to lose weight"
 oz:oz V-IV ; ! 0.7959794409710713
 oz:oz V-IV ; ! 0.9901650017051957
@@ -20703,7 +20808,7 @@ okt%.:okt%. ABBR ;
 oktyabrist:oktyabrist N1 ; ! 0.9999999934151862
 oktyabr:oktyabr N1 ; ! 0.9999986635423825
 oktabr:oktabr N1 ; ! "October"
-oktabr:oktabr N1 ; ! "OCtober"
+Oktabr:Oktabr N1 ; ! "OCtober"
 oktyabryat:oktyabryat N1 ; ! 0.9999998479352761
 okuchnik:okuchnik N1 ; ! 0.9999835666383445
 oqarish:oqarish V-IV-COOP ; ! 0.9947049409837013
@@ -20858,9 +20963,9 @@ oldida:oldida N1 ; ! 0.9999995113455971
 oldi%-keti:oldi%-keti N1 ; ! 0.6029612448754545
 oldi%-kochdi:oldi%-kochdi N1 ; ! 0.6252302786494871
 oldinga:oldinga ADV1 ; ! "forward"
-oldinga:oldinga N1 ; ! 0.9999990997557474
+! oldinga:oldinga N1 ; ! 0.9999990997557474 ! Not a Noun!
 oldingi:oldingi A1 ; ! "foremost"
-oldingi:oldingi A2 ; ! 0.9982599139447764
+oldingi:oldingi A2 ; ! "front"
 oldingi:oldingi ADV1 ; !
 oldindan:oldindan ADV ; ! 0.9922355837075885
 oldinda:oldinda N1 ; ! 0.9999970567430091
@@ -21067,7 +21172,7 @@ ontar%-tuntar:ontar%-tuntar N1 ; ! 0.9999776455747562
 ont:ont N1 ; ! 0.9999999983094324
 ontxur:ontxur N1 ; ! 0.9999998511886535
 o:o N1 ; ! 0.9999921413288344
-o:o PRON-DEM-BU ; ! "this"
+! o:o PRON-DEM-BU ; ! "this" ! This is Turkish?
 opajon:opajon N1 ; ! 0.9999999877371635
 opalik:opalik N1 ; ! 0.99999996287583
 opa:opa N1 ; ! 0.9999999999918933
@@ -21125,10 +21230,19 @@ oraliq:oraliq N1 ;  ! "time interval"
 orangutang:orangutang N1 ; ! 0.9999999823395468
 ora:ora N1 ; ! 0.9999999999999901
 ora:ora N1 ; ! "gap/distance/interval"
-ora:ora PRON-ADV ; ! "there"
-orasiga:orasiga N1 ; ! 0.9999998790395237
-orasta:orasta N1 ; ! 0.9831978811175529
+! ora:ora PRON-ADV ; ! "there" ! This is Turkish?
+u% yer:u% yer PRON-ADV ; ! "there"
+bu% yer:bu% yer PRON-ADV ; ! "here"
+bu% yerda:bu% yerda ADV1 ; ! "here"
+shu% yer:shu% yer PRON-ADV ; ! "here"
+uyoq:uyoq PRON-ADV ; ! "there"
+buyoq:buyoq PRON-ADV ; ! "here"
+shuyoq:shuyoq PRON-ADV ; ! "there"
+! orasiga:orasiga N1 ; ! 0.9999998790395237
+orasta:orasta A1 ; ! "chic"
 ora%-chora:ora%-chora N1 ; ! 0.9999426726312294
+ora%-sira:ora%-sira ADV ; ! "at times"
+ora%-sirada:ora%-sirada ADV ; ! "at times"
 orbital:orbital N1 ; ! 0.9999987024894859
 orbita:orbita N1 ; ! 0.9999995584710373
 organizm:organizm N1 ; ! 0.9999886614678815
@@ -21226,7 +21340,7 @@ ortiga:ortiga N1 ; ! 0.999994501688324
 ortidan:ortidan N1 ; ! 0.9958447410596405
 ortida:ortida N1 ; ! 0.9999995259779275
 ortiqliq:ortiqliq N1 ; ! 0.9999999999998473
-ortiq:ortiq ADV3 ; ! "artik"
+ortiq:ortiq ADV3 ; ! "no more"
 ortiq:ortiq N1 ; ! 0.9999084902406626
 ortiqchalik:ortiqchalik N1 ; ! 0.9999999999858256
 ortiqcha:ortiqcha A1 ; ! "too much"
@@ -21354,6 +21468,7 @@ otli:otli A2 ; ! 0.9999999992291468
 otnon:otnon N1 ; ! 0.9999999648590228
 ot%-otakam:ot%-otakam N1 ; ! 0.9986739654491227
 ot:ot V-IV ; ! 0.976737669832858
+ot:ot V-TV ; ! "to throw"
 ot:ot N1 ; ! 0.9339044083960308
 ot:ot N1 ; ! 0.9999999999997882
 ot:ot N1 ; ! "noun"
@@ -21398,6 +21513,7 @@ oxirlan:oxirlan V-IV ; ! 0.6234780543878296
 oxirla:oxirla V-IV ; ! 0.9407217496533782
 oxir:oxir N1 ; ! 0.9999999637304297
 oxir:oxir N1 ; ! "end"
+oxirida:oxirida ADV ; ! "on end"
 oxsid:oxsid N1 ; !
 oxurchup:oxurchup N1 ; ! 0.9999999982783058
 ohaki:ohaki N1 ; ! 0.991392852481505
@@ -21453,9 +21569,12 @@ ochiq:ochiq A2 ; ! 0.9999610198077497
 ochiq:ochiq V-IV ; ! 0.9999817790835686
 ochiq%-oshkor:ochiq%-oshkor ADV ; ! 0.4666088297969051
 ochiqtir:ochiqtir V-TV-CAUS ; ! 0.9999999995570852
-ochiqcha:ochiqcha N1 ; ! 0.9999722651922113
-ochiqchasiga:ochiqchasiga N1 ; ! 0.8188492249086471
+! ochiqcha:ochiqcha N1 ; ! 0.9999722651922113 ! Not a noun
+! ochiqchasiga:ochiqchasiga N1 ; ! "evidently" ! Not a noun
+ochiqcha:ochiqcha ADV ; ! "openly"
+ochiqchasiga:ochiqchasiga ADV ; ! "evidently"
 ochiq%-chochiq:ochiq%-chochiq N1 ; ! 0.9998918720552935
+ochiq%-shochiq:ochiq%-shochiq N1 ; ! 0.9998918720552935
 ochilish:ochilish N1 ; ! "opening"
 ochiltir:ochiltir V-TV-CAUS ; ! 0.9999972334381974
 ochinqira:ochinqira V-IV ; ! 0.9997894313336078
@@ -21612,7 +21731,8 @@ payt:payt N1 ; ! "time"
 paycha:paycha N1 ; ! 0.9999999940077997
 paychi:paychi N1 ; ! 0.9999999991606042
 payshanbalik:payshanbalik N1 ; ! 0.9999999999460898
-payshanba:payshanba N1 ; ! 0.9795002028758685
+payshanba:Payshanba N1 ; ! "Thursday"
+Payshanba:Payshanba N1 ; ! "Thursday"
 pakanalik:pakanalik N1 ; ! 0.9999999840954459
 pakana:pakana N1 ; ! 0.9999766140190235
 pakgauz:pakgauz N1 ; ! 0.9999572433613466
@@ -23589,7 +23709,8 @@ ruslashtirish:ruslashtirish N1 ; ! 0.9999994606403912
 ruslashtir:ruslashtir V-TV-CAUS ; ! 0.9999988096248296
 rus:rus N1-NAT ; ! 0.997852558482486
 Rus:Rus N1-NAT ; ! "Russian"
-rus:rus N1 ; ! "Russian (person)"
+rus:Rus N1 ; ! "Russian (person)"
+transfer:transfer N1 ; ! "transfer"
 rustamona:rustamona A1 ; ! 0.8163405211902127
 rustam:rustam N1 ; ! 0.9999999764309749
 rusta:rusta N1 ; ! 0.9999998067364583
@@ -23637,7 +23758,7 @@ Sc:Sc ABBR ; !
 sıfatli:sıfatli A1 ; !
 sababiy:sababiy N1 ; ! 0.569099636799183
 sababiyat:sababiyat N1 ; ! 0.9999999971247817
-sababko:sababko CS ; ! 0.7240748620969347
+! sababko:sababko CS ; ! 0.7240748620969347 ! Typo
 sababli:sababli CS ; ! "due to/because"
 sababli:sababli CS ; ! "for/so that"
 sababli:sababli A2 ; ! 0.9999993784575583
@@ -24186,7 +24307,7 @@ sarlavhali:sarlavhali A2 ; ! 0.9999999801014157
 sarlavha:sarlavha N1 ; ! 0.9999999993813031
 sarmastlik:sarmastlik N1 ; ! 0.999999999712418
 sarmast:sarmast A2 ; ! 0.8085219543326857
-sarmoya:sarmoya N1 ; ! 0.9999999993573524
+sarmoya:sarmoya N1 ; ! "investment"
 sarmunshi:sarmunshi N1 ; ! 0.9999795734604006
 sarnayza:sarnayza N1 ; ! 0.9999999425227428
 sarnigun:sarnigun A2 ; ! 0.9996282632132257
@@ -24528,12 +24649,13 @@ sentrlat:sentrlat V-TV-CAUS ; ! 0.9999998053705491
 sentrovka:sentrovka N1 ; ! 0.9999999952437651
 sent%.:sent%. ABBR ;
 sentyabr:sentyabr N1 ; ! 0.9999970658343309
-sentabr:sentabr N1 ; ! "september"
+sentabr:Sentabr N1 ; ! "september"
 Sentabr:Sentabr N1 ; ! "September"
 sepala:sepala V-TV ; ! 0.9054670295592934
 separa:separa N1 ; ! 0.9999999998275031
 separator:separator N1 ; ! 0.999999968135061
 separat:separat N1 ; ! 0.9997077022263908
+sep:sep V-IV ; ! "splash"
 sepil:sepil V-IV ; ! 0.9949920481958194
 sepiluvchanlik:sepiluvchanlik N1 ; ! 0.999999999527505
 sepiluvchan:sepiluvchan N1 ; ! 0.9999492897649107
@@ -24560,7 +24682,7 @@ serbaraka:serbaraka N1 ; ! 0.9995492318815331
 serbar:serbar A2 ; ! 0.9964914793386379
 serbar:serbar N1 ; ! 0.9999788646301048
 serboshoq:serboshoq A2 ; ! 0.9349147526349663
-serb:serb N1 ; !
+serb:serb A1 ; ! "Serbian"
 serb:serb N1-NAT ; ! 0.9999600120096936
 Serb:Serb N1-NAT ; ! "Serbian"
 serbuyoq:serbuyoq A2 ; ! 0.99728319756177
@@ -24728,7 +24850,8 @@ sehrla:sehrla V-TV ; ! 0.9999999921504286
 sehrli:sehrli A2 ; ! 0.9999999999153275
 sehr:sehr N1 ; ! 0.9999999908033922
 sehrchi:sehrchi N1 ; ! 0.9999999990202239
-seshanba:seshanba N1 ; ! 0.999999743150089
+seshanba:Seshanba N1 ; ! "Tuesday"
+Seshanba:Seshanba N1 ; ! "Tuesday"
 seyalka:seyalka N1 ; ! 0.999999999972252
 seyalkachi:seyalkachi N1 ; ! 0.9999999877144242
 sianli:sianli A2 ; ! 0.9999999999922183
@@ -24738,6 +24861,18 @@ sibizgʻachi:sibizgʻachi N1 ; ! 0.9999842319675069
 sibiriyalik:sibiriyalik N1 ; ! 0.9999999996443728
 sibir:sibir N1 ; ! 0.9999938931439574
 Sibir:Sibir NP-TOP ; ! "Siberia"
+Makedoniya:Makedoniya NP-TOP ; ! "Mecedonia"
+Serbiya:Serbiya NP-TOP ; ! "Serbia"
+Kosova:Kosova NP-TOP ; ! "Kosova"
+Xorvatiya:Xorvatiya NP-TOP ; ! "Croatia"
+Belgrad:Belgrad NP-TOP ; ! "Belgrad"
+Serb:Serb N1 ; ! "Serbian"
+Serb:Serb A1 ; ! "Serbian"
+Albaniya:Albaniya NP-TOP ; ! "Albania"
+Chernogoriya:Chernogoriya NP-TOP ; ! "Montenegro"
+Bolgariya:Bolgariya NP-TOP ; ! "Bulgaria"
+Ruminiya:Ruminiya NP-TOP ; ! "Romania"
+Yunoniston:Yunoniston NP-TOP ; ! "Greece"
 sivizgʻa:sivizgʻa N1 ; ! 0.9999994511743556
 sivizgʻachi:sivizgʻachi N1 ; ! 0.9999729743859611
 sivilizatsiyali:sivilizatsiyali A2 ; ! 0.9999999997746419
@@ -25371,17 +25506,19 @@ soʻlchilik:soʻlchilik N1 ; ! 0.9999999982359055
 soʻmlab:soʻmlab ADV ; ! 0.99912252891974
 soʻmlik:soʻmlik N1 ; ! 0.9932402856755685
 soʻmli:soʻmli N1 ; ! 0.6976717119056961
-soʻm:soʻm N1 ; ! 0.9999707245178882
-soʻm:soʻm N1 ; ! 0.9999991353659826
-soʻm:soʻm N1 ; ! 0.9999999965417967
+soʻm:soʻm N1 ; ! "sum currency"
+soʻm:soʻm A1 ; ! "the best"
 soʻna:soʻna A2--V ; ! 0.7617449152660457
 soʻna:soʻna N1 ; ! 0.9999999971692701
 soʻngak:soʻngak N1 ; ! 0.9999944520762573
 soʻnggi:soʻnggi A1 ; ! "final"
 soʻnggi:soʻnggi ADV1 ; ! "the last"
-soʻnggi:soʻnggi N1 ; ! 0.5836139326871445
+soʻnggida:soʻnggida ADV1 ; ! "lastly"
+! soʻnggi:soʻnggi N1 ; ! 0.5836139326871445
+soʻngra:soʻngra A1 ; ! "next"
 soʻngra:soʻngra CA ; ! "afterwards"
 soʻngra:soʻngra N1 ; ! 0.9999999921396968
+soʻngra:soʻngra ADV ; ! "later"
 soʻngsiz:soʻngsiz A1 ; ! 0.9999963102670268
 soʻng:soʻng ADV ; ! 0.4935114082661687
 soʻng:soʻng ADV1 ; !
@@ -25496,7 +25633,7 @@ sogʻinchli:sogʻinchli A2 ; ! 0.9999999918650236
 sogʻinch:sogʻinch N1 ; ! 0.9999999999957349
 sogʻish:sogʻish V-IV-COOP ; ! 0.5389538378466228
 sogʻlantir:sogʻlantir V-TV-CAUS ; ! 0.9999999965039374
-sogʻlik:sogʻlik N1 ; ! 0.9999999999979708
+sogʻlik:sogʻlik N1 ; ! "health", "healthyness"
 sogʻliq:sogʻliq N1 ;  ! ! "health"
 sogʻlomlanmok:sogʻlomlanmok A2 ; ! 0.990721438626547
 sogʻlomlantir:sogʻlomlantir V-TV-CAUS ; ! 0.9999999997828866
@@ -25619,8 +25756,8 @@ somsapazlik:somsapazlik N1 ; ! 0.999999999971853
 somsapaz:somsapaz N1 ; ! 0.9999996801309038
 somsa:somsa N1 ; ! 0.9999997021010849
 somsafurush:somsafurush N1 ; ! 0.999999794401959
-som:som N1 ; ! 0.9972294808876716
-som:som N1 ; ! 0.9999999982117823
+som:som N1 ; ! "sum currency"
+rubl:rubl N1 ; ! "ruble currency"
 sona:sona N1 ; ! 0.9999999955967426
 soniya:soniya N1 ; ! 0.9999999999100084
 sonli:sonli A1 ; ! "numbered"
@@ -26426,8 +26563,8 @@ tavallo:tavallo N1 ; ! 0.9321382518009814
 tavallud:tavallud A1 ; !
 tavallud:tavallud N1 ; ! 0.9999988796395813
 tavallud:tavallud N1 ; ! "birth"
-tavallud% top:tavallud% top VERB-IV ; ! Use/MT
-tavallud% top:tavallud% top VERB-IV ; ! "to derive" Use/MT
+tavallud% top:tavallud% top VERB-TV ; ! Use/MT
+tavallud% top:tavallud% top VERB-TV ; ! "to derive" Use/MT
 tavanboshi:tavanboshi N1 ; ! 0.9999999674829276
 tavan:tavan N1 ; ! 0.9999959943165893
 tavanxona:tavanxona N1 ; ! 0.9999999999452623
@@ -26616,9 +26753,10 @@ takomillashtir:takomillashtir V-TV-CAUS ; ! 0.9996177536200438
 takomillashtir:takomillashtir V-TV-CAUS ; ! 0.9999999995816368
 takomillik:takomillik N1 ; ! 0.999999999999409
 takomil:takomil N1 ; ! 0.999959838171627
-takroran:takroran A2 ; ! 0.9898482163572642
-takroriy:takroriy A2 ; ! 0.9999999604065046
-takrorlan:takrorlan V-IV-REFL ; ! 0.999999995867323
+! takroran:takroran A2 ; ! 0.9898482163572642 ! Not an adjective!.
+takroran:takroran ADV1 ; ! "again"
+takroriy:takroriy A2 ; ! "repeated"
+takrorlan:takrorlan V-IV-REFL ; ! "prepare"
 takrorla:takrorla VERB-TV ; ! "to repeat"
 takrorla:takrorla V-TV ; ! 0.9999999902607094
 takrorlat:takrorlat V-TV-CAUS ; ! 0.9999999961199909
@@ -26695,7 +26833,7 @@ taqlidchi:taqlidchi N1 ; ! 0.9994874480678324
 taqmilla:taqmilla V-TV ; ! 0.9999999148076955
 taqovul:taqovul N1 ; ! 0.9624093416103305
 taqozo:taqozo N1 ; ! 0.9999917698835693
-taqriban:taqriban ADV ; ! 0.9694623714839412
+taqriban:taqriban ADV ; ! "approximately"
 taqribiy:taqribiy A2 ; ! 0.994073235419613
 taqrizchi:taqrizchi N1 ; ! 0.9999998530173775
 taqrir:taqrir N1 ; ! 0.9999999997204608
@@ -26814,7 +26952,8 @@ tamkin:tamkin N1 ; ! 0.9999999999646279
 tamli:tamli A2 ; ! 0.9999980832415891
 tamoyil:tamoyil N1 ; ! 0.9999999921498179
 tamoyil:tamoyil N1 ; ! "tendency"
-tamoman:tamoman ADV ; ! 0.9999994081097868
+tamoman:tamoman ADV ; ! "completely"
+tamomila:tamomila ADV ; ! "completely"
 tamomlan:tamomlan V-TV ; ! 0.99564536414941
 tamomla:tamomla VERB-TV ; ! "to complete"
 tamomla:tamomla V-TV ; ! 0.999999962641262
@@ -27341,7 +27480,7 @@ tashlandi:tashlandi A2 ; ! 0.9999999224992098
 tashlanil:tashlanil V-TV ; ! 0.9430221136676139
 tashlan:tashlan VERB-IV ; ! "to attack"
 tashlan:tashlan V-IV-REFL ; ! 0.9994028409676743
-tashla:tashla VERB-TV ; ! "to throw"
+tashla:tashla VERB-TV ; ! "to throw, to pass"
 tashla:tashla V-TV ; ! 0.9981815707849406
 tashlat:tashlat V-TV-CAUS ; ! 0.9999999782056977
 tashlattir:tashlattir V-TV-CAUS ; ! 0.9999998303564148
@@ -27489,6 +27628,7 @@ tezpishar:tezpishar A2 ; ! 0.878218596657174
 tez:tez A2 ; ! 0.7336833310481236
 tez:tez ADV2 ; ! "fast"
 tez%-tez:tez%-tez N1 ; ! 0.925819318882029
+tez%-tez:tez%-tez ADV ; ! "often"
 tezuchar:tezuchar N1 ; ! 0.9991719672173889
 tekinga:tekinga ADV ; ! 0.9998964406668422
 tekinlik:tekinlik N1 ; ! 0.9999999836987433
@@ -27737,7 +27877,9 @@ terchila:terchila V-IV ; ! 0.9999999904143826
 teskarilan:teskarilan V-IV ; ! 0.9999784594435195
 teskarilash:teskarilash V-IV ; ! 0.9999998299139138
 teskarilik:teskarilik N1 ; ! 0.9999999993927147
-teskarisiga:teskarisiga N1 ; ! 0.9999780203656898
+! teskarisiga:teskarisiga N1 ; ! 0.9999780203656898 ! Not a Noun!
+teskarisiga:teskarisiga ADV1 ; ! "backwards"
+teskarisiga:teskarisiga CA ; ! "backwards"
 teskarisicha:teskarisicha N1 ; ! 0.999999980516223
 teskari:teskari A1 ;! "reverse"
 teskari:teskari A2 ; ! 0.8692765931462592
@@ -27944,7 +28086,7 @@ timdala:timdala V-TV ; ! 0.7868921487920912
 timdalat:timdalat V-TV-CAUS ; ! 0.9999999716740063
 timdalash:timdalash V-TV-COOP ; ! 0.3994908685296089
 time:time N1 ; !
-timsol:timsol N1 ; ! 0.9999999999893076
+timsol:timsol N1 ; ! "representation"
 timsox:timsox N1 ; ! 0.9999999847391573
 timtiq:timtiq N1 ; ! 0.9999998069238143
 tim:tim N1 ; ! 0.9914151490808398
@@ -28206,7 +28348,7 @@ toʻgʻram:toʻgʻram N1 ; ! 0.9999999684100174
 toʻgʻra:toʻgʻra V-TV ; ! 0.6182852201337425
 toʻgʻrat:toʻgʻrat V-TV-CAUS ; ! 0.9999999380850051
 toʻgʻrash:toʻgʻrash V-IV-COOP ; ! 0.6504371147271881
-toʻgʻridan%-toʻgʻri:toʻgʻridan%-toʻgʻri ADV ; ! 0.9994509061183093
+toʻgʻridan%-toʻgʻri:toʻgʻridan%-toʻgʻri ADV ; ! "directly"
 toʻgʻrida:toʻgʻrida # ; ! 0.8690630161752387
 toʻgʻrilab:toʻgʻrilab ADV ; ! 0.9999999998685686
 toʻgʻrilagich:toʻgʻrilagich N1 ; ! 0.9999999999179822
@@ -28468,6 +28610,7 @@ toʻpori:toʻpori N1 ; ! 0.99999999900831
 toʻpotar:toʻpotar N1 ; ! 0.9999999998896677
 toʻppay:toʻppay V-TV-CAUS ; ! 0.5652915436554842
 toʻppa%-toʻgʻri:toʻppa%-toʻgʻri A2 ; ! 0.9748150353225933
+toʻppa%-toʻgʻri:toʻppa%-toʻgʻri ADV ; ! "downright"
 toʻppa%-toʻsindan:toʻppa%-toʻsindan ADV ; ! 0.7343173955394733
 toʻppi:toʻppi N1 ; ! 0.802010048230705
 toʻpponcha:toʻpponcha A2 ; ! 0.9994891047228043
@@ -28555,7 +28698,8 @@ toʻxtat:toʻxtat V-TV-CAUS ; ! 0.9985940430098027
 toʻxtat:toʻxtat V-TV-CAUS ; ! 0.9999663692292681
 toʻxtash:toʻxtash V-IV-COOP ; ! 0.9999516279426424
 toʻxtovsiz:toʻxtovsiz A1 ; ! 0.9999999999999901
-toʻshak:toʻshak A2 ; ! 0.9944008705371169
+toʻxtovsiz:toʻxtovsiz ADV; ! "non-stop"
+toʻshak:toʻshak N1 ; ! "matrass"
 toʻshal:toʻshal V-TV-CAUS ; ! 0.7759270349747099
 toʻshama:toʻshama N1 ; ! 0.999999228620361
 toʻsha:toʻsha V-TV ; ! 0.9988912328941846
@@ -29049,7 +29193,7 @@ tugʻdoq:tugʻdoq N1 ; ! 0.9100923843076577
 tugʻdor:tugʻdor N1 ; ! 0.9998585715131177
 tugʻyon:tugʻyon N1 ; ! 0.9999999999586192
 tugʻyon:tugʻyon N1 ; ! "turmoil"
-tugʻil:tugʻil VERB-IV ; ! "" "to born"
+tugʻil:tugʻil VERB-TV ; ! "" "to born"
 tugʻil:tugʻil V-IV-REFL ; ! 0.9999997066157568
 tugʻishgan:tugʻishgan N1 ; ! 0.9606649011997337
 tugʻma:tugʻma A2 ; ! 0.9999982276076803
@@ -29288,7 +29432,7 @@ turkologiya:turkologiya N1 ; ! 0.9999922148687272
 turkona:turkona N1 ; ! 0.9887373649869973
 turk:turk N1-NAT ; ! 0.9999983976885147
 Turk:Turk N1-NAT ; ! "Turk"
-turk:turk N1 ; ! "turk" NOT SURE
+turk:Turk N1 ; ! "turk" NOT SURE
 turkumla:turkumla V-TV ; ! 0.999999999447078
 turkum:turkum N1 ; ! 0.9999999999980299
 turkum:turkum N1 ; ! "group"
@@ -29440,6 +29584,7 @@ tufaylidan:tufaylidan N1 ; ! 0.9081506118818583
 tufayli:tufayli A2 ; ! 0.9994889791322332
 tufayli:tufayli N1 ; ! 0.9861401626745055
 tufayli:tufayli POST-NOM ; ! "because of"
+tufayli:tufayli CS ; ! "because of"
 tufdon:tufdon N1 ; ! 0.9999999529507525
 tufla:tufla V-IV ; ! 0.9843501590431317
 tuflash:tuflash V-IV-COOP ; ! 0.9903822361612622
@@ -29638,7 +29783,7 @@ uzoqlash:uzoqlash VERB-IV ; ! ""
 uzoq:uzoq A1 ; ! "far"
 uzoq:uzoq N1 ; ! 0.9999986022663345
 uzor:uzor N1 ; ! 0.9922469518799655
-uzra:uzra N1 ; ! 0.9999997779148863
+uzra:uzra ADV ; ! "over"
 uzrlilik:uzrlilik N1 ; ! 0.9999999984358944
 uzrli:uzrli A2 ; ! 0.9999999997578867
 uzr%-ma’zur:uzr%-ma’zur N1 ; ! 0.9863866304002737
@@ -29840,7 +29985,7 @@ ulugʻlash:ulugʻlash V-IV-COOP ; ! 0.5365619472265065
 ulugʻsifatlik:ulugʻsifatlik N1 ; ! 0.9999999999907506
 ulugʻ:ulugʻ A1 ; ! "great"
 ulugʻ:ulugʻ N1 ; ! 0.9999999999997932
-ulug:ulug A1 ; !
+! ulug:ulug A1 ; ! This is a typo?
 ul:ul N1 ; ! 0.9452108541475877
 ul:ul N1 ; ! "son"
 ulum:ulum N1 ; ! 0.9999989282160745
@@ -29885,7 +30030,7 @@ umr:umr N1 ; ! 0.9999999633767922
 umr:umr N1 ; ! "life"
 umsun:umsun V-IV ; ! 0.9897370650171665
 umuman:umuman ADV1 ; ! "in general"
-umuman:umuman N1 ; ! 0.9180890603105085
+!  umuman:umuman N1 ; ! 0.9180890603105085 ! Not a Noun!
 umumbashar:umumbashar A2 ; ! 0.9998795983224138
 umumdavlat:umumdavlat N1 ; ! 0.6699080058925009
 umumdemokratik:umumdemokratik A2 ; ! 0.9999999640660214
@@ -30199,7 +30344,7 @@ uchuq:uchuq N1 ; ! 0.9943808554920285
 uchuq:uchuq N1 ; ! 0.9999996776772507
 uchuniq:uchuniq N1 ; ! 0.9999999997881416
 uchun:uchun V-IV ; ! 0.9346004756564485
-uchun:uchun N1 ; ! 0.9926099302313344
+! uchun:uchun N1 ; ! 0.9926099302313344  Not a noun!
 uchun:uchun POST-NOM ; ! "for/because"
 uchuryq:uchuryq N1 ; ! 0.9999785498552338
 uch:uch VERB-IV ; ! "to fly"
@@ -30394,8 +30539,10 @@ farqlan:farqlan VERB-IV ; !
 farqlan:farqlan V-IV-REFL ; ! 0.9999941913887613
 farqla:farqla VERB-TV ; !
 farqla:farqla V-TV ; ! 0.9794938918792226
-farqli:farqli A1 ; ! "differently"
+farqli:farqli A1 ; ! "different"
 farqli:farqli A2 ; ! 0.9999999999399777
+farqli% oʻlaroq:farqli% oʻlaroq CA ; ! "unlike"
+
 farqsiz:farqsiz A1 ; ! 0.9988668638803546
 farq:farq N1 ; ! 0.9976137102717959
 farq:farq N1 ; ! 0.9999999833265677
@@ -30476,8 +30623,7 @@ fashistlashtir:fashistlashtir V-TV-CAUS ; ! 0.9999977185936842
 fashist:fashist N1 ; ! 0.9999999979364836
 fashistcha:fashistcha A1 ; ! 0.8205134306893932
 faeton:faeton N1 ; ! 0.9998743070619323
-fevral:fevral N1 ; ! 0.999999910273539
-fevral:fevral N1 ; ! "february"
+fevral:Fevral N1 ; ! "february"
 Fevral:Fevral N1 ; ! "February"
 federalizatsiya:federalizatsiya N1 ; ! 0.9999999999980103
 federativ:federativ A2 ; ! 0.9989029033485387
@@ -30549,7 +30695,7 @@ fikrdosh:fikrdosh N1 ; ! 0.9999999912521778
 fikr%-yod:fikr%-yod N1 ; ! 0.9997545144415974
 fikriy:fikriy N1 ; ! 0.9959825279850486
 fikricha:fikricha CA ; ! ""
-fikricha:fikricha ADV1 ; !
+fikricha:fikricha ADV1 ; !  "according to the idea"
 fikrla:fikrla V-TV ; ! 0.9999999999920509
 fikrlashil:fikrlashil V-TV ; ! 0.9987499868575451
 fikrlashuv:fikrlashuv N1 ; ! 0.9892461407601384
@@ -30559,7 +30705,8 @@ fikrlovchi:fikrlovchi N1 ; ! 0.999975400743587
 fikrsiz:fikrsiz A1 ; ! 0.9999991386614747
 fikr:fikr N1 ; ! "idea"
 fikr:fikr N1 ; ! "thought/idea"
-fikr%-xayel:fikr%-xayel N1 ; ! 0.9763115925592887
+! fikr%-xayel:fikr%-xayel N1 ; ! 0.9763115925592887
+fikr%-xayol:fikr%-xayol N1 ; ! "thought"
 fiksaj:fiksaj N1 ; ! 0.9999999696934435
 fiqrli:fiqrli A2 ; ! 0.9999999997600882
 fiqr:fiqr N1 ; ! 0.9999386483082933
@@ -30830,8 +30977,8 @@ fusaho:fusaho N1 ; ! 0.999848108698399
 fusun:fusun A2 ; ! 0.9754592615207676
 fusun:fusun N1 ; ! 0.9999999998123583
 futa:futa N1 ; ! 0.999999829176229
-futbol:futbol N1 ; ! 0.9914710186346196
 futbol:futbol N1 ; ! "football"
+futbolchi:futbolchi N1 ; ! "football player"
 futbolchi:futbolchi N1 ; ! 0.9999999999996306
 futurizm:futurizm N1 ; ! 0.9999999874040144
 futurist:futurist N1 ; ! 0.9999999946548505
@@ -31593,7 +31740,7 @@ xuvari:xuvari N1 ; ! 0.9999999970960585
 xudbinlik:xudbinlik N1 ; ! 0.9999999999836043
 xudbin:xudbin N1 ; ! 0.9455440981655954
 xud%-vexud:xud%-vexud A2 ; ! 0.9989570353374793
-xuddi:xuddi ADV3 ; ! "nearly"
+aynanuddi ADV3 ; ! "nearly"
 xuddi:xuddi N1 ; ! 0.617075518567076
 xudkomlik:xudkomlik N1 ; ! 0.99999992689239
 xudkom:xudkom N1 ; ! 0.9999930033108709
@@ -32078,6 +32225,7 @@ halimxona:halimxona N1 ; ! 0.9999999999238234
 halitdan:halitdan ADV ; ! 0.9999882263903339
 hali:hali A2 ; ! 0.9978478319506465
 hali:hali ADV3 ; ! "a while ago"
+hali:hali ADV ; ! "still"
 hali%-hali:hali%-hali A2 ; ! 0.9937234885876963
 halqalan:halqalan V-IV-REFL ; ! 0.9999998795265971
 halqala:halqala V-IV ; ! 0.9936396168341748
@@ -32163,7 +32311,7 @@ hamiyatsiz:hamiyatsiz A1 ; ! 0.9999999999977541
 hamkasaba:hamkasaba N1 ; ! 0.9998675438616393
 hamkasb:hamkasb N1 ; ! 0.9985169448418438
 hamkorlik:hamkorlik N1 ; ! 0.9999999999999852
-hamkorlik:hamkorlik N1 ;  ! "partnership
+hamkorlik:hamkorlik N1 ;  ! "partnership"
 hamkor:hamkor N1 ; ! 0.9999999615794828
 hamkurs:hamkurs N1 ; ! 0.9988302517735335
 hamqishloq:hamqishloq N1 ; ! 0.9999978437571168
@@ -32194,7 +32342,8 @@ hamovoz:hamovoz A1 ; ! 0.37413488774828374
 hamoqat:hamoqat N1 ; ! 0.9999999059820204
 hamonki:hamonki CS ; ! 0.7253472637084318
 hamono:hamono N1 ; ! 0.9619308192301831
-hamon:hamon N1 ; ! 0.9820005644972404
+! hamon:hamon N1 ; ! 0.9820005644972404
+hamon:hamon N1 ; ! "still"
 hamohanglik:hamohanglik N1 ; ! 0.9999999796725275
 hamohang:hamohang A2 ; ! 0.9995252597852061
 hamroz:hamroz N1 ; ! 0.9999984303794857
@@ -32238,7 +32387,8 @@ hansirat:hansirat V-TV-CAUS ; ! 0.9999999966838516
 hansira:hansira V-IV ; ! 0.9999997449891653
 hansirash:hansirash N1-VN ; ! 0.9957097740427089
 hanuzgacha:hanuzgacha N1 ; ! 0.9460464833362876
-hanuz:hanuz N1 ; ! 0.9998119465961552
+! hanuz:hanuz N1 ; ! 0.9998119465961552 ! Not a noun!
+hanuz:hanuz ADV ; ! "still"
 hapillat:hapillat V-TV ; ! 0.5774422508931437
 hapqat:hapqat N1 ; ! 0.9998825518018718
 happa%-halol:happa%-halol A2 ; ! 0.9383116532360153
@@ -32254,6 +32404,7 @@ harakatlan:harakatlan V-IV ; ! 0.9999995605482987
 harakatli:harakatli A2 ; ! 0.9999995485828995
 harakat:harakat N1 ; ! 0.9999999999999901
 harakat:harakat N1 ; ! "movement"
+harakat% qil:harakat% qil V-TV ; ! "try"
 harakatchanlik:harakatchanlik N1 ; ! 0.9999999999997784
 harakatchan:harakatchan A2 ; ! 0.9999999990941251
 harakatsizlik:harakatsizlik N1 ; ! 0.9999999999999705
@@ -32324,6 +32475,7 @@ har:har DET-DEM ; ! "each"
 har:har N1 ; ! 0.5070062450926205
 har% holda:har% holda CA ; ! ""
 har% holda:har% holda CA ; ! "after all"
+har% holda:har% holda ADV ; ! "presumably"
 harchand:harchand CS ; ! 0.9098100800980948
 hasadgoʻylik:hasadgoʻylik N1 ; ! 0.9999992114408084
 hasadgoʻy:hasadgoʻy N1 ; ! 0.9687572648435786
@@ -32609,6 +32761,7 @@ hozirlik:hozirlik N1 ; ! 0.9999999999993646
 hozir:hozir A1 ; ! "ready"
 hozir:hozir A2 ; ! 0.9992341335935375
 hozir:hozir ADV3 ; ! "now"
+hozirda:hozirda ADV ; ! "currently"
 hozirchalik:hozirchalik N1 ; ! 0.9999984648620857
 hozircha:hozircha ADV ; ! 0.5909645187329523
 hoz:hoz MIST ; ! ""
@@ -33918,7 +34071,8 @@ chor:chor N1 ; ! 0.9999597004785176
 chor:chor N1 ; ! 0.9999979334606828
 chor:chor N1 ; ! 0.999999983926564
 chorchup:chorchup N1 ; ! 0.9999999719790921
-chorshanba:chorshanba N1 ; ! 0.9999998865785761
+chorshanba:Chorshanba N1 ; ! "Wednesday"
+Chorshanba:Chorshanba N1 ; ! "Wednesday"
 chotir:chotir N1 ; ! 0.9998389065956226
 chot:chot N1 ; ! 0.999999999781734
 chox:chox N1 ; ! 0.9999722362354373
@@ -34267,7 +34421,8 @@ sham:sham N1 ; ! 0.999999267527194
 shamshir:shamshir N1 ; ! 0.9999997971463954
 shamshod:shamshod A2 ; ! 0.8362431860501236
 shanbalik:shanbalik N1 ; ! 0.9999974126985487
-shanba:shanba N1 ; ! 0.9996941849664339
+shanba:Shanba N1 ; ! "Saturday"
+Shanba:Shanba N1 ; ! "Saturday"
 shangʻillat:shangʻillat V-TV-CAUS ; ! 0.9999999975516112
 shangʻilla:shangʻilla V-TV ; ! 0.8662021685252265
 shangʻi:shangʻi N1 ; ! 0.9994398692531125
@@ -34527,7 +34682,8 @@ sheva:sheva N1 ; ! 0.9999998587819238
 sheva:sheva N1 ; ! 0.9999999874242665
 sheviot:sheviot N1 ; ! 0.999999994882937
 shevro:shevro N1 ; ! 0.9999939240012684
-shekilli:shekilli N1 ; ! 0.35711395827941517
+! shekilli:shekilli N1 ; ! 0.35711395827941517 ! Not a Noun!
+shekilli:shekilli ADV ; ! "seemingly"
 shekil:shekil N1 ; ! 0.9939883061871662
 sheluxa:sheluxa N1 ; ! 0.9999999971001315
 shemaya:shemaya N1 ; ! 0.9999999988847096
@@ -35195,19 +35351,21 @@ shum:shum A2 ; ! 0.9940284187637555
 shunaqangi:shunaqangi A2 ; ! 0.9730585370665334
 shunaqasi:shunaqasi A2 ; ! 0.9038238250047863
 shunaqa:shunaqa N1 ; ! 0.9523368741449663
-shunga:shunga N1 ; ! 0.9998718366317693
+! shunga:shunga N1 ; ! 0.9998718366317693
+shunga:shunga ADV ; ! "thus"
 shung:shung N1 ; ! 0.999999845884452
 shundaiicha:shundaiicha N1 ; ! 0.9858474474649
 shundayin:shundayin # ; ! 0.6037123539697133
 shundayligicha:shundayligicha N1 ; ! 0.9434291225996807
 shunday:shunday # ; ! 0.9175713859301576
 shunday:shunday ADV3 ; ! "in that way"
-shundan:shundan N1 ; ! 0.9989717187555343
+! shundan:shundan N1 ; ! 0.9989717187555343
+shundan:shundan ADV ; ! "thus"
 shunda:shunda N1 ; ! 0.9999553741442607
 shundoq:shundoq N1 ; ! 0.745233999394598
 shuningdek:shuningdek CA ; ! "likewise"
 shuningdek:shuningdek N1 ; ! 0.3833576278156454
-shuning% uchun:shuning% uchun CA ; ! ""
+shuning% uchun:shuning% uchun ADV1 ; ! "that's why"
 shunqor:shunqor N1 ; ! 0.9999999584169191
 shunchayiki:shunchayiki N1 ; ! 0.9875386472456255
 shunchayin:shunchayin N1 ; ! 0.9993078041608568
@@ -35219,6 +35377,11 @@ shurup:shurup N1 ; ! 0.9999996932492176
 shuru’:shuru’ N1 ; ! 0.9999913557056277
 shu% sababdan:shu% sababdan CA ; ! ""
 shu% sababli:shu% sababli CA ; ! "hence"
+shu% kunlarda:shu% kunlarda ADV ; ! "nowadays"
+shu% tariqa:shu% tariqa ADV ; ! "so"
+oxirgi% kunlarda:oxirgi% kunlarda ADV ; ! "lately"
+soʻngi% kunlarda:soʻngi% kunlarda ADV ; ! "lately"
+soʻngi% paytlarda:soʻngi% paytlarda ADV ; ! "lately"
 shuuriy:shuuriy N1 ; ! 0.7459824675315132
 shuurly:shuurly N1 ; ! 0.9998026783970538
 shuursiz:shuursiz N1 ; ! 0.9215858482836685
@@ -35324,7 +35487,6 @@ egri:egri A2 ; ! 0.9779356893240784
 edik:edik N1 ; ! 0.9999873285702601
 edingiz:edingiz N1 ; ! 0.9936020297650058
 eding:eding N1 ; ! 0.9999982492908169
-edi:edi N1 ; ! 0.9999932888947288
 ejikilamoq:ejikilamoq N1 ; ! 0.9915256223421799
 ezgʻila:ezgʻila V-TV ; ! 0.9999983090949455
 ezgin:ezgin A2 ; ! 0.9918081851431789
@@ -35538,24 +35700,26 @@ elomon:elomon N1 ; ! 0.9999998240659955
 elparvar:elparvar N1 ; ! 0.9958066231641189
 elsevar:elsevar N1 ; ! 0.7200672089833778
 eltil:eltil V-TV ; ! 0.9013497253580697
-eltmoq:eltmoq N1 ; ! 0.6475634967128101
+elt:elt V-TV ; ! "deliver"
 eltmoq:eltmoq N1 ; ! 0.7426887490316068
 el%-ulus:el%-ulus N1 ; ! 0.769220676155661
 el%-urugʻ:el%-urugʻ N1 ; ! 0.9281506570428507
 elfurush:elfurush N1 ; ! 0.9999999987189747
 elchilik:elchilik N1 ; ! 0.9999999995851189
 elchilik:elchilik N1 ; ! 0.9999999999999409
-elchixona:elchixona N1 ; ! 0.999999999966061
-elchi:elchi N1 ; ! 0.999999999967977
-el:el N1 ; ! 0.9999987947561687
+elchixona:elchixona N1 ; ! "embassy"
+elchi:elchi N1 ; ! "postman"
+elchi:Elchi N1 ; ! "ambassador"
+Elchi:Elchi N1 ; ! "ambassador"
+el:el N1 ; ! "nation"
 el:el N1 ; ! "people"
 el%-yurt:el%-yurt N1 ; ! 0.999774412826534
 emakdosh:emakdosh N1 ; ! 0.9998735180190271
-emakla:emakla V-TV ; ! 0.999883556085782
+emakla:emakla V-TV ; ! "crawl"
 emanzor:emanzor N1 ; ! 0.9999982706242326
-eman:eman A2 ; ! 0.9966668192122807
+eman:eman N1 ; ! "type of a tree"
 ! emas:emas A1 ; ! 0.9054339171908455
-! emas:emas A1 ; !
+emas:emas ADV ; ! "not"
 embriologik:embriologik A2 ; ! 0.9999986185623088
 embriologiya:embriologiya N1 ; ! 0.9988856519753601
 embrional:embrional N1 ; ! 0.7743796248155471
@@ -35978,7 +36142,7 @@ eshittir:eshittir V-TV-CAUS ; ! 0.9999999999906325
 eshituvchi:eshituvchi N1 ; ! 0.9980570730864023
 eshit:eshit VERB-TV ; ! "to hear"
 eshit:eshit V-IV ; ! 0.8266280442810705
-eshit:eshit N1 ; !
+! eshit:eshit N1 ; ! There is no such noun
 eshkakli:eshkakli A2 ; ! 0.999999999983555
 eshkakchi:eshkakchi N1 ; ! 0.9999999997681063
 eshkak:eshkak N1 ; ! 0.9999736344296678
@@ -36086,7 +36250,8 @@ yuzta:yuzta N1 ; ! 0.9866183529263054
 yuzuk:yuzuk N1 ; ! 0.9999998432294283
 yuz%-xotirchilik:yuz%-xotirchilik N1 ; ! 0.9999942061824015
 yuz%-xotir:yuz%-xotir N1 ; ! 0.9993336623484967
-yuz:yuz VERB-IV ; ! "to swim"
+! yuz:yuz VERB-IV ; ! "to swim" ! Typo?
+suz:suz VERB-IV ; ! "to swim" 
 yuz:yuz V-TV-CAUS ; ! 0.9517351990354423
 yuz:yuz N1 ; ! 0.9999953683441427
 yuz:yuz N1 ; ! 0.9999993813888767
@@ -36216,10 +36381,10 @@ yundi:yundi N1 ; ! 0.5855107572294064
 yunker:yunker N1 ; ! 0.999998645227668
 yunker:yunker N1 ; ! 0.9999999999468483
 yunoncha:yunoncha N1-NAT ; ! 0.8486271212930225
-yunon:yunon A2 ; ! 0.6456598679911454
+! yunon:yunon A2 ; ! 0.6456598679911454
 yunon:yunon N1 ; ! "greek"
 Yunon:Yunon N1 ; ! "greek"
-Yunon:Yunon N1 ; ! "Greek"
+yunon:Yunon N1 ; ! "Greek"
 yun:yun ABBR ; !
 yupanishmoq:yupanishmoq N1 ; ! 0.9146880415714956
 yupantir:yupantir V-TV-CAUS ; ! 0.9999999999993104
@@ -36387,12 +36552,13 @@ yakunlovchi:yakunlovchi N1 ; ! 0.637053803333002
 yakun:yakun N1 ; ! 0.9999999980657529
 yakun:yakun N1 ; ! "result, end"
 yakut:yakut N1 ; ! 0.9894181183537496
-yakshanbaliq:yakshanbaliq N1 ; ! 0.9999999994504368
-yakshanba:yakshanba N1 ; ! 0.9999156791145025
+yakshanbalik:yakshanbalik N1 ; ! 0.9999999994504368
+yakshanba:Yakshanba N1 ; ! "Sunday"
+Yakshanba:Yakshanba N1 ; ! "Sunday"
 yak:yak N1 ; ! 0.9999038406703293
 yaqindagi:yaqindagi A2 ; ! 0.9999772412354734
 yaqindan:yaqindan A2 ; ! 0.5879375857206048
-yaqinda:yaqinda ADV ; ! 0.9214279059078085
+yaqinda:yaqinda ADV ; ! "recently"
 yaqinidan:yaqinidan N1 ; ! 0.9999885384040564
 yaqinida:yaqinida N1 ; ! 0.9999973532300573
 yaqinlan:yaqinlan V-IV ; ! 0.8153044212975801
@@ -36517,8 +36683,7 @@ yanagi:yanagi A2 ; ! 0.981893060680912
 yanada:yanada ADV1 ; ! "and yet"
 yana:yana A1 ; ! 0.7251485337885802
 yana:yana ADV3; ! "again"
-yanvar:yanvar N1 ; ! 0.9995761431516671
-yanvar:yanvar N1 ; ! "January"
+yanvar:Yanvar N1 ; ! "January"
 Yanvar:Yanvar N1 ; ! "January"
 yanga:yanga N1 ; ! 0.9999999999830429
 yangidan:yangidan N1 ; ! 0.975619787630088
@@ -36722,7 +36887,8 @@ yashillan:yashillan V-IV ; ! 0.9999988772285816
 yashillik:yashillik N1 ; ! 0.9999999369093353
 yashil:yashil A1 ; ! "green"
 yashil:yashil N1 ; ! 0.9999936580703643
-yashinmachoq:yashinmachoq N1 ; ! 0.9999981045017577
+yashinmachoq:yashinmachoq N1 ; ! 0.9999981045017577 ! "Hide-and-seek"
+yashirinmachoq:yashirinmachoq N1 ; ! "Hide-and-seek"
 yashin%-topa:yashin%-topa V-TV-CAUS ; ! 0.9386492546215929
 yashin:yashin N1 ; ! 0.9998179636692877
 yashiriqlik:yashiriqlik A2 ; ! 0.9964927796608264
@@ -36834,8 +37000,194 @@ LEXICON Punctuation
 
 LEXICON Proper
 
+
+ABC:ABC  NP-ORG ; ! "" ! El++
+Akchaabat% Sebatspor:Akchaabat% Sebatspor  NP-ORG ; ! "" ! El++
+AKTIY:AKTIY  NP-ORG ; ! "" ! El++
+Alibeykoyspor:Alibeykoyspor  NP-ORG ; ! "" ! El++
+Android:Android  NP-ORG ; ! "" ! El++
+Ankarakuchi:Ankarakuchi  NP-ORG ; ! "" ! El++
+Apple:Apple  NP-ORG ; ! "" ! El++
+Atletik% Bilbao:Atletik% Bilbao  NP-ORG ; ! "" ! El++
+Aviatsiya:Aviatsiya  NP-ORG ; ! "" ! El++
+AXL:AXL  NP-ORG ; ! "" ! El++
+Aydinspor:Aydinspor  NP-ORG ; ! "" ! El++
+Baidu:Baidu  NP-ORG ; ! "" ! El++
+Bakirkoʻyspor:Bakirkoʻyspor  NP-ORG ; ! "" ! El++
+Balikesirspor:Balikesirspor  NP-ORG ; ! "" ! El++
+Barselona:Barselona  NP-ORG ; ! "" ! El++
+Beshiktosh:Beshiktosh  NP-ORG ; ! "" ! El++
+Beshiktosh% JK:Beshiktosh% JK  NP-ORG ; ! "" ! El++
+Beta:Beta  NP-ORG ; ! "" ! El++
+Beyogluspor:Beyogluspor  NP-ORG ; ! "" ! El++
+Beypazari% Shekerspor:Beypazari% Shekerspor  NP-ORG ; ! "" ! El++
+billboard:billboard  NP-ORG ; ! "" ! El++
+Birlashgan% Millatlar:Birlashgan% Millatlar  NP-ORG ; ! "" ! El++
+Blumberg:Blumberg  NP-ORG ; ! "" ! El++
+BMTTD:BMTTD  NP-ORG ; ! "" ! El++
+Bolonya:Bolonya  NP-ORG ; ! "" ! El++
+Bundesliga:Bundesliga  NP-ORG ; ! "" ! El++
+CH:CH  NP-ORG ; ! "" ! El++
+Chagliari:Chagliari  NP-ORG ; ! "" ! El++
+Channakale% Dardanelspor:Channakale% Dardanelspor  NP-ORG ; ! "" ! El++
+Chaykur% Rizespor:Chaykur% Rizespor  NP-ORG ; ! "" ! El++
+CKP:CKP  NP-ORG ; ! "" ! El++
+CNBC:CNBC  NP-ORG ; ! "" ! El++
+Demokratik% Partiya:Demokratik% Partiya  NP-ORG ; ! "" ! El++
+Deportivo% La% Corunya:Deportivo% La% Corunya  NP-ORG ; ! "" ! El++
+Deutsche% Bank:Deutsche% Bank  NP-ORG ; ! "" ! El++
+DHKP%-C:DHKP%-C  NP-ORG ; ! "" ! El++
+Disney:Disney  NP-ORG ; ! "" ! El++
+Diyarbakirspor:Diyarbakirspor  NP-ORG ; ! "" ! El++
+DUK:DUK  NP-ORG ; ! "" ! El++
+DVR:DVR  NP-ORG ; ! "" ! El++
+EA:EA  NP-ORG ; ! "" ! El++
+EAR:EAR  NP-ORG ; ! "" ! El++
+Echo:Echo  NP-ORG ; ! "" ! El++
+Elazigspor:Elazigspor  NP-ORG ; ! "" ! El++
+Ergenekon:Ergenekon  NP-ORG ; ! "" ! El++
+Erkiyesspor:Erkiyesspor  NP-ORG ; ! "" ! El++
+Eskishaharspor:Eskishaharspor  NP-ORG ; ! "" ! El++
+Fenerbahche:Fenerbahche  NP-ORG ; ! "" ! El++
+Fenerbaxche% SK:Fenerbaxche% SK  NP-ORG ; ! "" ! El++
+Ferikoy:Ferikoy  NP-ORG ; ! "" ! El++
+FIFA:FIFA  NP-ORG ; ! "" ! El++
+FLUX:FLUX  NP-ORG ; ! "" ! El++
+Ford:Ford  NP-ORG ; ! "" ! El++
+Fotih% Karagumruk:Fotih% Karagumruk  NP-ORG ; ! "" ! El++
+Fox:Fox  NP-ORG ; ! "" ! El++
+FSB:FSB  NP-ORG ; ! "" ! El++
+Fulxem:Fulxem  NP-ORG ; ! "" ! El++
+Genchlerbirligi:Genchlerbirligi  NP-ORG ; ! "" ! El++
+Google:Google  NP-ORG ; ! "" ! El++
+Goztepe:Goztepe  NP-ORG ; ! "" ! El++
+GSYIH:GSYIH  NP-ORG ; ! "" ! El++
+HDP:HDP  NP-ORG ; ! "" ! El++
+Herald% Tribune:Herald% Tribune  NP-ORG ; ! "" ! El++
+IIV:IIV  NP-ORG ; ! "" ! El++
+Interpol:Interpol  NP-ORG ; ! "" ! El++
+iPhone:iPhone  NP-ORG ; ! "" ! El++
+IShID:IShID  NP-ORG ; ! "" ! El++
+Istanbul% BB:Istanbul% BB  NP-ORG ; ! "" ! El++
+Istanbul% Buyukshehir% Belediyespor:Istanbul% Buyukshehir% Belediyespor  NP-ORG ; ! "" ! El++
+Istanbulspor:Istanbulspor  NP-ORG ; ! "" ! El++
+Izmirspor:Izmirspor  NP-ORG ; ! "" ! El++
+Jenoa:Jenoa  NP-ORG ; ! "" ! El++
+JSST:JSST  NP-ORG ; ! "" ! El++
+Kahramanmarashspor:Kahramanmarashspor  NP-ORG ; ! "" ! El++
+KamAZ:KamAZ  NP-ORG ; ! "" ! El++
+Karabukspor:Karabukspor  NP-ORG ; ! "" ! El++
+Kardemir% Karabukspor:Kardemir% Karabukspor  NP-ORG ; ! "" ! El++
+Karshiyaka:Karshiyaka  NP-ORG ; ! "" ! El++
+Kasale:Kasale  NP-ORG ; ! "" ! El++
+Kasimpasha:Kasimpasha  NP-ORG ; ! "" ! El++
+Katania:Katania  NP-ORG ; ! "" ! El++
+Kathimerini:Kathimerini  NP-ORG ; ! "" ! El++
+KCK:KCK  NP-ORG ; ! "" ! El++
+Kechiorengucu:Kechiorengucu  NP-ORG ; ! "" ! El++
+Kelta% de% Vigo:Kelta% de% Vigo  NP-ORG ; ! "" ! El++
+Kelta% Vigo:Kelta% Vigo  NP-ORG ; ! "" ! El++
+Kent% FM:Kent% FM  NP-ORG ; ! "" ! El++
+Kirikkalespor:Kirikkalespor  NP-ORG ; ! "" ! El++
+KoA:KoA  NP-ORG ; ! "" ! El++
+Kommunistik% Partiya:Kommunistik% Partiya  NP-ORG ; ! "" ! El++
+La% Liga:La% Liga  NP-ORG ; ! "" ! El++
+LAMENT:LAMENT  NP-ORG ; ! "" ! El++
+Leeds% Yunayted:Leeds% Yunayted  NP-ORG ; ! "" ! El++
+Liverpul:Liverpul  NP-ORG ; ! "" ! El++
+Liverpul% FC:Liverpul% FC  NP-ORG ; ! "" ! El++
+Makfax:Makfax  NP-ORG ; ! "" ! El++
+Mallorka:Mallorka  NP-ORG ; ! "" ! El++
+Mehmon% Restorani:Mehmon% Restorani  NP-ORG ; ! "" ! El++
+Mersin% Idman% Yurdu:Mersin% Idman% Yurdu  NP-ORG ; ! "" ! El++
+MHP:MHP  NP-ORG ; ! "" ! El++
+Microsoft:Microsoft  NP-ORG ; ! "" ! El++
+MIT:MIT  NP-ORG ; ! "" ! El++
+Modesto:Modesto  NP-ORG ; ! "" ! El++
+MTI:MTI  NP-ORG ; ! "" ! El++
+MTV:MTV  NP-ORG ; ! "" ! El++
+NBA:NBA  NP-ORG ; ! "" ! El++
+Neapol:Neapol  NP-ORG ; ! "" ! El++
+NKVD:NKVD  NP-ORG ; ! "" ! El++
+Nokia:Nokia  NP-ORG ; ! "" ! El++
+Nyukastl:Nyukastl  NP-ORG ; ! "" ! El++
+Nyukastl% Yunayted:Nyukastl% Yunayted  NP-ORG ; ! "" ! El++
+Nyu%-York% Daily% News:Nyu%-York% Daily% News  NP-ORG ; ! "" ! El++
+Olimpiya:Olimpiya  NP-ORG ; ! "" ! El++
+Oltoy:Oltoy  NP-ORG ; ! "" ! El++
+Ozodlik:Ozodlik  NP-ORG ; ! "" ! El++
+Panzer:Panzer  NP-ORG ; ! "" ! El++
+PayPal:PayPal  NP-ORG ; ! "" ! El++
+PCK:PCK  NP-ORG ; ! "" ! El++
+PDY:PDY  NP-ORG ; ! "" ! El++
+Peskara:Peskara  NP-ORG ; ! "" ! El++
+Porto:Porto  NP-ORG ; ! "" ! El++
+Premer%-liga:Premer%-liga  NP-ORG ; ! "" ! El++
+Prix:Prix  NP-ORG ; ! "" ! El++
+PYD:PYD  NP-ORG ; ! "" ! El++
+Qirollik:Qirollik  NP-ORG ; ! "" ! El++
+Qiziloy:Qiziloy  NP-ORG ; ! "" ! El++
+Qutbilik:Qutbilik  NP-ORG ; ! "" ! El++
+Real% Sosedad:Real% Sosedad  NP-ORG ; ! "" ! El++
+Renault:Renault  NP-ORG ; ! "" ! El++
+Reuters:Reuters  NP-ORG ; ! "" ! El++
+RFA:RFA  NP-ORG ; ! "" ! El++
+Samsung:Samsung  NP-ORG ; ! "" ! El++
+Samsunspor:Samsunspor  NP-ORG ; ! "" ! El++
+Saragoza:Saragoza  NP-ORG ; ! "" ! El++
+Sariyer:Sariyer  NP-ORG ; ! "" ! El++
+SDD:SDD  NP-ORG ; ! "" ! El++
+SDG:SDG  NP-ORG ; ! "" ! El++
+Sevilya:Sevilya  NP-ORG ; ! "" ! El++
+Sheffild% Chorshanba:Sheffild% Chorshanba  NP-ORG ; ! "" ! El++
+Shevron:Shevron  NP-ORG ; ! "" ! El++
+Shou:Shou  NP-ORG ; ! "" ! El++
+Siirtpor:Siirtpor  NP-ORG ; ! "" ! El++
+SIRISA:SIRISA  NP-ORG ; ! "" ! El++
+SmackDown:SmackDown  NP-ORG ; ! "" ! El++
+Sony:Sony  NP-ORG ; ! "" ! El++
+Sotsialistik% Partiya:Sotsialistik% Partiya  NP-ORG ; ! "" ! El++
+SS:SS  NP-ORG ; ! "" ! El++
+Star:Star  NP-ORG ; ! "" ! El++
+STV:STV  NP-ORG ; ! "" ! El++
+Talibon:Talibon  NP-ORG ; ! "" ! El++
+Tatneft:Tatneft  NP-ORG ; ! "" ! El++
+TBMM:TBMM  NP-ORG ; ! "" ! El++
+TCG:TCG  NP-ORG ; ! "" ! El++
+Time:Time  NP-ORG ; ! "" ! El++
+Tong:Tong  NP-ORG ; ! "" ! El++
+Tottenxem:Tottenxem  NP-ORG ; ! "" ! El++
+Tottenxem% Hotspur:Tottenxem% Hotspur  NP-ORG ; ! "" ! El++
+Turk% Telekomspor:Turk% Telekomspor  NP-ORG ; ! "" ! El++
+Vafo:Vafo  NP-ORG ; ! "" ! El++
+Vafo% SK:Vafo% SK  NP-ORG ; ! "" ! El++
+Vakfikebir:Vakfikebir  NP-ORG ; ! "" ! El++
+Valensiya:Valensiya  NP-ORG ; ! "" ! El++
+Vetevendosje:Vetevendosje  NP-ORG ; ! "" ! El++
+Vikiperiya:Vikiperiya  NP-ORG ; ! "" ! El++
+VMHT:VMHT  NP-ORG ; ! "" ! El++
+WeChat:WeChat  NP-ORG ; ! "" ! El++
+Windows:Windows  NP-ORG ; ! "" ! El++
+WordPress:WordPress  NP-ORG ; ! "" ! El++
+WrestleMania:WrestleMania  NP-ORG ; ! "" ! El++
+WWE:WWE  NP-ORG ; ! "" ! El++
+Xacettepe:Xacettepe  NP-ORG ; ! "" ! El++
+Xalqaro% Sotsialist:Xalqaro% Sotsialist  NP-ORG ; ! "" ! El++
+Xamas:Xamas  NP-ORG ; ! "" ! El++
+Xetafe:Xetafe  NP-ORG ; ! "" ! El++
+Xiaomi:Xiaomi  NP-ORG ; ! "" ! El++
+XINA:XINA  NP-ORG ; ! "" ! El++
+Xinhua:Xinhua  NP-ORG ; ! "" ! El++
+Xitoy% Millatchi% Partiyasi:Xitoy% Millatchi% Partiyasi  NP-ORG ; ! "" ! El++
+XVJ:XVJ  NP-ORG ; ! "" ! El++
+Yahoo:Yahoo  NP-ORG ; ! "" ! El++
+Yeshildirek:Yeshildirek  NP-ORG ; ! "" ! El++
+Yimpash:Yimpash  NP-ORG ; ! "" ! El++
+YPG:YPG  NP-ORG ; ! "" ! El++
+Yuventus:Yuventus  NP-ORG ; ! "" ! El++
+
 AFP:AFP NP-ORG ; ! ""
-AGİT:AGİT NP-ORG ; ! ""
+AGIT:AGIT NP-ORG ; ! ""
 AIDS:AIDS NP-AL ; ! ""  @?@
 AKI:AKI NP-ORG ; ! "" 
 AKP:AKP  NP-ORG ; ! ""
@@ -36846,6 +37198,7 @@ AQSh:AQSh NP-TOP ; ! "United States of America"
 Aargau:Aargau NP-TOP ; ! ""
 Abbeville:Abbeville NP-TOP ; ! "
 Abbos:Abbos NP-ANT-M ; ! ""
+Tadich:Tadich NP-ANT-M ; !
 Abdulla:Abdulla NP-ANT-M ; ! ""
 Abdullayev:Abdullayev NP-COG-MF ; ! ""
 Abdüllah:Abdüllah NP-ANT-M ; ! ""
@@ -36866,7 +37219,7 @@ Afrika:Afrika NP-TOP ; ! ""
 Afrika:Afrika NP-TOP ; ! "Africa"
 Agim:Agim NP-ANT-M ; ! ""
 Ahmad:Ahmad NP-ANT-M ; ! ""
-Ahmet:Ahmet NP-ANT-M ; ! ""
+Muge:Muge NP-ANT-F ; !
 Ain:Ain NP-TOP ; ! ""
 Aisne:Aisne NP-TOP ; ! ""
 Ajdaho:Ajdaho NP-TOP ; ! ""
@@ -36956,6 +37309,7 @@ Avstriya:Avstriya NP-TOP ; ! ""
 Axsi:Axsi NP-TOP ; ! "Axsi" ************ i couldn‘t find turkish
 Aydınspor:Aydınspor NP-ORG ; ! ""
 Aygul:Aygul NP-ANT-F ; ! ""
+Malika:Malika NP-ANT-F ; ! ""
 Ayhan:Ayhan NP-ANT-M ; ! ""
 Azamat:Azamat NP-ANT-M ; ! ""
 Aziz:Aziz NP-ANT-M ; ! ""
@@ -37440,6 +37794,9 @@ Kürbanküli:Kürbanküli NP-ANT-M ; ! ""
 Kırıkkalespor:Kırıkkalespor NP-ORG ; ! ""
 LDK:LDK NP-ORG ; ! ""
 La% Coruña:La% Coruna NP-TOP ; ! ""
+La% Korunya:La% Korunya NP-TOP ; ! ""
+Kosova:Kosova NP-TOP ; ! ""
+Serbiya:Serbiya  NP-TOP ; ! "Serbia"
 La:La NP-AL ; !
 Lake:Lake NP-TOP ; ! ""
 Lamberto:Lamberto NP-ANT-M ; ! ""
@@ -37790,7 +38147,7 @@ SDA:SDA NP-ORG ; ! ""
 SDP:SDP NP-ORG ; ! ""
 SDSM:SDSM NP-ORG ; ! ""
 SE:SE NP-ORG ; ! ""
-SETimes:SETimes%{b%} NP-ORG ; ! ""
+SETimes:SETimes%{b%} NP-ORG ; ! "Southeastern European Times"
 SFOR:SFOR NP-ORG ; ! ""
 SNSD:SNSD NP-ORG ; ! ""
 SP:SP NP-ORG ; ! ""
@@ -38090,3 +38447,2301 @@ lès:lès NP-AL ; !
 İstanbul% Büyükşehir% Belediyespor:İstanbul% Büyükşehir% Belediyespor NP-ORG ; ! ""
 İstanbulspor:İstanbulspor NP-ORG ; ! ""
 İzmirspor:İzmirspor NP-ORG ; ! ""
+
+! Conjunctions:
+chunki:chunki CC ; ! "because"
+ham:ham CC ; ! "too"
+agar:agar CC ; ! "if"
+garchi:garchi CC ; ! "eventhough"
+holbuki:holbuki CC ; ! "eventhough"
+hamda:hamda CC ; ! "as well"
+harqalay:harqalay CC ; ! "though"
+uchun:uchun CC ; ! "for"
+boʻlgan% boʻlsada:boʻlgan% boʻlsada CC ; ! "eventhough"
+goʻyoki:goʻyoki CC ; ! "as if"
+goʻyo:goʻyo CC ; ! "as if"
+davomida:davomida CC ; ! "during"
+shuki:shuki CC ; ! "so"
+yoxud:yoxud CC ; ! "or"
+yani:yani CC ; ! "so"
+hamda:hamda CC ; ! "and"
+
+boshqa:boshqa DET-IND ; ! "another"
+biroz:biroz DET-IND ; ! "some"
+boʻlib:boʻlib DET-IND ; ! ""
+shunday:shunday DET-IND ; ! "such"
+birgina:birgina DET-IND ; ! "alone"
+
+barcha:barcha DET-DEM ; ! "all"
+bu:bu DET-DEM ; ! "this"
+u:u DET-DEM ; ! "he/she/it"
+boʻldi% shu:boʻldi% shu DET-DEM ; ! "that's it"
+shu:shu DET-DEM ; ! "that"
+ushbu:ushbu DET-DEM ; ! "this"
+butun:butun DET-DEM ; ! "whole"
+ayni:ayni DET-DEM ; ! "same"
+aynan:aynan DET-DEM ; ! "same"
+boshqa:boshqa DET-DEM ; ! "another"
+
+
+! INTERJECTIONS:
+
+ajabo:ajabo IJ ; ! ""
+ah:ah IJ ; ! ""
+aleykum:aleykum IJ ; ! ""
+Ollohu:Ollohu IJ ; ! ""
+omin:omin IJ ; ! ""
+tushundim:tushundim IJ ; ! ""
+qara:qara IJ ; ! ""
+qarang:qarang IJ ; ! ""
+badbaxt:badbaxt IJ ; ! ""
+chip:chip IJ ; ! ""
+emasmi:emasmi IJ ; ! ""
+e:e IJ ; ! ""
+kmaida:kmaida IJ ; ! ""
+anavi:anavi IJ ; ! ""
+assalomu:assalomu IJ ; ! ""
+ha:ha IJ ; ! ""
+falon:falon IJ ; ! ""
+hayrli:hayrli IJ ; ! ""
+hayrli:hayrli IJ ; ! ""
+qani:qani IJ ; ! ""
+hahaha:hahaha IJ ; ! ""
+sur:sur IJ ; ! ""
+nima:nima IJ ; ! ""
+hoy:hoy IJ ; ! ""
+xoʻp:xoʻp IJ ; ! ""
+xush:xush IJ ; ! ""
+hu:hu IJ ; ! ""
+hu:hu IJ ; ! ""
+xullas:xullas IJ ; ! ""
+qisqasi:qisqasi IJ ; ! ""
+inshoolloh:inshoolloh IJ ; ! ""
+inshoollo:inshoollo IJ ; ! ""
+insholloh:insholloh IJ ; ! ""
+la:la IJ ; ! ""
+lutfan:lutfan IJ ; ! ""
+salom:salom IJ ; ! ""
+masalan:masalan IJ ; ! ""
+oh:oh IJ ; ! ""
+oh:oh IJ ; ! ""
+oʻlsin:oʻlsin IJ ; ! ""
+yaxshi:yaxshi IJ ; ! ""
+roziollohu:roziollohu IJ ; ! ""
+roziollohu:roziollohu IJ ; ! ""
+rahmonur:rahmonur IJ ; ! ""
+shox-mot:shox-mot IJ ; ! ""
+sallallahu:sallallahu IJ ; ! ""
+tabiiyki:tabiiyki IJ ; ! ""
+tamom:tamom IJ ; ! ""
+rahmat:rahmat IJ ; ! ""
+vah:vah IJ ; ! ""
+bor:bor IJ ; ! ""
+bassalom:bassalom IJ ; ! ""
+yani:yani IJ ; ! ""
+
+! Toponyms:
+
+Abad:Abad NP-TOP ; ! "" ! El++
+Abhazya:Abhazya NP-TOP ; ! "" ! El++
+Abiya:Abiya NP-TOP ; ! "" ! El++
+Açinsk:Açinsk NP-TOP ; ! "" ! El++
+Adelayd:Adelayd NP-TOP ; ! "" ! El++
+Aden:Aden NP-TOP ; ! "" ! El++
+Adriyatik:Adriyatik NP-TOP ; ! "" ! El++
+Afrin:Afrin NP-TOP ; ! "" ! El++
+Afyonkarahisar:Afyonkarahisar NP-TOP ; ! "" ! El++
+Ağizel:Ağizel NP-TOP ; ! "" ! El++
+Ain:Ain NP-TOP ; ! "" ! El++
+Aisne:Aisne NP-TOP ; ! "" ! El++
+Akitanya:Akitanya NP-TOP ; ! "" ! El++
+Akmeçit:Akmeçit NP-TOP ; ! "" ! El++
+Akmescit:Akmescit NP-TOP ; ! "" ! El++
+Aksaray:Aksaray NP-TOP ; ! "" ! El++
+Akşeyh:Akşeyh NP-TOP ; ! "" ! El++
+Aksiye:Aksiye NP-TOP ; ! "" ! El++
+Aksu:Aksu NP-TOP ; ! "" ! El++
+Aktanış:Aktanış NP-TOP ; ! "" ! El++
+Aktu:Aktu NP-TOP ; ! "" ! El++
+Alabuga:Alabuga NP-TOP ; ! "" ! El++
+Alaşankou:Alaşankou NP-TOP ; ! "" ! El++
+Allier:Allier NP-TOP ; ! "" ! El++
+Almata:Almata NP-TOP ; ! "" ! El++
+Almata:Almata NP-TOP ; ! "" ! El++
+Almet:Almet NP-TOP ; ! "" ! El++
+Andijon:Andijon NP-TOP ; ! "" ! El++
+Anhui:Anhui NP-TOP ; ! "" ! El++
+Arabah:Arabah NP-TOP ; ! "" ! El++
+Arakan:Arakan NP-TOP ; ! "" ! El++
+Arayultuz:Arayultuz NP-TOP ; ! "" ! El++
+Arbin:Arbin NP-TOP ; ! "" ! El++
+Arça:Arça NP-TOP ; ! "" ! El++
+Ardak:Ardak NP-TOP ; ! "" ! El++
+Arnavutluk:Arnavutluk NP-TOP ; ! "" ! El++
+Aşkun:Aşkun NP-TOP ; ! "" ! El++
+Atlantiques:Atlantiques NP-TOP ; ! "" ! El++
+Atuş:Atuş NP-TOP ; ! "" ! El++
+Auvergne:Auvergne NP-TOP ; ! "" ! El++
+Avangard:Avangard NP-TOP ; ! "" ! El++
+Avmen:Avmen NP-TOP ; ! "" ! El++
+Ayköl:Ayköl NP-TOP ; ! "" ! El++
+Azariya:Azariya NP-TOP ; ! "" ! El++
+Bad:Bad NP-TOP ; ! "" ! El++
+Baden:Baden NP-TOP ; ! "" ! El++
+Bağraş:Bağraş NP-TOP ; ! "" ! El++
+Bahçesaray:Bahçesaray NP-TOP ; ! "" ! El++
+Baktu:Baktu NP-TOP ; ! "" ! El++
+Balıkesir:Balıkesir NP-TOP ; ! "" ! El++
+Baltaç:Baltaç NP-TOP ; ! "" ! El++
+Baltistan:Baltistan NP-TOP ; ! "" ! El++
+Barançebo:Barançebo NP-TOP ; ! "" ! El++
+Barents:Barents NP-TOP ; ! "" ! El++
+Barnaul:Barnaul NP-TOP ; ! "" ! El++
+Bas:Bas NP-TOP ; ! "" ! El++
+Basyugan:Basyugan NP-TOP ; ! "" ! El++
+Batman:Batman NP-TOP ; ! "" ! El++
+Bayangolin:Bayangolin NP-TOP ; ! "" ! El++
+Beca:Beca NP-TOP ; ! "" ! El++
+Belebey:Belebey NP-TOP ; ! "" ! El++
+Beşbalık:Beşbalık NP-TOP ; ! "" ! El++
+Beyoğlu:Beyoğlu NP-TOP ; ! "" ! El++
+Binaya:Binaya NP-TOP ; ! "" ! El++
+Bingtuen:Bingtuen NP-TOP ; ! "" ! El++
+Boğaz:Boğaz NP-TOP ; ! "" ! El++
+Boğaziçi:Boğaziçi NP-TOP ; ! "" ! El++
+Boj:Boj NP-TOP ; ! "" ! El++
+Boran:Boran NP-TOP ; ! "" ! El++
+Bortala:Bortala NP-TOP ; ! "" ! El++
+BÖSSC:BÖSSC NP-TOP ; ! "" ! El++
+Brandenburg:Brandenburg NP-TOP ; ! "" ! El++
+Brazil:Brazil NP-TOP ; ! "" ! El++
+Bügür:Bügür NP-TOP ; ! "" ! El++
+Burgundiya:Burgundiya NP-TOP ; ! "" ! El++
+Burhaniye:Burhaniye NP-TOP ; ! "" ! El++
+Büyük:Büyük NP-TOP ; ! "" ! El++
+Calabria:Calabria NP-TOP ; ! "" ! El++
+Cambridge:Cambridge NP-TOP ; ! "" ! El++
+Campania:Campania NP-TOP ; ! "" ! El++
+Çanakkale:Çanakkale NP-TOP ; ! "" ! El++
+Canes:Canes NP-TOP ; ! "" ! El++
+Çarlık:Çarlık NP-TOP ; ! "" ! El++
+Castilla:Castilla NP-TOP ; ! "" ! El++
+Cecyang:Cecyang NP-TOP ; ! "" ! El++
+Çekya:Çekya NP-TOP ; ! "" ! El++
+Celad:Celad NP-TOP ; ! "" ! El++
+Celalabad:Celalabad NP-TOP ; ! "" ! El++
+Celile:Celile NP-TOP ; ! "" ! El++
+Çerçen:Çerçen NP-TOP ; ! "" ! El++
+Çerkez:Çerkez NP-TOP ; ! "" ! El++
+Çernigiv:Çernigiv NP-TOP ; ! "" ! El++
+Château:Château NP-TOP ; ! "" ! El++
+Cher:Cher NP-TOP ; ! "" ! El++
+Cimney:Cimney NP-TOP ; ! "" ! El++
+Çinghay:Çinghay NP-TOP ; ! "" ! El++
+Cinin:Cinin NP-TOP ; ! "" ! El++
+Çira:Çira NP-TOP ; ! "" ! El++
+Çişme:Çişme NP-TOP ; ! "" ! El++
+Çistay:Çistay NP-TOP ; ! "" ! El++
+Cizzak:Cizzak NP-TOP ; ! "" ! El++
+Congarya:Congarya NP-TOP ; ! "" ! El++
+Çorum:Çorum NP-TOP ; ! "" ! El++
+Côte:Côte NP-TOP ; ! "" ! El++
+Côtes:Côtes NP-TOP ; ! "" ! El++
+Çulım:Çulım NP-TOP ; ! "" ! El++
+Cungar:Cungar NP-TOP ; ! "" ! El++
+Dakota:Dakota NP-TOP ; ! "" ! El++
+Daugava:Daugava NP-TOP ; ! "" ! El++
+Derevyansk:Derevyansk NP-TOP ; ! "" ! El++
+Deşt-i:Deşt-i NP-TOP ; ! "" ! El++
+Deşti:Deşti NP-TOP ; ! "" ! El++
+Dnipropetrovsk:Dnipropetrovsk NP-TOP ; ! "" ! El++
+Dobroslav:Dobroslav NP-TOP ; ! "" ! El++
+Doğu:Doğu NP-TOP ; ! "" ! El++
+Dôme:Dôme NP-TOP ; ! "" ! El++
+Drôme:Drôme NP-TOP ; ! "" ! El++
+Duhuk:Duhuk NP-TOP ; ! "" ! El++
+Düsseldorf:Düsseldorf NP-TOP ; ! "" ! El++
+Dvina:Dvina NP-TOP ; ! "" ! El++
+Dzhungarian:Dzhungarian NP-TOP ; ! "" ! El++
+Efes:Efes NP-TOP ; ! "" ! El++
+Ege:Ege NP-TOP ; ! "" ! El++
+Elburz:Elburz NP-TOP ; ! "" ! El++
+Elrayi:Elrayi NP-TOP ; ! "" ! El++
+Elsas:Elsas NP-TOP ; ! "" ! El++
+Endülüs:Endülüs NP-TOP ; ! "" ! El++
+Erbil:Erbil NP-TOP ; ! "" ! El++
+Eriha:Eriha NP-TOP ; ! "" ! El++
+Erkeştam:Erkeştam NP-TOP ; ! "" ! El++
+Erzincan:Erzincan NP-TOP ; ! "" ! El++
+Eure:Eure NP-TOP ; ! "" ! El++
+Fatiha:Fatiha NP-TOP ; ! "" ! El++
+Feyzivat:Feyzivat NP-TOP ; ! "" ! El++
+Finland:Finland NP-TOP ; ! "" ! El++
+Franche-Comté:Franche-Comté NP-TOP ; ! "" ! El++
+Franconia:Franconia NP-TOP ; ! "" ! El++
+Fujyen:Fujyen NP-TOP ; ! "" ! El++
+Galata:Galata NP-TOP ; ! "" ! El++
+Gaznahit:Gaznahit NP-TOP ; ! "" ! El++
+Gazze:Gazze NP-TOP ; ! "" ! El++
+Gdansk:Gdansk NP-TOP ; ! "" ! El++
+Gilgit-Baltistan:Gilgit-Baltistan NP-TOP ; ! "" ! El++
+Gilgit:Gilgit NP-TOP ; ! "" ! El++
+Giresun:Giresun NP-TOP ; ! "" ! El++
+Girne:Girne NP-TOP ; ! "" ! El++
+Gironde:Gironde NP-TOP ; ! "" ! El++
+Gomorre:Gomorre NP-TOP ; ! "" ! El++
+Guma:Guma NP-TOP ; ! "" ! El++
+Güneydoğu:Güneydoğu NP-TOP ; ! "" ! El++
+Guta:Guta NP-TOP ; ! "" ! El++
+Haddington:Haddington NP-TOP ; ! "" ! El++
+Haute:Haute NP-TOP ; ! "" ! El++
+Haut:Haut NP-TOP ; ! "" ! El++
+Havai:Havai NP-TOP ; ! "" ! El++
+Hebei:Hebei NP-TOP ; ! "" ! El++
+Henan:Henan NP-TOP ; ! "" ! El++
+Herat:Herat NP-TOP ; ! "" ! El++
+Hessen:Hessen NP-TOP ; ! "" ! El++
+Hilkiya:Hilkiya NP-TOP ; ! "" ! El++
+Hille:Hille NP-TOP ; ! "" ! El++
+Hiva:Hiva NP-TOP ; ! "" ! El++
+Hocalı:Hocalı NP-TOP ; ! "" ! El++
+Hokand:Hokand NP-TOP ; ! "" ! El++
+Hokkaydu:Hokkaydu NP-TOP ; ! "" ! El++
+Horasan:Horasan NP-TOP ; ! "" ! El++
+Hotan:Hotan NP-TOP ; ! "" ! El++
+Huzystan:Huzystan NP-TOP ; ! "" ! El++
+Idaho:Idaho NP-TOP ; ! "" ! El++
+İdlib:İdlib NP-TOP ; ! "" ! El++
+İli:İli NP-TOP ; ! "" ! El++
+Ilikhandar:Ilikhandar NP-TOP ; ! "" ! El++
+Indre:Indre NP-TOP ; ! "" ! El++
+İrteş:İrteş NP-TOP ; ! "" ! El++
+İrtiş:İrtiş NP-TOP ; ! "" ! El++
+Ispanya:Ispanya NP-TOP ; ! "" ! El++
+Israil:Israil NP-TOP ; ! "" ! El++
+İvanovo:İvanovo NP-TOP ; ! "" ! El++
+İzmit:İzmit NP-TOP ; ! "" ! El++
+Jakarta:Jakarta NP-TOP ; ! "" ! El++
+Java:Java NP-TOP ; ! "" ! El++
+Jilin:Jilin NP-TOP ; ! "" ! El++
+Kafkaslar:Kafkaslar NP-TOP ; ! "" ! El++
+Kağılık:Kağılık NP-TOP ; ! "" ! El++
+Kanin:Kanin NP-TOP ; ! "" ! El++
+Kansu:Kansu NP-TOP ; ! "" ! El++
+Karagöl:Karagöl NP-TOP ; ! "" ! El++
+Karahanlı:Karahanlı NP-TOP ; ! "" ! El++
+Karahanlılar:Karahanlılar NP-TOP ; ! "" ! El++
+Karaizel:Karaizel NP-TOP ; ! "" ! El++
+Karakalpakistan:Karakalpakistan NP-TOP ; ! "" ! El++
+Karakaş:Karakaş NP-TOP ; ! "" ! El++
+Karakol:Karakol NP-TOP ; ! "" ! El++
+Karakurum:Karakurum NP-TOP ; ! "" ! El++
+Karaman:Karaman NP-TOP ; ! "" ! El++
+Karamay:Karamay NP-TOP ; ! "" ! El++
+Karaşehir:Karaşehir NP-TOP ; ! "" ! El++
+Karasu:Karasu NP-TOP ; ! "" ! El++
+Karmıki:Karmıki NP-TOP ; ! "" ! El++
+Kaşgar:Kaşgar NP-TOP ; ! "" ! El++
+Kaşkaderya:Kaşkaderya NP-TOP ; ! "" ! El++
+Kastamonu:Kastamonu NP-TOP ; ! "" ! El++
+Katalunya:Katalunya NP-TOP ; ! "" ! El++
+Katun:Katun NP-TOP ; ! "" ! El++
+Kaybiç:Kaybiç NP-TOP ; ! "" ! El++
+Kefe:Kefe NP-TOP ; ! "" ! El++
+Kelat:Kelat NP-TOP ; ! "" ! El++
+Kerbela:Kerbela NP-TOP ; ! "" ! El++
+Kerç:Kerç NP-TOP ; ! "" ! El++
+Keriye:Keriye NP-TOP ; ! "" ! El++
+Kerkük:Kerkük NP-TOP ; ! "" ! El++
+Kermil:Kermil NP-TOP ; ! "" ! El++
+Ket:Ket NP-TOP ; ! "" ! El++
+kifri:kifri NP-TOP ; ! "" ! El++
+Kirovograd:Kirovograd NP-TOP ; ! "" ! El++
+Kızıldağ:Kızıldağ NP-TOP ; ! "" ! El++
+Kızılsu:Kızılsu NP-TOP ; ! "" ! El++
+Kocaeli:Kocaeli NP-TOP ; ! "" ! El++
+Kodra:Kodra NP-TOP ; ! "" ! El++
+Komorlar:Komorlar NP-TOP ; ! "" ! El++
+Komul:Komul NP-TOP ; ! "" ! El++
+Koncırap:Koncırap NP-TOP ; ! "" ! El++
+Konda:Konda NP-TOP ; ! "" ! El++
+Korgas:Korgas NP-TOP ; ! "" ! El++
+Korla:Korla NP-TOP ; ! "" ! El++
+Kosovo:Kosovo NP-TOP ; ! "" ! El++
+Kostroma:Kostroma NP-TOP ; ! "" ! El++
+Kotelniç:Kotelniç NP-TOP ; ! "" ! El++
+Krasnoperekopsk:Krasnoperekopsk NP-TOP ; ! "" ! El++
+Krayı:Krayı NP-TOP ; ! "" ! El++
+Kuban:Kuban NP-TOP ; ! "" ! El++
+Kuça:Kuça NP-TOP ; ! "" ! El++
+Kuhrud:Kuhrud NP-TOP ; ! "" ! El++
+Kumul:Kumul NP-TOP ; ! "" ! El++
+Kurbantungul:Kurbantungul NP-TOP ; ! "" ! El++
+Kursk:Kursk NP-TOP ; ! "" ! El++
+Küsen:Küsen NP-TOP ; ! "" ! El++
+Kütahya:Kütahya NP-TOP ; ! "" ! El++
+Kuybışev:Kuybışev NP-TOP ; ! "" ! El++
+Lake:Lake NP-TOP ; ! "" ! El++
+Latviya:Latviya NP-TOP ; ! "" ! El++
+Leningrad:Leningrad NP-TOP ; ! "" ! El++
+Lentos:Lentos NP-TOP ; ! "" ! El++
+Leon:Leon NP-TOP ; ! "" ! El++
+Lesoto:Lesoto NP-TOP ; ! "" ! El++
+Loire:Loire NP-TOP ; ! "" ! El++
+Loir:Loir NP-TOP ; ! "" ! El++
+Lombardia:Lombardia NP-TOP ; ! "" ! El++
+Lop:Lop NP-TOP ; ! "" ! El++
+Lotharingiya:Lotharingiya NP-TOP ; ! "" ! El++
+Lot:Lot NP-TOP ; ! "" ! El++
+Loulan:Loulan NP-TOP ; ! "" ! El++
+Lusiya:Lusiya NP-TOP ; ! "" ! El++
+Luza:Luza NP-TOP ; ! "" ! El++
+Malatya:Malatya NP-TOP ; ! "" ! El++
+Malaysia:Malaysia NP-TOP ; ! "" ! El++
+Malonistogorskaya:Malonistogorskaya NP-TOP ; ! "" ! El++
+Mamadış:Mamadış NP-TOP ; ! "" ! El++
+Manas:Manas NP-TOP ; ! "" ! El++
+Manay:Manay NP-TOP ; ! "" ! El++
+Manche:Manche NP-TOP ; ! "" ! El++
+Maralbeşi:Maralbeşi NP-TOP ; ! "" ! El++
+Mardin:Mardin NP-TOP ; ! "" ! El++
+Mare:Mare NP-TOP ; ! "" ! El++
+Marth:Marth NP-TOP ; ! "" ! El++
+Mart:Mart NP-TOP ; ! "" ! El++
+Mayak:Mayak NP-TOP ; ! "" ! El++
+Mecklenburg:Mecklenburg NP-TOP ; ! "" ! El++
+Medine:Medine NP-TOP ; ! "" ! El++
+Mekran:Mekran NP-TOP ; ! "" ! El++
+Men:Men NP-TOP ; ! "" ! El++
+Mercanbulak:Mercanbulak NP-TOP ; ! "" ! El++
+Mescid-i:Mescid-i NP-TOP ; ! "" ! El++
+Meşhed:Meşhed NP-TOP ; ! "" ! El++
+Mezen:Mezen NP-TOP ; ! "" ! El++
+Mezopotamya:Mezopotamya NP-TOP ; ! "" ! El++
+Minzele:Minzele NP-TOP ; ! "" ! El++
+Miren:Miren NP-TOP ; ! "" ! El++
+Missisippi:Missisippi NP-TOP ; ! "" ! El++
+Mokşa:Mokşa NP-TOP ; ! "" ! El++
+Monaco:Monaco NP-TOP ; ! "" ! El++
+Montenegro:Montenegro NP-TOP ; ! "" ! El++
+Morozko:Morozko NP-TOP ; ! "" ! El++
+Moselle:Moselle NP-TOP ; ! "" ! El++
+Mu:Mu NP-TOP ; ! "" ! El++
+Münbiç:Münbiç NP-TOP ; ! "" ! El++
+Murmansk:Murmansk NP-TOP ; ! "" ! El++
+Nadım:Nadım NP-TOP ; ! "" ! El++
+Na:Na NP-TOP ; ! "" ! El++
+Nasıra:Nasıra NP-TOP ; ! "" ! El++
+Navarra:Navarra NP-TOP ; ! "" ! El++
+Nefteguyansk:Nefteguyansk NP-TOP ; ! "" ! El++
+New:New NP-TOP ; ! "" ! El++
+New:New NP-TOP ; ! "" ! El++
+New:New NP-TOP ; ! "" ! El++
+Nijgar:Nijgar NP-TOP ; ! "" ! El++
+Nikopol:Nikopol NP-TOP ; ! "" ! El++
+Nilka:Nilka NP-TOP ; ! "" ! El++
+Nil:Nil NP-TOP ; ! "" ! El++
+Nineve:Nineve NP-TOP ; ! "" ! El++
+Nokrat:Nokrat NP-TOP ; ! "" ! El++
+Nove:Nove NP-TOP ; ! "" ! El++
+Obi:Obi NP-TOP ; ! "" ! El++
+Obul:Obul NP-TOP ; ! "" ! El++
+Oka:Oka NP-TOP ; ! "" ! El++
+Onega:Onega NP-TOP ; ! "" ! El++
+Onsu:Onsu NP-TOP ; ! "" ! El++
+Oral:Oral NP-TOP ; ! "" ! El++
+Orhun:Orhun NP-TOP ; ! "" ! El++
+Orne:Orne NP-TOP ; ! "" ! El++
+Osetya:Osetya NP-TOP ; ! "" ! El++
+Ostrog:Ostrog NP-TOP ; ! "" ! El++
+Oy:Oy NP-TOP ; ! "" ! El++
+Pamir:Pamir NP-TOP ; ! "" ! El++
+Peçora:Peçora NP-TOP ; ! "" ! El++
+Pegas:Pegas NP-TOP ; ! "" ! El++
+Pelengan:Pelengan NP-TOP ; ! "" ! El++
+Penisilvanya:Penisilvanya NP-TOP ; ! "" ! El++
+Penza:Penza NP-TOP ; ! "" ! El++
+Perm:Perm NP-TOP ; ! "" ! El++
+Petersburg:Petersburg NP-TOP ; ! "" ! El++
+Petrovo:Petrovo NP-TOP ; ! "" ! El++
+Pfalz:Pfalz NP-TOP ; ! "" ! El++
+Piemont:Piemont NP-TOP ; ! "" ! El++
+Pikardiya:Pikardiya NP-TOP ; ! "" ! El++
+Pisa:Pisa NP-TOP ; ! "" ! El++
+Pobeda:Pobeda NP-TOP ; ! "" ! El++
+Pomeranya:Pomeranya NP-TOP ; ! "" ! El++
+Portugal:Portugal NP-TOP ; ! "" ! El++
+Pur:Pur NP-TOP ; ! "" ! El++
+Puy:Puy NP-TOP ; ! "" ! El++
+Pyrenees:Pyrenees NP-TOP ; ! "" ! El++
+Qatar:Qatar NP-TOP ; ! "" ! El++
+Reyn:Reyn NP-TOP ; ! "" ! El++
+Rheinland:Rheinland NP-TOP ; ! "" ! El++
+Rhin:Rhin NP-TOP ; ! "" ! El++
+Rhone:Rhone NP-TOP ; ! "" ! El++
+Rıbinsk:Rıbinsk NP-TOP ; ! "" ! El++
+Rize:Rize NP-TOP ; ! "" ! El++
+Rum:Rum NP-TOP ; ! "" ! El++
+Ryazan:Ryazan NP-TOP ; ! "" ! El++
+Sad:Sad NP-TOP ; ! "" ! El++
+Sainte:Sainte NP-TOP ; ! "" ! El++
+Saksonya:Saksonya NP-TOP ; ! "" ! El++
+Salavat:Salavat NP-TOP ; ! "" ! El++
+Salekhard:Salekhard NP-TOP ; ! "" ! El++
+Samarya:Samarya NP-TOP ; ! "" ! El++
+Samsun:Samsun NP-TOP ; ! "" ! El++
+Sanci:Sanci NP-TOP ; ! "" ! El++
+Şangay:Şangay NP-TOP ; ! "" ! El++
+Saône:Saône NP-TOP ; ! "" ! El++
+Sarman:Sarman NP-TOP ; ! "" ! El++
+Şayat:Şayat NP-TOP ; ! "" ! El++
+Saybağ:Saybağ NP-TOP ; ! "" ! El++
+Sayda:Sayda NP-TOP ; ! "" ! El++
+Say:Say NP-TOP ; ! "" ! El++
+SB:SB NP-TOP ; ! "" ! El++
+Seidiye:Seidiye NP-TOP ; ! "" ! El++
+Seidiye:Seidiye NP-TOP ; ! "" ! El++
+Şekem:Şekem NP-TOP ; ! "" ! El++
+Semerkand:Semerkand NP-TOP ; ! "" ! El++
+Senkaku:Senkaku NP-TOP ; ! "" ! El++
+Serhed:Serhed NP-TOP ; ! "" ! El++
+Seyşeller:Seyşeller NP-TOP ; ! "" ! El++
+Şiangang:Şiangang NP-TOP ; ! "" ! El++
+Şihenze:Şihenze NP-TOP ; ! "" ! El++
+Siir:Siir NP-TOP ; ! "" ! El++
+Sincan:Sincan NP-TOP ; ! "" ! El++
+Şingşingşia:Şingşingşia NP-TOP ; ! "" ! El++
+Sinop:Sinop NP-TOP ; ! "" ! El++
+Şırnak:Şırnak NP-TOP ; ! "" ! El++
+Sistan:Sistan NP-TOP ; ! "" ! El++
+Siyek:Siyek NP-TOP ; ! "" ! El++
+Skele:Skele NP-TOP ; ! "" ! El++
+Smolensk:Smolensk NP-TOP ; ! "" ! El++
+Soçi:Soçi NP-TOP ; ! "" ! El++
+Sofiya:Sofiya NP-TOP ; ! "" ! El++
+Somme:Somme NP-TOP ; ! "" ! El++
+Şor:Şor NP-TOP ; ! "" ! El++
+Sos'va:Sos'va NP-TOP ; ! "" ! El++
+Steiermark:Steiermark NP-TOP ; ! "" ! El++
+Sterlitamak:Sterlitamak NP-TOP ; ! "" ! El++
+Suhona:Suhona NP-TOP ; ! "" ! El++
+Sülaymaniye:Sülaymaniye NP-TOP ; ! "" ! El++
+Sunen:Sunen NP-TOP ; ! "" ! El++
+Şupaşkar:Şupaşkar NP-TOP ; ! "" ! El++
+Surkanderya:Surkanderya NP-TOP ; ! "" ! El++
+Susa:Susa NP-TOP ; ! "" ! El++
+Sverdilovsk:Sverdilovsk NP-TOP ; ! "" ! El++
+Takışkan:Takışkan NP-TOP ; ! "" ! El++
+Taklamakan:Taklamakan NP-TOP ; ! "" ! El++
+Tarbagatay:Tarbagatay NP-TOP ; ! "" ! El++
+Tarım:Tarım NP-TOP ; ! "" ! El++
+Tarşiş:Tarşiş NP-TOP ; ! "" ! El++
+Taşpolat:Taşpolat NP-TOP ; ! "" ! El++
+Taşyol:Taşyol NP-TOP ; ! "" ! El++
+Tavuk:Tavuk NP-TOP ; ! "" ! El++
+Tay:Tay NP-TOP ; ! "" ! El++
+Tayvan:Tayvan NP-TOP ; ! "" ! El++
+Tehran:Tehran NP-TOP ; ! "" ! El++
+Tekirdağ:Tekirdağ NP-TOP ; ! "" ! El++
+Temirtau:Temirtau NP-TOP ; ! "" ! El++
+Texas:Texas NP-TOP ; ! "" ! El++
+Tezze:Tezze NP-TOP ; ! "" ! El++
+Thuringia:Thuringia NP-TOP ; ! "" ! El++
+Tiananmen:Tiananmen NP-TOP ; ! "" ! El++
+Tienjin:Tienjin NP-TOP ; ! "" ! El++
+Tikrit:Tikrit NP-TOP ; ! "" ! El++
+Tirana:Tirana NP-TOP ; ! "" ! El++
+Tirmiz:Tirmiz NP-TOP ; ! "" ! El++
+Tirol:Tirol NP-TOP ; ! "" ! El++
+Tobolsk:Tobolsk NP-TOP ; ! "" ! El++
+Tokat:Tokat NP-TOP ; ! "" ! El++
+Toktogul:Toktogul NP-TOP ; ! "" ! El++
+Toledot:Toledot NP-TOP ; ! "" ! El++
+Tübenkama:Tübenkama NP-TOP ; ! "" ! El++
+Tukay:Tukay NP-TOP ; ! "" ! El++
+Tula:Tula NP-TOP ; ! "" ! El++
+Tulkibas:Tulkibas NP-TOP ; ! "" ! El++
+Tümen:Tümen NP-TOP ; ! "" ! El++
+Turan:Turan NP-TOP ; ! "" ! El++
+Turfan:Turfan NP-TOP ; ! "" ! El++
+Turgavut:Turgavut NP-TOP ; ! "" ! El++
+Tver:Tver NP-TOP ; ! "" ! El++
+Uçturfan:Uçturfan NP-TOP ; ! "" ! El++
+Udmurtiya:Udmurtiya NP-TOP ; ! "" ! El++
+Ural:Ural NP-TOP ; ! "" ! El++
+Üsküdar:Üsküdar NP-TOP ; ! "" ! El++
+Uş:Uş NP-TOP ; ! "" ! El++
+Uzgen:Uzgen NP-TOP ; ! "" ! El++
+Vaga:Vaga NP-TOP ; ! "" ! El++
+Vah:Vah NP-TOP ; ! "" ! El++
+Venatica:Venatica NP-TOP ; ! "" ! El++
+Venera:Venera NP-TOP ; ! "" ! El++
+Vıçegda:Vıçegda NP-TOP ; ! "" ! El++
+Vinnitsya:Vinnitsya NP-TOP ; ! "" ! El++
+Virginia:Virginia NP-TOP ; ! "" ! El++
+Volgagrad:Volgagrad NP-TOP ; ! "" ! El++
+Vologda:Vologda NP-TOP ; ! "" ! El++
+Volost:Volost NP-TOP ; ! "" ! El++
+Voron:Voron NP-TOP ; ! "" ! El++
+Westphalia:Westphalia NP-TOP ; ! "" ! El++
+Wurttemberg:Wurttemberg NP-TOP ; ! "" ! El++
+Yaha:Yaha NP-TOP ; ! "" ! El++
+Yahudiye:Yahudiye NP-TOP ; ! "" ! El++
+Yalta:Yalta NP-TOP ; ! "" ! El++
+Yamal:Yamal NP-TOP ; ! "" ! El++
+Yarçallı:Yarçallı NP-TOP ; ! "" ! El++
+Yarkent:Yarkent NP-TOP ; ! "" ! El++
+Yaroslavl:Yaroslavl NP-TOP ; ! "" ! El++
+Yehuda:Yehuda NP-TOP ; ! "" ! El++
+Yengisar:Yengisar NP-TOP ; ! "" ! El++
+Yenişehir:Yenişehir NP-TOP ; ! "" ! El++
+Yenisey:Yenisey NP-TOP ; ! "" ! El++
+Yeni:Yeni NP-TOP ; ! "" ! El++
+Yeruşalim:Yeruşalim NP-TOP ; ! "" ! El++
+Yetisu:Yetisu NP-TOP ; ! "" ! El++
+Yogan:Yogan NP-TOP ; ! "" ! El++
+Yol:Yol NP-TOP ; ! "" ! El++
+Zagros:Zagros NP-TOP ; ! "" ! El++
+Zaho:Zaho NP-TOP ; ! "" ! El++
+Zaisan:Zaisan NP-TOP ; ! "" ! El++
+Zelenodolsk:Zelenodolsk NP-TOP ; ! "" ! El++
+Zeytinburnu:Zeytinburnu NP-TOP ; ! "" ! El++
+Zey:Zey NP-TOP ; ! "" ! El++
+Ziryanskoye:Ziryanskoye NP-TOP ; ! "" ! El++
+
+! Some more Toponyms:
+
+Abakan:Abakan  NP-TOP ; ! "" ! El++
+Abuja:Abuja  NP-TOP ; ! "" ! El++
+Ada:Ada  NP-TOP ; ! "" ! El++
+Adana:Adana  NP-TOP ; ! "" ! El++
+Afgʻoniston:Afgʻoniston  NP-TOP ; ! "" ! El++
+Afrika:Afrika  NP-TOP ; ! "" ! El++
+Alabama:Alabama  NP-TOP ; ! "" ! El++
+Alachakaranlik:Alachakaranlik  NP-TOP ; ! "" ! El++
+Alash:Alash  NP-TOP ; ! "" ! El++
+Albi:Albi  NP-TOP ; ! "" ! El++
+Alpler:Alpler  NP-TOP ; ! "" ! El++
+Alyaska:Alyaska  NP-TOP ; ! "" ! El++
+Amerika:Amerika  NP-TOP ; ! "" ! El++
+Amsterdam:Amsterdam  NP-TOP ; ! "" ! El++
+Anaheim:Anaheim  NP-TOP ; ! "" ! El++
+Ancona:Ancona  NP-TOP ; ! "" ! El++
+Andorra:Andorra  NP-TOP ; ! "" ! El++
+Andros:Andros  NP-TOP ; ! "" ! El++
+Angliya:Angliya  NP-TOP ; ! "" ! El++
+Angola:Angola  NP-TOP ; ! "" ! El++
+Anguilla:Anguilla  NP-TOP ; ! "" ! El++
+Anqara:Anqara  NP-TOP ; ! "" ! El++
+Antakya:Antakya  NP-TOP ; ! "" ! El++
+Antaliya:Antaliya  NP-TOP ; ! "" ! El++
+Antananarivo:Antananarivo  NP-TOP ; ! "" ! El++
+Antarktika:Antarktika  NP-TOP ; ! "" ! El++
+Antraktida:Antraktida  NP-TOP ; ! "" ! El++
+Apia:Apia  NP-TOP ; ! "" ! El++
+Ar:Ar  NP-TOP ; ! "" ! El++
+Arabistan:Arabistan  NP-TOP ; ! "" ! El++
+Aragon:Aragon  NP-TOP ; ! "" ! El++
+Aras:Aras  NP-TOP ; ! "" ! El++
+Arda:Arda  NP-TOP ; ! "" ! El++
+Arhangelsk:Arhangelsk  NP-TOP ; ! "" ! El++
+Arizona:Arizona  NP-TOP ; ! "" ! El++
+Arjantin:Arjantin  NP-TOP ; ! "" ! El++
+Arkansas:Arkansas  NP-TOP ; ! "" ! El++
+Arktika:Arktika  NP-TOP ; ! "" ! El++
+Arlington:Arlington  NP-TOP ; ! "" ! El++
+Armaniston:Armaniston  NP-TOP ; ! "" ! El++
+Arnavut:Arnavut  NP-TOP ; ! "" ! El++
+Arqadashlik:Arqadashlik  NP-TOP ; ! "" ! El++
+Aruba:Aruba  NP-TOP ; ! "" ! El++
+Asenovgrad:Asenovgrad  NP-TOP ; ! "" ! El++
+Astraxan:Astraxan  NP-TOP ; ! "" ! El++
+Asturyi:Asturyi  NP-TOP ; ! "" ! El++
+Atina:Atina  NP-TOP ; ! "" ! El++
+Atlanta:Atlanta  NP-TOP ; ! "" ! El++
+Auckland:Auckland  NP-TOP ; ! "" ! El++
+Avropa:Avropa  NP-TOP ; ! "" ! El++
+Avstraliya:Avstraliya  NP-TOP ; ! "" ! El++
+Avstriya:Avstriya  NP-TOP ; ! "" ! El++
+Aydos:Aydos  NP-TOP ; ! "" ! El++
+Azarbayjon:Azarbayjon  NP-TOP ; ! "" ! El++
+Baf:Baf  NP-TOP ; ! "" ! El++
+Bahrayn:Bahrayn  NP-TOP ; ! "" ! El++
+Baku:Baku  NP-TOP ; ! "" ! El++
+Balasagun:Balasagun  NP-TOP ; ! "" ! El++
+Bali:Bali  NP-TOP ; ! "" ! El++
+Balik:Balik  NP-TOP ; ! "" ! El++
+Baltimor:Baltimor  NP-TOP ; ! "" ! El++
+Bamako:Bamako  NP-TOP ; ! "" ! El++
+Bangkok:Bangkok  NP-TOP ; ! "" ! El++
+Bangladesh:Bangladesh  NP-TOP ; ! "" ! El++
+Banja% Luka:Banja% Luka  NP-TOP ; ! "" ! El++
+Banovchi:Banovchi  NP-TOP ; ! "" ! El++
+Banya% Luka:Banya% Luka  NP-TOP ; ! "" ! El++
+Barbados:Barbados  NP-TOP ; ! "" ! El++
+Barselona:Barselona  NP-TOP ; ! "" ! El++
+Basel:Basel  NP-TOP ; ! "" ! El++
+Bashqirdiston:Bashqirdiston  NP-TOP ; ! "" ! El++
+Basra:Basra  NP-TOP ; ! "" ! El++
+Bati% Malyziya:Bati% Malyziya  NP-TOP ; ! "" ! El++
+Bavaria:Bavaria  NP-TOP ; ! "" ! El++
+Belchika:Belchika  NP-TOP ; ! "" ! El++
+Belgrad:Belgrad  NP-TOP ; ! "" ! El++
+Belize:Belize  NP-TOP ; ! "" ! El++
+Benevento:Benevento  NP-TOP ; ! "" ! El++
+Benin:Benin  NP-TOP ; ! "" ! El++
+Berlin:Berlin  NP-TOP ; ! "" ! El++
+Bern:Bern  NP-TOP ; ! "" ! El++
+Berova:Berova  NP-TOP ; ! "" ! El++
+Betpak:Betpak  NP-TOP ; ! "" ! El++
+Beyaz% Rossiyasi:Beyaz% Rossiyasi  NP-TOP ; ! "" ! El++
+Beyrut:Beyrut  NP-TOP ; ! "" ! El++
+Bilinch:Bilinch  NP-TOP ; ! "" ! El++
+Bingazi:Bingazi  NP-TOP ; ! "" ! El++
+Birlashgan% Qirollik:Birlashgan% Qirollik  NP-TOP ; ! "" ! El++
+Birmingam:Birmingam  NP-TOP ; ! "" ! El++
+Bishkek:Bishkek  NP-TOP ; ! "" ! El++
+Bissau:Bissau  NP-TOP ; ! "" ! El++
+Bitola:Bitola  NP-TOP ; ! "" ! El++
+Bizan:Bizan  NP-TOP ; ! "" ! El++
+Bodrum:Bodrum  NP-TOP ; ! "" ! El++
+Boeing:Boeing  NP-TOP ; ! "" ! El++
+Bogdanchi:Bogdanchi  NP-TOP ; ! "" ! El++
+Bogʻdot:Bogʻdot  NP-TOP ; ! "" ! El++
+Bogota:Bogota  NP-TOP ; ! "" ! El++
+Boʻhlen:Boʻhlen  NP-TOP ; ! "" ! El++
+Boliviya:Boliviya  NP-TOP ; ! "" ! El++
+Bolqon:Bolqon  NP-TOP ; ! "" ! El++
+Bolqonlar:Bolqonlar  NP-TOP ; ! "" ! El++
+Bonn:Bonn  NP-TOP ; ! "" ! El++
+Bor:Bor  NP-TOP ; ! "" ! El++
+Bosna%-Hersek:Bosna%-Hersek  NP-TOP ; ! "" ! El++
+Bosniya:Bosniya  NP-TOP ; ! "" ! El++
+Bosniya%-Gertsegovina:Bosniya%-Gertsegovina  NP-TOP ; ! "" ! El++
+Boston:Boston  NP-TOP ; ! "" ! El++
+Botsvana:Botsvana  NP-TOP ; ! "" ! El++
+Bradford:Bradford  NP-TOP ; ! "" ! El++
+Bratislava:Bratislava  NP-TOP ; ! "" ! El++
+Braziliya:Braziliya  NP-TOP ; ! "" ! El++
+Bremen:Bremen  NP-TOP ; ! "" ! El++
+Brest:Brest  NP-TOP ; ! "" ! El++
+Brindisi:Brindisi  NP-TOP ; ! "" ! El++
+Brisbane:Brisbane  NP-TOP ; ! "" ! El++
+Bristol:Bristol  NP-TOP ; ! "" ! El++
+Brno:Brno  NP-TOP ; ! "" ! El++
+Bruksel:Bruksel  NP-TOP ; ! "" ! El++
+Bruney:Bruney  NP-TOP ; ! "" ! El++
+Budapesht:Budapesht  NP-TOP ; ! "" ! El++
+Budva:Budva  NP-TOP ; ! "" ! El++
+Buenos% Aeros:Buenos% Aeros  NP-TOP ; ! "" ! El++
+Bugulme:Bugulme  NP-TOP ; ! "" ! El++
+Bukresh:Bukresh  NP-TOP ; ! "" ! El++
+Bulgariya:Bulgariya  NP-TOP ; ! "" ! El++
+Burgaz:Burgaz  NP-TOP ; ! "" ! El++
+Burkina%-Faso:Burkina%-Faso  NP-TOP ; ! "" ! El++
+Bursa:Bursa  NP-TOP ; ! "" ! El++
+Burundi:Burundi  NP-TOP ; ! "" ! El++
+Butan:Butan  NP-TOP ; ! "" ! El++
+Butrint:Butrint  NP-TOP ; ! "" ! El++
+Buxoro:Buxoro  NP-TOP ; ! "" ! El++
+Chad:Chad  NP-TOP ; ! "" ! El++
+Chekirge:Chekirge  NP-TOP ; ! "" ! El++
+Chernogoriya:Chernogoriya  NP-TOP ; ! "" ! El++
+Chexoslovakiya:Chexoslovakiya  NP-TOP ; ! "" ! El++
+Chibuti:Chibuti  NP-TOP ; ! "" ! El++
+Chicago:Chicago  NP-TOP ; ! "" ! El++
+Chikago:Chikago  NP-TOP ; ! "" ! El++
+Chili:Chili  NP-TOP ; ! "" ! El++
+Chimkent:Chimkent  NP-TOP ; ! "" ! El++
+Chun:Chun  NP-TOP ; ! "" ! El++
+Chuvashiston:Chuvashiston  NP-TOP ; ! "" ! El++
+Dakar:Dakar  NP-TOP ; ! "" ! El++
+Dakka:Dakka  NP-TOP ; ! "" ! El++
+Dalak:Dalak  NP-TOP ; ! "" ! El++
+Dallas:Dallas  NP-TOP ; ! "" ! El++
+Dalmachya:Dalmachya  NP-TOP ; ! "" ! El++
+Danimarka:Danimarka  NP-TOP ; ! "" ! El++
+Dar%-al%-Harb:Dar%-al%-Harb  NP-TOP ; ! "" ! El++
+Debre:Debre  NP-TOP ; ! "" ! El++
+Debrecen:Debrecen  NP-TOP ; ! "" ! El++
+Dehli:Dehli  NP-TOP ; ! "" ! El++
+Delaware:Delaware  NP-TOP ; ! "" ! El++
+Delfi:Delfi  NP-TOP ; ! "" ! El++
+Detroit:Detroit  NP-TOP ; ! "" ! El++
+Devoniyen:Devoniyen  NP-TOP ; ! "" ! El++
+Dicle:Dicle  NP-TOP ; ! "" ! El++
+Dili:Dili  NP-TOP ; ! "" ! El++
+Dish:Dish  NP-TOP ; ! "" ! El++
+Diyarbakir:Diyarbakir  NP-TOP ; ! "" ! El++
+Dnestryani:Dnestryani  NP-TOP ; ! "" ! El++
+Dobrich:Dobrich  NP-TOP ; ! "" ! El++
+Dobruca:Dobruca  NP-TOP ; ! "" ! El++
+Dogʻiston:Dogʻiston  NP-TOP ; ! "" ! El++
+Doha:Doha  NP-TOP ; ! "" ! El++
+Dominika:Dominika  NP-TOP ; ! "" ! El++
+Donetsk:Donetsk  NP-TOP ; ! "" ! El++
+Dortmund:Dortmund  NP-TOP ; ! "" ! El++
+Doʻstlik:Doʻstlik  NP-TOP ; ! "" ! El++
+Down:Down  NP-TOP ; ! "" ! El++
+Doyran:Doyran  NP-TOP ; ! "" ! El++
+Drava:Drava  NP-TOP ; ! "" ! El++
+Dresden:Dresden  NP-TOP ; ! "" ! El++
+Drina:Drina  NP-TOP ; ! "" ! El++
+Dubay:Dubay  NP-TOP ; ! "" ! El++
+Dublin:Dublin  NP-TOP ; ! "" ! El++
+Dubrovnik:Dubrovnik  NP-TOP ; ! "" ! El++
+Dupnitsa:Dupnitsa  NP-TOP ; ! "" ! El++
+Durban:Durban  NP-TOP ; ! "" ! El++
+Durres:Durres  NP-TOP ; ! "" ! El++
+Dushanbe:Dushanbe  NP-TOP ; ! "" ! El++
+Edinburg:Edinburg  NP-TOP ; ! "" ! El++
+Edirne:Edirne  NP-TOP ; ! "" ! El++
+Efiopiya:Efiopiya  NP-TOP ; ! "" ! El++
+Ekibastuz:Ekibastuz  NP-TOP ; ! "" ! El++
+Ekim:Ekim  NP-TOP ; ! "" ! El++
+Ekvador:Ekvador  NP-TOP ; ! "" ! El++
+El% Salvador:El% Salvador  NP-TOP ; ! "" ! El++
+Elche:Elche  NP-TOP ; ! "" ! El++
+Emek:Emek  NP-TOP ; ! "" ! El++
+Eritre:Eritre  NP-TOP ; ! "" ! El++
+Eron:Eron  NP-TOP ; ! "" ! El++
+Erzurum:Erzurum  NP-TOP ; ! "" ! El++
+Eski% Zagʻra:Eski% Zagʻra  NP-TOP ; ! "" ! El++
+Eskishahar:Eskishahar  NP-TOP ; ! "" ! El++
+Estoniya:Estoniya  NP-TOP ; ! "" ! El++
+Falastin:Falastin  NP-TOP ; ! "" ! El++
+Fenike:Fenike  NP-TOP ; ! "" ! El++
+Ferrara:Ferrara  NP-TOP ; ! "" ! El++
+Fiji:Fiji  NP-TOP ; ! "" ! El++
+Filadelfiya:Filadelfiya  NP-TOP ; ! "" ! El++
+Filippin:Filippin  NP-TOP ; ! "" ! El++
+Finlandiya:Finlandiya  NP-TOP ; ! "" ! El++
+Firat:Firat  NP-TOP ; ! "" ! El++
+Firavn:Firavn  NP-TOP ; ! "" ! El++
+Florida:Florida  NP-TOP ; ! "" ! El++
+Focha:Focha  NP-TOP ; ! "" ! El++
+Frankfurt:Frankfurt  NP-TOP ; ! "" ! El++
+Frankfurt% am% Main:Frankfurt% am% Main  NP-TOP ; ! "" ! El++
+Fransiya:Fransiya  NP-TOP ; ! "" ! El++
+Fransuz:Fransuz  NP-TOP ; ! "" ! El++
+Frasier:Frasier  NP-TOP ; ! "" ! El++
+Gaaga:Gaaga  NP-TOP ; ! "" ! El++
+Gabon:Gabon  NP-TOP ; ! "" ! El++
+Gaiti:Gaiti  NP-TOP ; ! "" ! El++
+Gambiya:Gambiya  NP-TOP ; ! "" ! El++
+Gamburg:Gamburg  NP-TOP ; ! "" ! El++
+Gana:Gana  NP-TOP ; ! "" ! El++
+Gannover:Gannover  NP-TOP ; ! "" ! El++
+Gavai:Gavai  NP-TOP ; ! "" ! El++
+Gavana:Gavana  NP-TOP ; ! "" ! El++
+Gaziantep:Gaziantep  NP-TOP ; ! "" ! El++
+Gdansk:Gdansk  NP-TOP ; ! "" ! El++
+Gersegovina:Gersegovina  NP-TOP ; ! "" ! El++
+Gevgeliya:Gevgeliya  NP-TOP ; ! "" ! El++
+Glazgo:Glazgo  NP-TOP ; ! "" ! El++
+Gollandiya:Gollandiya  NP-TOP ; ! "" ! El++
+Gollivud:Gollivud  NP-TOP ; ! "" ! El++
+Gonduras:Gonduras  NP-TOP ; ! "" ! El++
+Gostivar:Gostivar  NP-TOP ; ! "" ! El++
+Gotse% Delchev:Gotse% Delchev  NP-TOP ; ! "" ! El++
+Granit:Granit  NP-TOP ; ! "" ! El++
+Grenada:Grenada  NP-TOP ; ! "" ! El++
+Grenlandiya:Grenlandiya  NP-TOP ; ! "" ! El++
+Grenobl:Grenobl  NP-TOP ; ! "" ! El++
+Gretsiya:Gretsiya  NP-TOP ; ! "" ! El++
+Grozniy:Grozniy  NP-TOP ; ! "" ! El++
+Gruziya:Gruziya  NP-TOP ; ! "" ! El++
+Guam:Guam  NP-TOP ; ! "" ! El++
+Guyana:Guyana  NP-TOP ; ! "" ! El++
+Gvatemala:Gvatemala  NP-TOP ; ! "" ! El++
+Gvernsey:Gvernsey  NP-TOP ; ! "" ! El++
+Gvineya:Gvineya  NP-TOP ; ! "" ! El++
+Gyotburg:Gyotburg  NP-TOP ; ! "" ! El++
+Hamilton:Hamilton  NP-TOP ; ! "" ! El++
+Hanya:Hanya  NP-TOP ; ! "" ! El++
+Heidelberg:Heidelberg  NP-TOP ; ! "" ! El++
+Hindiston:Hindiston  NP-TOP ; ! "" ! El++
+Hong% Kong:Hong% Kong  NP-TOP ; ! "" ! El++
+Honshu:Honshu  NP-TOP ; ! "" ! El++
+Illinoys:Illinoys  NP-TOP ; ! "" ! El++
+Indiana:Indiana  NP-TOP ; ! "" ! El++
+Indochina:Indochina  NP-TOP ; ! "" ! El++
+Indoneziya:Indoneziya  NP-TOP ; ! "" ! El++
+Ingushetiya:Ingushetiya  NP-TOP ; ! "" ! El++
+Inna:Inna  NP-TOP ; ! "" ! El++
+Innsbruck:Innsbruck  NP-TOP ; ! "" ! El++
+Iordaniya:Iordaniya  NP-TOP ; ! "" ! El++
+Irlandiya:Irlandiya  NP-TOP ; ! "" ! El++
+Iroq:Iroq  NP-TOP ; ! "" ! El++
+Isfaxon:Isfaxon  NP-TOP ; ! "" ! El++
+Iskendariya:Iskendariya  NP-TOP ; ! "" ! El++
+Islandiya:Islandiya  NP-TOP ; ! "" ! El++
+Islimiya:Islimiya  NP-TOP ; ! "" ! El++
+Islomobod:Islomobod  NP-TOP ; ! "" ! El++
+Ispaniya:Ispaniya  NP-TOP ; ! "" ! El++
+Isroil:Isroil  NP-TOP ; ! "" ! El++
+Istanbul:Istanbul  NP-TOP ; ! "" ! El++
+Italiya:Italiya  NP-TOP ; ! "" ! El++
+Iyova:Iyova  NP-TOP ; ! "" ! El++
+Izmir:Izmir  NP-TOP ; ! "" ! El++
+Jakarta:Jakarta  NP-TOP ; ! "" ! El++
+Janubiy% Koreya:Janubiy% Koreya  NP-TOP ; ! "" ! El++
+Jayxun:Jayxun  NP-TOP ; ! "" ! El++
+Jenova:Jenova  NP-TOP ; ! "" ! El++
+Jersi:Jersi  NP-TOP ; ! "" ! El++
+Jetinje:Jetinje  NP-TOP ; ! "" ! El++
+Jezoyir:Jezoyir  NP-TOP ; ! "" ! El++
+Jitomir:Jitomir  NP-TOP ; ! "" ! El++
+Kaburga:Kaburga  NP-TOP ; ! "" ! El++
+Kalais:Kalais  NP-TOP ; ! "" ! El++
+Kalgary:Kalgary  NP-TOP ; ! "" ! El++
+Kaliforniya:Kaliforniya  NP-TOP ; ! "" ! El++
+Kaliningrad:Kaliningrad  NP-TOP ; ! "" ! El++
+Kalkutta:Kalkutta  NP-TOP ; ! "" ! El++
+Kambodiya:Kambodiya  NP-TOP ; ! "" ! El++
+Kamerun:Kamerun  NP-TOP ; ! "" ! El++
+Kanada:Kanada  NP-TOP ; ! "" ! El++
+Kanberra:Kanberra  NP-TOP ; ! "" ! El++
+Kanzas:Kanzas  NP-TOP ; ! "" ! El++
+Karlsrue:Karlsrue  NP-TOP ; ! "" ! El++
+Kasablanka:Kasablanka  NP-TOP ; ! "" ! El++
+Kashmir:Kashmir  NP-TOP ; ! "" ! El++
+Katovitsa:Katovitsa  NP-TOP ; ! "" ! El++
+Kavadar:Kavadar  NP-TOP ; ! "" ! El++
+Kavak:Kavak  NP-TOP ; ! "" ! El++
+Kavala:Kavala  NP-TOP ; ! "" ! El++
+Kavkaz:Kavkaz  NP-TOP ; ! "" ! El++
+Kayseri:Kayseri  NP-TOP ; ! "" ! El++
+Kazanlak:Kazanlak  NP-TOP ; ! "" ! El++
+Kebelitarik:Kebelitarik  NP-TOP ; ! "" ! El++
+Kelje:Kelje  NP-TOP ; ! "" ! El++
+Kenevr:Kenevr  NP-TOP ; ! "" ! El++
+Keniya:Keniya  NP-TOP ; ! "" ! El++
+Kentukki:Kentukki  NP-TOP ; ! "" ! El++
+Kilkis:Kilkis  NP-TOP ; ! "" ! El++
+Kingston:Kingston  NP-TOP ; ! "" ! El++
+Kinshasa:Kinshasa  NP-TOP ; ! "" ! El++
+Kioto:Kioto  NP-TOP ; ! "" ! El++
+Kipr:Kipr  NP-TOP ; ! "" ! El++
+Kiribati:Kiribati  NP-TOP ; ! "" ! El++
+Kiyev:Kiyev  NP-TOP ; ! "" ! El++
+Kobul:Kobul  NP-TOP ; ! "" ! El++
+Koln:Koln  NP-TOP ; ! "" ! El++
+Kolorado:Kolorado  NP-TOP ; ! "" ! El++
+Kolumbiya:Kolumbiya  NP-TOP ; ! "" ! El++
+Komi:Komi  NP-TOP ; ! "" ! El++
+Kommonwealth:Kommonwealth  NP-TOP ; ! "" ! El++
+Kongo:Kongo  NP-TOP ; ! "" ! El++
+Konnecticut:Konnecticut  NP-TOP ; ! "" ! El++
+Konstantinopl:Konstantinopl  NP-TOP ; ! "" ! El++
+Konya:Konya  NP-TOP ; ! "" ! El++
+Kopenhagen:Kopenhagen  NP-TOP ; ! "" ! El++
+Koper:Koper  NP-TOP ; ! "" ! El++
+Koʻprulu:Koʻprulu  NP-TOP ; ! "" ! El++
+Koreya:Koreya  NP-TOP ; ! "" ! El++
+Kosova:Kosova  NP-TOP ; ! "" ! El++
+Kotor:Kotor  NP-TOP ; ! "" ! El++
+Kottbus:Kottbus  NP-TOP ; ! "" ! El++
+Kozani:Kozani  NP-TOP ; ! "" ! El++
+Kragujevac:Kragujevac  NP-TOP ; ! "" ! El++
+Kraiova:Kraiova  NP-TOP ; ! "" ! El++
+Krakov:Krakov  NP-TOP ; ! "" ! El++
+Kranj:Kranj  NP-TOP ; ! "" ! El++
+Kratovo:Kratovo  NP-TOP ; ! "" ! El++
+Kreml:Kreml  NP-TOP ; ! "" ! El++
+Krit:Krit  NP-TOP ; ! "" ! El++
+Krushevo:Krushevo  NP-TOP ; ! "" ! El++
+Kuba:Kuba  NP-TOP ; ! "" ! El++
+Kubbe:Kubbe  NP-TOP ; ! "" ! El++
+Kugʻu:Kugʻu  NP-TOP ; ! "" ! El++
+Kumanova:Kumanova  NP-TOP ; ! "" ! El++
+Kurdiston:Kurdiston  NP-TOP ; ! "" ! El++
+Kurshun:Kurshun  NP-TOP ; ! "" ! El++
+Kuveyt:Kuveyt  NP-TOP ; ! "" ! El++
+Kuzey:Kuzey  NP-TOP ; ! "" ! El++
+Kvinslend:Kvinslend  NP-TOP ; ! "" ! El++
+Kyustendil:Kyustendil  NP-TOP ; ! "" ! El++
+Laos:Laos  NP-TOP ; ! "" ! El++
+Las%-Vegas:Las%-Vegas  NP-TOP ; ! "" ! El++
+Latviya:Latviya  NP-TOP ; ! "" ! El++
+Lehistan:Lehistan  NP-TOP ; ! "" ! El++
+Leipzig:Leipzig  NP-TOP ; ! "" ! El++
+Lesoto:Lesoto  NP-TOP ; ! "" ! El++
+Liberiya:Liberiya  NP-TOP ; ! "" ! El++
+Lilongwe:Lilongwe  NP-TOP ; ! "" ! El++
+Lima:Lima  NP-TOP ; ! "" ! El++
+Limon:Limon  NP-TOP ; ! "" ! El++
+Lissabon:Lissabon  NP-TOP ; ! "" ! El++
+Litva:Litva  NP-TOP ; ! "" ! El++
+Livan:Livan  NP-TOP ; ! "" ! El++
+Liverpul:Liverpul  NP-TOP ; ! "" ! El++
+Liviya:Liviya  NP-TOP ; ! "" ! El++
+Lixtenshteyn:Lixtenshteyn  NP-TOP ; ! "" ! El++
+Lom:Lom  NP-TOP ; ! "" ! El++
+London:London  NP-TOP ; ! "" ! El++
+Los%-Anjeles:Los%-Anjeles  NP-TOP ; ! "" ! El++
+Lovech:Lovech  NP-TOP ; ! "" ! El++
+Luiziana:Luiziana  NP-TOP ; ! "" ! El++
+Lvov:Lvov  NP-TOP ; ! "" ! El++
+Lxasa:Lxasa  NP-TOP ; ! "" ! El++
+Lyon:Lyon  NP-TOP ; ! "" ! El++
+Lyublyana:Lyublyana  NP-TOP ; ! "" ! El++
+Lyuksemburg:Lyuksemburg  NP-TOP ; ! "" ! El++
+Madakaskar:Madakaskar  NP-TOP ; ! "" ! El++
+Madrid:Madrid  NP-TOP ; ! "" ! El++
+Magʻara:Magʻara  NP-TOP ; ! "" ! El++
+Mahkama:Mahkama  NP-TOP ; ! "" ! El++
+Mainz:Mainz  NP-TOP ; ! "" ! El++
+Makao:Makao  NP-TOP ; ! "" ! El++
+Makedoniya:Makedoniya  NP-TOP ; ! "" ! El++
+Makka:Makka  NP-TOP ; ! "" ! El++
+Malaga:Malaga  NP-TOP ; ! "" ! El++
+Malavi:Malavi  NP-TOP ; ! "" ! El++
+Malayziya:Malayziya  NP-TOP ; ! "" ! El++
+Mali:Mali  NP-TOP ; ! "" ! El++
+Malta:Malta  NP-TOP ; ! "" ! El++
+Manchester:Manchester  NP-TOP ; ! "" ! El++
+Manila:Manila  NP-TOP ; ! "" ! El++
+Manisa:Manisa  NP-TOP ; ! "" ! El++
+Mantis:Mantis  NP-TOP ; ! "" ! El++
+Manxetten:Manxetten  NP-TOP ; ! "" ! El++
+Maribor:Maribor  NP-TOP ; ! "" ! El++
+Marmara:Marmara  NP-TOP ; ! "" ! El++
+Marokash:Marokash  NP-TOP ; ! "" ! El++
+Mars:Mars  NP-TOP ; ! "" ! El++
+Marsel:Marsel  NP-TOP ; ! "" ! El++
+Massachutsets:Massachutsets  NP-TOP ; ! "" ! El++
+Mauritius:Mauritius  NP-TOP ; ! "" ! El++
+Mavritaniya:Mavritaniya  NP-TOP ; ! "" ! El++
+Mayami:Mayami  NP-TOP ; ! "" ! El++
+Mayna:Mayna  NP-TOP ; ! "" ! El++
+Meksika:Meksika  NP-TOP ; ! "" ! El++
+Melburn:Melburn  NP-TOP ; ! "" ! El++
+Merilend:Merilend  NP-TOP ; ! "" ! El++
+Mexiko:Mexiko  NP-TOP ; ! "" ! El++
+Michigan:Michigan  NP-TOP ; ! "" ! El++
+Milan:Milan  NP-TOP ; ! "" ! El++
+Min:Min  NP-TOP ; ! "" ! El++
+Minneapolis:Minneapolis  NP-TOP ; ! "" ! El++
+Minnesota:Minnesota  NP-TOP ; ! "" ! El++
+Minsk:Minsk  NP-TOP ; ! "" ! El++
+Mirtl:Mirtl  NP-TOP ; ! "" ! El++
+Misr:Misr  NP-TOP ; ! "" ! El++
+Missisipi:Missisipi  NP-TOP ; ! "" ! El++
+Missuri:Missuri  NP-TOP ; ! "" ! El++
+Mitrovitsa:Mitrovitsa  NP-TOP ; ! "" ! El++
+Mogadishu:Mogadishu  NP-TOP ; ! "" ! El++
+Mogʻuliston:Mogʻuliston  NP-TOP ; ! "" ! El++
+Moldova:Moldova  NP-TOP ; ! "" ! El++
+Monako:Monako  NP-TOP ; ! "" ! El++
+Monastir:Monastir  NP-TOP ; ! "" ! El++
+Montana:Montana  NP-TOP ; ! "" ! El++
+Monte% Karlo:Monte% Karlo  NP-TOP ; ! "" ! El++
+Montpellier:Montpellier  NP-TOP ; ! "" ! El++
+Montreal:Montreal  NP-TOP ; ! "" ! El++
+Montserrat:Montserrat  NP-TOP ; ! "" ! El++
+Moskva:Moskva  NP-TOP ; ! "" ! El++
+Mostar:Mostar  NP-TOP ; ! "" ! El++
+Mosul:Mosul  NP-TOP ; ! "" ! El++
+Mozambik:Mozambik  NP-TOP ; ! "" ! El++
+Mpumalanga:Mpumalanga  NP-TOP ; ! "" ! El++
+Mumbay:Mumbay  NP-TOP ; ! "" ! El++
+Myanma:Myanma  NP-TOP ; ! "" ! El++
+Myunxen:Myunxen  NP-TOP ; ! "" ! El++
+Namibiya:Namibiya  NP-TOP ; ! "" ! El++
+Nane:Nane  NP-TOP ; ! "" ! El++
+Nauru:Nauru  NP-TOP ; ! "" ! El++
+Navakot:Navakot  NP-TOP ; ! "" ! El++
+Nayrobi:Nayrobi  NP-TOP ; ! "" ! El++
+Neapol:Neapol  NP-TOP ; ! "" ! El++
+Nebraska:Nebraska  NP-TOP ; ! "" ! El++
+Negotin:Negotin  NP-TOP ; ! "" ! El++
+Nepal:Nepal  NP-TOP ; ! "" ! El++
+Neretva:Neretva  NP-TOP ; ! "" ! El++
+Neum:Neum  NP-TOP ; ! "" ! El++
+Nevada:Nevada  NP-TOP ; ! "" ! El++
+New% Orlean:New% Orlean  NP-TOP ; ! "" ! El++
+New% York:New% York  NP-TOP ; ! "" ! El++
+Nice:Nice  NP-TOP ; ! "" ! El++
+Niger:Niger  NP-TOP ; ! "" ! El++
+Nigeriya:Nigeriya  NP-TOP ; ! "" ! El++
+Nikaragua:Nikaragua  NP-TOP ; ! "" ! El++
+Nikosiya:Nikosiya  NP-TOP ; ! "" ! El++
+Nish:Nish  NP-TOP ; ! "" ! El++
+Nishopur:Nishopur  NP-TOP ; ! "" ! El++
+Nor:Nor  NP-TOP ; ! "" ! El++
+Norin:Norin  NP-TOP ; ! "" ! El++
+Normandiya:Normandiya  NP-TOP ; ! "" ! El++
+Norvegiya:Norvegiya  NP-TOP ; ! "" ! El++
+Novgorod:Novgorod  NP-TOP ; ! "" ! El++
+Novosibirsk:Novosibirsk  NP-TOP ; ! "" ! El++
+Novy% Sad:Novy% Sad  NP-TOP ; ! "" ! El++
+Nur%-Sulton:Nur%-Sulton  NP-TOP ; ! "" ! El++
+Nyurnberg:Nyurnberg  NP-TOP ; ! "" ! El++
+Obidjon:Obidjon  NP-TOP ; ! "" ! El++
+Odessa:Odessa  NP-TOP ; ! "" ! El++
+Ogayo:Ogayo  NP-TOP ; ! "" ! El++
+Ohri:Ohri  NP-TOP ; ! "" ! El++
+Okeaniya:Okeaniya  NP-TOP ; ! "" ! El++
+Oklaxoma:Oklaxoma  NP-TOP ; ! "" ! El++
+Oksford:Oksford  NP-TOP ; ! "" ! El++
+Olmoniya:Olmoniya  NP-TOP ; ! "" ! El++
+Olmota:Olmota  NP-TOP ; ! "" ! El++
+Omsk:Omsk  NP-TOP ; ! "" ! El++
+Oqbuloq:Oqbuloq  NP-TOP ; ! "" ! El++
+Oqtov:Oqtov  NP-TOP ; ! "" ! El++
+Oran:Oran  NP-TOP ; ! "" ! El++
+Oregon:Oregon  NP-TOP ; ! "" ! El++
+Orenburg:Orenburg  NP-TOP ; ! "" ! El++
+Ortakoʻy:Ortakoʻy  NP-TOP ; ! "" ! El++
+Orxaniya:Orxaniya  NP-TOP ; ! "" ! El++
+Osaka:Osaka  NP-TOP ; ! "" ! El++
+Osh:Osh  NP-TOP ; ! "" ! El++
+Oshqovot:Oshqovot  NP-TOP ; ! "" ! El++
+Osijek:Osijek  NP-TOP ; ! "" ! El++
+Osiyo:Osiyo  NP-TOP ; ! "" ! El++
+Oskemen:Oskemen  NP-TOP ; ! "" ! El++
+Oslo:Oslo  NP-TOP ; ! "" ! El++
+Osman:Osman  NP-TOP ; ! "" ! El++
+Ostona:Ostona  NP-TOP ; ! "" ! El++
+Oʻtrov:Oʻtrov  NP-TOP ; ! "" ! El++
+Ottava:Ottava  NP-TOP ; ! "" ! El++
+Oʻzbekiston:Oʻzbekiston  NP-TOP ; ! "" ! El++
+Oʻzgurluk:Oʻzgurluk  NP-TOP ; ! "" ! El++
+Padova:Padova  NP-TOP ; ! "" ! El++
+Pakiston:Pakiston  NP-TOP ; ! "" ! El++
+Palau:Palau  NP-TOP ; ! "" ! El++
+Palermo:Palermo  NP-TOP ; ! "" ! El++
+Panama:Panama  NP-TOP ; ! "" ! El++
+Paraguay:Paraguay  NP-TOP ; ! "" ! El++
+Parfiya:Parfiya  NP-TOP ; ! "" ! El++
+Parij:Parij  NP-TOP ; ! "" ! El++
+Pavlodar:Pavlodar  NP-TOP ; ! "" ! El++
+Pekin:Pekin  NP-TOP ; ! "" ! El++
+Pensilvaniya:Pensilvaniya  NP-TOP ; ! "" ! El++
+Pernik:Pernik  NP-TOP ; ! "" ! El++
+Pert:Pert  NP-TOP ; ! "" ! El++
+Peru:Peru  NP-TOP ; ! "" ! El++
+Petri:Petri  NP-TOP ; ! "" ! El++
+Pitsburg:Pitsburg  NP-TOP ; ! "" ! El++
+Pleven:Pleven  NP-TOP ; ! "" ! El++
+Plovdiv:Plovdiv  NP-TOP ; ! "" ! El++
+Podgoritsa:Podgoritsa  NP-TOP ; ! "" ! El++
+Polineziya:Polineziya  NP-TOP ; ! "" ! El++
+Polsha:Polsha  NP-TOP ; ! "" ! El++
+Portugaliya:Portugaliya  NP-TOP ; ! "" ! El++
+Praga:Praga  NP-TOP ; ! "" ! El++
+Pretoriya:Pretoriya  NP-TOP ; ! "" ! El++
+Prijedor:Prijedor  NP-TOP ; ! "" ! El++
+Prilep:Prilep  NP-TOP ; ! "" ! El++
+Pristina:Pristina  NP-TOP ; ! "" ! El++
+Prizren:Prizren  NP-TOP ; ! "" ! El++
+Pxengyang:Pxengyang  NP-TOP ; ! "" ! El++
+Qaragʻanda:Qaragʻanda  NP-TOP ; ! "" ! El++
+Qatar:Qatar  NP-TOP ; ! "" ! El++
+Qirgʻiziston:Qirgʻiziston  NP-TOP ; ! "" ! El++
+Qiziloʻrda:Qiziloʻrda  NP-TOP ; ! "" ! El++
+Qohira:Qohira  NP-TOP ; ! "" ! El++
+Qoplon:Qoplon  NP-TOP ; ! "" ! El++
+Qor:Qor  NP-TOP ; ! "" ! El++
+Qorabogʻ:Qorabogʻ  NP-TOP ; ! "" ! El++
+Qoʻstanay:Qoʻstanay  NP-TOP ; ! "" ! El++
+Qozoqiston:Qozoqiston  NP-TOP ; ! "" ! El++
+Quddus:Quddus  NP-TOP ; ! "" ! El++
+Quebec:Quebec  NP-TOP ; ! "" ! El++
+Quito:Quito  NP-TOP ; ! "" ! El++
+Razgrad:Razgrad  NP-TOP ; ! "" ! El++
+Regensburg:Regensburg  NP-TOP ; ! "" ! El++
+Renk:Renk  NP-TOP ; ! "" ! El++
+Resen:Resen  NP-TOP ; ! "" ! El++
+Reykjavik:Reykjavik  NP-TOP ; ! "" ! El++
+Riga:Riga  NP-TOP ; ! "" ! El++
+Rijeka:Rijeka  NP-TOP ; ! "" ! El++
+Rila% Dagʻi:Rila% Dagʻi  NP-TOP ; ! "" ! El++
+Rim:Rim  NP-TOP ; ! "" ! El++
+Rimini:Rimini  NP-TOP ; ! "" ! El++
+Rio%-de%-Janeyro:Rio%-de%-Janeyro  NP-TOP ; ! "" ! El++
+Riyoz:Riyoz  NP-TOP ; ! "" ! El++
+Rodos:Rodos  NP-TOP ; ! "" ! El++
+Rossiya:Rossiya  NP-TOP ; ! "" ! El++
+Ruanda:Ruanda  NP-TOP ; ! "" ! El++
+Rumeli:Rumeli  NP-TOP ; ! "" ! El++
+Ruminiya:Ruminiya  NP-TOP ; ! "" ! El++
+Ruse:Ruse  NP-TOP ; ! "" ! El++
+Saarland:Saarland  NP-TOP ; ! "" ! El++
+Saba:Saba  NP-TOP ; ! "" ! El++
+Sahro:Sahro  NP-TOP ; ! "" ! El++
+Sakarya:Sakarya  NP-TOP ; ! "" ! El++
+Sakramento:Sakramento  NP-TOP ; ! "" ! El++
+Saloniki:Saloniki  NP-TOP ; ! "" ! El++
+Samar:Samar  NP-TOP ; ! "" ! El++
+Samara:Samara  NP-TOP ; ! "" ! El++
+Samoa:Samoa  NP-TOP ; ! "" ! El++
+Samos:Samos  NP-TOP ; ! "" ! El++
+San% Paulo:San% Paulo  NP-TOP ; ! "" ! El++
+San%-Fransisko:San%-Fransisko  NP-TOP ; ! "" ! El++
+Sankt%-Peterburg:Sankt%-Peterburg  NP-TOP ; ! "" ! El++
+Santoron:Santoron  NP-TOP ; ! "" ! El++
+Santyago:Santyago  NP-TOP ; ! "" ! El++
+Sapran:Sapran  NP-TOP ; ! "" ! El++
+Saratov:Saratov  NP-TOP ; ! "" ! El++
+Sarayevo:Sarayevo  NP-TOP ; ! "" ! El++
+Sardiniya:Sardiniya  NP-TOP ; ! "" ! El++
+Saturn:Saturn  NP-TOP ; ! "" ! El++
+Sayi:Sayi  NP-TOP ; ! "" ! El++
+Sayram:Sayram  NP-TOP ; ! "" ! El++
+Sem:Sem  NP-TOP ; ! "" ! El++
+Semey:Semey  NP-TOP ; ! "" ! El++
+Senegal:Senegal  NP-TOP ; ! "" ! El++
+Serbiya:Serbiya  NP-TOP ; ! "" ! El++
+Seul:Seul  NP-TOP ; ! "" ! El++
+Seyxan:Seyxan  NP-TOP ; ! "" ! El++
+Shanliurfa:Shanliurfa  NP-TOP ; ! "" ! El++
+Shanxay:Shanxay  NP-TOP ; ! "" ! El++
+Sheffild:Sheffild  NP-TOP ; ! "" ! El++
+Shengen:Shengen  NP-TOP ; ! "" ! El++
+Sheroz:Sheroz  NP-TOP ; ! "" ! El++
+Shimshir:Shimshir  NP-TOP ; ! "" ! El++
+Shinjon:Shinjon  NP-TOP ; ! "" ! El++
+Shkodra:Shkodra  NP-TOP ; ! "" ! El++
+Shotlandiya:Shotlandiya  NP-TOP ; ! "" ! El++
+Shri%-Lanka:Shri%-Lanka  NP-TOP ; ! "" ! El++
+Shtutgart:Shtutgart  NP-TOP ; ! "" ! El++
+Shumen:Shumen  NP-TOP ; ! "" ! El++
+Shvetsariya:Shvetsariya  NP-TOP ; ! "" ! El++
+Shvetsiya:Shvetsiya  NP-TOP ; ! "" ! El++
+Sibir:Sibir  NP-TOP ; ! "" ! El++
+Sidney:Sidney  NP-TOP ; ! "" ! El++
+Siena:Siena  NP-TOP ; ! "" ! El++
+Sietl:Sietl  NP-TOP ; ! "" ! El++
+Sigʻin:Sigʻin  NP-TOP ; ! "" ! El++
+Silistra:Silistra  NP-TOP ; ! "" ! El++
+Singapur:Singapur  NP-TOP ; ! "" ! El++
+Sitsiliya:Sitsiliya  NP-TOP ; ! "" ! El++
+Sivas:Sivas  NP-TOP ; ! "" ! El++
+Skandinaviya:Skandinaviya  NP-TOP ; ! "" ! El++
+Skopye:Skopye  NP-TOP ; ! "" ! El++
+Slavlar:Slavlar  NP-TOP ; ! "" ! El++
+Slavoniya:Slavoniya  NP-TOP ; ! "" ! El++
+Slovakiya:Slovakiya  NP-TOP ; ! "" ! El++
+Sloveniya:Sloveniya  NP-TOP ; ! "" ! El++
+Smenderevo:Smenderevo  NP-TOP ; ! "" ! El++
+Smolyan:Smolyan  NP-TOP ; ! "" ! El++
+Sofiya:Sofiya  NP-TOP ; ! "" ! El++
+Somali:Somali  NP-TOP ; ! "" ! El++
+Soria:Soria  NP-TOP ; ! "" ! El++
+Sosoniy:Sosoniy  NP-TOP ; ! "" ! El++
+Sparta:Sparta  NP-TOP ; ! "" ! El++
+Split:Split  NP-TOP ; ! "" ! El++
+Srebrenitsa:Srebrenitsa  NP-TOP ; ! "" ! El++
+Stokgolm:Stokgolm  NP-TOP ; ! "" ! El++
+Stonhenj:Stonhenj  NP-TOP ; ! "" ! El++
+Strasburg:Strasburg  NP-TOP ; ! "" ! El++
+Struga:Struga  NP-TOP ; ! "" ! El++
+Strumitsa:Strumitsa  NP-TOP ; ! "" ! El++
+Subotika:Subotika  NP-TOP ; ! "" ! El++
+Sudan:Sudan  NP-TOP ; ! "" ! El++
+Surinam:Surinam  NP-TOP ; ! "" ! El++
+Suriya:Suriya  NP-TOP ; ! "" ! El++
+Suudyi% Arabistoni:Suudyi% Arabistoni  NP-TOP ; ! "" ! El++
+Svalbard:Svalbard  NP-TOP ; ! "" ! El++
+Svazilend:Svazilend  NP-TOP ; ! "" ! El++
+Svishtov:Svishtov  NP-TOP ; ! "" ! El++
+Sylland:Sylland  NP-TOP ; ! "" ! El++
+Tahron:Tahron  NP-TOP ; ! "" ! El++
+Tailand:Tailand  NP-TOP ; ! "" ! El++
+Talas:Talas  NP-TOP ; ! "" ! El++
+Taldikoʻrgan:Taldikoʻrgan  NP-TOP ; ! "" ! El++
+Tallin:Tallin  NP-TOP ; ! "" ! El++
+Tambov:Tambov  NP-TOP ; ! "" ! El++
+Tangri:Tangri  NP-TOP ; ! "" ! El++
+Tanzaniya:Tanzaniya  NP-TOP ; ! "" ! El++
+Tarnovo:Tarnovo  NP-TOP ; ! "" ! El++
+Taroz:Taroz  NP-TOP ; ! "" ! El++
+Tasmoniya:Tasmoniya  NP-TOP ; ! "" ! El++
+Tatariston:Tatariston  NP-TOP ; ! "" ! El++
+Taypey:Taypey  NP-TOP ; ! "" ! El++
+Tearche:Tearche  NP-TOP ; ! "" ! El++
+Tebriz:Tebriz  NP-TOP ; ! "" ! El++
+Tehron:Tehron  NP-TOP ; ! "" ! El++
+Tekerlek:Tekerlek  NP-TOP ; ! "" ! El++
+Tel% Aviv:Tel% Aviv  NP-TOP ; ! "" ! El++
+Tenerife:Tenerife  NP-TOP ; ! "" ! El++
+Tennessi:Tennessi  NP-TOP ; ! "" ! El++
+Terek:Terek  NP-TOP ; ! "" ! El++
+Tetovo:Tetovo  NP-TOP ; ! "" ! El++
+Texas:Texas  NP-TOP ; ! "" ! El++
+Tibet:Tibet  NP-TOP ; ! "" ! El++
+Tibilisi:Tibilisi  NP-TOP ; ! "" ! El++
+Timor:Timor  NP-TOP ; ! "" ! El++
+Tiraspol:Tiraspol  NP-TOP ; ! "" ! El++
+Togo:Togo  NP-TOP ; ! "" ! El++
+Tojikiston:Tojikiston  NP-TOP ; ! "" ! El++
+Tokyo:Tokyo  NP-TOP ; ! "" ! El++
+Tonga:Tonga  NP-TOP ; ! "" ! El++
+Toronto:Toronto  NP-TOP ; ! "" ! El++
+Toshkent:Toshkent  NP-TOP ; ! "" ! El++
+Toulon:Toulon  NP-TOP ; ! "" ! El++
+Trablus:Trablus  NP-TOP ; ! "" ! El++
+Trabzon:Trabzon  NP-TOP ; ! "" ! El++
+Trakya:Trakya  NP-TOP ; ! "" ! El++
+Transilvaniya:Transilvaniya  NP-TOP ; ! "" ! El++
+Treblinka:Treblinka  NP-TOP ; ! "" ! El++
+Trieste:Trieste  NP-TOP ; ! "" ! El++
+Troya:Troya  NP-TOP ; ! "" ! El++
+Troyan:Troyan  NP-TOP ; ! "" ! El++
+Tsxinvali:Tsxinvali  NP-TOP ; ! "" ! El++
+Tulcha:Tulcha  NP-TOP ; ! "" ! El++
+Tulus:Tulus  NP-TOP ; ! "" ! El++
+Tuna:Tuna  NP-TOP ; ! "" ! El++
+Tunus:Tunus  NP-TOP ; ! "" ! El++
+Turin:Turin  NP-TOP ; ! "" ! El++
+Turkiya:Turkiya  NP-TOP ; ! "" ! El++
+Turkmaniston:Turkmaniston  NP-TOP ; ! "" ! El++
+Tuzla:Tuzla  NP-TOP ; ! "" ! El++
+Uels:Uels  NP-TOP ; ! "" ! El++
+Ufa:Ufa  NP-TOP ; ! "" ! El++
+Uganda:Uganda  NP-TOP ; ! "" ! El++
+Ukraina:Ukraina  NP-TOP ; ! "" ! El++
+Ulchinj:Ulchinj  NP-TOP ; ! "" ! El++
+Ulm:Ulm  NP-TOP ; ! "" ! El++
+Ummon:Ummon  NP-TOP ; ! "" ! El++
+Urugvay:Urugvay  NP-TOP ; ! "" ! El++
+Urumchi:Urumchi  NP-TOP ; ! "" ! El++
+Vaduz:Vaduz  NP-TOP ; ! "" ! El++
+Valandovo:Valandovo  NP-TOP ; ! "" ! El++
+Valletta:Valletta  NP-TOP ; ! "" ! El++
+Van:Van  NP-TOP ; ! "" ! El++
+Vanuatu:Vanuatu  NP-TOP ; ! "" ! El++
+Varna:Varna  NP-TOP ; ! "" ! El++
+Varshava:Varshava  NP-TOP ; ! "" ! El++
+Vashington:Vashington  NP-TOP ; ! "" ! El++
+Vatikan:Vatikan  NP-TOP ; ! "" ! El++
+Vayominq:Vayominq  NP-TOP ; ! "" ! El++
+Veliki% Novgorod:Veliki% Novgorod  NP-TOP ; ! "" ! El++
+Velingrad:Velingrad  NP-TOP ; ! "" ! El++
+Vena:Vena  NP-TOP ; ! "" ! El++
+Venera:Venera  NP-TOP ; ! "" ! El++
+Venetsiya:Venetsiya  NP-TOP ; ! "" ! El++
+Venetsuela:Venetsuela  NP-TOP ; ! "" ! El++
+Vengriya:Vengriya  NP-TOP ; ! "" ! El++
+Veriya:Veriya  NP-TOP ; ! "" ! El++
+Vermont:Vermont  NP-TOP ; ! "" ! El++
+Versal:Versal  NP-TOP ; ! "" ! El++
+Victoriya:Victoriya  NP-TOP ; ! "" ! El++
+Vidin:Vidin  NP-TOP ; ! "" ! El++
+Vientiane:Vientiane  NP-TOP ; ! "" ! El++
+Vietnam:Vietnam  NP-TOP ; ! "" ! El++
+Vilnyus:Vilnyus  NP-TOP ; ! "" ! El++
+Vinicne:Vinicne  NP-TOP ; ! "" ! El++
+Virjiniya:Virjiniya  NP-TOP ; ! "" ! El++
+Visbaden:Visbaden  NP-TOP ; ! "" ! El++
+Viskonsin:Viskonsin  NP-TOP ; ! "" ! El++
+Vistula:Vistula  NP-TOP ; ! "" ! El++
+Vladivostok:Vladivostok  NP-TOP ; ! "" ! El++
+Vlore:Vlore  NP-TOP ; ! "" ! El++
+Vodina:Vodina  NP-TOP ; ! "" ! El++
+Volgograd:Volgograd  NP-TOP ; ! "" ! El++
+Voyvodina:Voyvodina  NP-TOP ; ! "" ! El++
+Vratsa:Vratsa  NP-TOP ; ! "" ! El++
+Vrotslav:Vrotslav  NP-TOP ; ! "" ! El++
+Vukovar:Vukovar  NP-TOP ; ! "" ! El++
+Xanoy:Xanoy  NP-TOP ; ! "" ! El++
+Xarkov:Xarkov  NP-TOP ; ! "" ! El++
+Xaskovo:Xaskovo  NP-TOP ; ! "" ! El++
+Xelsinki:Xelsinki  NP-TOP ; ! "" ! El++
+Xiroshima:Xiroshima  NP-TOP ; ! "" ! El++
+Xorazm:Xorazm  NP-TOP ; ! "" ! El++
+Xorvatiya:Xorvatiya  NP-TOP ; ! "" ! El++
+Xyuston:Xyuston  NP-TOP ; ! "" ! El++
+Yahudiy:Yahudiy  NP-TOP ; ! "" ! El++
+Yahudiya:Yahudiya  NP-TOP ; ! "" ! El++
+Yaman:Yaman  NP-TOP ; ! "" ! El++
+Yamayka:Yamayka  NP-TOP ; ! "" ! El++
+Yamoussoukro:Yamoussoukro  NP-TOP ; ! "" ! El++
+Yanbolu:Yanbolu  NP-TOP ; ! "" ! El++
+Yangi% Zagra:Yangi% Zagra  NP-TOP ; ! "" ! El++
+Yangi% Zelandiya:Yangi% Zelandiya  NP-TOP ; ! "" ! El++
+Yaponiya:Yaponiya  NP-TOP ; ! "" ! El++
+Yekaterinburg:Yekaterinburg  NP-TOP ; ! "" ! El++
+Yerevan:Yerevan  NP-TOP ; ! "" ! El++
+Yevroosiyo:Yevroosiyo  NP-TOP ; ! "" ! El++
+Yil:Yil  NP-TOP ; ! "" ! El++
+York:York  NP-TOP ; ! "" ! El++
+Yorkshir:Yorkshir  NP-TOP ; ! "" ! El++
+Yoxannesburg:Yoxannesburg  NP-TOP ; ! "" ! El++
+Yugoslaviya:Yugoslaviya  NP-TOP ; ! "" ! El++
+Yumurta:Yumurta  NP-TOP ; ! "" ! El++
+Yunoniston:Yunoniston  NP-TOP ; ! "" ! El++
+Yuqori% Juma:Yuqori% Juma  NP-TOP ; ! "" ! El++
+Yuqori% Rahova:Yuqori% Rahova  NP-TOP ; ! "" ! El++
+Yuta:Yuta  NP-TOP ; ! "" ! El++
+Yutland:Yutland  NP-TOP ; ! "" ! El++
+Yvelines:Yvelines  NP-TOP ; ! "" ! El++
+Zadar:Zadar  NP-TOP ; ! "" ! El++
+Zagreb:Zagreb  NP-TOP ; ! "" ! El++
+Zagrep:Zagrep  NP-TOP ; ! "" ! El++
+Zakintos:Zakintos  NP-TOP ; ! "" ! El++
+Zambezi:Zambezi  NP-TOP ; ! "" ! El++
+Zambiya:Zambiya  NP-TOP ; ! "" ! El++
+Zanzibar:Zanzibar  NP-TOP ; ! "" ! El++
+Zaragoza:Zaragoza  NP-TOP ; ! "" ! El++
+Zebra:Zebra  NP-TOP ; ! "" ! El++
+Zenitsa:Zenitsa  NP-TOP ; ! "" ! El++
+Zhuanglar:Zhuanglar  NP-TOP ; ! "" ! El++
+Zimbabve:Zimbabve  NP-TOP ; ! "" ! El++
+xorvat:Xorvat N3 ; ! "Croat"
+Xorvat:Xorvat N3 ; ! "Croat"
+xorvat:xorvat A1 ; ! "Croatian" 
+tashqi% ishlari:tashqi% ishlari N1 ; ! "External Affairs"
+a`zolik:a`zolik N1 ; ! "membership"
+
+Ablesh:Ablesh  NP-TOP ; ! "" ! El++
+Adiyaman:Adiyaman  NP-TOP ; ! "" ! El++
+Aeroflotskiy:Aeroflotskiy  NP-TOP ; ! "" ! El++
+Agrarnoy:Agrarnoy  NP-TOP ; ! "" ! El++
+Alchevsk:Alchevsk  NP-TOP ; ! "" ! El++
+Amasya:Amasya  NP-TOP ; ! "" ! El++
+Ananyiv:Ananyiv  NP-TOP ; ! "" ! El++
+Andrushivka:Andrushivka  NP-TOP ; ! "" ! El++
+Antonini:Antonini  NP-TOP ; ! "" ! El++
+AQSH:AQSH  NP-TOP ; ! "" ! El++
+Armyansk:Armyansk  NP-TOP ; ! "" ! El++
+Arpat:Arpat  NP-TOP ; ! "" ! El++
+Artemivka:Artemivka  NP-TOP ; ! "" ! El++
+Artomovsk:Artomovsk  NP-TOP ; ! "" ! El++
+Artsiz:Artsiz  NP-TOP ; ! "" ! El++
+Artvin:Artvin  NP-TOP ; ! "" ! El++
+Askaniya%-Nova:Askaniya%-Nova  NP-TOP ; ! "" ! El++
+Asur:Asur  NP-TOP ; ! "" ! El++
+Axaya:Axaya  NP-TOP ; ! "" ! El++
+Axmetli:Axmetli  NP-TOP ; ! "" ! El++
+Aydar%-Gʻozi:Aydar%-Gʻozi  NP-TOP ; ! "" ! El++
+Ay%-Serez:Ay%-Serez  NP-TOP ; ! "" ! El++
+Babanka:Babanka  NP-TOP ; ! "" ! El++
+Babatay:Babatay  NP-TOP ; ! "" ! El++
+Babintsi:Babintsi  NP-TOP ; ! "" ! El++
+Badana:Badana  NP-TOP ; ! "" ! El++
+Bagatir:Bagatir  NP-TOP ; ! "" ! El++
+Bakkal:Bakkal  NP-TOP ; ! "" ! El++
+Balaxivka:Balaxivka  NP-TOP ; ! "" ! El++
+Balta:Balta  NP-TOP ; ! "" ! El++
+Bar:Bar  NP-TOP ; ! "" ! El++
+Barak:Barak  NP-TOP ; ! "" ! El++
+Baranivka:Baranivka  NP-TOP ; ! "" ! El++
+Barishivka:Barishivka  NP-TOP ; ! "" ! El++
+Batken:Batken  NP-TOP ; ! "" ! El++
+Batovo:Batovo  NP-TOP ; ! "" ! El++
+Baturin:Baturin  NP-TOP ; ! "" ! El++
+Baxmach:Baxmach  NP-TOP ; ! "" ! El++
+Baxmut:Baxmut  NP-TOP ; ! "" ! El++
+Baydar:Baydar  NP-TOP ; ! "" ! El++
+Bay% Qiyot:Bay% Qiyot  NP-TOP ; ! "" ! El++
+Baytlahm:Baytlahm  NP-TOP ; ! "" ! El++
+Baytulafra:Baytulafra  NP-TOP ; ! "" ! El++
+Bazaliya:Bazaliya  NP-TOP ; ! "" ! El++
+Bazarchik:Bazarchik  NP-TOP ; ! "" ! El++
+Belene:Belene  NP-TOP ; ! "" ! El++
+Belz:Belz  NP-TOP ; ! "" ! El++
+Berdansk:Berdansk  NP-TOP ; ! "" ! El++
+Berdi% Bolat:Berdi% Bolat  NP-TOP ; ! "" ! El++
+Berdichiv:Berdichiv  NP-TOP ; ! "" ! El++
+Beregomet:Beregomet  NP-TOP ; ! "" ! El++
+Beregove:Beregove  NP-TOP ; ! "" ! El++
+Berejani:Berejani  NP-TOP ; ! "" ! El++
+Berestechko:Berestechko  NP-TOP ; ! "" ! El++
+Berezan:Berezan  NP-TOP ; ! "" ! El++
+Berezina:Berezina  NP-TOP ; ! "" ! El++
+Berezne:Berezne  NP-TOP ; ! "" ! El++
+Bershad:Bershad  NP-TOP ; ! "" ! El++
+Beshiktosh:Beshiktosh  NP-TOP ; ! "" ! El++
+Beytanya:Beytanya  NP-TOP ; ! "" ! El++
+Beytlehm:Beytlehm  NP-TOP ; ! "" ! El++
+Beytsayda:Beytsayda  NP-TOP ; ! "" ! El++
+Bibra:Bibra  NP-TOP ; ! "" ! El++
+Bikivka:Bikivka  NP-TOP ; ! "" ! El++
+Bila% Krinitsa:Bila% Krinitsa  NP-TOP ; ! "" ! El++
+Bila% Tserkva:Bila% Tserkva  NP-TOP ; ! "" ! El++
+Bilayivka:Bilayivka  NP-TOP ; ! "" ! El++
+Bilecik:Bilecik  NP-TOP ; ! "" ! El++
+Biliki:Biliki  NP-TOP ; ! "" ! El++
+Bilogiriya:Bilogiriya  NP-TOP ; ! "" ! El++
+Bilopilla:Bilopilla  NP-TOP ; ! "" ! El++
+Bilshivtsi:Bilshivtsi  NP-TOP ; ! "" ! El++
+Bilxorod%-Dnistrovski:Bilxorod%-Dnistrovski  NP-TOP ; ! "" ! El++
+Bitkiv:Bitkiv  NP-TOP ; ! "" ! El++
+Bobil:Bobil  NP-TOP ; ! "" ! El++
+Bobrinets:Bobrinets  NP-TOP ; ! "" ! El++
+Bobrovitsa:Bobrovitsa  NP-TOP ; ! "" ! El++
+Bogorodchani:Bogorodchani  NP-TOP ; ! "" ! El++
+Boguslav:Boguslav  NP-TOP ; ! "" ! El++
+Bolehiv:Bolehiv  NP-TOP ; ! "" ! El++
+Bolgrad:Bolgrad  NP-TOP ; ! "" ! El++
+Borina:Borina  NP-TOP ; ! "" ! El++
+Borislav:Borislav  NP-TOP ; ! "" ! El++
+Borispil:Borispil  NP-TOP ; ! "" ! El++
+Borodanka:Borodanka  NP-TOP ; ! "" ! El++
+Borodino:Borodino  NP-TOP ; ! "" ! El++
+Borshchiv:Borshchiv  NP-TOP ; ! "" ! El++
+Borzna:Borzna  NP-TOP ; ! "" ! El++
+Boshqirdiston:Boshqirdiston  NP-TOP ; ! "" ! El++
+Botash:Botash  NP-TOP ; ! "" ! El++
+Boyarka:Boyarka  NP-TOP ; ! "" ! El++
+Bratslav:Bratslav  NP-TOP ; ! "" ! El++
+Brayiliv:Brayiliv  NP-TOP ; ! "" ! El++
+Brodetske:Brodetske  NP-TOP ; ! "" ! El++
+Brodi:Brodi  NP-TOP ; ! "" ! El++
+Broshniv%-Osada:Broshniv%-Osada  NP-TOP ; ! "" ! El++
+Brovari:Brovari  NP-TOP ; ! "" ! El++
+Bruhovichiy:Bruhovichiy  NP-TOP ; ! "" ! El++
+Brusiliv:Brusiliv  NP-TOP ; ! "" ! El++
+Bucha:Bucha  NP-TOP ; ! "" ! El++
+Buchach:Buchach  NP-TOP ; ! "" ! El++
+Buchmani:Buchmani  NP-TOP ; ! "" ! El++
+Bukachivtsi:Bukachivtsi  NP-TOP ; ! "" ! El++
+Buku:Buku  NP-TOP ; ! "" ! El++
+Bulganak:Bulganak  NP-TOP ; ! "" ! El++
+Burin:Burin  NP-TOP ; ! "" ! El++
+Burshtin:Burshtin  NP-TOP ; ! "" ! El++
+Buryatiya:Buryatiya  NP-TOP ; ! "" ! El++
+Bushtino:Bushtino  NP-TOP ; ! "" ! El++
+Busk:Busk  NP-TOP ; ! "" ! El++
+Buyuk% Karalez:Buyuk% Karalez  NP-TOP ; ! "" ! El++
+Buyuk% Onlar:Buyuk% Onlar  NP-TOP ; ! "" ! El++
+Buyuk% Oʻzenbash:Buyuk% Oʻzenbash  NP-TOP ; ! "" ! El++
+Bydgoszcz:Bydgoszcz  NP-TOP ; ! "" ! El++
+Bytom:Bytom  NP-TOP ; ! "" ! El++
+Chabani:Chabani  NP-TOP ; ! "" ! El++
+Chankiri:Chankiri  NP-TOP ; ! "" ! El++
+Chaplinka:Chaplinka  NP-TOP ; ! "" ! El++
+Chav% Toʻbe:Chav% Toʻbe  NP-TOP ; ! "" ! El++
+Chayka:Chayka  NP-TOP ; ! "" ! El++
+Chechelnik:Chechelnik  NP-TOP ; ! "" ! El++
+Checheniston:Checheniston  NP-TOP ; ! "" ! El++
+Chechinuv:Chechinuv  NP-TOP ; ! "" ! El++
+Chelebiler:Chelebiler  NP-TOP ; ! "" ! El++
+Chelyabinsk:Chelyabinsk  NP-TOP ; ! "" ! El++
+Chemerivtsi:Chemerivtsi  NP-TOP ; ! "" ! El++
+Cheppar:Cheppar  NP-TOP ; ! "" ! El++
+Chernaxiv:Chernaxiv  NP-TOP ; ! "" ! El++
+Chernelitsa:Chernelitsa  NP-TOP ; ! "" ! El++
+Chernobyl:Chernobyl  NP-TOP ; ! "" ! El++
+Chernovtsi:Chernovtsi  NP-TOP ; ! "" ! El++
+Chervonoarmiysk:Chervonoarmiysk  NP-TOP ; ! "" ! El++
+Chervonograd:Chervonograd  NP-TOP ; ! "" ! El++
+Chervonopartizansk:Chervonopartizansk  NP-TOP ; ! "" ! El++
+Chervonozavodske:Chervonozavodske  NP-TOP ; ! "" ! El++
+Chigirin:Chigirin  NP-TOP ; ! "" ! El++
+Chinadiyovo:Chinadiyovo  NP-TOP ; ! "" ! El++
+Chop:Chop  NP-TOP ; ! "" ! El++
+Chopovichi:Chopovichi  NP-TOP ; ! "" ! El++
+Chorniy% Ostriv:Chorniy% Ostriv  NP-TOP ; ! "" ! El++
+Chornobay:Chornobay  NP-TOP ; ! "" ! El++
+Chornomorsk:Chornomorsk  NP-TOP ; ! "" ! El++
+Chornomorske:Chornomorske  NP-TOP ; ! "" ! El++
+Chornuhi:Chornuhi  NP-TOP ; ! "" ! El++
+Chortkiv:Chortkiv  NP-TOP ; ! "" ! El++
+Choti:Choti  NP-TOP ; ! "" ! El++
+Chotqol:Chotqol  NP-TOP ; ! "" ! El++
+Chudniv:Chudniv  NP-TOP ; ! "" ! El++
+Chukurcha:Chukurcha  NP-TOP ; ! "" ! El++
+Chupahivka:Chupahivka  NP-TOP ; ! "" ! El++
+Chutove:Chutove  NP-TOP ; ! "" ! El++
+Chzestochowa:Chzestochowa  NP-TOP ; ! "" ! El++
+Cuma% Eli:Cuma% Eli  NP-TOP ; ! "" ! El++
+Cumgal:Cumgal  NP-TOP ; ! "" ! El++
+Dashava:Dashava  NP-TOP ; ! "" ! El++
+Dashiv:Dashiv  NP-TOP ; ! "" ! El++
+Dashti%-Qipchoq:Dashti%-Qipchoq  NP-TOP ; ! "" ! El++
+Daugavpils:Daugavpils  NP-TOP ; ! "" ! El++
+Davut% Eli:Davut% Eli  NP-TOP ; ! "" ! El++
+Debaltseve:Debaltseve  NP-TOP ; ! "" ! El++
+Delatin:Delatin  NP-TOP ; ! "" ! El++
+Demidivka:Demidivka  NP-TOP ; ! "" ! El++
+Derajna:Derajna  NP-TOP ; ! "" ! El++
+Dermenci:Dermenci  NP-TOP ; ! "" ! El++
+Dibrova:Dibrova  NP-TOP ; ! "" ! El++
+Digtari:Digtari  NP-TOP ; ! "" ! El++
+Dikanka:Dikanka  NP-TOP ; ! "" ! El++
+Dimer:Dimer  NP-TOP ; ! "" ! El++
+Dimitrove:Dimitrove  NP-TOP ; ! "" ! El++
+Dmitrivka:Dmitrivka  NP-TOP ; ! "" ! El++
+Dnepropetrovsk:Dnepropetrovsk  NP-TOP ; ! "" ! El++
+Dneprovsk:Dneprovsk  NP-TOP ; ! "" ! El++
+Dobranka:Dobranka  NP-TOP ; ! "" ! El++
+Dobromil:Dobromil  NP-TOP ; ! "" ! El++
+Dobrotvir:Dobrotvir  NP-TOP ; ! "" ! El++
+Dobrovelichkivka:Dobrovelichkivka  NP-TOP ; ! "" ! El++
+Dokuchayevsk:Dokuchayevsk  NP-TOP ; ! "" ! El++
+Dolinska:Dolinska  NP-TOP ; ! "" ! El++
+Donbas:Donbas  NP-TOP ; ! "" ! El++
+Donets:Donets  NP-TOP ; ! "" ! El++
+Donuzlav:Donuzlav  NP-TOP ; ! "" ! El++
+Doʻrmon:Doʻrmon  NP-TOP ; ! "" ! El++
+Dorojnoye:Dorojnoye  NP-TOP ; ! "" ! El++
+Doslidnitske:Doslidnitske  NP-TOP ; ! "" ! El++
+Dovbish:Dovbish  NP-TOP ; ! "" ! El++
+Drabiv:Drabiv  NP-TOP ; ! "" ! El++
+Drohobych:Drohobych  NP-TOP ; ! "" ! El++
+Drujba:Drujba  NP-TOP ; ! "" ! El++
+Dublani:Dublani  NP-TOP ; ! "" ! El++
+Dubove:Dubove  NP-TOP ; ! "" ! El++
+Dubovyazivka:Dubovyazivka  NP-TOP ; ! "" ! El++
+Edom:Edom  NP-TOP ; ! "" ! El++
+Efendikoy:Efendikoy  NP-TOP ; ! "" ! El++
+Ekvatorial% Gvineya:Ekvatorial% Gvineya  NP-TOP ; ! "" ! El++
+Elazig:Elazig  NP-TOP ; ! "" ! El++
+El%-Buzlu:El%-Buzlu  NP-TOP ; ! "" ! El++
+Eski% Krim:Eski% Krim  NP-TOP ; ! "" ! El++
+Essen:Essen  NP-TOP ; ! "" ! El++
+Fastiv:Fastiv  NP-TOP ; ! "" ! El++
+Feodosiya:Feodosiya  NP-TOP ; ! "" ! El++
+Ferngeym:Ferngeym  NP-TOP ; ! "" ! El++
+Florensiya:Florensiya  NP-TOP ; ! "" ! El++
+Fontan:Fontan  NP-TOP ; ! "" ! El++
+Foros:Foros  NP-TOP ; ! "" ! El++
+Frankovsk:Frankovsk  NP-TOP ; ! "" ! El++
+Frunze:Frunze  NP-TOP ; ! "" ! El++
+Frunzivka:Frunzivka  NP-TOP ; ! "" ! El++
+Gadach:Gadach  NP-TOP ; ! "" ! El++
+Galich:Galich  NP-TOP ; ! "" ! El++
+Gʻarbiy% Sahra:Gʻarbiy% Sahra  NP-TOP ; ! "" ! El++
+Gayevniki%-Kolonya:Gayevniki%-Kolonya  NP-TOP ; ! "" ! El++
+Gaysin:Gaysin  NP-TOP ; ! "" ! El++
+Gayvoron:Gayvoron  NP-TOP ; ! "" ! El++
+Genichesk:Genichesk  NP-TOP ; ! "" ! El++
+Germezir:Germezir  NP-TOP ; ! "" ! El++
+Gertsa:Gertsa  NP-TOP ; ! "" ! El++
+Gine%-Bissau:Gine%-Bissau  NP-TOP ; ! "" ! El++
+Girnik:Girnik  NP-TOP ; ! "" ! El++
+Glevaha:Glevaha  NP-TOP ; ! "" ! El++
+Gliboka:Gliboka  NP-TOP ; ! "" ! El++
+Glinani:Glinani  NP-TOP ; ! "" ! El++
+Gliviche:Gliviche  NP-TOP ; ! "" ! El++
+Globine:Globine  NP-TOP ; ! "" ! El++
+Gluhiv:Gluhiv  NP-TOP ; ! "" ! El++
+Gluhivitsi:Gluhivitsi  NP-TOP ; ! "" ! El++
+Gnivan:Gnivan  NP-TOP ; ! "" ! El++
+Gnizdichiv:Gnizdichiv  NP-TOP ; ! "" ! El++
+Gogoleve:Gogoleve  NP-TOP ; ! "" ! El++
+Golovanivsk:Golovanivsk  NP-TOP ; ! "" ! El++
+Golovine:Golovine  NP-TOP ; ! "" ! El++
+Gomel:Gomel  NP-TOP ; ! "" ! El++
+Goncharivske:Goncharivske  NP-TOP ; ! "" ! El++
+Gorodenka:Gorodenka  NP-TOP ; ! "" ! El++
+Gorodishche:Gorodishche  NP-TOP ; ! "" ! El++
+Gorodna:Gorodna  NP-TOP ; ! "" ! El++
+Gorodnitsa:Gorodnitsa  NP-TOP ; ! "" ! El++
+Gostomel:Gostomel  NP-TOP ; ! "" ! El++
+Gradizk:Gradizk  NP-TOP ; ! "" ! El++
+Granitne:Granitne  NP-TOP ; ! "" ! El++
+Grebinka:Grebinka  NP-TOP ; ! "" ! El++
+Grebinki:Grebinki  NP-TOP ; ! "" ! El++
+Gresovskiy:Gresovskiy  NP-TOP ; ! "" ! El++
+Grimayliv:Grimayliv  NP-TOP ; ! "" ! El++
+Grishkivtsi:Grishkivtsi  NP-TOP ; ! "" ! El++
+Gritsiv:Gritsiv  NP-TOP ; ! "" ! El++
+Gumushhane:Gumushhane  NP-TOP ; ! "" ! El++
+Gurzuf:Gurzuf  NP-TOP ; ! "" ! El++
+Gusatin:Gusatin  NP-TOP ; ! "" ! El++
+Guyva:Guyva  NP-TOP ; ! "" ! El++
+Gvizdets:Gvizdets  NP-TOP ; ! "" ! El++
+Habarovsk:Habarovsk  NP-TOP ; ! "" ! El++
+Hacidere:Hacidere  NP-TOP ; ! "" ! El++
+Hafuz:Hafuz  NP-TOP ; ! "" ! El++
+Halep:Halep  NP-TOP ; ! "" ! El++
+Hristinivka:Hristinivka  NP-TOP ; ! "" ! El++
+Ichna:Ichna  NP-TOP ; ! "" ! El++
+Idil:Idil  NP-TOP ; ! "" ! El++
+Illintsi:Illintsi  NP-TOP ; ! "" ! El++
+Ilovaysk:Ilovaysk  NP-TOP ; ! "" ! El++
+Irdin:Irdin  NP-TOP ; ! "" ! El++
+Irkutsk:Irkutsk  NP-TOP ; ! "" ! El++
+Irpin:Irpin  NP-TOP ; ! "" ! El++
+Irshansk:Irshansk  NP-TOP ; ! "" ! El++
+Irshava:Irshava  NP-TOP ; ! "" ! El++
+Iskar:Iskar  NP-TOP ; ! "" ! El++
+Iskenderun:Iskenderun  NP-TOP ; ! "" ! El++
+Islom% Terak:Islom% Terak  NP-TOP ; ! "" ! El++
+Isparta:Isparta  NP-TOP ; ! "" ! El++
+Ivankiv:Ivankiv  NP-TOP ; ! "" ! El++
+Ivano%-Frankove:Ivano%-Frankove  NP-TOP ; ! "" ! El++
+Ivanopil:Ivanopil  NP-TOP ; ! "" ! El++
+Izaslav:Izaslav  NP-TOP ; ! "" ! El++
+Izmayil:Izmayil  NP-TOP ; ! "" ! El++
+Izum:Izum  NP-TOP ; ! "" ! El++
+Jashkiv:Jashkiv  NP-TOP ; ! "" ! El++
+Jdeniyevo:Jdeniyevo  NP-TOP ; ! "" ! El++
+Jidachiv:Jidachiv  NP-TOP ; ! "" ! El++
+Jmerinka:Jmerinka  NP-TOP ; ! "" ! El++
+Jovkva:Jovkva  NP-TOP ; ! "" ! El++
+Jurasalim:Jurasalim  NP-TOP ; ! "" ! El++
+Juravno:Juravno  NP-TOP ; ! "" ! El++
+Jvirka:Jvirka  NP-TOP ; ! "" ! El++
+Kabo%-Verde% orollari:Kabo%-Verde% orollari  NP-TOP ; ! "" ! El++
+Kadamcay:Kadamcay  NP-TOP ; ! "" ! El++
+Kadikoy:Kadikoy  NP-TOP ; ! "" ! El++
+Kagarlik:Kagarlik  NP-TOP ; ! "" ! El++
+Kahovka:Kahovka  NP-TOP ; ! "" ! El++
+Kalanchak:Kalanchak  NP-TOP ; ! "" ! El++
+Kalita:Kalita  NP-TOP ; ! "" ! El++
+Kalpana:Kalpana  NP-TOP ; ! "" ! El++
+Kalush:Kalush  NP-TOP ; ! "" ! El++
+Kamaci:Kamaci  NP-TOP ; ! "" ! El++
+Kamenka:Kamenka  NP-TOP ; ! "" ! El++
+Kamyanets%-Podilskiy:Kamyanets%-Podilskiy  NP-TOP ; ! "" ! El++
+Kamyaniy% Brid:Kamyaniy% Brid  NP-TOP ; ! "" ! El++
+Kamyanka%-Buzka:Kamyanka%-Buzka  NP-TOP ; ! "" ! El++
+Kaniv:Kaniv  NP-TOP ; ! "" ! El++
+Kapitanivka:Kapitanivka  NP-TOP ; ! "" ! El++
+Karlivka:Karlivka  NP-TOP ; ! "" ! El++
+Kars:Kars  NP-TOP ; ! "" ! El++
+Karshiyaka:Karshiyaka  NP-TOP ; ! "" ! El++
+Katerinopil:Katerinopil  NP-TOP ; ! "" ! El++
+Kazan:Kazan  NP-TOP ; ! "" ! El++
+Kazan% Tip:Kazan% Tip  NP-TOP ; ! "" ! El++
+Kazvin:Kazvin  NP-TOP ; ! "" ! El++
+Kefarnahum:Kefarnahum  NP-TOP ; ! "" ! El++
+Kelmentsi:Kelmentsi  NP-TOP ; ! "" ! El++
+Kemerovo:Kemerovo  NP-TOP ; ! "" ! El++
+Kenan:Kenan  NP-TOP ; ! "" ! El++
+Ki:Ki  NP-TOP ; ! "" ! El++
+Kichik% Alkali:Kichik% Alkali  NP-TOP ; ! "" ! El++
+Kichik% Oʻzen:Kichik% Oʻzen  NP-TOP ; ! "" ! El++
+Kichik% Yashlav:Kichik% Yashlav  NP-TOP ; ! "" ! El++
+Kili:Kili  NP-TOP ; ! "" ! El++
+Kirikivka:Kirikivka  NP-TOP ; ! "" ! El++
+Kirnasivka:Kirnasivka  NP-TOP ; ! "" ! El++
+Kirovsk:Kirovsk  NP-TOP ; ! "" ! El++
+Kirovskoye:Kirovskoye  NP-TOP ; ! "" ! El++
+Kirshehir:Kirshehir  NP-TOP ; ! "" ! El++
+Kishine:Kishine  NP-TOP ; ! "" ! El++
+Kitay:Kitay  NP-TOP ; ! "" ! El++
+Kitsman:Kitsman  NP-TOP ; ! "" ! El++
+Klavdiyevo%-Tarasove:Klavdiyevo%-Tarasove  NP-TOP ; ! "" ! El++
+Klesiv:Klesiv  NP-TOP ; ! "" ! El++
+Kobelaki:Kobelaki  NP-TOP ; ! "" ! El++
+Kobiletska% Polana:Kobiletska% Polana  NP-TOP ; ! "" ! El++
+Kodima:Kodima  NP-TOP ; ! "" ! El++
+Kojanka:Kojanka  NP-TOP ; ! "" ! El++
+Kokluz:Kokluz  NP-TOP ; ! "" ! El++
+Kolchino:Kolchino  NP-TOP ; ! "" ! El++
+Kolomenskoye:Kolomenskoye  NP-TOP ; ! "" ! El++
+Kolomiya:Kolomiya  NP-TOP ; ! "" ! El++
+Komarno:Komarno  NP-TOP ; ! "" ! El++
+Kominternivske:Kominternivske  NP-TOP ; ! "" ! El++
+Komishna:Komishna  NP-TOP ; ! "" ! El++
+Kompaniyivka:Kompaniyivka  NP-TOP ; ! "" ! El++
+Komsomolsk:Komsomolsk  NP-TOP ; ! "" ! El++
+Komsomolskoye:Komsomolskoye  NP-TOP ; ! "" ! El++
+Konotop:Konotop  NP-TOP ; ! "" ! El++
+Konrat:Konrat  NP-TOP ; ! "" ! El++
+Konskovola:Konskovola  NP-TOP ; ! "" ! El++
+Konstantinovka:Konstantinovka  NP-TOP ; ! "" ! El++
+Kopaygorod:Kopaygorod  NP-TOP ; ! "" ! El++
+Kopichintsi:Kopichintsi  NP-TOP ; ! "" ! El++
+Korbekul:Korbekul  NP-TOP ; ! "" ! El++
+Koreiz:Koreiz  NP-TOP ; ! "" ! El++
+Korint:Korint  NP-TOP ; ! "" ! El++
+Kornin:Kornin  NP-TOP ; ! "" ! El++
+Korolevo:Korolevo  NP-TOP ; ! "" ! El++
+Korop:Korop  NP-TOP ; ! "" ! El++
+Koropets:Koropets  NP-TOP ; ! "" ! El++
+Korosten:Korosten  NP-TOP ; ! "" ! El++
+Korostishiv:Korostishiv  NP-TOP ; ! "" ! El++
+Korsun:Korsun  NP-TOP ; ! "" ! El++
+Korsun%-Shevchenkivskiy:Korsun%-Shevchenkivskiy  NP-TOP ; ! "" ! El++
+Korukivka:Korukivka  NP-TOP ; ! "" ! El++
+Kosiv:Kosiv  NP-TOP ; ! "" ! El++
+Kostrijivka:Kostrijivka  NP-TOP ; ! "" ! El++
+Kotelva:Kotelva  NP-TOP ; ! "" ! El++
+Kotovsk:Kotovsk  NP-TOP ; ! "" ! El++
+Kotsubinske:Kotsubinske  NP-TOP ; ! "" ! El++
+Kovel:Kovel  NP-TOP ; ! "" ! El++
+Koz:Koz  NP-TOP ; ! "" ! El++
+Kozatin:Kozatin  NP-TOP ; ! "" ! El++
+Kozelets:Kozelets  NP-TOP ; ! "" ! El++
+Kozelshchina:Kozelshchina  NP-TOP ; ! "" ! El++
+Kozin:Kozin  NP-TOP ; ! "" ! El++
+Kozliv:Kozliv  NP-TOP ; ! "" ! El++
+Kozova:Kozova  NP-TOP ; ! "" ! El++
+Koʻztepa:Koʻztepa  NP-TOP ; ! "" ! El++
+Krakovets:Krakovets  NP-TOP ; ! "" ! El++
+Kramatorsk:Kramatorsk  NP-TOP ; ! "" ! El++
+Krasatichi:Krasatichi  NP-TOP ; ! "" ! El++
+Krasiliv:Krasiliv  NP-TOP ; ! "" ! El++
+Krasne:Krasne  NP-TOP ; ! "" ! El++
+Krasni% Okni:Krasni% Okni  NP-TOP ; ! "" ! El++
+Krasniy% Luch:Krasniy% Luch  NP-TOP ; ! "" ! El++
+Krasnodon:Krasnodon  NP-TOP ; ! "" ! El++
+Krasnopilla:Krasnopilla  NP-TOP ; ! "" ! El++
+Krasnoyarsk:Krasnoyarsk  NP-TOP ; ! "" ! El++
+Krasnoyilsk:Krasnoyilsk  NP-TOP ; ! "" ! El++
+Kremenchuk:Kremenchuk  NP-TOP ; ! "" ! El++
+Kremenets:Kremenets  NP-TOP ; ! "" ! El++
+Krijopil:Krijopil  NP-TOP ; ! "" ! El++
+Krim:Krim  NP-TOP ; ! "" ! El++
+Krolevets:Krolevets  NP-TOP ; ! "" ! El++
+Kryvyi% Rih:Kryvyi% Rih  NP-TOP ; ! "" ! El++
+Kuchukkoʻy:Kuchukkoʻy  NP-TOP ; ! "" ! El++
+Kulikiv:Kulikiv  NP-TOP ; ! "" ! El++
+Kulikivka:Kulikivka  NP-TOP ; ! "" ! El++
+Kur%-Aras:Kur%-Aras  NP-TOP ; ! "" ! El++
+Kurman:Kurman  NP-TOP ; ! "" ! El++
+Kuti:Kuti  NP-TOP ; ! "" ! El++
+Kutlak:Kutlak  NP-TOP ; ! "" ! El++
+Kvasiliv:Kvasiliv  NP-TOP ; ! "" ! El++
+Ladan:Ladan  NP-TOP ; ! "" ! El++
+Ladijin:Ladijin  NP-TOP ; ! "" ! El++
+Lanchin:Lanchin  NP-TOP ; ! "" ! El++
+Lanivtsi:Lanivtsi  NP-TOP ; ! "" ! El++
+Lebedin:Lebedin  NP-TOP ; ! "" ! El++
+Lefortovo:Lefortovo  NP-TOP ; ! "" ! El++
+Leninobod:Leninobod  NP-TOP ; ! "" ! El++
+Letichiv:Letichiv  NP-TOP ; ! "" ! El++
+Limanske:Limanske  NP-TOP ; ! "" ! El++
+Limena:Limena  NP-TOP ; ! "" ! El++
+Linovitsa:Linovitsa  NP-TOP ; ! "" ! El++
+Lipetsk:Lipetsk  NP-TOP ; ! "" ! El++
+Lipova% Dolina:Lipova% Dolina  NP-TOP ; ! "" ! El++
+Lipovets:Lipovets  NP-TOP ; ! "" ! El++
+Lisanka:Lisanka  NP-TOP ; ! "" ! El++
+Lisets:Lisets  NP-TOP ; ! "" ! El++
+Lisichansk:Lisichansk  NP-TOP ; ! "" ! El++
+Lisove:Lisove  NP-TOP ; ! "" ! El++
+Litin:Litin  NP-TOP ; ! "" ! El++
+Livadiya:Livadiya  NP-TOP ; ! "" ! El++
+Lobez:Lobez  NP-TOP ; ! "" ! El++
+Lohvitsa:Lohvitsa  NP-TOP ; ! "" ! El++
+Lopatin:Lopatin  NP-TOP ; ! "" ! El++
+Losinivka:Losinivka  NP-TOP ; ! "" ! El++
+Lozova:Lozova  NP-TOP ; ! "" ! El++
+Lozove:Lozove  NP-TOP ; ! "" ! El++
+Lubar:Lubar  NP-TOP ; ! "" ! El++
+Lubashivka:Lubashivka  NP-TOP ; ! "" ! El++
+Lubech:Lubech  NP-TOP ; ! "" ! El++
+Lubin:Lubin  NP-TOP ; ! "" ! El++
+Lubni:Lubni  NP-TOP ; ! "" ! El++
+Luganskoye:Luganskoye  NP-TOP ; ! "" ! El++
+Lugini:Lugini  NP-TOP ; ! "" ! El++
+Lujani:Lujani  NP-TOP ; ! "" ! El++
+Lutsk:Lutsk  NP-TOP ; ! "" ! El++
+Magʻarach:Magʻarach  NP-TOP ; ! "" ! El++
+Magdala:Magdala  NP-TOP ; ! "" ! El++
+Mageriv:Mageriv  NP-TOP ; ! "" ! El++
+Makariv:Makariv  NP-TOP ; ! "" ! El++
+Makiivka:Makiivka  NP-TOP ; ! "" ! El++
+Makoshine:Makoshine  NP-TOP ; ! "" ! El++
+Mala% Divitsa:Mala% Divitsa  NP-TOP ; ! "" ! El++
+Mala% Viska:Mala% Viska  NP-TOP ; ! "" ! El++
+Malin:Malin  NP-TOP ; ! "" ! El++
+Mama:Mama  NP-TOP ; ! "" ! El++
+Mamashay:Mamashay  NP-TOP ; ! "" ! El++
+Man% Kermen:Man% Kermen  NP-TOP ; ! "" ! El++
+Mankivka:Mankivka  NP-TOP ; ! "" ! El++
+Maritza:Maritza  NP-TOP ; ! "" ! El++
+Markaziy% Afrika:Markaziy% Afrika  NP-TOP ; ! "" ! El++
+Maryino:Maryino  NP-TOP ; ! "" ! El++
+Mashivka:Mashivka  NP-TOP ; ! "" ! El++
+Massandra:Massandra  NP-TOP ; ! "" ! El++
+Maxmud% Sulton:Maxmud% Sulton  NP-TOP ; ! "" ! El++
+MDH:MDH  NP-TOP ; ! "" ! El++
+Mecibij:Mecibij  NP-TOP ; ! "" ! El++
+Medenika:Medenika  NP-TOP ; ! "" ! El++
+Melitopol:Melitopol  NP-TOP ; ! "" ! El++
+Melnitsa%-Podilska:Melnitsa%-Podilska  NP-TOP ; ! "" ! El++
+Mena:Mena  NP-TOP ; ! "" ! El++
+Mijgirya:Mijgirya  NP-TOP ; ! "" ! El++
+Mikulintsi:Mikulintsi  NP-TOP ; ! "" ! El++
+Mirgorod:Mirgorod  NP-TOP ; ! "" ! El++
+Mirniy:Mirniy  NP-TOP ; ! "" ! El++
+Mironivka:Mironivka  NP-TOP ; ! "" ! El++
+Miropil:Miropil  NP-TOP ; ! "" ! El++
+Mixaylo%-Kotsubinske:Mixaylo%-Kotsubinske  NP-TOP ; ! "" ! El++
+Moab:Moab  NP-TOP ; ! "" ! El++
+Mogiliv%-Podilskiy:Mogiliv%-Podilskiy  NP-TOP ; ! "" ! El++
+Molodi:Molodi  NP-TOP ; ! "" ! El++
+Molodyojnoye:Molodyojnoye  NP-TOP ; ! "" ! El++
+Monastirishche:Monastirishche  NP-TOP ; ! "" ! El++
+Monastiriska:Monastiriska  NP-TOP ; ! "" ! El++
+Montanay:Montanay  NP-TOP ; ! "" ! El++
+Morshin:Morshin  NP-TOP ; ! "" ! El++
+Moshchena:Moshchena  NP-TOP ; ! "" ! El++
+Mostiska:Mostiska  NP-TOP ; ! "" ! El++
+Mugla:Mugla  NP-TOP ; ! "" ! El++
+Mukacheve:Mukacheve  NP-TOP ; ! "" ! El++
+Murovani% Kurilivtsi:Murovani% Kurilivtsi  NP-TOP ; ! "" ! El++
+Mush:Mush  NP-TOP ; ! "" ! El++
+Nadvirna:Nadvirna  NP-TOP ; ! "" ! El++
+Narkevichi:Narkevichi  NP-TOP ; ! "" ! El++
+Narodichi:Narodichi  NP-TOP ; ! "" ! El++
+Nauchniy:Nauchniy  NP-TOP ; ! "" ! El++
+Nedrigayliv:Nedrigayliv  NP-TOP ; ! "" ! El++
+Nemiriv:Nemiriv  NP-TOP ; ! "" ! El++
+Nemishayeve:Nemishayeve  NP-TOP ; ! "" ! El++
+Nepolokivtsi:Nepolokivtsi  NP-TOP ; ! "" ! El++
+Netishin:Netishin  NP-TOP ; ! "" ! El++
+Nijankovichi:Nijankovichi  NP-TOP ; ! "" ! El++
+Nijin:Nijin  NP-TOP ; ! "" ! El++
+Nijniy% Novgorod:Nijniy% Novgorod  NP-TOP ; ! "" ! El++
+Nikolayevka:Nikolayevka  NP-TOP ; ! "" ! El++
+Niva:Niva  NP-TOP ; ! "" ! El++
+Nizi:Nizi  NP-TOP ; ! "" ! El++
+Nookat:Nookat  NP-TOP ; ! "" ! El++
+Normandy:Normandy  NP-TOP ; ! "" ! El++
+Nosir:Nosir  NP-TOP ; ! "" ! El++
+Nosivka:Nosivka  NP-TOP ; ! "" ! El++
+Nova% Borova:Nova% Borova  NP-TOP ; ! "" ! El++
+Nova% Galeshchina:Nova% Galeshchina  NP-TOP ; ! "" ! El++
+Nova% Praga:Nova% Praga  NP-TOP ; ! "" ! El++
+Nova% Ushitsa:Nova% Ushitsa  NP-TOP ; ! "" ! El++
+Novgorodka:Novgorodka  NP-TOP ; ! "" ! El++
+Novgorod%-Siverskiy:Novgorod%-Siverskiy  NP-TOP ; ! "" ! El++
+Novi% Bilari:Novi% Bilari  NP-TOP ; ! "" ! El++
+Novi% Bilokorovichi:Novi% Bilokorovichi  NP-TOP ; ! "" ! El++
+Novi% Sanjari:Novi% Sanjari  NP-TOP ; ! "" ! El++
+Novi% Strilishcha:Novi% Strilishcha  NP-TOP ; ! "" ! El++
+Noviy% Kaliniv:Noviy% Kaliniv  NP-TOP ; ! "" ! El++
+Noviy% Rozdil:Noviy% Rozdil  NP-TOP ; ! "" ! El++
+Noviy% Svet:Noviy% Svet  NP-TOP ; ! "" ! El++
+Noviy% Yarichiv:Noviy% Yarichiv  NP-TOP ; ! "" ! El++
+Novoarhangelsk:Novoarhangelsk  NP-TOP ; ! "" ! El++
+Novoaydar:Novoaydar  NP-TOP ; ! "" ! El++
+Novoazovsk:Novoazovsk  NP-TOP ; ! "" ! El++
+Novodnistrovsk:Novodnistrovsk  NP-TOP ; ! "" ! El++
+Novofodorovka:Novofodorovka  NP-TOP ; ! "" ! El++
+Novograd%-Volinskiy:Novograd%-Volinskiy  NP-TOP ; ! "" ! El++
+Novogrigoryevka:Novogrigoryevka  NP-TOP ; ! "" ! El++
+Novoguyvinske:Novoguyvinske  NP-TOP ; ! "" ! El++
+Novomirhorod:Novomirhorod  NP-TOP ; ! "" ! El++
+Novoorjitske:Novoorjitske  NP-TOP ; ! "" ! El++
+Novoozeranka:Novoozeranka  NP-TOP ; ! "" ! El++
+Novoozornoye:Novoozornoye  NP-TOP ; ! "" ! El++
+Novopavlovka:Novopavlovka  NP-TOP ; ! "" ! El++
+Novopokrovka:Novopokrovka  NP-TOP ; ! "" ! El++
+Novorossiya:Novorossiya  NP-TOP ; ! "" ! El++
+Novorossiysk:Novorossiysk  NP-TOP ; ! "" ! El++
+Novoselitsa:Novoselitsa  NP-TOP ; ! "" ! El++
+Novotroitsk:Novotroitsk  NP-TOP ; ! "" ! El++
+Novoukrayinka:Novoukrayinka  NP-TOP ; ! "" ! El++
+Novoyavorivsk:Novoyavorivsk  NP-TOP ; ! "" ! El++
+Obertin:Obertin  NP-TOP ; ! "" ! El++
+Obuhiv:Obuhiv  NP-TOP ; ! "" ! El++
+Oder:Oder  NP-TOP ; ! "" ! El++
+Ohtirka:Ohtirka  NP-TOP ; ! "" ! El++
+Oleksandriya:Oleksandriya  NP-TOP ; ! "" ! El++
+Olesko:Olesko  NP-TOP ; ! "" ! El++
+Olevsk:Olevsk  NP-TOP ; ! "" ! El++
+Olhovatka:Olhovatka  NP-TOP ; ! "" ! El++
+Olishivka:Olishivka  NP-TOP ; ! "" ! El++
+Oloy:Oloy  NP-TOP ; ! "" ! El++
+Oltov:Oltov  NP-TOP ; ! "" ! El++
+Onufriyivka:Onufriyivka  NP-TOP ; ! "" ! El++
+Opishna:Opishna  NP-TOP ; ! "" ! El++
+Oqchora:Oqchora  NP-TOP ; ! "" ! El++
+Oqdeniz:Oqdeniz  NP-TOP ; ! "" ! El++
+Oqoʻrda:Oqoʻrda  NP-TOP ; ! "" ! El++
+Orativ:Orativ  NP-TOP ; ! "" ! El++
+Oraz:Oraz  NP-TOP ; ! "" ! El++
+Orjitsa:Orjitsa  NP-TOP ; ! "" ! El++
+Ortalan:Ortalan  NP-TOP ; ! "" ! El++
+Oster:Oster  NP-TOP ; ! "" ! El++
+Otarkoy:Otarkoy  NP-TOP ; ! "" ! El++
+Otiniya:Otiniya  NP-TOP ; ! "" ! El++
+Otuz:Otuz  NP-TOP ; ! "" ! El++
+Ovruch:Ovruch  NP-TOP ; ! "" ! El++
+Oʻzenbash:Oʻzenbash  NP-TOP ; ! "" ! El++
+Ozerne:Ozerne  NP-TOP ; ! "" ! El++
+Oʻzi:Oʻzi  NP-TOP ; ! "" ! El++
+Palapan:Palapan  NP-TOP ; ! "" ! El++
+Pantayivka:Pantayivka  NP-TOP ; ! "" ! El++
+Parafiyivka:Parafiyivka  NP-TOP ; ! "" ! El++
+Partenit:Partenit  NP-TOP ; ! "" ! El++
+Pavlish:Pavlish  NP-TOP ; ! "" ! El++
+Pavlograd:Pavlograd  NP-TOP ; ! "" ! El++
+Pechenijin:Pechenijin  NP-TOP ; ! "" ! El++
+Pechersk:Pechersk  NP-TOP ; ! "" ! El++
+Pechorsk:Pechorsk  NP-TOP ; ! "" ! El++
+Perechin:Perechin  NP-TOP ; ! "" ! El++
+Pereginske:Pereginske  NP-TOP ; ! "" ! El++
+Perekop:Perekop  NP-TOP ; ! "" ! El++
+Peremishlani:Peremishlani  NP-TOP ; ! "" ! El++
+Pereyaslav%-Hmelnitskiy:Pereyaslav%-Hmelnitskiy  NP-TOP ; ! "" ! El++
+Pershotravneve:Pershotravneve  NP-TOP ; ! "" ! El++
+Pervomaysk:Pervomaysk  NP-TOP ; ! "" ! El++
+Petrove:Petrove  NP-TOP ; ! "" ! El++
+Petrovka:Petrovka  NP-TOP ; ! "" ! El++
+Petrovskoye:Petrovskoye  NP-TOP ; ! "" ! El++
+Pichki:Pichki  NP-TOP ; ! "" ! El++
+Pidbuj:Pidbuj  NP-TOP ; ! "" ! El++
+Pidgaytsi:Pidgaytsi  NP-TOP ; ! "" ! El++
+Pidkamin:Pidkamin  NP-TOP ; ! "" ! El++
+Pidvolochisk:Pidvolochisk  NP-TOP ; ! "" ! El++
+Piratin:Piratin  NP-TOP ; ! "" ! El++
+Pishchanka:Pishchanka  NP-TOP ; ! "" ! El++
+Piskivka:Piskivka  NP-TOP ; ! "" ! El++
+Pobuzke:Pobuzke  NP-TOP ; ! "" ! El++
+Pochayiv:Pochayiv  NP-TOP ; ! "" ! El++
+Pogrebishche:Pogrebishche  NP-TOP ; ! "" ! El++
+Polanka:Polanka  NP-TOP ; ! "" ! El++
+Polonne:Polonne  NP-TOP ; ! "" ! El++
+Pomichna:Pomichna  NP-TOP ; ! "" ! El++
+Pomorani:Pomorani  NP-TOP ; ! "" ! El++
+Poninka:Poninka  NP-TOP ; ! "" ! El++
+Ponornitsa:Ponornitsa  NP-TOP ; ! "" ! El++
+Popilna:Popilna  NP-TOP ; ! "" ! El++
+Priluki:Priluki  NP-TOP ; ! "" ! El++
+Pripyat:Pripyat  NP-TOP ; ! "" ! El++
+Privolnoye:Privolnoye  NP-TOP ; ! "" ! El++
+Priyutivka:Priyutivka  NP-TOP ; ! "" ! El++
+Prusya:Prusya  NP-TOP ; ! "" ! El++
+Pshiboje:Pshiboje  NP-TOP ; ! "" ! El++
+Pustomiti:Pustomiti  NP-TOP ; ! "" ! El++
+Putila:Putila  NP-TOP ; ! "" ! El++
+Putivl:Putivl  NP-TOP ; ! "" ! El++
+Qadra:Qadra  NP-TOP ; ! "" ! El++
+Qahramanmarash:Qahramanmarash  NP-TOP ; ! "" ! El++
+Qalaytoy:Qalaytoy  NP-TOP ; ! "" ! El++
+Qamal:Qamal  NP-TOP ; ! "" ! El++
+Qirq% Ishun:Qirq% Ishun  NP-TOP ; ! "" ! El++
+Qizil% Terchek:Qizil% Terchek  NP-TOP ; ! "" ! El++
+Qiziltosh:Qiziltosh  NP-TOP ; ! "" ! El++
+Qora% Aji:Qora% Aji  NP-TOP ; ! "" ! El++
+Qora% dengiz:Qora% dengiz  NP-TOP ; ! "" ! El++
+Qora% Qiyot:Qora% Qiyot  NP-TOP ; ! "" ! El++
+Quruq% Oʻzan:Quruq% Oʻzan  NP-TOP ; ! "" ! El++
+Radehiv:Radehiv  NP-TOP ; ! "" ! El++
+Radisne:Radisne  NP-TOP ; ! "" ! El++
+Radiviliv:Radiviliv  NP-TOP ; ! "" ! El++
+Radomishl:Radomishl  NP-TOP ; ! "" ! El++
+Radul:Radul  NP-TOP ; ! "" ! El++
+Rahiv:Rahiv  NP-TOP ; ! "" ! El++
+Ratsibuj:Ratsibuj  NP-TOP ; ! "" ! El++
+Rauhivka:Rauhivka  NP-TOP ; ! "" ! El++
+Rava%-Ruska:Rava%-Ruska  NP-TOP ; ! "" ! El++
+Raygorodok:Raygorodok  NP-TOP ; ! "" ! El++
+Razdolnoye:Razdolnoye  NP-TOP ; ! "" ! El++
+Reni:Reni  NP-TOP ; ! "" ! El++
+Reshitilivka:Reshitilivka  NP-TOP ; ! "" ! El++
+Rhineland:Rhineland  NP-TOP ; ! "" ! El++
+Rio:Rio  NP-TOP ; ! "" ! El++
+Ripki:Ripki  NP-TOP ; ! "" ! El++
+Rjishchiv:Rjishchiv  NP-TOP ; ! "" ! El++
+Rohatyn:Rohatyn  NP-TOP ; ! "" ! El++
+Rojnativ:Rojnativ  NP-TOP ; ! "" ! El++
+Romaniv:Romaniv  NP-TOP ; ! "" ! El++
+Romni:Romni  NP-TOP ; ! "" ! El++
+Romodan:Romodan  NP-TOP ; ! "" ! El++
+Rostov:Rostov  NP-TOP ; ! "" ! El++
+Rozdil:Rozdil  NP-TOP ; ! "" ! El++
+Rozdilna:Rozdilna  NP-TOP ; ! "" ! El++
+Rubijne:Rubijne  NP-TOP ; ! "" ! El++
+Rudki:Rudki  NP-TOP ; ! "" ! El++
+Rudne:Rudne  NP-TOP ; ! "" ! El++
+Rudnitsa:Rudnitsa  NP-TOP ; ! "" ! El++
+Rujin:Rujin  NP-TOP ; ! "" ! El++
+Rzeszov:Rzeszov  NP-TOP ; ! "" ! El++
+Salkove:Salkove  NP-TOP ; ! "" ! El++
+Samariye:Samariye  NP-TOP ; ! "" ! El++
+San%-Tome% va% Principe:San%-Tome% va% Principe  NP-TOP ; ! "" ! El++
+Sarabuz:Sarabuz  NP-TOP ; ! "" ! El++
+Sarata:Sarata  NP-TOP ; ! "" ! El++
+Saroyli% Qiyot:Saroyli% Qiyot  NP-TOP ; ! "" ! El++
+Sataniv:Sataniv  NP-TOP ; ! "" ! El++
+Sava:Sava  NP-TOP ; ! "" ! El++
+Savran:Savran  NP-TOP ; ! "" ! El++
+Sedniv:Sedniv  NP-TOP ; ! "" ! El++
+Seredina%-Buda:Seredina%-Buda  NP-TOP ; ! "" ! El++
+Seredne:Seredne  NP-TOP ; ! "" ! El++
+Sergiyivka:Sergiyivka  NP-TOP ; ! "" ! El++
+Serpneve:Serpneve  NP-TOP ; ! "" ! El++
+Severniy:Severniy  NP-TOP ; ! "" ! El++
+Severodonetsk:Severodonetsk  NP-TOP ; ! "" ! El++
+Sezariye:Sezariye  NP-TOP ; ! "" ! El++
+Shaligine:Shaligine  NP-TOP ; ! "" ! El++
+Shargorod:Shargorod  NP-TOP ; ! "" ! El++
+Shchirets:Shchirets  NP-TOP ; ! "" ! El++
+Shchors:Shchors  NP-TOP ; ! "" ! El++
+Shelen:Shelen  NP-TOP ; ! "" ! El++
+Shepetivka:Shepetivka  NP-TOP ; ! "" ! El++
+Sheria:Sheria  NP-TOP ; ! "" ! El++
+Shidnitsa:Shidnitsa  NP-TOP ; ! "" ! El++
+Shirayeve:Shirayeve  NP-TOP ; ! "" ! El++
+Shostka:Shostka  NP-TOP ; ! "" ! El++
+Shpikiv:Shpikiv  NP-TOP ; ! "" ! El++
+Shpola:Shpola  NP-TOP ; ! "" ! El++
+Shramkivka:Shramkivka  NP-TOP ; ! "" ! El++
+Shumsk:Shumsk  NP-TOP ; ! "" ! El++
+Simeiz:Simeiz  NP-TOP ; ! "" ! El++
+Sisa:Sisa  NP-TOP ; ! "" ! El++
+Sitkivts:Sitkivts  NP-TOP ; ! "" ! El++
+Skala%-Podilska:Skala%-Podilska  NP-TOP ; ! "" ! El++
+Skalata:Skalata  NP-TOP ; ! "" ! El++
+Sklo:Sklo  NP-TOP ; ! "" ! El++
+Skole:Skole  NP-TOP ; ! "" ! El++
+Skvira:Skvira  NP-TOP ; ! "" ! El++
+Slavske:Slavske  NP-TOP ; ! "" ! El++
+Slavuta:Slavuta  NP-TOP ; ! "" ! El++
+Slavutich:Slavutich  NP-TOP ; ! "" ! El++
+Slavyansk:Slavyansk  NP-TOP ; ! "" ! El++
+Slobidka:Slobidka  NP-TOP ; ! "" ! El++
+Slovyansk:Slovyansk  NP-TOP ; ! "" ! El++
+Smila:Smila  NP-TOP ; ! "" ! El++
+Smoline:Smoline  NP-TOP ; ! "" ! El++
+Smotrich:Smotrich  NP-TOP ; ! "" ! El++
+Snat:Snat  NP-TOP ; ! "" ! El++
+Snovsk:Snovsk  NP-TOP ; ! "" ! El++
+Sodom:Sodom  NP-TOP ; ! "" ! El++
+Sokal:Sokal  NP-TOP ; ! "" ! El++
+Sokirani:Sokirani  NP-TOP ; ! "" ! El++
+Sokuluk:Sokuluk  NP-TOP ; ! "" ! El++
+Soledar:Soledar  NP-TOP ; ! "" ! El++
+Solotvin:Solotvin  NP-TOP ; ! "" ! El++
+Solotvino:Solotvino  NP-TOP ; ! "" ! El++
+Sosnitsa:Sosnitsa  NP-TOP ; ! "" ! El++
+Sosnivka:Sosnivka  NP-TOP ; ! "" ! El++
+Sribne:Sribne  NP-TOP ; ! "" ! El++
+Stahanov:Stahanov  NP-TOP ; ! "" ! El++
+Stara% Sil:Stara% Sil  NP-TOP ; ! "" ! El++
+Stara% Sinava:Stara% Sinava  NP-TOP ; ! "" ! El++
+Stara% Ushitsa:Stara% Ushitsa  NP-TOP ; ! "" ! El++
+Stariy% Krim:Stariy% Krim  NP-TOP ; ! "" ! El++
+Stariy% Sambir:Stariy% Sambir  NP-TOP ; ! "" ! El++
+Starokostantiniv:Starokostantiniv  NP-TOP ; ! "" ! El++
+Stavishche:Stavishche  NP-TOP ; ! "" ! El++
+Stebliv:Stebliv  NP-TOP ; ! "" ! El++
+Stebnik:Stebnik  NP-TOP ; ! "" ! El++
+Stepanivka:Stepanivka  NP-TOP ; ! "" ! El++
+Stepnoye:Stepnoye  NP-TOP ; ! "" ! El++
+Storojinets:Storojinets  NP-TOP ; ! "" ! El++
+Strijavka:Strijavka  NP-TOP ; ! "" ! El++
+Striy:Striy  NP-TOP ; ! "" ! El++
+Struma:Struma  NP-TOP ; ! "" ! El++
+Sudak:Sudak  NP-TOP ; ! "" ! El++
+Sudova% Vishna:Sudova% Vishna  NP-TOP ; ! "" ! El++
+Susamir:Susamir  NP-TOP ; ! "" ! El++
+Sutiski:Sutiski  NP-TOP ; ! "" ! El++
+Suvorove:Suvorove  NP-TOP ; ! "" ! El++
+Suvuk% Sala:Suvuk% Sala  NP-TOP ; ! "" ! El++
+Suzak:Suzak  NP-TOP ; ! "" ! El++
+Svalava:Svalava  NP-TOP ; ! "" ! El++
+Svatogirsk:Svatogirsk  NP-TOP ; ! "" ! El++
+Sverdlovsk:Sverdlovsk  NP-TOP ; ! "" ! El++
+Svesa:Svesa  NP-TOP ; ! "" ! El++
+Svitlovodsk:Svitlovodsk  NP-TOP ; ! "" ! El++
+Syerra%-Leone:Syerra%-Leone  NP-TOP ; ! "" ! El++
+Szczecin:Szczecin  NP-TOP ; ! "" ! El++
+Tachiv:Tachiv  NP-TOP ; ! "" ! El++
+Talalayivka:Talalayivka  NP-TOP ; ! "" ! El++
+Talne:Talne  NP-TOP ; ! "" ! El++
+Tamak:Tamak  NP-TOP ; ! "" ! El++
+Tamgʻachi:Tamgʻachi  NP-TOP ; ! "" ! El++
+Tankovoye:Tankovoye  NP-TOP ; ! "" ! El++
+Tarak% Tash:Tarak% Tash  NP-TOP ; ! "" ! El++
+Tarashcha:Tarashcha  NP-TOP ; ! "" ! El++
+Tarhanlar:Tarhanlar  NP-TOP ; ! "" ! El++
+Tarnobrzeg:Tarnobrzeg  NP-TOP ; ! "" ! El++
+Tarutine:Tarutine  NP-TOP ; ! "" ! El++
+Tatarbunari:Tatarbunari  NP-TOP ; ! "" ! El++
+Tav% Dayir:Tav% Dayir  NP-TOP ; ! "" ! El++
+Tavriysk:Tavriysk  NP-TOP ; ! "" ! El++
+Tayirove:Tayirove  NP-TOP ; ! "" ! El++
+Teberti:Teberti  NP-TOP ; ! "" ! El++
+Teofipol:Teofipol  NP-TOP ; ! "" ! El++
+Teplik:Teplik  NP-TOP ; ! "" ! El++
+Teplodar:Teplodar  NP-TOP ; ! "" ! El++
+Terebovla:Terebovla  NP-TOP ; ! "" ! El++
+Teresva:Teresva  NP-TOP ; ! "" ! El++
+Terezine:Terezine  NP-TOP ; ! "" ! El++
+Terni:Terni  NP-TOP ; ! "" ! El++
+Tetiyiv:Tetiyiv  NP-TOP ; ! "" ! El++
+Timofeyevka:Timofeyevka  NP-TOP ; ! "" ! El++
+Tismenitsa:Tismenitsa  NP-TOP ; ! "" ! El++
+Tivriv:Tivriv  NP-TOP ; ! "" ! El++
+Tixi:Tixi  NP-TOP ; ! "" ! El++
+Tlumach:Tlumach  NP-TOP ; ! "" ! El++
+Tokluk:Tokluk  NP-TOP ; ! "" ! El++
+Tokmak:Tokmak  NP-TOP ; ! "" ! El++
+Tomashpil:Tomashpil  NP-TOP ; ! "" ! El++
+Tomsk:Tomsk  NP-TOP ; ! "" ! El++
+Toplu:Toplu  NP-TOP ; ! "" ! El++
+Totaykoʻy:Totaykoʻy  NP-TOP ; ! "" ! El++
+Tovste:Tovste  NP-TOP ; ! "" ! El++
+Truskavets:Truskavets  NP-TOP ; ! "" ! El++
+Tsebrikove:Tsebrikove  NP-TOP ; ! "" ! El++
+Tsibuliv:Tsibuliv  NP-TOP ; ! "" ! El++
+Tsurupinsk:Tsurupinsk  NP-TOP ; ! "" ! El++
+Tsvitkove:Tsvitkove  NP-TOP ; ! "" ! El++
+Tulchin:Tulchin  NP-TOP ; ! "" ! El++
+Turbiv:Turbiv  NP-TOP ; ! "" ! El++
+Turka:Turka  NP-TOP ; ! "" ! El++
+Turkmenistan:Turkmenistan  NP-TOP ; ! "" ! El++
+Tuva:Tuva  NP-TOP ; ! "" ! El++
+Tuvak:Tuvak  NP-TOP ; ! "" ! El++
+Tuzli:Tuzli  NP-TOP ; ! "" ! El++
+Uch% Koʻz:Uch% Koʻz  NP-TOP ; ! "" ! El++
+Uch% Kuyu:Uch% Kuyu  NP-TOP ; ! "" ! El++
+Ugniv:Ugniv  NP-TOP ; ! "" ! El++
+Ugroyidi:Ugroyidi  NP-TOP ; ! "" ! El++
+Ujgorod:Ujgorod  NP-TOP ; ! "" ! El++
+Ukrayinka:Ukrayinka  NP-TOP ; ! "" ! El++
+Ukrayinsk:Ukrayinsk  NP-TOP ; ! "" ! El++
+Ulakli:Ulakli  NP-TOP ; ! "" ! El++
+Ulanivka:Ulanivka  NP-TOP ; ! "" ! El++
+Ulyanovka:Ulyanovka  NP-TOP ; ! "" ! El++
+Ulyanovsk:Ulyanovsk  NP-TOP ; ! "" ! El++
+Uman:Uman  NP-TOP ; ! "" ! El++
+Uskut:Uskut  NP-TOP ; ! "" ! El++
+Ust%-Chorna:Ust%-Chorna  NP-TOP ; ! "" ! El++
+Ustinivka:Ustinivka  NP-TOP ; ! "" ! El++
+Uzin:Uzin  NP-TOP ; ! "" ! El++
+Vakulenchuk:Vakulenchuk  NP-TOP ; ! "" ! El++
+Vapnarka:Vapnarka  NP-TOP ; ! "" ! El++
+Varva:Varva  NP-TOP ; ! "" ! El++
+Vashkivtsi:Vashkivtsi  NP-TOP ; ! "" ! El++
+Vasilkiv:Vasilkiv  NP-TOP ; ! "" ! El++
+Vasilyevka:Vasilyevka  NP-TOP ; ! "" ! El++
+Vatutine:Vatutine  NP-TOP ; ! "" ! El++
+Velika% Bagachka:Velika% Bagachka  NP-TOP ; ! "" ! El++
+Velika% Berezovitsa:Velika% Berezovitsa  NP-TOP ; ! "" ! El++
+Velika% Dimerka:Velika% Dimerka  NP-TOP ; ! "" ! El++
+Velika% Mihaylivka:Velika% Mihaylivka  NP-TOP ; ! "" ! El++
+Velika% Pisarivka:Velika% Pisarivka  NP-TOP ; ! "" ! El++
+Veliki% Birki:Veliki% Birki  NP-TOP ; ! "" ! El++
+Veliki% Korovintsi:Veliki% Korovintsi  NP-TOP ; ! "" ! El++
+Veliki% Mosti:Veliki% Mosti  NP-TOP ; ! "" ! El++
+Velikiy% Berezniy:Velikiy% Berezniy  NP-TOP ; ! "" ! El++
+Velikiy% Bichkiv:Velikiy% Bichkiv  NP-TOP ; ! "" ! El++
+Velikiy% Lubin:Velikiy% Lubin  NP-TOP ; ! "" ! El++
+Velikodolinske:Velikodolinske  NP-TOP ; ! "" ! El++
+Vendichani:Vendichani  NP-TOP ; ! "" ! El++
+Vengojino:Vengojino  NP-TOP ; ! "" ! El++
+Verhnachka:Verhnachka  NP-TOP ; ! "" ! El++
+Verhne% Sinoʻvidne:Verhne% Sinoʻvidne  NP-TOP ; ! "" ! El++
+Verhovina:Verhovina  NP-TOP ; ! "" ! El++
+Vesoʻloye:Vesoʻloye  NP-TOP ; ! "" ! El++
+Vigo:Vigo  NP-TOP ; ! "" ! El++
+Vijnitsa:Vijnitsa  NP-TOP ; ! "" ! El++
+Vilkovo:Vilkovo  NP-TOP ; ! "" ! El++
+Vilok:Vilok  NP-TOP ; ! "" ! El++
+Vilshana:Vilshana  NP-TOP ; ! "" ! El++
+Vilshanka:Vilshanka  NP-TOP ; ! "" ! El++
+Vinkivtsi:Vinkivtsi  NP-TOP ; ! "" ! El++
+Vinniki:Vinniki  NP-TOP ; ! "" ! El++
+Vinnitsk:Vinnitsk  NP-TOP ; ! "" ! El++
+Vinogradiv:Vinogradiv  NP-TOP ; ! "" ! El++
+Vishhorod:Vishhorod  NP-TOP ; ! "" ! El++
+Vishkovo:Vishkovo  NP-TOP ; ! "" ! El++
+Vishneve:Vishneve  NP-TOP ; ! "" ! El++
+Vishnivets:Vishnivets  NP-TOP ; ! "" ! El++
+Vitebsk:Vitebsk  NP-TOP ; ! "" ! El++
+Viytivtsi:Viytivtsi  NP-TOP ; ! "" ! El++
+Vladimirovka:Vladimirovka  NP-TOP ; ! "" ! El++
+Vlasivka:Vlasivka  NP-TOP ; ! "" ! El++
+Voinka:Voinka  NP-TOP ; ! "" ! El++
+Volin:Volin  NP-TOP ; ! "" ! El++
+Volnovaha:Volnovaha  NP-TOP ; ! "" ! El++
+Volochisk:Volochisk  NP-TOP ; ! "" ! El++
+Volodarka:Volodarka  NP-TOP ; ! "" ! El++
+Volodarsk%-Volinskiy:Volodarsk%-Volinskiy  NP-TOP ; ! "" ! El++
+Volovets:Volovets  NP-TOP ; ! "" ! El++
+Vorohta:Vorohta  NP-TOP ; ! "" ! El++
+Vorojba:Vorojba  NP-TOP ; ! "" ! El++
+Voronej:Voronej  NP-TOP ; ! "" ! El++
+Voronij:Voronij  NP-TOP ; ! "" ! El++
+Voronovitsa:Voronovitsa  NP-TOP ; ! "" ! El++
+Vorzel:Vorzel  NP-TOP ; ! "" ! El++
+Vovkovintsi:Vovkovintsi  NP-TOP ; ! "" ! El++
+Voyniliv:Voyniliv  NP-TOP ; ! "" ! El++
+Xan%-Eli:Xan%-Eli  NP-TOP ; ! "" ! El++
+Xerson:Xerson  NP-TOP ; ! "" ! El++
+Xiriv:Xiriv  NP-TOP ; ! "" ! El++
+Xlibodarske:Xlibodarske  NP-TOP ; ! "" ! El++
+Xmilnik:Xmilnik  NP-TOP ; ! "" ! El++
+Xodoriv:Xodoriv  NP-TOP ; ! "" ! El++
+Xolmi:Xolmi  NP-TOP ; ! "" ! El++
+Xorlivka:Xorlivka  NP-TOP ; ! "" ! El++
+Xorol:Xorol  NP-TOP ; ! "" ! El++
+Xorostkiv:Xorostkiv  NP-TOP ; ! "" ! El++
+Xotin:Xotin  NP-TOP ; ! "" ! El++
+Xshonhuv:Xshonhuv  NP-TOP ; ! "" ! El++
+Xust:Xust  NP-TOP ; ! "" ! El++
+Yablunets:Yablunets  NP-TOP ; ! "" ! El++
+Yabluniv:Yabluniv  NP-TOP ; ! "" ! El++
+Yafa:Yafa  NP-TOP ; ! "" ! El++
+Yagotin:Yagotin  NP-TOP ; ! "" ! El++
+Yakutsk:Yakutsk  NP-TOP ; ! "" ! El++
+Yali% Moynak:Yali% Moynak  NP-TOP ; ! "" ! El++
+Yamalo:Yamalo  NP-TOP ; ! "" ! El++
+Yangi% Dehli:Yangi% Dehli  NP-TOP ; ! "" ! El++
+Yani% Karagʻurt:Yani% Karagʻurt  NP-TOP ; ! "" ! El++
+Yaqin%-Sharq:Yaqin%-Sharq  NP-TOP ; ! "" ! El++
+Yaremche:Yaremche  NP-TOP ; ! "" ! El++
+Yarmolintsi:Yarmolintsi  NP-TOP ; ! "" ! El++
+Yasina:Yasina  NP-TOP ; ! "" ! El++
+Yasinuvata:Yasinuvata  NP-TOP ; ! "" ! El++
+Yavoriv:Yavoriv  NP-TOP ; ! "" ! El++
+Yedi% Kuyu:Yedi% Kuyu  NP-TOP ; ! "" ! El++
+Yelenovka:Yelenovka  NP-TOP ; ! "" ! El++
+Yelizavetgradka:Yelizavetgradka  NP-TOP ; ! "" ! El++
+Yemilchine:Yemilchine  NP-TOP ; ! "" ! El++
+Yerki:Yerki  NP-TOP ; ! "" ! El++
+Yeysk:Yeysk  NP-TOP ; ! "" ! El++
+Yezupil:Yezupil  NP-TOP ; ! "" ! El++
+Yozgat:Yozgat  NP-TOP ; ! "" ! El++
+Yujne:Yujne  NP-TOP ; ! "" ! El++
+Zabolotiv:Zabolotiv  NP-TOP ; ! "" ! El++
+Zakupne:Zakupne  NP-TOP ; ! "" ! El++
+Zalishchiki:Zalishchiki  NP-TOP ; ! "" ! El++
+Zaliznichne:Zaliznichne  NP-TOP ; ! "" ! El++
+Zaliztsi:Zaliztsi  NP-TOP ; ! "" ! El++
+Zamglay:Zamglay  NP-TOP ; ! "" ! El++
+Zapitiv:Zapitiv  NP-TOP ; ! "" ! El++
+Zaporojye:Zaporojye  NP-TOP ; ! "" ! El++
+Zarichne:Zarichne  NP-TOP ; ! "" ! El++
+Zastavna:Zastavna  NP-TOP ; ! "" ! El++
+Zatishsha:Zatishsha  NP-TOP ; ! "" ! El++
+Zatoka:Zatoka  NP-TOP ; ! "" ! El++
+Zavalla:Zavalla  NP-TOP ; ! "" ! El++
+Zavodske:Zavodske  NP-TOP ; ! "" ! El++
+Zbaraj:Zbaraj  NP-TOP ; ! "" ! El++
+Zboriv:Zboriv  NP-TOP ; ! "" ! El++
+Zelandya:Zelandya  NP-TOP ; ! "" ! El++
+Zelenogirske:Zelenogirske  NP-TOP ; ! "" ! El++
+Zgurivka:Zgurivka  NP-TOP ; ! "" ! El++
+Zinkiv:Zinkiv  NP-TOP ; ! "" ! El++
+Zion:Zion  NP-TOP ; ! "" ! El++
+Znamyanka:Znamyanka  NP-TOP ; ! "" ! El++
+Znamyanka% Druga:Znamyanka% Druga  NP-TOP ; ! "" ! El++
+Znob%-Novgorodske:Znob%-Novgorodske  NP-TOP ; ! "" ! El++
+Zoloti% Potik:Zoloti% Potik  NP-TOP ; ! "" ! El++
+Zolotonosha:Zolotonosha  NP-TOP ; ! "" ! El++
+Zonguldak:Zonguldak  NP-TOP ; ! "" ! El++
+Zue:Zue  NP-TOP ; ! "" ! El++
+Zvenigorodka:Zvenigorodka  NP-TOP ; ! "" ! El++
+
+Adriatik% dengizi:Adriatik% dengizi  NP-TOP ; ! "" ! El++
+Armaniston% Sovet% Sotsialistik% Respublikasi:Armaniston% Sovet% Sotsialistik% Respublikasi  NP-TOP ; ! "" ! El++
+Atlantika% dengizi:Atlantika% dengizi  NP-TOP ; ! "" ! El++
+Boltiq% dengizi:Boltiq% dengizi  NP-TOP ; ! "" ! El++
+Chexiya% Respublikasi:Chexiya% Respublikasi  NP-TOP ; ! "" ! El++
+Chuvashistan% Avonom% Sovet% Sotsialistik% Respublikasi:Chuvashistan% Avonom% Sovet% Sotsialistik% Respublikasi  NP-TOP ; ! "" ! El++
+Egey% dengizi:Egey% dengizi  NP-TOP ; ! "" ! El++
+Erdel% Knyazligi:Erdel% Knyazligi  NP-TOP ; ! "" ! El++
+Gilan% viloyati:Gilan% viloyati  NP-TOP ; ! "" ! El++
+Ion% dengizi:Ion% dengizi  NP-TOP ; ! "" ! El++
+Kaspiy% dengizi:Kaspiy% dengizi  NP-TOP ; ! "" ! El++
+Kipr% Respublikasi:Kipr% Respublikasi  NP-TOP ; ! "" ! El++
+Makedoniya% Respublikasi:Makedoniya% Respublikasi  NP-TOP ; ! "" ! El++
+Maya% xalqlari:Maya% xalqlari  NP-TOP ; ! "" ! El++
+Peloponnese:Peloponnese  NP-TOP ; ! "" ! El++
+Rossiya% Federatsiyasi:Rossiya% Federatsiyasi  NP-TOP ; ! "" ! El++
+Rossiya% Sovet% Federativ% Sotsialistik% Respublikasi:Rossiya% Sovet% Federativ% Sotsialistik% Respublikasi  NP-TOP ; ! "" ! El++
+Srpska% Respublikasi:Srpska% Respublikasi  NP-TOP ; ! "" ! El++
+Xitoy% Xalq% Respublikasi:Xitoy% Xalq% Respublikasi  NP-TOP ; ! "" ! El++
+Yunon% dengizi:Yunon% dengizi  NP-TOP ; ! "" ! El++
+
+Amerika% Qoʻshma% Shtatlari:Amerika% Qoʻshma% Shtatlari  NP-TOP ; ! "" ! El++
+Tangri% togʻi:Tangri% togʻi  NP-TOP ; ! "" ! El++
+Sovet% Ittifoqi:Sovet% Ittifoqi  NP-TOP ; ! "" ! El++
+Bolqon% yarimoroli:Bolqon% yarimoroli  NP-TOP ; ! "" ! El++
