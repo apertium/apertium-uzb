@@ -38226,7 +38226,10 @@ Somme:Somme NP-TOP ;
 Soren:Soren NP-ANT-M ; ! ""
 Soria:Soria NP-TOP ; ! ""
 South% Heights:South% Heights NP-TOP ; ! ""
-Southeast% European% Times:Southeast% European% Times NP-AL ; ! ""
+Southeast% European% Times:Southeast% European% Times NP-ORG ; ! ""
+Southeast% European:Southeast% European NP-ORG ; ! "Possible occurance of SETimes"
+European% Times:European% Times NP-ORG ; ! "Possible occurance of SETimes"
+
 Springs:Springs NP-TOP ; ! ""
 Sredoje:Sredoje NP-ANT-M ; ! ""
 Sreten:Sreten NP-ANT-M ; ! ""
