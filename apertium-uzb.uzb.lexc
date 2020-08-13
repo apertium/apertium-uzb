@@ -7775,7 +7775,8 @@ doli%-guli:doli%-guli A2 ; ! 0.9996967086943641
 dollar:dollar N1 ; ! 0.999998496584799
 dollar:dollar N1 ; ! "dollar"
 yevro:yevro N1 ; ! "Euro"
-dollarlik:dollarlik N1 ; ! 0.9995558445506901
+yevrolik:yevrolik N1 ; ! "Euro"
+dollarlik:dollarlik N1 ; ! "dollar"
 dollash:dollash V-TV ; ! 0.6669693980759064
 dolon:dolon N1 ; ! 0.9999567242606753
 dolchin:dolchin N1 ; ! 0.999988295066007
@@ -12232,6 +12233,7 @@ keraga:keraga N1 ; ! 0.9999998423924976
 keragicha:keragicha ADV ; ! 0.9999932414250037
 kerak:kerak A1 ; ! 0.9893715540675458
 kerak:kerak N1 ; ! "necessary/needed"
+kerak:kerak V-IV ; ! ! "require"
 kerakli:kerakli A2 ; ! "necessary"
 keraklik:keraklik N1 ; ! 0.999999999963436
 keraksiz:keraksiz A1 ; ! 0.9998829744915959
@@ -14167,7 +14169,7 @@ qarollik:qarollik N1 ; ! 0.9999999999998868
 qarorbozliq:qarorbozliq N1 ; ! 0.9999999967425047
 qarorgoh:qarorgoh N1 ; ! 0.9999999026029024
 qarorgoh:qarorgoh N1 ; ! "headquarters"
-qaror:qaror N1 ; ! 0.9999999999999606
+! qaror:qaror N1 ; ! 0.9999999999999606
 qaror:qaror N1 ; ! "decision"
 qarorsiz:qarorsiz A1 ; ! 0.9988725364184743
 qarorsizliq:qarorsizliq N1 ; ! 0.9999996134716636
@@ -25757,7 +25759,9 @@ somsapaz:somsapaz N1 ; ! 0.9999996801309038
 somsa:somsa N1 ; ! 0.9999997021010849
 somsafurush:somsafurush N1 ; ! 0.999999794401959
 som:som N1 ; ! "sum currency"
+somlik:somlik N1 ; ! "sum currency"
 rubl:rubl N1 ; ! "ruble currency"
+rubllik:rubllik N1 ; ! "rubl"
 sona:sona N1 ; ! 0.9999999955967426
 soniya:soniya N1 ; ! 0.9999999999100084
 sonli:sonli A1 ; ! "numbered"
@@ -25831,8 +25835,8 @@ soxta:soxta A1 ; ! 0.9998978163927456
 soxta:soxta A1 ; ! "counterfeit"
 soxt:soxt N1 ; ! 0.9999999999999262
 soxt%-sumbat:soxt%-sumbat N1 ; ! 0.9996465967529469
-soha:soha N1 ; ! 0.9999999999999458
-soha:soha N1 ; ! "field, area"
+soha:soha N1 ; ! "profession"
+soha:soha N1 ; ! "field, area, domain"
 sohibi:sohibi N1 ; ! 0.9999999999969267
 sohibqiron:sohibqiron A2 ; ! 0.9490638402039716
 sohibqor:sohibqor N1 ; ! 0.9999933338263439
@@ -32890,8 +32894,8 @@ hukmronlik:hukmronlik N1 ;  ! "dominion"
 hukmron:hukmron N1 ; ! 0.998904578298839
 hukmron:hukmron N1 ; ! "rule
 hukmfarmo:hukmfarmo N1 ; ! 0.9996245626161483
-hukm:hukm N1 ; ! 0.9999999999999901
-hukm:hukm N1 ; ! "judgement"
+! hukm:hukm N1 ; ! 0.9999999999999901
+hukm:hukm N1 ; ! "judgement, provision"
 hukumat:hukumat N1 ; ! 0.9999999999099395
 hukumat:hukumat N1 ;  ! "government"
 hukumat:hukumat N1 ; ! "government"
@@ -34182,6 +34186,7 @@ chumchuqtil:chumchuqtil N1 ; ! 0.9999959794573205
 chumchuq:chumchuq N1 ; ! 0.9999999998523009
 chunki:chunki CC ; ! "because"
 chunki:chunki CA ; ! "because"
+kungi:kungi CA ; ! "day's"
 chunki:chunki CS ; ! 0.8924726612715085
 chunonam:chunonam N1 ; ! 0.9999845605256364
 chunonchi:chunonchi CA ; ! "for instance"
@@ -35870,7 +35875,7 @@ erin:erin V-IV ; ! 0.9999990647053179
 erin:erin N1 ; ! 0.9999771488776206
 eritil:eritil V-TV ; ! 0.9996449812263497
 eritkich:eritkich N1 ; ! 0.9999999836283635
-eritma:eritma N1 ; ! 0.9999898855774726
+! eritma:eritma N1 ; ! 0.9999898855774726
 eritma:eritma N1 ; ! "solution"
 erituvchi:erituvchi N1 ; ! 0.9999764064646174
 erituvchi:erituvchi N1 ; ! "melting"
@@ -37198,6 +37203,10 @@ AQSh:AQSh NP-TOP ; ! "United States of America"
 Aargau:Aargau NP-TOP ; ! ""
 Abbeville:Abbeville NP-TOP ; ! "
 Abbos:Abbos NP-ANT-M ; ! ""
+Tadich:Tadich NP-ANT-M ; ! ""
+Tadich:Tadich NP-COG-MF ; ! ""
+Erdoʻgʻan:Erdoʻgʻan NP-COG-MF ; ! ""
+Mladich:Mladich NP-COG-MF ; ! ""
 Tadich:Tadich NP-ANT-M ; !
 Abdulla:Abdulla NP-ANT-M ; ! ""
 Abdullayev:Abdullayev NP-COG-MF ; ! ""
