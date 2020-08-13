@@ -11,6 +11,7 @@ all: N1.txt.gz N1-RUS.txt.gz N-COMPOUND-PX.txt.gz \
 	NUM.txt.gz NUM-ROMAN.txt.gz NUM-ITG.txt.gz \
 	NUM.txt.gz POST.txt.gz CNJ.txt.gz \
 	PRN.txt.gz \
+	VAUX.txt.gz \
 	DET.txt.gz
 .deps/.d:
 	test -d .deps || mkdir .deps
