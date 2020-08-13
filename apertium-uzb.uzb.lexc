@@ -435,8 +435,8 @@ N1 ;
 
 LEXICON N-COMPOUND-PX
 
-%<n%>:%>%{ʻ%}%{S%}%{I%}%{n%} CASES-ETC ;
-%<n%>:%>%{ʻ%}%{L%}%{A%}r%>%{S%}%{I%}%{n%} CASES-ETC ;
+%<n%>:%>%{ʻ%}%{s%}i CASES-ETC ;
+%<n%>:%>%{ʻ%}lar%>%{s%}i CASES-ETC ;
 %<n%>: POSSESSIVES ;
 
 !! Adjectives
@@ -11490,7 +11490,6 @@ y%.:y%. ABBR ; ! ""
 yylnomachi:yylnomachi N1 ; ! 0.9999999876502058
 ylgak:ylgak N1 ; ! 0.9999998507208768
 yriq:yriq N1 ; ! 0.9999966258749011
-kʻoz:kʻoz N1 ; ! "eye"
 kabak:kabak N1 ; ! 0.9990941953152418
 kabardin:kabardin N1-NAT ; ! 0.9998809396677512
 kabel:kabel N1 ; ! 0.9999999990152691
@@ -12576,6 +12575,7 @@ koʻz%-koʻz:koʻz%-koʻz A2 ; ! 0.7717921335888931
 koʻz%-koʻzla:koʻz%-koʻzla V-TV ; ! 0.9884141099797417
 koʻz:koʻz N1 ; ! 1.0
 koʻz:koʻz N1 ; ! "eye"
+koʻz% yoshi:koʻz% yosh N-COMPOUND-PX ; ! "tear"
 koʻz%-qulok:koʻz%-qulok N1 ; ! 0.7601233839510527
 koʻzla:koʻzla V-TV ; ! 0.9994524324647925
 koʻzli:koʻzli A2 ; ! 0.9999999036998024
