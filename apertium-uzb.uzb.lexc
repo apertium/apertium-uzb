@@ -1140,6 +1140,11 @@ LEXICON NUM
                    
 %<num%>: # ;                                    
 
+LEXICON NUM-ROMAN
+
+%<num%>%<ord%>: # ;
+
+
 
 LEXICON NP-ORG
 
@@ -40994,3 +40999,27 @@ Yugoslaviya% Birinchi% ligasi:Yugoslaviya% Birinchi% ligasi  NP-ORG ; ! "" ! El+
 Yugoslaviya% Ikkinchi% ligasi:Yugoslaviya% Ikkinchi% ligasi  NP-ORG ; ! "" ! El++
 Yugoslaviya% ligasi:Yugoslaviya% ligasi  NP-ORG ; ! "" ! El++
 Yulduzlar% CAF% chempionlar% ligasi:Yulduzlar% CAF% chempionlar% ligasi  NP-ORG ; ! "" ! El++
+
+
+I:I NUM-ROMAN ; ! ""
+II:II NUM-ROMAN ; ! ""
+III:III NUM-ROMAN ; ! ""
+IV:IV NUM-ROMAN ; ! ""
+IX:IX NUM-ROMAN ; ! ""
+V:V NUM-ROMAN ; ! ""
+VI:VI NUM-ROMAN ; ! ""
+VII:VII NUM-ROMAN ; ! ""
+VIII:VIII NUM-ROMAN ; ! ""
+X:X NUM-ROMAN ; ! ""
+XI:XI NUM-ROMAN ; ! ""
+XII:XII NUM-ROMAN ; ! ""
+XIII:XIII NUM-ROMAN ; ! ""
+XIV:XIV NUM-ROMAN ; ! ""
+XIX:XIX NUM-ROMAN ; ! ""
+XV:XV NUM-ROMAN ; ! ""
+XVI:XVI NUM-ROMAN ; ! ""
+XVII:XVII NUM-ROMAN ; ! ""
+XVIII:XVIII NUM-ROMAN ; ! ""
+XX:XX NUM-ROMAN ; ! ""
+XXI:XXI NUM-ROMAN ; ! ""
+XXII:XXII NUM-ROMAN ; ! ""
