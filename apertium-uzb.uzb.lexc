@@ -4082,6 +4082,7 @@ bilangla:bilangla V-IV ; !
 bilanglat:bilanglat V-TV-CAUS ; ! 
 bilanok:bilanok POST-NOM-GEN ; ! 
 bilanoq:bilanoq POST ; !
+taqdirda:taqdirda POST ; !
 bilar%-bilmas:bilar%-bilmas ADV ; ! 
 bilarmon:bilarmon A2 ; ! 
 bilarmon:bilarmon N1 ; ! 
@@ -6948,7 +6949,8 @@ davlatli:davlatli A2 ; !
 davlatmand:davlatmand A2 ; ! 
 davlatmandlik:davlatmandlik N1 ; ! 
 davlatchilik:davlatchilik N1 ; ! 
-davo:davo N1 ; ! 
+davo:davo N1 ; ! "cure"
+davo:davo N1 ; ! "claim"
 davolash:davolash N1-VN ; ! 
 davolash:davolash N1 ; ! "treatment"
 davomat:davomat N1 ; ! 
@@ -8787,7 +8789,8 @@ javzo:javzo N1 ; ! 0.9999956620188655
 javlon:javlon N1 ; ! 0.9999707738714706
 javoban:javoban ADV ; !
 javoban:javoban N1 ; ! 0.9989911117048127
-javobgar:javobgar N1 ; ! 0.9974197955167058
+javobgar:javobgar N1 ; ! "responsible"
+javobgar:javobgar A1 ; ! "responsible"
 javobgarli:javobgarli A2 ; ! 0.9999219550146531
 javobgarlik:javobgarlik N1 ; ! 0.9999999999998276
 javob:javob N1 ; ! 0.9999997988286343
@@ -10097,11 +10100,12 @@ igor:igor N1 ; ! 0.9999965163586336
 igrek:igrek N1 ; ! 0.9999999965834583
 ida:ida MIST ;
 idda:idda N1 ; ! 0.9999999999882979
-iddao:iddao N1 ; ! 0.6314757037721149
-iddaochi:iddaochi N1 ; ! 0.9999989555865246
-ideal:ideal N1 ; ! 0.9339001856262351
-ideal:ideal N1 ; ! 0.9996532093925746
+iddao:iddao N1 ; ! "claim"
+iddaochi:iddaochi N1 ; ! "claimer"
+ideal:ideal N1 ; ! "ideal"
+ideal:ideal A1 ; ! "ideal"
 idealizm:idealizm A2 ; ! 0.9969324747659725
+idealizm:idealizm N1 ; ! "idealism"
 idealist:idealist N1 ; ! 0.9999999892015701
 idealistik:idealistik A2 ; ! 0.9999999997484403
 idealistlarcha:idealistlarcha A1 ; ! 0.9900584652797947
@@ -18236,6 +18240,7 @@ madomiki:madomiki CA ; ! "whereby"
 mudofaalan:mudofaalan V-IV ; ! 0.9999974149872154 
 mudofaa:mudofaa A2 ; ! 0.5404737392450132
 mudofaa:mudofaa N1 ; ! "resistence"
+mudofaa:mudofaa N1 ; ! "defence"
 mudofaachilyk:mudofaachilyk N1 ; ! 0.9105642485418745
 mudofaachi:mudofaachi N1 ; ! 0.9999999998760696
 mudofe:mudofe N1 ; ! 0.999999996999546
@@ -23625,7 +23630,10 @@ rolikli:rolikli A2 ; ! 0.8734040196564685
 rolik:rolik N1 ; ! 0.9999999929205479
 rol:rol N1 ; ! 0.9999999603588592
 rol:rol N1 ; ! "role"
-roman:roman A2 ; ! 0.9999538707604432
+roman:roman N1 ; ! "Roman"
+roman:Roman N1 ; ! "Roman"
+roman:roman A2 ; ! "Roman"
+roman:Roman A2 ; ! "Roman"
 roman:roman N1 ; ! "novel"
 romans:romans N1 ; ! 0.999999950097355
 romantizm:romantizm N1 ; ! 0.9577952546432468
@@ -32645,7 +32653,6 @@ himo:himo N1 ; ! 0.7629525128077232
 himo:himo N1 ; ! 0.9211637711845108
 himoyasiz:himoyasiz A1 ; ! 0.9999991428991316
 himoyat:himoyat N1 ; ! 0.9999999991748278
-himoya:himoya N1 ; ! 0.9999999989667914
 himoya:himoya N1 ; ! "protection, defence"
 himoya:himoya N1 ; ! "support"
 himoyachi:himoyachi N1 ; ! 0.999999999935028
@@ -37388,6 +37395,7 @@ Bologna:Bologna NP-ORG ; ! ""
 Bolqon:Bolqon NP-TOP ; ! ""
 Boluspor:Boluspor NP-ORG ; ! ""
 Boris:Boris NP-ANT-M ; ! ""
+Jonson:Jonson NP-COG-MF ; ! ""
 Borislav:Borislav NP-ANT-M ; ! ""
 Bosfor:Bosfor NP-TOP ; ! "Bosphorus"
 Boston:Boston NP-TOP ; ! ""
