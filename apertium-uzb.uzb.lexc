@@ -23630,6 +23630,9 @@ rolikli:rolikli A2 ; ! 0.8734040196564685
 rolik:rolik N1 ; ! 0.9999999929205479
 rol:rol N1 ; ! 0.9999999603588592
 rol:rol N1 ; ! "role"
+Kostunica:Kostunica NP-COG-MF ; !
+Rehn:Rehn NP-COG-MF ; !
+rimlik:rimlik N1 ; ! "Roman"
 roman:roman N1 ; ! "Roman"
 roman:Roman N1 ; ! "Roman"
 roman:roman A2 ; ! "Roman"
@@ -37018,6 +37021,7 @@ LEXICON Punctuation
 LEXICON Proper
 
 
+B92:B92  NP-ORG ; ! ""
 ABC:ABC  NP-ORG ; ! "" ! El++
 Akchaabat% Sebatspor:Akchaabat% Sebatspor  NP-ORG ; ! "" ! El++
 AKTIY:AKTIY  NP-ORG ; ! "" ! El++
