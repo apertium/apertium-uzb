@@ -36705,7 +36705,19 @@ yana:yana A1 ; ! 0.7251485337885802
 yana:yana ADV3; ! "again"
 yanvar:Yanvar N1 ; ! "January"
 Yanvar:Yanvar N1 ; ! "January"
-yanga:yanga N1 ; ! 0.9999999999830429
+yanvar:yanvar N1 ; ! "January"
+fevral:fevral N1 ; ! "february"
+mart:mart N1 ; ! "march"
+aprel:aprel N1 ; ! "april"
+may:may N1 ; ! "may"
+iyun:iyun N1 ; ! "june"
+iyul:iyul N1 ; ! "july"
+avgust:avgust N1 ; ! "august"
+sentabr:sentabr N1 ; ! "septembre"
+oktabr:oktabr N1 ; ! "october"
+noyabr:noyabr N1 ; ! "november"
+dekabr:dekabr N1 ; ! "december"
+yanga:yanga N1 ; ! "wife of uncle"
 yangidan:yangidan N1 ; ! 0.975619787630088
 yangidan%-yangi:yangidan%-yangi A2 ; ! 0.48668724587758533
 yangilan:yangilan V-IV-REFL ; ! 0.9985931001846388
