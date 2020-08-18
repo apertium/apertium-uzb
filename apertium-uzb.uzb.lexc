@@ -40796,8 +40796,8 @@ Amerika% Adliya% Ligasi:Amerika% Adliya% Ligasi  NP-ORG ; ! "" ! El++
 Amerika% futbol% ligasi:Amerika% futbol% ligasi  NP-ORG ; ! "" ! El++
 Angliya% basketbol% ligasi:Angliya% basketbol% ligasi  NP-ORG ; ! "" ! El++
 Angliya% futbol% ligasi:Angliya% futbol% ligasi  NP-ORG ; ! "" ! El++
-Angliya% Premer%%-ligasi:Angliya% Premer%%-ligasi  NP-ORG ; ! "" ! El++
-Angliya% Premer%%-ligasi% oʻyinlari:Angliya% Premer%%-ligasi% oʻyinlari  NP-ORG ; ! "" ! El++
+Angliya% Premer%-ligasi:Angliya% Premer%-ligasi  NP-ORG ; ! "" ! El++
+Angliya% Premer%-ligasi% oʻyinlari:Angliya% Premer%-ligasi% oʻyinlari  NP-ORG ; ! "" ! El++
 Apelsin% ligasi:Apelsin% ligasi  NP-ORG ; ! "" ! El++
 AQSh% Professional% Futbol% Ligasi:AQSh% Professional% Futbol% Ligasi  NP-ORG ; ! "" ! El++
 Arab% Ligasi:Arab% Ligasi  NP-ORG ; ! "" ! El++
@@ -40828,16 +40828,16 @@ Chernogoriya% Ikkinchi% ligasi:Chernogoriya% Ikkinchi% ligasi  NP-ORG ; ! "" ! E
 Chernogoriya% Uchinchi% Ligasi:Chernogoriya% Uchinchi% Ligasi  NP-ORG ; ! "" ! El++
 Chetga% Voleybol% Ligasi:Chetga% Voleybol% Ligasi  NP-ORG ; ! "" ! El++
 Chili% Birinchi% ligasi:Chili% Birinchi% ligasi  NP-ORG ; ! "" ! El++
-Chili% Premer%%-ligasi:Chili% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Chili% Premer%-ligasi:Chili% Premer%-ligasi  NP-ORG ; ! "" ! El++
 Chukurova% ligasi:Chukurova% ligasi  NP-ORG ; ! "" ! El++
 Daniya% Ligasi:Daniya% Ligasi  NP-ORG ; ! "" ! El++
 Daniya% Superligasi:Daniya% Superligasi  NP-ORG ; ! "" ! El++
 Demokratik% partiya:Demokratik% partiya  NP-ORG ; ! "" ! El++
-Eduardo% Ukraina% Premer%%-ligasi:Eduardo% Ukraina% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Eduardo% Ukraina% Premer%-ligasi:Eduardo% Ukraina% Premer%-ligasi  NP-ORG ; ! "" ! El++
 EHF% chempionlar% ligasi:EHF% chempionlar% ligasi  NP-ORG ; ! "" ! El++
 Ergic% Chempionlar% Ligasi:Ergic% Chempionlar% Ligasi  NP-ORG ; ! "" ! El++
 EvertonM% Chempionlar% ligasi:EvertonM% Chempionlar% ligasi  NP-ORG ; ! "" ! El++
-Farer% orollari% Premer%%-ligasi:Farer% orollari% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Farer% orollari% Premer%-ligasi:Farer% orollari% Premer%-ligasi  NP-ORG ; ! "" ! El++
 Finlyandiya% ligasidagi% karerasi:Finlyandiya% ligasidagi% karerasi  NP-ORG ; ! "" ! El++
 Fransiya% Ikkinchi% ligasi:Fransiya% Ikkinchi% ligasi  NP-ORG ; ! "" ! El++
 Fransiya% ligasi:Fransiya% ligasi  NP-ORG ; ! "" ! El++
@@ -40926,14 +40926,14 @@ NLB% ligasi:NLB% ligasi  NP-ORG ; ! "" ! El++
 Norvegiya% birinchi% ligasi:Norvegiya% birinchi% ligasi  NP-ORG ; ! "" ! El++
 Ochkolar% ligasi:Ochkolar% ligasi  NP-ORG ; ! "" ! El++
 Osiyo% chempionlar% ligasi:Osiyo% chempionlar% ligasi  NP-ORG ; ! "" ! El++
-Ozarbayjon% Premer%%-ligasi:Ozarbayjon% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Ozarbayjon% Premer%-ligasi:Ozarbayjon% Premer%-ligasi  NP-ORG ; ! "" ! El++
 oʻzbek% Ligasi:oʻzbek% Ligasi  NP-ORG ; ! "" ! El++
 PAF% ligasi:PAF% ligasi  NP-ORG ; ! "" ! El++
 Polsha% basketbol% ligasi:Polsha% basketbol% ligasi  NP-ORG ; ! "" ! El++
 Polsha% ligasi:Polsha% ligasi  NP-ORG ; ! "" ! El++
 Polsha% Uchinchi% Ligasi:Polsha% Uchinchi% Ligasi  NP-ORG ; ! "" ! El++
 Portugaliya% ligasi:Portugaliya% ligasi  NP-ORG ; ! "" ! El++
-Portugaliya% Premer%%-ligasi:Portugaliya% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Portugaliya% Premer%-ligasi:Portugaliya% Premer%-ligasi  NP-ORG ; ! "" ! El++
 Portugaliya% Superligasi:Portugaliya% Superligasi  NP-ORG ; ! "" ! El++
 Qatar% ligasi:Qatar% ligasi  NP-ORG ; ! "" ! El++
 Qizlar% ligasi:Qizlar% ligasi  NP-ORG ; ! "" ! El++
@@ -40943,7 +40943,7 @@ Radikal% chap% koalitsiya:Radikal% chap% koalitsiya  NP-ORG ; ! "" ! El++
 Rossiya% basketbol% ligasi:Rossiya% basketbol% ligasi  NP-ORG ; ! "" ! El++
 Rossiya% basketbol% super% ligasi:Rossiya% basketbol% super% ligasi  NP-ORG ; ! "" ! El++
 Rossiya% ligasi:Rossiya% ligasi  NP-ORG ; ! "" ! El++
-Rossiya% Premer%%-ligasi:Rossiya% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Rossiya% Premer%-ligasi:Rossiya% Premer%-ligasi  NP-ORG ; ! "" ! El++
 Rossiya% Professional% Basketbol% Ligasi:Rossiya% Professional% Basketbol% Ligasi  NP-ORG ; ! "" ! El++
 Rossiya% Superligasi:Rossiya% Superligasi  NP-ORG ; ! "" ! El++
 Ruminiya% Ligasi:Ruminiya% Ligasi  NP-ORG ; ! "" ! El++
@@ -40957,7 +40957,7 @@ Sharqiy% futbol% ligasining% viloyatlari:Sharqiy% futbol% ligasining% viloyatlar
 Shimoliy% Amerika% futbol% ligasi:Shimoliy% Amerika% futbol% ligasi  NP-ORG ; ! "" ! El++
 Shimoliy% Kipr% Ikkinchi% Futbol% Ligasi:Shimoliy% Kipr% Ikkinchi% Futbol% Ligasi  NP-ORG ; ! "" ! El++
 Shimoliy% liga:Shimoliy% liga  NP-ORG ; ! "" ! El++
-Shotlandiya% Premer%%-ligasi:Shotlandiya% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Shotlandiya% Premer%-ligasi:Shotlandiya% Premer%-ligasi  NP-ORG ; ! "" ! El++
 Shved% ligasi:Shved% ligasi  NP-ORG ; ! "" ! El++
 Shveytsariya% basketbol% ligasi:Shveytsariya% basketbol% ligasi  NP-ORG ; ! "" ! El++
 Shveytsariya% ligasi:Shveytsariya% ligasi  NP-ORG ; ! "" ! El++
@@ -40967,7 +40967,7 @@ Sotsialistik% demokratik% partiya:Sotsialistik% demokratik% partiya  NP-ORG ; ! 
 Sotsialistik% partiya:Sotsialistik% partiya  NP-ORG ; ! "" ! El++
 Sovet% Ikkinchi% ligasi:Sovet% Ikkinchi% ligasi  NP-ORG ; ! "" ! El++
 Sovet% ligasi:Sovet% ligasi  NP-ORG ; ! "" ! El++
-Sovet% Premer%%-ligasi:Sovet% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Sovet% Premer%-ligasi:Sovet% Premer%-ligasi  NP-ORG ; ! "" ! El++
 Spartak% Rossiya% Birinchi% ligasi:Spartak% Rossiya% Birinchi% ligasi  NP-ORG ; ! "" ! El++
 Super% Liga:Super% Liga  NP-ORG ; ! "" ! El++
 Tizim% Birinchi% futbol% ligasi:Tizim% Birinchi% futbol% ligasi  NP-ORG ; ! "" ! El++
@@ -40993,7 +40993,7 @@ UEFA% ayollar% chempionlar% ligasi:UEFA% ayollar% chempionlar% ligasi  NP-ORG ; 
 UEFA% Chempionlar% Ligasi:UEFA% Chempionlar% Ligasi  NP-ORG ; ! "" ! El++
 UEFA% Yevropa% Ligasi:UEFA% Yevropa% Ligasi  NP-ORG ; ! "" ! El++
 Ukraina% ligasi:Ukraina% ligasi  NP-ORG ; ! "" ! El++
-Ukraina% Premer%%-ligasi:Ukraina% Premer%%-ligasi  NP-ORG ; ! "" ! El++
+Ukraina% Premer%-ligasi:Ukraina% Premer%-ligasi  NP-ORG ; ! "" ! El++
 Universitetlar% Ligasi:Universitetlar% Ligasi  NP-ORG ; ! "" ! El++
 Uzoq% basketbol% ligasi:Uzoq% basketbol% ligasi  NP-ORG ; ! "" ! El++
 Veneto% ligasi:Veneto% ligasi  NP-ORG ; ! "" ! El++
