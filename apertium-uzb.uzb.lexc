@@ -13514,6 +13514,7 @@ kurtaklash:kurtaklash N1-VN ; ! 0.9956764568141393
 kurtka:kurtka N1 ; ! 0.9999999998739468
 kurt%-kurt:kurt%-kurt IDEO ; ! 0.7293916301201974
 kurt:kurt N1 ; ! 0.9999778300489935
+kurt:Kurt N1 ; ! 0.9999778300489935
 kurum:kurum N1 ; !
 kurushiq:kurushiq A2 ; ! 0.8452966849535656
 kusa:kusa V-IV ; ! 0.9998167997262349
@@ -35920,6 +35921,7 @@ erkatoy:erkatoy N1 ; ! 0.9999965658440407
 erka:erka N1 ; ! 0.9995437488829819
 erkinlik:erkinlik N1 ; ! 0.999999999995661
 erkin:erkin A1 ; ! "free"
+erkin:erkin ADV ; ! "freely"
 erkin:erkin A2 ; ! 0.9997964343781003
 erklik:erklik N1 ; ! 0.9999992404880176
 erkli:erkli A2 ; ! 0.9972830659397733
@@ -46223,3 +46225,4 @@ Yaroslavov:Yaroslavov  NP-COG-MF ; ! "" ! El++
 
 uyushgan% jinoyatchilik:uyushgan% jinoyatchilik N1 ; ! "organized crime"
 uyushgan:uyushgan A1 ; ! "organized"
+viza:viza N1 ; ! "visa"
