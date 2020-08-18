@@ -2155,7 +2155,7 @@ amakivachcha:amakivachcha N1 ; !
 amal:amal N1 ; ! 
 amal:amal N1 ; ! "experience"
 amal%-gakal:amal%-gakal N1 ; ! 
-amaldor:amaldor N1 ; ! 
+amaldor:amaldor N1 ; ! "official" 
 amaldorlik:amaldorlik N1 ;  ! 
 amaliyot:amaliyot N1 ; ! 
 amaliyot:amaliyot N1 ; ! "operation"
@@ -3397,12 +3397,12 @@ bariton:bariton N1 ; !
 barkamol:barkamol A2 ; ! 
 barkastalik:barkastalik N1 ;  ! 
 barkash:barkash N1 ; ! 
-barqaror:barqaror A1 ; ! 
-barqarorlik:barqarorlik N1 ;  ! 
+barqaror:barqaror A1 ; ! "stabil" 
+barqarorlik:barqarorlik N1 ;  ! "stability"
 barq:barq N1 ; ! 
 barqut:barqut N1 ; ! 
 barlos:barlos N1 ; ! 
-barmoq:barmoq N1 ; ! 
+barmoq:barmoq N1 ; ! "finger"
 barno:barno A2 ; ! 
 barobar:barobar A1 ; ! "equal"
 barobar:barobar ADV ; ! "together"
@@ -4636,7 +4636,8 @@ boyekish:boyekish A2 ; !
 boyena:boyena A1 ; ! 
 boyon:boyon N1 ; ! 
 boja:boja N1 ; ! 
-boj:boj N1 ; ! 
+boj:boj N1 ; ! "tax" 
+bojxona:bojxona N1 ; ! "customs" 
 bojsiz:bojsiz A1 ; ! 
 bojxona:bojxona N1 ; ! 
 boz:boz ADV ; ! 
@@ -5061,7 +5062,7 @@ buzrukvor:buzrukvor A2 ; !
 buzuqbosh:buzuqbosh N1 ; ! 
 buzuq:buzuq A2 ; ! 
 buzuqi:buzuqi N1 ; ! 
-buzuqilik:buzuqilik N1 ; ! 
+buzuqilik:buzuqilik N1 ; ! "malpractice" 
 buzuqlik:buzuqlik N1 ; ! 
 buzuqchilik:buzuqchilik N1 ; ! 
 buy:buy N1 ; ! 
@@ -5310,7 +5311,7 @@ buyurtirma:buyurtirma A2 ; !
 buyurtish:buyurtish V-TV-CAUS ; ! 
 buyurtma:buyurtma A2 ; ! 
 buyurtmachi:buyurtmachi N1 ; ! 
-byudjet:byudjet N1 ; ! 
+byudjet:byudjet N1 ; ! "budget" 
 byulleten:byulleten N1 ; ! 
 byuro:byuro N1 ; ! 
 byurokrat:byurokrat N1 ; ! 
@@ -9894,7 +9895,7 @@ znachok:znachok N1 ; ! 0.9999812811364007
 zoʻgʻim:zoʻgʻim N1 ; ! 0.9999999998429728
 zoʻgʻota:zoʻgʻota N1 ; ! 0.9999758252171552
 zoʻravon:zoʻravon N1 ; ! 0.9999999884067415
-zoʻravonlik:zoʻravonlik N1 ; ! 0.9999999999982664
+zoʻravonlik:zoʻravonlik N1 ; ! "violence"
 zoʻravor:zoʻravor N1 ; ! 0.998357725442429
 zoʻray:zoʻray V-IV ; ! 0.9999999748971686
 zoʻraytir:zoʻraytir V-TV-CAUS ; ! 0.9999999974852749
@@ -10348,7 +10349,7 @@ iqlimlashtirish:iqlimlashtirish N1-VN ; ! 0.9241596868620344
 iqror:iqror N1 ; ! 0.9999914609038063
 iqta:iqta N1 ; ! 0.999999800357461
 iqtido:iqtido N1 ; ! 0.9999986006671718
-iqtidor:iqtidor N1 ; ! 0.999425868867001
+iqtidor:iqtidor N1 ; ! "potential"
 iqtidorsiz:iqtidorsiz A1 ; ! 0.999537209422265
 iqtisodiyot:iqtisodiyot N1 ; ! "economics"
 iqtisodiy:iqtisodiy A1 ; ! "economic"
@@ -11372,8 +11373,10 @@ iyart:iyart V-TV-CAUS ; ! 0.9999999999678834
 yigʻdir:yigʻdir V-TV-CAUS ; ! 0.999999999241046
 yigʻi:yigʻi N1 ; ! 0.999997238299459
 yigʻiq:yigʻiq N1 ; ! 0.9999920146475646
-yigʻilish:yigʻilish V-IV ; ! 0.9988145581807508
+yigʻilish:yigʻilish V-IV ; ! "meet up"
+yigʻil:yigʻil V-IV ; ! "gather"
 yigʻilish:yigʻilish N1-VN ; ! 0.999993072174926
+yigʻilish:yigʻilish N1 ; ! "meeting"
 yigʻim:yigʻim N1 ; ! 0.999999999974355
 yigʻindi:yigʻindi N1 ; ! 0.9999814502467006
 yigʻin:yigʻin V-IV-REFL ; ! 0.6021208081992547
@@ -12181,7 +12184,7 @@ kelish:kelish N1 ; ! 0.9853914143479703
 kelishmagan:kelishmagan A2 ; ! 0.9999987658612787
 kelishmaganlik:kelishmaganlik N1 ; ! 0.9999999997630383
 kelishtir:kelishtir V-TV-CAUS ; ! 0.9999996573803649
-kelishuv:kelishuv N1 ; ! 0.6214084373938872
+kelishuv:kelishuv N1 ; ! "agreement"
 kelishuvchi:kelishuvchi N1 ; ! 0.9999977327962567
 kelishuvchilik:kelishuvchilik N1 ; ! 0.9999998851656517
 kel:kel VERB-IV ; ! "to come"
@@ -13231,7 +13234,7 @@ kostyum:kostyum N1 ; ! 0.9999999986889266
 kostyumlik:kostyumlik N1 ; ! 0.9999999350562369
 kotangens:kotangens N1 ; ! 0.9999944775460532
 kotibi:kotibi N1 ; ! "secreter"
-kotib:kotib N1 ; ! 0.9996216115179682
+kotiba:kotiba N1 ; ! "secretary (female)"
 kotib:kotib N1 ; ! "secretary"
 kotiblik:kotiblik N1 ; ! 0.9999999999999163
 kotlet:kotlet N1 ; ! 0.9998655798804789
@@ -13285,7 +13288,7 @@ kreslo:kreslo N1 ; ! 0.9436278508258731
 krestgullilar:krestgullilar N1 ; ! 0.9999999406904259
 krest:krest N1 ; ! 0.9999999995930483
 krijovnik:krijovnik N1 ; ! 0.6368113174455408
-krizis:krizis N1 ; ! 0.9999223634926777
+krizis:krizis N1 ; ! "crisis"
 kriminalist:kriminalist N1 ; ! 0.9999999937407358
 kriminlistika:kriminlistika N1 ; ! 0.999999999999473
 kristal:kristal N1 ; ! "cristal"
@@ -14972,7 +14975,7 @@ qoʻngʻir:qoʻngʻir A1 ; !
 qoʻngʻir:qoʻngʻir N1 ; ! 0.9999772906004907
 qoʻngʻir:qoʻngʻir N1 ; ! 0.9999999965843743
 qoʻngʻir:qoʻngʻir N1 ; !
-qoʻngʻiroq:qoʻngʻiroq N1 ; ! 0.9999781853930594
+qoʻngʻiroq:qoʻngʻiroq N1 ; ! "call"
 qoʻngʻiroqli:qoʻngʻiroqli A2 ; ! 0.9999999955791699
 qoʻndir:qoʻndir V-TV-CAUS ; ! 0.9951261468775248
 qoʻndir:qoʻndir V-TV-CAUS ; ! 0.9999999683255641
@@ -15315,6 +15318,7 @@ qontepar:qontepar N1 ; ! 0.9998910867690959
 qonunan:qonunan ADV ; ! 0.9997787481850736
 qonunbuzar:qonunbuzar N1 ; ! 0.9999998745274713
 qonuniy:qonuniy A1 ; ! "legal"
+noqonuniy:noqonuniy A1 ; ! "illegal"
 qonuniy:qonuniy A2 ; ! 0.9999713133522673
 qonuniylik:qonuniylik N1 ; ! 0.9999999999922085
 qonuniyat:qonuniyat N1 ; ! 0.9999999999994976
@@ -16833,7 +16837,9 @@ mamiu:mamiu A2 ; ! 0.9836234295964363
 mamlakat:mamlakat N1 ; ! 0.6544528684511953
 mamlakat:mamlakat N1 ; ! "country"
 mamma:mamma N1 ; ! 0.9999994596273293
-mamnuniyat:mamnuniyat N1 ; ! 0.9999999998367574
+mamnuniyat:mamnuniyat N1 ; ! "satisfacton"
+mamnuniyat% ila:mamnuniyat% ila ADV ; ! "gladly"
+mamnuniyat% bilan:mamnuniyat% bilan ADV ; ! "gladly"
 mamnunlik:mamnunlik N1 ; ! 0.9999999946437345
 mamnun:mamnun N1 ; ! 0.9959455507076782
 mamont:mamont N1 ; ! 0.999999999993425
@@ -18300,10 +18306,10 @@ muzlik:muzlik N1 ; ! 0.9999999999967396
 muzlik:muzlik N1 ;  ! "glacier"
 muzli:muzli A2 ; ! 0.9997436039241675
 muzloq:muzloq N1 ; ! 0.999999669745083
-muz:muz N1 ; ! 0.9999999903446333
+! muz:muz N1 ; ! 0.9999999903446333
 muz:muz N1 ; ! "ice"
-muzokara:muzokara N1 ; ! 0.9999999999999754
-muzokarachi:muzokarachi N1 ; ! 0.9999987417265364
+muzokara:muzokara N1 ; ! "negotiation"
+muzokarachi:muzokarachi N1 ; ! "negotiator"
 muzofot:muzofot N1 ; ! 0.9999999608752616
 muzxona:muzxona N1 ; ! 0.9999999999999262
 muiilish:muiilish N1 ; ! 0.9955858413899558
@@ -18537,7 +18543,7 @@ murid%-muxlis:murid%-muxlis N1 ; ! 0.9999933794855989
 murodbaxsh:murodbaxsh N1 ; ! 0.9995817237433426
 murod%-maqsad:murod%-maqsad N1 ; ! 0.9999719122176126
 murod:murod N1 ; ! 0.9999999999954344
-murojaat:murojaat N1 ; ! 0.9998749342985958
+murojaat:murojaat N1 ; ! "call"
 murojaat:murojaat N1 ; !
 murojaatnoma:murojaatnoma N1 ; ! 0.9999999999935973
 muroqaba:muroqaba N1 ; ! 0.9999996518958071
@@ -20176,7 +20182,7 @@ oʻrtan:oʻrtan V-IV ; ! 0.9999667436380377
 oʻrtantir:oʻrtantir V-TV-CAUS ; ! 0.9999999989440275
 oʻrta:oʻrta V-TV ; ! 0.9953865952389849
 oʻrta:oʻrta N1 ; ! 1.0
-oʻrta:oʻrta N1 ; ! "middle"
+oʻrta:oʻrta A1 ; ! "middle"
 oʻrtapishar:oʻrtapishar A2 ; ! 0.94701512452378
 oʻrtasiga:oʻrtasiga N1 ; ! 0.9999243528920433
 oʻrtacha:oʻrtacha A1 ;  ! "average"
@@ -20719,6 +20725,7 @@ ozod:ozod A1 ; ! "free"
 ozod:ozod A2 ; ! 0.9999984625060363
 oz:oz A2 ; ! "a few"
 oz:oz VERB-IV ; ! "to lose weight"
+ozchilik:ozchilik N1 ; ! "minority"
 oz:oz V-IV ; ! 0.7959794409710713
 oz:oz V-IV ; ! 0.9901650017051957
 oz:oz V-IV ; ! 0.9999242589920341
@@ -21355,6 +21362,7 @@ ortida:ortida N1 ; ! 0.9999995259779275
 ortiqliq:ortiqliq N1 ; ! 0.9999999999998473
 ortiq:ortiq ADV3 ; ! "no more"
 ortiq:ortiq N1 ; ! 0.9999084902406626
+ortiq:ortiq ADV1 ; ! "over"
 ortiqchalik:ortiqchalik N1 ; ! 0.9999999999858256
 ortiqcha:ortiqcha A1 ; ! "too much"
 ortiqcha:ortiqcha N1 ; ! 0.6238821766385348
@@ -21937,7 +21945,7 @@ parqin:parqin N1 ; ! 0.999999999638443
 parqu:parqu N1 ; ! 0.9999587619756907
 parlamentarizm:parlamentarizm N1 ; ! 0.9999999998856489
 parlamentar:parlamentar A2 ; ! 0.8303147168326191
-parlament:parlament N1 ; ! 0.9999970430971689
+!parlament:parlament N1 ; ! 0.9999970430971689
 parlament:parlament N1 ; ! "parliament"
 parlan:parlan V-IV ; ! 0.9830446658976857
 parlan:parlan V-TV ; ! 0.9999991257980768
@@ -22810,8 +22818,8 @@ praktik:praktik A2 ; ! 0.9999887605027026
 praktikum:praktikum N1 ; ! 0.9999602041689662
 predmet:predmet N1 ; ! 0.9999999744264958
 predoxranitel:predoxranitel N1 ; ! 0.9999999999963013
-prezidentlik:prezidentlik N1 ; ! 0.9999999999999606
-prezident:prezident N1 ; ! 0.9999999999999901
+prezidentlik:prezidentlik N1 ; ! "presidency"
+! prezident:prezident N1 ; ! 0.9999999999999901
 prezident:prezident N1 ; ! "president"
 prezidium:prezidium N1 ; ! 0.9999999967439773
 preyskurant:preyskurant N1 ; ! 0.9999999329553932
@@ -24936,7 +24944,7 @@ siyosatbozlik:siyosatbozlik N1 ; ! 0.9999999999433711
 siyosatboz:siyosatboz N1 ; ! 0.9999999896185789
 siyosatdon:siyosatdon A2 ; ! 0.8727124129431398
 siyosatli:siyosatli A2 ; ! 0.9999999893966586
-siyosat:siyosat N1 ; ! 0.9999999414499413
+! siyosat:siyosat N1 ; ! 0.9999999414499413
 siyosat:siyosat N1 ; ! "politics"
 siyesatchi:siyesatchi N1 ; ! 0.9999999949139357
 siyosatchi:siyosatchi N1 ; ! "politician"
@@ -26880,11 +26888,12 @@ talaba:talaba N1 ; ! 0.9999999999997685
 talaba:talaba N1 ; ! "student"
 talabgor:talabgor N1 ; ! 0.9999998878647677
 talabnoma:talabnoma N1 ; ! 0.9999999987542977
-talab:talab N1 ; ! 0.9999999871626005
-talab:talab N1 ; ! "demand"
+! talab:talab N1 ; ! 0.9999999871626005
+talab:talab N1 ; ! "request, demand"
 talabchanlik:talabchanlik N1 ; ! 0.9999999999747144
-talabchan:talabchan N1 ; ! 0.9968763344968063
+talabchan:talabchan A1 ; ! 0.9968763344968063
 talay:talay # ; ! 0.8592284669463167
+tala:tala V-TV ; ! 0.9896083179550486
 talan:talan V-TV ; ! 0.9896083179550486
 talant:talant N1 ; ! 0.9981283801416324
 tala:tala V-TV ; ! 0.7200439604417528
@@ -27460,7 +27469,7 @@ tashal:tashal V-IV ; ! 0.9998047044291597
 tashvik:tashvik N1 ; ! 0.9999999159071861
 tashviqiy:tashviqiy A2 ; ! 0.9999994294829458
 tashviqot%-targʻibot:tashviqot%-targʻibot N1 ; ! 0.9999344094938383
-tashviqot:tashviqot N1 ; ! 0.9999999088524586
+tashviqot:tashviqot N1 ; ! "encouragement"
 tashviqotchilik:tashviqotchilik N1 ; ! 0.9999999243579892
 tashviqotchi:tashviqotchi N1 ; ! 0.9999999949157038
 tashvishlan:tashvishlan V-IV ; ! 0.9999994004457143
@@ -27831,7 +27840,7 @@ terapevt:terapevt N1 ; ! 0.9999971382224564
 terapiya:terapiya N1 ; ! 0.9999996733943718
 tergal:tergal V-IV-REFL ; ! 0.5350304401878675
 terga:terga V-TV ; ! 0.9999999770106698
-tergov:tergov N1 ; ! 0.9999999999871209
+tergov:tergov N1 ; ! "investigation"
 tergovchilik:tergovchilik N1 ; ! 0.9999999999904108
 tergovchi:tergovchi N1 ; ! 0.9962164475974348
 terdir:terdir V-TV-CAUS ; ! 0.9999446358369208
@@ -32029,6 +32038,7 @@ hadsiz%-hisobsiz:hadsiz%-hisobsiz A1 ; ! 0.9999999871328529
 had:had N1 ; ! 0.9868112467756988
 had:had N1 ; ! 0.9999999628752883
 had%-hisobsiz:had%-hisobsiz A1 ; ! 0.9999990739344129
+haddan% tashqari:haddan% tashqari A1 ; ! "extreme"
 hadyanoma:hadyanoma N1 ; ! 0.9999997260291019
 hadya:hadya N1 ; ! 0.9999999999979856
 hadya:hadya N1 ; ! "present/gift"
@@ -32130,7 +32140,7 @@ hayitlash:hayitlash V-IV-COOP ; ! 0.9991191323158354
 hayit:hayit N1 ; ! 0.9999990003971801
 haykaltaroshlik:haykaltaroshlik N1 ; ! 0.999999999994479
 haykaltaroshlik:haykaltaroshlik N1 ;  ! "sculpture"
-haykal:haykal N1 ; ! 0.9999999999876429
+! haykal:haykal N1 ; ! 0.9999999999876429
 haykal:haykal N1 ; ! "statue"
 haykalcha:haykalcha N1 ; ! 0.9999993603702203
 hayqiriq:hayqiriq N1 ; ! 0.9999999963001415
@@ -32329,8 +32339,8 @@ hamisha:hamisha N1 ; ! 0.9998465181381274
 hamiyatli:hamiyatli A2 ; ! 0.9907956162509076
 hamiyat:hamiyat N1 ; ! 0.9999999979627295
 hamiyatsiz:hamiyatsiz A1 ; ! 0.9999999999977541
-hamkasaba:hamkasaba N1 ; ! 0.9998675438616393
-hamkasb:hamkasb N1 ; ! 0.9985169448418438
+hamkasaba:hamkasaba N1 ; ! "counterpart(female)"
+hamkasb:hamkasb N1 ; ! "counterpart(male)"
 hamkorlik:hamkorlik N1 ; ! 0.9999999999999852
 hamkorlik:hamkorlik N1 ;  ! "partnership"
 hamkor:hamkor N1 ; ! 0.9999999615794828
@@ -32798,8 +32808,9 @@ hokimiyat:hokimiyat N1 ; ! "authority"
 hokimlik:hokimlik N1 ; ! 0.9999999978155969
 hokim:hokim N1 ; ! 0.9999999999999606
 hokim:hokim N1 ; ! "governor"
-holat:holat N1 ; ! 0.9999999999998423
+! holat:holat N1 ; ! 0.9999999999998423
 holat:holat N1 ; ! "state, condition"
+status:status N1 ; ! "status"
 hol%-ahvol:hol%-ahvol N1 ; ! 0.9980897688871248
 holbuki:holbuki CA ; ! "yet"
 holbuki:holbuki CA ; ! "though/yet"
@@ -33094,7 +33105,7 @@ chaqimchilik:chaqimchilik N1 ; ! 0.9999999991395345
 chaqimchi:chaqimchi N1 ; ! 0.9999999562616136
 chaqin:chaqin N1 ; ! 0.9992849083244056
 chaqiriqxona:chaqiriqxona N1 ; ! 0.9999999997448745
-chaqiriq:chaqiriq N1 ; ! 0.9999999999831906
+chaqiriq:chaqiriq N1 ; ! "call"
 chaqiriluvchi:chaqiriluvchi N1 ; ! 0.9999943560895211
 chaqirimlab:chaqirimlab ADV ; ! 0.9988356479857783
 chaqirim:chaqirim N1 ; ! 0.999999728795711
@@ -34764,7 +34775,7 @@ shiddatkor:shiddatkor N1 ; ! 0.9818225190922749
 shiddatlan:shiddatlan V-IV ; ! 0.9999970941880395
 shiddatlilik:shiddatlilik N1 ; ! 0.9999801203049202
 shiddatli:shiddatli A2 ; ! 0.9999993083440922
-shiddat:shiddat N1 ; ! 0.9999999991628352
+shiddat:shiddat N1 ; ! "force"
 shijoatkorona:shijoatkorona A2 ; ! 0.9998953075890239
 shijoatkor:shijoatkor A2 ; ! 0.8083699219348222
 shijoatli:shijoatli A2 ; ! 0.9999999999994927
@@ -35729,7 +35740,7 @@ elfurush:elfurush N1 ; ! 0.9999999987189747
 elchilik:elchilik N1 ; ! 0.9999999995851189
 elchilik:elchilik N1 ; ! 0.9999999999999409
 elchixona:elchixona N1 ; ! "embassy"
-elchi:elchi N1 ; ! "postman"
+elchi:elchi N1 ; ! "ambassador"
 elchi:Elchi N1 ; ! "ambassador"
 Elchi:Elchi N1 ; ! "ambassador"
 el:el N1 ; ! "nation"
@@ -36515,8 +36526,9 @@ yaglikara:yaglikara N1 ; ! 0.9999998969792114
 yagona:yagona A1 ; ! "only"
 yagona:yagona N1 ; ! 0.6211941828288805
 yagrang:yagrang A1 ; ! 0.5582845090104699
-yadro:yadro N1 ; ! 0.9990113509582697
+! yadro:yadro N1 ; ! 0.9990113509582697
 yadro:yadro N1 ; ! "nucleus"
+yadroviy:yadroviy A1 ; ! "nuclear"
 yayovlash:yayovlash V-IV-COOP ; ! 0.9976040747793256
 yayovla:yayovla V-IV ; ! 0.9562176925432764
 yayov:yayov N1 ; ! 0.9999837668445007
@@ -46226,3 +46238,9 @@ Yaroslavov:Yaroslavov  NP-COG-MF ; ! "" ! El++
 uyushgan% jinoyatchilik:uyushgan% jinoyatchilik N1 ; ! "organized crime"
 uyushgan:uyushgan A1 ; ! "organized"
 viza:viza N1 ; ! "visa"
+qayd% qil:qayd% qil V-TV ; ! "note"
+qayd% qil:qayd% qil V-IV ; ! "vomit"
+vakolatli:vakolatli A1 ; "authorized"
+e’lon% qil:e’lon% qil V-TV ; "announce"
+media:media N1 ; ! "media"
+ommaviy% axborot% vositalari:ommaviy% axborot% vositalari N1 ; ! "media"
