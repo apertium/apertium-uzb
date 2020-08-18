@@ -30412,7 +30412,7 @@ uyushtiruvchi:uyushtiruvchi N1 ; ! 0.9999910639380557
 uyushtir:uyushtir VERB-TV ; ! "to make numb"
 uyushtir:uyushtir V-TV-CAUS ; ! 0.9508072010211014
 uyushtir:uyushtir V-TV-CAUS ; ! 0.9999867346382496
-uyushtir:uyushtir V-TV-CAUS ; ! 0.9999997137563077
+uyushtir:uyushtir V-TV ; ! "organize"
 uyush:uyush V-IV ; ! 0.9996390630239489
 uyush:uyush V-IV ; ! 0.9999999260036792
 uyala:uyala V-IV ; ! 0.9999934847166141
@@ -30422,13 +30422,13 @@ uyalmai%-suyalmay:uyalmai%-suyalmay A2 ; ! 0.42843278235059995
 uyalmay%-netmay:uyalmay%-netmay ADV ; ! 0.9999893871543591
 uyaltir:uyaltir V-TV-CAUS ; ! 0.9999999886343505
 uyal:uyal VERB-IV ; ! "to be embarrassed"
-uyal:uyal V-IV ; ! 0.9999997061280432
+uyal:uyal V-IV ; ! "to be shy"
 uyatli:uyatli A2 ; ! 0.99999991895333
-uyat:uyat N1 ; ! 0.9987598055134911
+uyat:uyat N1 ; ! "shame"
 uyatchanglik:uyatchanglik N1 ; ! 0.9999999999311766
-uyatchang:uyatchang A2 ; ! 0.9999206567195994
-uyatchan:uyatchan N1 ; ! 0.9999330615210995
-uya:uya N1 ; ! 0.9999999999999606
+uyatchang:uyatchang A2 ; ! "shy"
+uyatchan:uyatchan N1 ; ! "shy"
+! uya:uya N1 ; ! 0.9999999999999606
 uya:uya N1 ; ! "nest"
 uyatsizlik:uyatsizlik N1 ; ! 0.9999999999999557
 uyatsiz:uyatsiz A1 ; ! 0.9999999727752799
@@ -46222,3 +46222,4 @@ Yanukov:Yanukov  NP-COG-MF ; ! "" ! El++
 Yaroslavov:Yaroslavov  NP-COG-MF ; ! "" ! El++
 
 uyushgan% jinoyatchilik:uyushgan% jinoyatchilik N1 ; ! "organized crime"
+uyushgan:uyushgan A1 ; ! "organized"
