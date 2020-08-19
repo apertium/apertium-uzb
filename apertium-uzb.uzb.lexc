@@ -46244,3 +46244,113 @@ vakolatli:vakolatli A1 ; ! "authorized"
 e’lon% qil:e’lon% qil V-TV ; ! "announce"
 media:media N1 ; ! "media"
 ommaviy% axborot% vositalari:ommaviy% axborot% vositalari N1 ; ! "media"
+
+A% Seriyasi:A% Seriyasi  NP-AL ; ! "" ! El++
+Atabetul% Hakayik:Atabetul% Hakayik  NP-AL ; ! "" ! El++
+ATO:ATO  NP-AL ; ! "" ! El++
+ATR:ATR  NP-AL ; ! "" ! El++
+BBC:BBC  NP-AL ; ! "" ! El++
+Belediyespor:Belediyespor  NP-AL ; ! "" ! El++
+Big:Big  NP-AL ; ! "" ! El++
+Boeing:Boeing  NP-AL ; ! "" ! El++
+BSE:BSE  NP-AL ; ! "" ! El++
+BTR:BTR  NP-AL ; ! "" ! El++
+Bulugʻ'ul% Meram:Bulugʻ'ul% Meram  NP-AL ; ! "" ! El++
+Charlie% Hebdo:Charlie% Hebdo  NP-AL ; ! "" ! El++
+Chernomorneftegaz:Chernomorneftegaz  NP-AL ; ! "" ! El++
+Club:Club  NP-AL ; ! "" ! El++
+Cup:Cup  NP-AL ; ! "" ! El++
+Death:Death  NP-AL ; ! "" ! El++
+Dedpul:Dedpul  NP-AL ; ! "" ! El++
+Devoni% Lugʻatit% Turk:Devoni% Lugʻatit% Turk  NP-AL ; ! "" ! El++
+Drakula:Drakula  NP-AL ; ! "" ! El++
+Facebook:Facebook  NP-AL ; ! "" ! El++
+FC:FC  NP-AL ; ! "" ! El++
+FM:FM  NP-AL ; ! "" ! El++
+Formula% 1:Formula% 1  NP-AL ; ! "" ! El++
+Formula%-1:Formula%-1  NP-AL ; ! "" ! El++
+FSB:FSB  NP-AL ; ! "" ! El++
+Futbol:Futbol  NP-AL ; ! "" ! El++
+Gazela:Gazela  NP-AL ; ! "" ! El++
+Gazprom:Gazprom  NP-AL ; ! "" ! El++
+Golos:Golos  NP-AL ; ! "" ! El++
+Grammy:Grammy  NP-AL ; ! "" ! El++
+Group:Group  NP-AL ; ! "" ! El++
+http:http  NP-AL ; ! "" ! El++
+ICAO:ICAO  NP-AL ; ! "" ! El++
+Interfaks:Interfaks  NP-AL ; ! "" ! El++
+Interneyshnl:Interneyshnl  NP-AL ; ! "" ! El++
+iOS:iOS  NP-AL ; ! "" ! El++
+Islander:Islander  NP-AL ; ! "" ! El++
+ISO:ISO  NP-AL ; ! "" ! El++
+iTunes:iTunes  NP-AL ; ! "" ! El++
+Jahon% Chempionati:Jahon% Chempionati  NP-AL ; ! "" ! El++
+Kazakhmys:Kazakhmys  NP-AL ; ! "" ! El++
+KGB:KGB  NP-AL ; ! "" ! El++
+Kirgizmambas:Kirgizmambas  NP-AL ; ! "" ! El++
+Krimenergo:Krimenergo  NP-AL ; ! "" ! El++
+Kriminform:Kriminform  NP-AL ; ! "" ! El++
+KrimSOS:KrimSOS  NP-AL ; ! "" ! El++
+Kutadgʻu% Bilig:Kutadgʻu% Bilig  NP-AL ; ! "" ! El++
+LHC:LHC  NP-AL ; ! "" ! El++
+Liga:Liga  NP-AL ; ! "" ! El++
+Linuks:Linuks  NP-AL ; ! "" ! El++
+Live:Live  NP-AL ; ! "" ! El++
+Marakana:Marakana  NP-AL ; ! "" ! El++
+Mezmurlar:Mezmurlar  NP-AL ; ! "" ! El++
+Mishkatul% Mesabih:Mishkatul% Mesabih  NP-AL ; ! "" ! El++
+MS:MS  NP-AL ; ! "" ! El++
+MSK:MSK  NP-AL ; ! "" ! El++
+MTS:MTS  NP-AL ; ! "" ! El++
+Muhakamatul% Lugʻatayn:Muhakamatul% Lugʻatayn  NP-AL ; ! "" ! El++
+Muhokamatul% Lugʻatayn:Muhokamatul% Lugʻatayn  NP-AL ; ! "" ! El++
+Nabukko:Nabukko  NP-AL ; ! "" ! El++
+Naftogaz:Naftogaz  NP-AL ; ! "" ! El++
+Nevs:Nevs  NP-AL ; ! "" ! El++
+NTV:NTV  NP-AL ; ! "" ! El++
+Ochiq% Rossiya:Ochiq% Rossiya  NP-AL ; ! "" ! El++
+OITS:OITS  NP-AL ; ! "" ! El++
+OIV:OIV  NP-AL ; ! "" ! El++
+OS:OS  NP-AL ; ! "" ! El++
+Oscar:Oscar  NP-AL ; ! "" ! El++
+OSCE:OSCE  NP-AL ; ! "" ! El++
+Otkritaya:Otkritaya  NP-AL ; ! "" ! El++
+PA:PA  NP-AL ; ! "" ! El++
+PACE:PACE  NP-AL ; ! "" ! El++
+PEN:PEN  NP-AL ; ! "" ! El++
+Pirrol:Pirrol  NP-AL ; ! "" ! El++
+Play:Play  NP-AL ; ! "" ! El++
+Premier:Premier  NP-AL ; ! "" ! El++
+PrivatBank:PrivatBank  NP-AL ; ! "" ! El++
+Qurultoy:Qurultoy  NP-AL ; ! "" ! El++
+Rav:Rav  NP-AL ; ! "" ! El++
+Records:Records  NP-AL ; ! "" ! El++
+Red:Red  NP-AL ; ! "" ! El++
+River:River  NP-AL ; ! "" ! El++
+Roskomnadzor:Roskomnadzor  NP-AL ; ! "" ! El++
+Rospotrebnadzor:Rospotrebnadzor  NP-AL ; ! "" ! El++
+Rosselhoznadzor:Rosselhoznadzor  NP-AL ; ! "" ! El++
+Rossiya% segodnya:Rossiya% segodnya  NP-AL ; ! "" ! El++
+Saxixul% Buxoriy:Saxixul% Buxoriy  NP-AL ; ! "" ! El++
+Servet%-i% Funun:Servet%-i% Funun  NP-AL ; ! "" ! El++
+Simferopol:Simferopol  NP-AL ; ! "" ! El++
+SOS:SOS  NP-AL ; ! "" ! El++
+Spravedlivaya% Rossiya:Spravedlivaya% Rossiya  NP-AL ; ! "" ! El++
+SSC:SSC  NP-AL ; ! "" ! El++
+Super% G4:Super% G4  NP-AL ; ! "" ! El++
+Svoboda:Svoboda  NP-AL ; ! "" ! El++
+Tarjimon:Tarjimon  NP-AL ; ! "" ! El++
+Tribuna:Tribuna  NP-AL ; ! "" ! El++
+TSK:TSK  NP-AL ; ! "" ! El++
+Twitter:Twitter  NP-AL ; ! "" ! El++
+Ukrenergo:Ukrenergo  NP-AL ; ! "" ! El++
+Ukrinform:Ukrinform  NP-AL ; ! "" ! El++
+Ukrtelekom:Ukrtelekom  NP-AL ; ! "" ! El++
+UNESKO:UNESKO  NP-AL ; ! "" ! El++
+Vikipediya:Vikipediya  NP-AL ; ! "" ! El++
+World:World  NP-AL ; ! "" ! El++
+www:www  NP-AL ; ! "" ! El++
+Yedinaya% Rossiya:Yedinaya% Rossiya  NP-AL ; ! "" ! El++
+YouTube:YouTube  NP-AL ; ! "" ! El++
+Yunayted:Yunayted  NP-AL ; ! "" ! El++
+Zanjirli:Zanjirli  NP-AL ; ! "" ! El++
