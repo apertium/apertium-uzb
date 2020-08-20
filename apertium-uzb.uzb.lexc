@@ -23,7 +23,7 @@
 %<ij%>        ! Interjection               ! 
 %<num%>       ! Numeral                    ! Son
 %<prn%>       ! Pronoun                    ! 
-%<det%>       ! Determiner                 ! Aniqovchi
+%<det%>       ! Determiner                 ! Aniqlovchi
 %<abbr%>      ! Abbreviation               ! Qisqartma
 %<postadv%>   ! Postadverb                 !
 %<cop%>       ! Copula                     ! Kopula
