@@ -19,3 +19,4 @@
 /config.in
 /config
 /tests/morphotactics/*.txt.gz
+/tests/morphotactics/.deps

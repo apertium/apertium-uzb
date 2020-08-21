@@ -593,6 +593,8 @@ LEXICON VERB-IV-FULL
 
 VERB-INFL-COMMON ;
 
+
+
 LEXICON VERB-TD
 
 %<v%>%<TD%>: VERB-TV-FULL ;
@@ -1128,9 +1130,9 @@ e%<cop%>%<ger_perf%>:ekan%>%{L%}%{I%}k GER-POSSESSIVES ;
 e%<cop%>%<aor%>%<evid%>:ekan V-PERS-S1 ;
 e%<cop%>%<neg%>%<aor%>%<evid%>:emas% ekan V-PERS-S1 ;
 
-е%<cop%>%<ifi%>:е%>%{D%}%{I%} V-PERS-S2 ;
+e%<cop%>%<ifi%>:e%>%{D%}%{I%} V-PERS-S2 ;
 
-е%<cop%>%<neg%>%<aor%>:emas V-PERS-S1 ;
+e%<cop%>%<neg%>%<aor%>:emas V-PERS-S1 ;
 
 
 LEXICON NUM
@@ -4172,6 +4174,7 @@ biratulasiga:biratulasiga ADV ; !
 bir%-bir:bir%-bir ADV ; ! 
 bir%-bir:bir%-bir PRON-IND ; ! ""
 bir:bir DET-IND ; ! "a"
+biron:biron DET-IND ; ! "some kind of"
 bir%-biriga:bir%-biriga # ; ! 
 bir:bir NUM ; ! 
 bir:bir NUM ; ! "one"
@@ -4256,7 +4259,6 @@ birozgina:birozgina ADV ; ! "a very little while"
 biroq: biroq CC ; ! "but"
 biroq:biroq CC-PROTIV ; ! 
 biroq:biroq CA ; ! "only if"
-biron:biron ADV ; ! 
 biron:biron DET-DEM ; ! "some"
 biron:biron PRON-ITG-INFL ; ! "whichever"
 birongʻor:birongʻor N1 ; ! 
@@ -4799,7 +4801,7 @@ bori:bori ADV ; !
 boril:boril VERB-IV ; ! "to proceed"
 boril:boril V-IV-REFL ; ! 
 borinki:borinki PAREN ; ! 
-borish:borish V-IV-COOP ; ! 
+!borish:borish V-IV-COOP ; ! 
 borish:borish N1 ; !
 borish%-kelish:borish%-kelish N1 ; ! 
 borlik:borlik N1 ; ! "existence"
@@ -8226,15 +8228,15 @@ yodlash:yodlash V-TV-COOP ; ! 0.8308314311671633
 yodli:yodli A2 ; ! 0.999361157670073
 yodnoma:yodnoma N1 ; ! 0.9999999981744894
 yo:yo CA ; ! "either...or"
-e:e VERB-COPULA ; ! "special copula"
-e:e V-IV ; ! 0.6564157069010513
+!e:e VERB-COPULA ; ! "special copula"
+!e:e V-IV ; ! 0.6564157069010513
 yo:yo V-IV ; ! 0.9996918899551015
 ye:ye%{й%} V-TV ; ! "to eat" ! 0.9999268675619511
 yo:yo IJ ; ! 0.6631133016309078
-e:e MIST ;
+!e:e MIST ;
 yo:yo N1 ; ! 0.9992431134935172
-e:e N1 ; ! 0.9995404548728833
-e:e N1 ; ! 0.9999995782875437
+!e:e N1 ; ! 0.9995404548728833
+!e:e N1 ; ! 0.9999995782875437
 yo:yo N1 ; ! 0.9999999994395031
 yo:yo N1 ; !
 yozgʻir:yozgʻir V-IV ; ! 0.710947235915735
@@ -8320,8 +8322,8 @@ yoqali:yoqali A2 ; ! 0.9999999944493208
 yoqasiz:yoqasiz A1 ; ! 0.9999999454784521
 yoq:yoq V-IV ; ! 0.7833974711362908
 yoq:yoq V-TV-CAUS ; ! 0.7071349214560189
-yoq:yoq N1 ; ! 0.9999999444662392
 yoq:yoq N1 ; ! "node"
+yoq:yoq IJ ; ! "No" 
 yoqiq:yoqiq A2 ; ! 0.861752468209363
 yoqilgʻi:yoqilgʻi N1 ; ! 0.999997720884824
 yoqimli:yoqimli A2 ; ! "pleasant"
@@ -10409,7 +10411,6 @@ ilik:ilik N1 ; ! 0.9999999998296356
 ilik:ilik N1 ;  ! "hand"
 ilikos:ilikos N1 ; ! 0.9771055571053562
 iliq:iliq A2 ; ! 0.9999804457085765
-iliq:iliq V-IV ; ! 0.999991567940784
 iliq%-issiq:iliq%-issiq A1 ; ! 0.9954829345325676
 iliqlik:iliqlik N1 ; ! 0.999999999995006
 iliq%-miliq:iliq%-miliq N1 ; ! 0.8351609793268097
@@ -14340,7 +14341,6 @@ qachongi:qachongi N1 ; ! 0.9891218695742036
 qachondir:qachondir N1 ; ! 0.9999971100796612
 qachonki:qachonki N1 ; ! 0.7693970588676764
 qachon:qachon ADV-ITG ; ! "when"
-!qachon:qachon N1 ; ! 0.9987543623378525
 qashi:qashi V-TV ; ! 0.9432173842774895
 qashin:qashin V-IV-REFL ; ! 0.9998775317810941
 qashit:qashit V-TV-CAUS ; ! 0.9999999708004844
@@ -24631,7 +24631,6 @@ senka:senka N1 ; ! 0.9999910702008322
 senka:senka N1 ; ! 0.9999999950489525
 sen%-men:sen%-men N1 ; ! 0.9976975672104723
 sensatsion:sensatsion A2 ; ! 0.9999005421465287
-sen:sen IJ ; ! 0.6776063718726091
 sensira:sensira V-IV ; ! 0.9999992117946327
 sensirash:sensirash V-IV-COOP ; ! 0.8231863502539652
 sentimental:sentimental A2 ; ! 0.9296210512073955
@@ -25521,7 +25520,6 @@ soʻngra:soʻngra N1 ; ! 0.9999999921396968
 soʻngra:soʻngra ADV ; ! "later"
 soʻngsiz:soʻngsiz A1 ; ! 0.9999963102670268
 soʻng:soʻng ADV ; ! 0.4935114082661687
-soʻng:soʻng ADV1 ; !
 soʻng:soʻng N1 ; ! "finish"
 soʻng:soʻng POST-NOM ; ! ""
 soʻngsuz:soʻngsuz N1 ; ! 0.9999979900687788
@@ -28997,6 +28995,7 @@ top%-toza:top%-toza A2 ; ! 0.9931308754372602
 top:top VERB-TV ; ! "to find"
 top:top V-TV ; ! 0.9999174924832647
 top:top N1 ; ! 0.9994055374348901
+!topish:topish V-IV ; ! "to find"
 topshiriq:topshiriq N1 ; ! 0.9999999996982879
 topshirish:topshirish V-IV-COOP ; ! 0.9995173764259005
 topshir:topshir VERB-TV ; ! "to delVERB-IVer"
@@ -32226,6 +32225,7 @@ halitdan:halitdan ADV ; ! 0.9999882263903339
 hali:hali A2 ; ! 0.9978478319506465
 hali:hali ADV3 ; ! "a while ago"
 hali:hali ADV ; ! "still"
+haliyam:haliyam ADV3 ; ! "still"
 hali%-hali:hali%-hali A2 ; ! 0.9937234885876963
 halqalan:halqalan V-IV-REFL ; ! 0.9999998795265971
 halqala:halqala V-IV ; ! 0.9936396168341748
@@ -32471,8 +32471,7 @@ harfxoʻr:harfxoʻr N1 ; ! 0.9999987485485815
 harf:harf N1 ; ! 0.9998707768876696
 harf:harf N1 ; ! "letter"
 har:har A1 ; !
-har:har DET-DEM ; ! "each"
-har:har N1 ; ! 0.5070062450926205
+har:har DET-QNT ; ! "each"
 har% holda:har% holda CA ; ! ""
 har% holda:har% holda CA ; ! "after all"
 har% holda:har% holda ADV ; ! "presumably"
@@ -35720,6 +35719,8 @@ emanzor:emanzor N1 ; ! 0.9999982706242326
 eman:eman N1 ; ! "type of a tree"
 ! emas:emas A1 ; ! 0.9054339171908455
 emas:emas ADV ; ! "not"
+emas:emas A2 ; ! 0.9054339171908455
+! emas:emas A1 ; !
 embriologik:embriologik A2 ; ! 0.9999986185623088
 embriologiya:embriologiya N1 ; ! 0.9988856519753601
 embrional:embrional N1 ; ! 0.7743796248155471
@@ -36681,7 +36682,7 @@ yamoq%-yasqoq:yamoq%-yasqoq N1 ; ! 0.9933984070428298
 yam%-yash:yam%-yash A2 ; ! 0.9828268701474608
 yanagi:yanagi A2 ; ! 0.981893060680912
 yanada:yanada ADV1 ; ! "and yet"
-yana:yana A1 ; ! 0.7251485337885802
+yana:yana CC ; ! 0.7251485337885802
 yana:yana ADV3; ! "again"
 yanvar:Yanvar N1 ; ! "January"
 Yanvar:Yanvar N1 ; ! "January"
@@ -37335,6 +37336,7 @@ Barnabo:Barnabo NP-ANT-M ; !
 Barselona:Barselona NP-TOP ; ! "Barcelona"
 Bas:Bas NP-TOP ; !
 Bavariya:Bavariya NP-TOP ; ! ""
+Baxtiyor:Baxtiyor NP-ANT-M ; ! ""
 Bayram:Bayram NP-ANT-M ; ! ""
 Beaune:Beaune NP-TOP ; ! "Beaune"
 Beauvais:Beauvais NP-TOP ; ! "Beauvais"
@@ -37721,6 +37723,7 @@ Ivica:Ivica NP-ANT-M ; ! "" ! Dir/LR
 Ivo:Ivo NP-ANT-M ; ! ""
 Ivo:Ivo NP-ANT-M ; ! "" ! Dir/LR
 Asal:Asal NP-ANT-F ; ! "Asal"
+Oygul:Oygul NP-ANT-F ; ! ""
 Izmir:Izmir NP-TOP ; ! "Izmir"
 JAT:JAT NP-ORG ; ! ""
 Jaap:Jaap NP-ANT-M ; ! ""
