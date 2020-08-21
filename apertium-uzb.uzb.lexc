@@ -8322,9 +8322,7 @@ yoqali:yoqali A2 ; ! 0.9999999944493208
 yoqasiz:yoqasiz A1 ; ! 0.9999999454784521
 yoq:yoq V-IV ; ! 0.7833974711362908
 yoq:yoq V-TV-CAUS ; ! 0.7071349214560189
-yoq:yoq N1 ; ! 0.9999999444662392
 yoq:yoq N1 ; ! "node"
-yoq:yoq N1 ; ! ""
 yoq:yoq IJ ; ! "No" 
 yoqiq:yoqiq A2 ; ! 0.861752468209363
 yoqilgʻi:yoqilgʻi N1 ; ! 0.999997720884824
@@ -11721,7 +11719,6 @@ kami:kami V-IV ; ! 0.9960442662375637
 kamina:kamina N1 ; ! 0.9999999674119322
 kamiyat:kamiyat N1 ; ! 0.999999999728272
 kam:kam A1 ; ! 0.9996408780738633
-kamroq:kamroq A1 ; ! ""
 kam%-kam:kam%-kam N1 ; ! 0.9890267185280657
 kam:kam POST-NOM ; ! "till"
 kam%-ketik:kam%-ketik A2 ; ! 0.9743456647020243
