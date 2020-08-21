@@ -24634,7 +24634,6 @@ senka:senka N1 ; ! 0.9999910702008322
 senka:senka N1 ; ! 0.9999999950489525
 sen%-men:sen%-men N1 ; ! 0.9976975672104723
 sensatsion:sensatsion A2 ; ! 0.9999005421465287
-sen:sen IJ ; ! 0.6776063718726091
 sensira:sensira V-IV ; ! 0.9999992117946327
 sensirash:sensirash V-IV-COOP ; ! 0.8231863502539652
 sentimental:sentimental A2 ; ! 0.9296210512073955
@@ -32475,8 +32474,7 @@ harfxoʻr:harfxoʻr N1 ; ! 0.9999987485485815
 harf:harf N1 ; ! 0.9998707768876696
 harf:harf N1 ; ! "letter"
 har:har A1 ; !
-har:har DET-DEM ; ! "each"
-har:har N1 ; ! 0.5070062450926205
+har:har DET-QNT ; ! "each"
 har% holda:har% holda CA ; ! ""
 har% holda:har% holda CA ; ! "after all"
 har% holda:har% holda ADV ; ! "presumably"
