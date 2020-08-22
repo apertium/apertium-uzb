@@ -931,7 +931,7 @@ CLIT-QST-MI ;
 
 LEXICON CLIT-MODASS
 
-%+go%<emph%>:% go # ;
+%+go%<mod%>:% go # ;
 # ;
 
 LEXICON CLIT-GHANA-ETC
