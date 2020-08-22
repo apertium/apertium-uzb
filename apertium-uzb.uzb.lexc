@@ -149,9 +149,7 @@
 %<qst%>       ! Modal question particle
               !# m{A}
 %<emph%>      ! Emphasizing modal particle
-              !# -шы/-ші
-%<mod_ass%>   ! Assertive modal particle
-              !# -ғой/-қой
+              !# go 
 %<mod%>       ! Other modal words (шығар, сияқты etc)
 
 %<unk%>       ! For foreign tokens
@@ -917,9 +915,9 @@ LEXICON CLITICS
 %+mi%<qst%>:mi # ;
 %+ki%<cnjadv%>:ki # ;
 %+da%<cnjcoo%>:da # ; ! ""
-%+dek%<mod%>:dek # ; ! x gibi
-%+day%<mod%>:day # ; ! x gibi
-%+cha%<mod%>:cha # ; ! x kadar
+%+dek%<post%>:dek # ; ! x gibi
+%+day%<post%>:day # ; ! x gibi
+%+cha%<post%>:cha # ; ! x kadar
 # ; 
 
 LEXICON CLIT-QST-MI
@@ -933,7 +931,7 @@ CLIT-QST-MI ;
 
 LEXICON CLIT-MODASS
 
-%+go%<mod_ass%>:% go # ;
+%+go%<emph%>:% go # ;
 # ;
 
 LEXICON CLIT-GHANA-ETC
