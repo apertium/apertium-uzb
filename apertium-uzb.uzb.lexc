@@ -2849,7 +2849,7 @@ aft%-bashara:aft%-bashara N1 ; !
 aft%-bosh:aft%-bosh N1 ; ! 
 aftidan:aftidan PAREN ; ! 
 aftoda:aftoda A2 ; ! 
-aftodaxol :aftodaxol  A2 ; ! 
+aftodaxol:aftodaxol  A2 ; ! 
 affiks:affiks N1 ; ! 
 afyun:afyun N1 ; ! 
 ax:ax  IJ ; ! 
@@ -4259,7 +4259,7 @@ bir% muddat:bir% muddat ADV ; ! "for a while"
 bir% qancha:bir% qancha ADV ; ! "a few"
 bir% nechta:bir% nechta ADV ; ! "a few"
 birozgina:birozgina ADV ; ! "a very little while"
-biroq: biroq CC ; ! "but"
+biroq:biroq CC ; ! "but"
 biroq:biroq CC-PROTIV ; ! 
 biroq:biroq CA ; ! "only if"
 biron:biron ADV ; ! 
@@ -37876,7 +37876,7 @@ Liguria:Liguria NP-TOP ; ! ""
 Limuzen:Limuzen NP-TOP ; ! "Limousin"
 Lisieux:Lisieux NP-TOP ; ! ""
 Lisieux:Lisieux NP-TOP ; ! "Lisieux"
-Liverpool% FC: Liverpool% FC NP-ORG ; ! ""
+Liverpool% FC:Liverpool% FC NP-ORG ; ! ""
 Liverpool:Liverpool NP-ORG ; ! ""
 Lleida:Lleida NP-TOP ; ! ""
 Lodi:Lodi NP-TOP ; ! ""
@@ -38014,7 +38014,7 @@ Nebraska:Nebraska NP-TOP ; ! "
 Nejat:Nejat NP-ANT-M ; ! ""
 Nenad:Nenad NP-ANT-M ; ! ""
 Neufchâteau:Neufchâteau NP-TOP ; ! ""
-New% Jersey: New% Jersey NP-TOP ; ! ""
+New% Jersey:New% Jersey NP-TOP ; ! ""
 New% York:New% York NP-TOP ; ! ""
 New:New NP-AL ; !
 Newcastle% United:Newcastle% United NP-ORG ; ! ""
@@ -38127,7 +38127,7 @@ Polsha:Polsha NP-TOP ; ! ""
 Portugaliya:Portugaliya NP-TOP ; ! ""
 Potenza:Potenza NP-TOP ; ! ""
 Predrag:Predrag NP-ANT-M ; ! ""
-Pro% Vercelli: Pro% Vercelli NP-ORG ; ! ""
+Pro% Vercelli:Pro% Vercelli NP-ORG ; ! ""
 Prussiya:Prussiya NP-TOP ; ! ""
 Prvoslav:Prvoslv NP-ANT-M ; ! ""
 Prüm:Prüm NP-TOP ; ! ""
@@ -38164,7 +38164,7 @@ Rayhon:Rayhon NP-TOP ; ! ""
 Rayo% Vallecano:Rayo% Vallecano NP-ORG ; ! ""
 Razvan:Razvan NP-ANT-M ; ! ""
 Raüf:Raüf NP-ANT-M ; ! ""
-Real% Madrid: Real% Madrid NP-ORG ; ! ""
+Real% Madrid:Real% Madrid NP-ORG ; ! ""
 Real% Sociedad:Real% Sociedad NP-ORG ; ! ""
 Recep:Recep NP-ANT-M ; ! ""
 Reggio% Calabria:Reggio% Calabria NP-TOP ; ! ""
@@ -38343,7 +38343,7 @@ Torino:Torino NP-ORG ; ! ""
 Torre:Torre NP-TOP ; ! ""
 Toshkent:Toshkent NP-TOP ; ! ""
 Toskana:Toskana NP-TOP ; ! ""
-Tottenham% Hotspur: Tottenham% Hotspur NP-ORG ; ! "
+Tottenham% Hotspur:Tottenham% Hotspur NP-ORG ; ! "
 Tottenham:Tottenham NP-ORG ; ! ""
 Trabzonspor:Trabzonspor NP-ORG ; ! ""
 Traian:Traian NP-ANT-M ; ! ""
