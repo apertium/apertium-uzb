@@ -21250,14 +21250,15 @@ ora:ora N1 ; ! "gap/distance/interval"
 ! ora:ora PRON-ADV ; ! "there" ! This is Turkish?
 u% yer:u% yer PRON-ADV ; ! "there"
 bu% yer:bu% yer PRON-ADV ; ! "here"
-bu% yerda:bu% yerda ADV1 ; ! "here"
+bu% yerda:bu% yerda ADV1 ; ! "here, in this place"
+bu% yerga:bu% yerga ADV1 ; ! "here, hither"
 shu% yer:shu% yer PRON-ADV ; ! "here"
 uyoq:uyoq PRON-ADV ; ! "there"
 buyoq:buyoq PRON-ADV ; ! "here"
 shuyoq:shuyoq PRON-ADV ; ! "there"
 ! orasiga:orasiga N1 ; ! 0.9999998790395237
 orasta:orasta A1 ; ! "chic"
-ora%-chora:ora%-chora N1 ; ! 0.9999426726312294
+ora%-chora:ora%-chora ADV ; ! "seldomly"
 ora%-sira:ora%-sira ADV ; ! "at times"
 ora%-sirada:ora%-sirada ADV ; ! "at times"
 orbital:orbital N1 ; ! 0.9999987024894859
