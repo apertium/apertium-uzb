@@ -1462,7 +1462,7 @@ avvalo:avvalo ADV ; !
 avg%.:avg%. ABBR ;
 avg:avg ABBR ; ! "august"
 avgust:Avgust N1 ; ! "August"
-Avgust:Avgust N1 ; ! "August"
+!Avgust:Avgust N1 ; ! "August"
 avj:avj N1 ; ! 
 avjlantir:avjlantir V-TV-CAUS ; ! 
 avjli:avjli A1 ; ! 
@@ -2391,7 +2391,7 @@ apparatura:apparatura N1 ; !
 appenditsit:appenditsit N1 ; ! 
 apr%.:apr%. ABBR ; ! "april"
 aprel:Aprel N1 ; ! "April"
-Aprel:Aprel N1 ; ! "April"
+! Aprel:Aprel N1 ; ! "April"
 aprior:aprior A2 ; ! 
 apriorlik:apriorlik N1 ;  ! 
 aprobatsiya:aprobatsiya N1 ; ! 
@@ -7303,7 +7303,7 @@ deyil:deyil V-TV ; !
 deyish:deyish VERB-TV ; ! "to change"
 deyish:deyish V-TV-COOP ; ! 
 dekabr:Dekabr N1 ; ! "December" 
-Dekabr:Dekabr N1 ; ! "December"
+! Dekabr:Dekabr N1 ; ! "December"
 dekabrist:dekabrist N1 ; ! 
 dekada:dekada N1 ; ! 
 dekadentlik:dekadentlik N1 ; ! 
@@ -11359,10 +11359,10 @@ ishshay:ishshay V-IV ; ! 0.9999716750260652
 ishshaytir:ishshaytir V-TV-CAUS ; ! 0.9999999993974772
 ishsh:ishsh N1 ; ! 0.9999997790436441
 iyul:Iyul N1 ; ! "july"
-Iyul:Iyul N1 ; ! "july"
+! Iyul:Iyul N1 ; ! "july"
 iyulniki:iyulniki ADV1 ; !
 iyun:Iyun N1 ; ! "June"
-Iyun:Iyun N1 ; ! "June"
+!Iyun:Iyun N1 ; ! "June"
 iya:iya N1 ; ! 0.9995507583957257
 iya:iya N1 ; ! 0.9999999354242876
 iyar:iyar V-TV-CAUS ; ! 0.9912268390199156
@@ -16701,7 +16701,7 @@ mayli:mayli N1 ; ! 0.6320125211148668
 mayl:mayl N1 ; ! 0.9999999999999163
 may:may N1 ; ! "wine"
 may:May N1 ; ! "May"
-May:May N1 ; ! "May"
+! May:May N1 ; ! "May"
 maymoq:maymoq A2 ; ! "purry"
 maymunjon:maymunjon N1 ; ! 0.9999997037792531
 maymun:maymun N1 ; ! 0.9999439146212404
@@ -17034,7 +17034,7 @@ marta:marta N1 ; ! 0.9999085979707298
 marta:marta N1 ; ! "times/time"
 marten:marten N1 ; ! 0.9999928023020365
 mart:Mart N1 ; ! "March"
-Mart:Mart N1 ; ! "March"
+! Mart:Mart N1 ; ! "March"
 marhabo:marhabo N1 ; ! 0.9997468566770563
 marhaglatli:marhaglatli A2 ; ! 0.9997502770928152
 marhamat:marhamat N1 ; ! 0.9999999272178952
@@ -19574,7 +19574,7 @@ noshukur:noshukur A2 ; ! 0.9954307048689439
 noshukurchilik:noshukurchilik N1 ; ! 0.9999996829019454
 noyab%.:noyab%. ABBR ;
 noyabr:Noyabr N1 ; ! "November"
-Noyabr:Noyabr N1 ; ! "November"
+! Noyabr:Noyabr N1 ; ! "November"
 ! noyambr:noyambr N1 ; !
 nubuvvat:nubuvvat N1 ; ! 0.9999998993623473
 nujum:nujum N1 ; ! 0.999443096933537
@@ -20825,7 +20825,7 @@ okt%.:okt%. ABBR ;
 oktyabrist:oktyabrist N1 ; ! 0.9999999934151862
 oktyabr:oktyabr N1 ; ! 0.9999986635423825
 oktabr:oktabr N1 ; ! "October"
-Oktabr:Oktabr N1 ; ! "OCtober"
+! Oktabr:Oktabr N1 ; ! "OCtober"
 oktyabryat:oktyabryat N1 ; ! 0.9999998479352761
 okuchnik:okuchnik N1 ; ! 0.9999835666383445
 oqarish:oqarish V-IV-COOP ; ! 0.9947049409837013
@@ -24673,7 +24673,7 @@ sentrovka:sentrovka N1 ; ! 0.9999999952437651
 sent%.:sent%. ABBR ;
 sentyabr:sentyabr N1 ; ! 0.9999970658343309
 sentabr:Sentabr N1 ; ! "september"
-Sentabr:Sentabr N1 ; ! "September"
+! Sentabr:Sentabr N1 ; ! "September"
 sepala:sepala V-TV ; ! 0.9054670295592934
 separa:separa N1 ; ! 0.9999999998275031
 separator:separator N1 ; ! 0.999999968135061
@@ -30649,7 +30649,7 @@ fashist:fashist N1 ; ! 0.9999999979364836
 fashistcha:fashistcha A1 ; ! 0.8205134306893932
 faeton:faeton N1 ; ! 0.9998743070619323
 fevral:Fevral N1 ; ! "february"
-Fevral:Fevral N1 ; ! "February"
+! Fevral:Fevral N1 ; ! "February"
 federalizatsiya:federalizatsiya N1 ; ! 0.9999999999980103
 federativ:federativ A2 ; ! 0.9989029033485387
 federatsiya:federatsiya N1 ; ! 0.9999999999999606
@@ -35737,7 +35737,7 @@ elchilik:elchilik N1 ; ! 0.9999999999999409
 elchixona:elchixona N1 ; ! "embassy"
 elchi:elchi N1 ; ! "ambassador"
 elchi:Elchi N1 ; ! "ambassador"
-Elchi:Elchi N1 ; ! "ambassador"
+! Elchi:Elchi N1 ; ! "ambassador"
 el:el N1 ; ! "nation"
 el:el N1 ; ! "people"
 el%-yurt:el%-yurt N1 ; ! 0.999774412826534
@@ -36714,7 +36714,7 @@ yanada:yanada ADV1 ; ! "and yet"
 yana:yana CC ; ! 0.7251485337885802
 yana:yana ADV3; ! "again"
 yanvar:Yanvar N1 ; ! "January"
-Yanvar:Yanvar N1 ; ! "January"
+! Yanvar:Yanvar N1 ; ! "January"
 yanvar:yanvar N1 ; ! "January"
 fevral:fevral N1 ; ! "february"
 mart:mart N1 ; ! "march"
@@ -36723,7 +36723,7 @@ may:may N1 ; ! "may"
 iyun:iyun N1 ; ! "june"
 iyul:iyul N1 ; ! "july"
 avgust:avgust N1 ; ! "august"
-sentabr:sentabr N1 ; ! "septembre"
+sentabr:sentabr N1 ; ! "september"
 oktabr:oktabr N1 ; ! "october"
 noyabr:noyabr N1 ; ! "november"
 dekabr:dekabr N1 ; ! "december"
