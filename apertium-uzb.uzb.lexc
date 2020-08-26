@@ -4995,17 +4995,17 @@ brutsyollyoz:brutsyollyoz N1 ; !
 bubnom:bubnom N1 ; ! 
 !bu:bu # ; ! whatʻs this? 
 bu:bu PRON-DEM-BU ; ! "this"
-buva:buva N1 ; ! 
+buva:buva N1 ; ! "grandpa"
 buvadexqon:buvadexqon N1 ; ! 
 buvak:buvak N1 ; ! 
 buvaki:buvaki N1 ; ! 
-buvi:buvi N1 ; ! 
+buvi:buvi N1 ; ! "grandma"
 buvish:buvish N1 ; ! 
-bugʻ:bugʻ N1 ; ! 
+! bugʻ:bugʻ N1 ; ! "steam"
 bugʻ:bugʻ N1 ; ! "vapor"
-bugʻdoy:bugʻdoy N1 ; ! 
+! bugʻdoy:bugʻdoy N1 ; ! "wheat"
 bugʻdoy:bugʻdoy N1 ; ! "wheat"
-bugʻdoyzor:bugʻdoyzor N1 ; ! 
+bugʻdoyzor:bugʻdoyzor N1 ; ! "wheat land"
 bugʻdoyiq:bugʻdoyiq N1 ; ! 
 bugʻdoykor:bugʻdoykor A2 ; ! 
 bugʻdoykorlik:bugʻdoykorlik N1 ; ! 
@@ -5018,7 +5018,7 @@ bugʻlantir:bugʻlantir V-TV-CAUS ; !
 bugʻlat:bugʻlat V-TV-CAUS ; ! 
 bugʻlash:bugʻlash N1-VN ; ! 
 bugʻli:bugʻli A2 ; ! 
-bugʻu:bugʻu N1 ; ! 
+bugʻu:bugʻu N1 ; ! "deer"
 bugʻutqazgich:bugʻutqazgich N1 ; ! 
 bugʻuchilik:bugʻuchilik N1 ; ! 
 bugʻxona:bugʻxona N1 ; ! 
@@ -5044,7 +5044,7 @@ bujul:bujul N1 ; !
 bujun:bujun N1 ; ! 
 bujur:bujur A2 ; ! 
 buz:buz VERB-TV ; ! "to spoil"
-buz:buz V-TV ; ! 
+buz:buz V-TV ; ! "destroy"
 buzgʻun:buzgʻun A2 ; ! 
 buzgʻunchi:buzgʻunchi N1 ; ! 
 buzgʻunchilik:buzgʻunchilik N1 ; ! 
@@ -5055,7 +5055,7 @@ buzil:buzil N1 ; !
 buzilish:buzilish N1-VN ; ! 
 buzilmas:buzilmas A2 ; ! 
 buzoqboshi:buzoqboshi N1 ; ! 
-buzoq:buzoq N1 ; ! 
+buzoq:buzoq N1 ; ! "calf"
 buzoqxona:buzoqxona N1 ; ! 
 buzruk:buzruk A2 ; ! 
 buzrukvor:buzrukvor A2 ; ! 
@@ -5072,11 +5072,11 @@ buydor:buydor A2 ; !
 buyrak:buyrak N1 ; ! 
 buyruqboz:buyruqboz A2 ; ! 
 buyruqbozlik:buyruqbozlik N1 ; ! 
-buyruq:buyruq N1 ; ! 
+! buyruq:buyruq N1 ; ! 
 buyruq:buyruq N1 ; ! "command"
 buyruqomuz:buyruqomuz A1 ; ! 
-buk:buk V-TV ; ! 
-bukik:bukik A2 ; ! 
+buk:buk V-TV ; ! "bend"
+bukik:bukik A2 ; ! "bent"
 bukil:bukil V-IV-REFL ; ! 
 bukilma:bukilma N1 ; ! 
 bukilmas:bukilmas A2 ; ! 
@@ -5105,11 +5105,11 @@ bula:bula V-TV ; !
 bulay:bulay # ; ! 
 bulamiq:bulamiq N1 ; ! 
 bulan:bulan V-TV ; ! 
-bul:bul # ; ! 
+! bul:bul # ; ! 
 bulbul:bulbul N1 ; ! 
-bul:bul V-TV ; ! 
+! bul:bul V-TV ; !  No such verb exists
 bulvar:bulvar N1 ; ! 
-bulgʻa:bulgʻa V-TV ; ! 
+bulgʻa:bulgʻa V-TV ; ! "spoil"
 bulgʻala:bulgʻala V-TV ; ! 
 bulgʻalan:bulgʻalan V-IV-REFL ; ! 
 bulgʻalat:bulgʻalat V-TV-CAUS ; ! 
@@ -5128,12 +5128,12 @@ buldozer:buldozer N1 ; !
 buldozerchi:buldozerchi N1 ; ! 
 buldurgun:buldurgun N1 ; ! 
 bulduriq:bulduriq N1 ; ! 
-buloq:buloq N1 ; ! 
+! buloq:buloq N1 ; ! 
 buloq:buloq N1 ; ! "spring"
 buloqi:buloqi N1 ; ! 
 bulon:bulon N1 ; ! 
 bultur:bultur ADV-ATTR ; ! 
-bulut:bulut N1 ; ! 
+bulut:bulut N1 ; ! "cloud"
 bulutlan:bulutlan V-IV ; ! 
 bulutli:bulutli A2 ; ! 
 bulutlilik:bulutlilik N1 ; ! 
@@ -5157,7 +5157,7 @@ bunyod:bunyod N1 ; !
 bunyod:bunyod N1 ; ! "creation"
 bunyodkor:bunyodkor A2 ; ! 
 bunyodkorlik:bunyodkorlik N1 ; ! 
-bunker:bunker N1 ; ! 
+bunker:bunker N1 ; ! "bunker"
 bunt:bunt N1 ; ! 
 buntla:buntla V-TV ; ! 
 bunchalik:bunchalik # ; ! 
@@ -5178,7 +5178,7 @@ burganzor:burganzor N1 ; !
 burgu:burgu N1 ; ! 
 burgut:burgut N1 ; ! 
 burda%-burda:burda%-burda ADV ; ! 
-burda:burda N1 ; ! 
+burda:burda N1 ; ! "piece"
 burdala:burdala V-TV ; ! 
 burdalan:burdalan V-TV ; ! 
 burda%-surda:burda%-surda ADV ; ! 
@@ -5234,7 +5234,7 @@ buruqtir:buruqtir V-TV-CAUS ; !
 burul:burul A2 ; ! 
 burunaki:burunaki N1 ; ! 
 burun:burun ADV-ATTR ; ! 
-burun:burun N1 ; ! 
+! burun:burun N1 ; ! 
 burun:burun N1 ; ! "nose, protuberance"
 burun:burun POST-NOM ; ! ""
 burungiday:burungiday ADV ; ! 
@@ -5254,7 +5254,7 @@ buryat:buryat N1-NAT ; !
 bus%-butun:bus%-butun A1 ; ! 
 busiz:busiz # ; ! 
 buta:buta V-TV ; ! 
-buta:buta N1 ; ! 
+! buta:buta N1 ; ! 
 buta:buta N1 ; ! "bush, shrub"
 butazor:butazor N1 ; ! 
 butazor:butazor N1 ; ! "bushy place" 
