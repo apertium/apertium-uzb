@@ -22076,9 +22076,9 @@ pastlash:pastlash V-IV ; ! 0.9485584043745687
 pastlik:pastlik N1 ; ! 0.9999999984073387
 pastnazarlik:pastnazarlik N1 ; ! 0.9999999999999655
 pastnazar:pastnazar N1 ; ! 0.9988018719580621
-past:past A1 ; !
+past:past A1 ; ! "low"
 past:past ADV2 ; ! "low"               
-past:past N1 ; ! 0.9999999998990846
+! past:past N1 ; ! 0.9999999998990846
 past:past N1 ; ! "low"
 patak:patak A2 ; ! 0.9821332616960232
 patarat:patarat N1 ; ! 0.9810244719775632
@@ -29783,8 +29783,8 @@ uzish:uzish V-IV-COOP ; ! 0.9882214979557761
 uzlatnishin:uzlatnishin N1 ; ! 0.9999999049696696
 uzlat:uzlat N1 ; ! 0.99999999790778
 uzluksizlik:uzluksizlik N1 ; ! 0.9999999999997685
-uzluksiz:uzluksiz A1 ; ! 0.9999999999722224
-uzluksiz:uzluksiz ADV2 ; ! "ceaselessly"             
+uzluksiz:uzluksiz A1 ; ! "ceaseless"
+! uzluksiz:uzluksiz ADV2 ; ! "ceaselessly" ! Covered by <adj><advl> reading?
 uzluk:uzluk V-IV ; ! 0.9998689416537729
 uzmagul:uzmagul N1 ; ! 0.9999999931355781
 uzmasi:uzmasi N1 ; ! 0.9640706115820467
@@ -29895,7 +29895,7 @@ uylantir:uylantir V-TV-CAUS ; ! 0.9999999991866432
 uylan:uylan V-IV ; ! 0.994916563843506
 uyli%-joyli:uyli%-joyli A2 ; ! 0.9999999727229999
 uyli:uyli A2 ; ! 0.9999999992270439
-uyluksiz:uyluksiz ADV1 ; !
+! uyluksiz:uyluksiz ADV1 ; !
 uyma%-juimali:uyma%-juimali A2 ; ! 0.9999925515549074
 uymalanish:uymalanish V-IV-COOP ; ! 0.9799173192284028
 uymalash:uymalash V-IV ; ! 0.9999982408008955
@@ -32969,8 +32969,8 @@ hurpay:hurpay V-IV ; ! 0.9999995068567582
 hurpak:hurpak A2 ; ! 0.9699471466872827
 hurriyatparvar:hurriyatparvar N1 ; ! 0.9999777988680083
 hurriyat:hurriyat N1 ; ! 0.9999994548555657
-hur:hur N1 ; ! 0.994450795224158
-hur:hur N1 ; ! 0.999999993217916
+hur:hur A1 ; ! "free"
+! hur:hur N1 ; ! 0.999999993217916
 husayin:husayin N1 ; ! 0.999999974839003
 husnbuzar:husnbuzar N1 ; ! 0.9999999936908691
 husndor:husndor A2 ; ! 0.9284254816625636
@@ -35928,7 +35928,7 @@ erkatoy:erkatoy N1 ; ! 0.9999965658440407
 erka:erka N1 ; ! 0.9995437488829819
 erkinlik:erkinlik N1 ; ! 0.999999999995661
 erkin:erkin A1 ; ! "free"
-erkin:erkin ADV ; ! "freely"
+! erkin:erkin ADV ; ! "freely" This is covered by <adj><advl> reading.
 erkin:erkin A2 ; ! 0.9997964343781003
 erklik:erklik N1 ; ! 0.9999992404880176
 erkli:erkli A2 ; ! 0.9972830659397733
