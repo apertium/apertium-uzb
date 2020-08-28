@@ -63055,5 +63055,76 @@ World:World  NP-AL ; ! "" ! El++
 www:www  NP-AL ; ! "" ! El++
 Zabur:Zabur NP-AL ; !
 Zanjirli:Zanjirli  NP-AL ; ! "" ! El++
+ATO:ATO  NP-ORG ; ! "" ! El++
+ATR:ATR  NP-ORG ; ! "" ! El++
+B92:B92 NP-ORG ; ! ""
+BBC:BBC  NP-ORG ; ! "" ! El++
+Belediyespor:Belediyespor  NP-ORG ; ! "" ! El++
+Boeing:Boeing  NP-ORG ; ! "" ! El++
+BSE:BSE  NP-ORG ; ! "" ! El++
+BTR:BTR  NP-ORG ; ! "" ! El++
+CEFTA:CEFTA NP-ORG ; ! ""
+Charlie% Hebdo:Charlie% Hebdo  NP-ORG ; ! "" ! El++
+Chernomorneftegaz:Chernomorneftegaz  NP-ORG ; ! "" ! El++
+EUCOM:EUCOM NP-ORG ; ! ""
+EUobserver:EUobserver NP-ORG ; ! ""
+EUpolitix:EUpolitix NP-ORG ; ! ""
+EurActiv:EurActiv NP-ORG ; ! ""
+Eurovision:Eurovision NP-ORG ; ! ""
+Facebook:Facebook  NP-ORG ; ! "" ! El++
+Formula% 1:Formula% 1  NP-ORG ; ! "" ! El++
+FSB:FSB  NP-ORG ; ! "" ! El++
+G17:G17 NP-ORG ; ! ""
+G17% Plus:G17% Plus NP-ORG ; ! ""
+Gazprom:Gazprom  NP-ORG ; ! "" ! El++
+GERB:GERB NP-ORG ; ! ""
+Golos:Golos  NP-ORG ; ! "" ! El++
+ICAO:ICAO  NP-ORG ; ! "" ! El++
+Interfaks:Interfaks  NP-ORG ; ! "" ! El++
+iOS:iOS  NP-ORG ; ! "" ! El++
+ISO:ISO  NP-ORG ; ! "" ! El++
+iTunes:iTunes  NP-ORG ; ! "" ! El++
+Kazakhmys:Kazakhmys  NP-ORG ; ! "" ! El++
+KGB:KGB  NP-ORG ; ! "" ! El++
+Krimenergo:Krimenergo  NP-ORG ; ! "" ! El++
+Kriminform:Kriminform  NP-ORG ; ! "" ! El++
+KrimSOS:KrimSOS  NP-ORG ; ! "" ! El++
+Le:Le NP-ORG ; !
+Liga:Liga  NP-ORG ; ! "" ! El++
+Liga:Liga  NP-ORG ; ! "" ! El++
+Linuks:Linuks  NP-ORG ; ! "" ! El++
+Marakana:Marakana  NP-ORG ; ! "" ! El++
+MTS:MTS  NP-ORG ; ! "" ! El++
+Naftogaz:Naftogaz  NP-ORG ; ! "" ! El++
+NGC:NGC NP-ORG ; ! ""
+NTV:NTV  NP-ORG ; ! "" ! El++
+OSCE:OSCE  NP-ORG ; ! "" ! El++
+OʻzR:OʻzR NP-ORG ; !
+Premier:Premier  NP-ORG ; ! "" ! El++
+PrivatBank:PrivatBank  NP-ORG ; ! "" ! El++
+Qurultoy:Qurultoy  NP-ORG ; ! "" ! El++
+Radio% Foniki:Radio% Foniki NP-ORG ; ! ""
+Records:Records  NP-ORG ; ! "" ! El++
+Red:Red  NP-ORG ; ! "" ! El++
+Roskomnadzor:Roskomnadzor  NP-ORG ; ! "" ! El++
+Rospotrebnadzor:Rospotrebnadzor  NP-ORG ; ! "" ! El++
+Rosselhoznadzor:Rosselhoznadzor  NP-ORG ; ! "" ! El++
+Rossiya% segodnya:Rossiya% segodnya  NP-ORG ; ! "" ! El++
+Simferopol:Simferopol  NP-TOP ; ! "" ! El++
+Spravedlivaya% Rossiya:Spravedlivaya% Rossiya  NP-ORG ; ! "" ! El++
+SSC:SSC  NP-ORG ; ! "" ! El++
+Svoboda:Svoboda  NP-ORG ; ! "" ! El++
+The% New% Press:The% New% Press NP-ORG ; ! ""
+TSK:TSK  NP-ORG ; ! "" ! El++
+Twitter:Twitter  NP-ORG ; ! "" ! El++
+Ukrenergo:Ukrenergo  NP-ORG ; ! "" ! El++
+Ukrinform:Ukrinform  NP-ORG ; ! "" ! El++
+Ukrtelekom:Ukrtelekom  NP-ORG ; ! "" ! El++
+UNESKO:UNESKO  NP-ORG ; ! "" ! El++
+Vikipediya:Vikipediya  NP-ORG ; ! "" ! El++
+Vikipediya:Vikipediya  NP-ORG ; ! "" ! El++
+Yedinaya% Rossiya:Yedinaya% Rossiya  NP-ORG ; ! "" ! El++
+YouTube:YouTube  NP-ORG ; ! "" ! El++
+Yunayted:Yunayted  NP-ORG ; ! "" ! El++
 
 
