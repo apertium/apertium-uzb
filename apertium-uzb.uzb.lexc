@@ -4684,7 +4684,6 @@ boytevat:boytevat A2 ; !
 boy%-feodallarcha:boy%-feodallarcha ADV ; ! 
 boycha:boycha N1 ; ! 
 boychechaq:boychechaq N1 ; ! 
-Boychibor:Boychibor NP-AL ; ! 
 bok:bok N1 ; ! 
 boks:boks N1 ; ! 
 boksit:boksit N1 ; ! 
@@ -19117,7 +19116,6 @@ na’matak:na’matak N1 ; ! 0.9999999957470224
 na’rador:na’rador A2 ; ! 0.9999995502340606
 na’ra:na’ra N1 ; ! 0.9999999998729914
 nayaki:nayaki N1 ; ! 0.9999380129445556
-NGC:NGC NP-AL ; ! ""
 ng:ng MIST ; ! ""
 karyera:karyera N1 ; ! "career"
 nevara:nevara N1 ; ! 0.9999999546800732
@@ -37232,11 +37230,9 @@ Yuventus:Yuventus  NP-ORG ; ! "" ! El++
 
 AFP:AFP NP-ORG ; ! ""
 AGIT:AGIT NP-ORG ; ! ""
-AIDS:AIDS NP-AL ; ! ""  @?@
 AKI:AKI NP-ORG ; ! "" 
 AKP:AKP  NP-ORG ; ! ""
 AP:AP  NP-ORG ; ! ""
-AP:AP NP-AL ; ! ""
 AP:AP NP-ORG ; ! ""
 AQSh:AQSh NP-TOP ; ! "United States of America"
 Aargau:Aargau NP-TOP ; ! ""
@@ -37315,7 +37311,6 @@ Ankaragücü-Ankaragücü NP-ORG ; ! ""
 Ankaraspor:Ankaraspor NP-ORG ; ! ""
 Anqara:Anqara NP-TOP ; ! ""
 Antalyaspor:Antalyaspor NP-ORG ; ! ""
-Antanta:Antanta NP-AL ; ! ""
 Ante:Ante NP-ANT-M ; ! ""
 Anton:Anton NP-ANT-M ; ! ""
 Antonio:Antonio NP-ANT-M ; ! ""
@@ -37361,7 +37356,6 @@ Malika:Malika NP-ANT-F ; ! ""
 Ayhan:Ayhan NP-ANT-M ; ! ""
 Azamat:Azamat NP-ANT-M ; ! ""
 Aziz:Aziz NP-ANT-M ; ! ""
-B92:B92 NP-AL ; ! ""
 BBC:BBC NP-ORG ; ! ""
 BDP:BDP NP-ORG ; ! ""
 BHF:BHF NP-ORG ; ! ""
@@ -37456,7 +37450,6 @@ Buxoriy:Buxoriy NP-TOP ; ! ""
 Buxoro:Buxoro NP-TOP ; ! "Bukhara"
 Buxoro:Buxoro NP-TOP ; ! "Buxoro (province of Uzbekistan)
 CANDU:CANDU NP-ORG ; ! ""
-CEFTA:CEFTA NP-AL ; ! ""
 CHP:CHP NP-ORG ; ! ""
 CNN:CNN  NP-ORG ; ! ""
 Caen:Caen NP-TOP ; ! "Caen"
@@ -37484,7 +37477,6 @@ Cedomir:Cedomir NP-ANT-M ; ! ""
 Celta% Vigo:Celta% Vigo NP-ORG ; ! ""
 Celta% de% Vigo:Celta% de% Vigo NP-ORG ; ! ""
 Cemil:Cemil NP-ANT-M ; ! ""
-Centre:Centre NP-AL ; ! ""
 Centre:Centre NP-TOP ; ! ""
 Chapelle:Chapelle NP-TOP ; ! ""
 Charles:Charles NP-ANT-M ; ! ""
@@ -37497,7 +37489,6 @@ Chexiya:Chexiya NP-TOP ; ! ""
 Chieti:Chieti NP-TOP ; ! ""
 Chig:Chig NP-TOP ; ! ""
 Chingizxon:Chingizxon NP-TOP ; ! ""
-Choʻpon:Choʻpon NP-AL ; !
 Chris:Chris NP-ANT-M ; ! ""
 Christo:Christo NP-ANT-M ; ! ""
 Chuy:Chuy NP-TOP ; ! "Chuy"
@@ -37514,11 +37505,9 @@ Columbia:Columbia NP-TOP ; ! ""
 Como:Como NP-TOP ; ! ʻʻ
 Comté:Comté NP-TOP ; 
 Connecticut:Connecticut NP-TOP ; ! ""
-Corinthians:Corinthians NP-AL ; !
 Corneliü:Corneliü NP-ANT-M ; ! ""
 Corrèze:Corrèze NP-TOP ; ! ""
 Cosenza:Cosenza NP-TOP ; ! ""
-County:County NP-AL ; ! ""
 Creek:Creek NP-TOP ; ! ""
 Cremona:Cremona NP-TOP ; ! ""
 Creuse:Creuse NP-TOP ; ! ʻʻ
@@ -37567,7 +37556,6 @@ Diogen:Diogen NP-ANT-M ; !
 Dirk:Dirk NP-ANT-M ; ! ""
 Diyarbakırspor:Diyarbakırspor NP-ORG ; ! ""
 Dmitry:Dmitry NP-ANT-M ; ! ""
-Dnevnik:Dnevnik NP-AL ; ! ""
 Dominiqüe:Dominiqüe NP-ANT-M ; ! ""
 Donald:Donald NP-ANT-M ; ! ""
 Dordogne:Dordogne NP-TOP ; ! "Dordogne"
@@ -37583,11 +37571,8 @@ Düsko:Düsko NP-ANT-M ; ! ""
 EBRD:EBRD NP-ORG ; ! ""
 ECB:ECB  NP-ORG ; ! ""
 EIB:EIB  NP-ORG ; ! ""
-EUCOM:EUCOM NP-AL ; ! ""
 EUFOR:EUFOR NP-ORG ; ! ""
 EULEX:EULEX NP-ORG ; ! ""
-EUobserver:EUobserver NP-AL ; ! ""
-EUpolitix:EUpolitix NP-AL ; ! ""
 East:East NP-TOP ; ! ʻʻ
 Edouard:Edouard NP-ANT-M ; ! ""
 Elazığspor:Elazığspor NP-ORG ; ! ""
@@ -37607,11 +37592,8 @@ Esad:Esad NP-ANT-M ; ! ""
 Eskişehirspor:Eskişehirspor NP-ORG ; ! ""
 Espanyol:Espanyol NP-ORG  ; ! ""
 Euobserver:Euobserver NP-ORG ; ! ""
-EurActiv:EurActiv NP-AL ; ! ""
 Eure:Eure NP-TOP ; !
 Euronews:Euronews NP-ORG ; ! ""
-Europe:Europe NP-AL ; ! ""
-Eurovision:Eurovision NP-AL ; ! ""
 Evangelos:Evangelos NP-ANT-M ; ! ""
 Everton:Everton NP-ORG ; ! ""
 FT:FT NP-ORG ; ! 
@@ -37632,7 +37614,6 @@ Filip:Filip NP-ANT-M ; ! ""
 Financial% Times:Financial% Times NP-ORG ; ! ""
 Finistère:Finistère NP-TOP ; ! ""
 Fiorentina:Fiorentina NP-ORG ; ! ""
-Fisih:Fisih NP-AL ; !
 Florida:Florida NP-TOP ; ! ""
 Florin:Florin NP-ANT-M ; ! ""
 Fort:Fort NP-TOP ; ! ""
@@ -37648,10 +37629,7 @@ Franz:Franz NP-ANT-M ; ! ""
 Friuli:Friuli NP-TOP ; ! ""
 Frosinone:Frosinone NP-TOP ; ! ""
 Fulham:Fulham NP-ORG ; ! ""
-G17% Plus:G17% Plus NP-AL ; ! ""
-G17:G17 NP-AL ; ! ""
 GDA:GDA NP-ORG ; ! ""
-GERB:GERB NP-AL ; ! ""
 GSYİH:GSYİH NP-ORG ; ! 
 GSYİH:GSYİH NP-ORG ; ! ""
 Galatasaray% SK:Galatasaray% SK NP-ORG ; ! ""
@@ -37691,7 +37669,6 @@ Güenter:Güenter NP-ANT-M ; ! ""
 Gʻulom:Gʻulom NP-ANT-M ; ! ""
 HDZ:HDZ NP-ORG ; ! ""
 HINA:HINA NP-ORG ; ! ""
-HIV:HIV NP-AL ; ! "" @?@
 HSBC:HSBC NP-ORG ; ! ""
 Hacettepe:Hacettepe NP-ORG ; ! ""
 Hamid:Hamid NP-ANT-M ; ! ""
@@ -37745,9 +37722,7 @@ Imperia:Imperia NP-TOP ; ! ""
 Indiana:Indiana NP-TOP ; ! ""
 Indoneziya:Indoneziya NP-TOP ; ! ""
 Indre:Indre NP-TOP ; !
-Injil:Injil NP-AL ; !
 Inter:Inter NP-ORG ; ! ""
-International:International NP-AL ; ! ""
 Internazionale:Internazionale NP-ORG ; ! ""
 Iowa:Iowa NP-TOP ; ! ""
 Irlandiya:Irlandiya NP-TOP ; ! ""
@@ -37794,7 +37769,6 @@ Josip:Josip NP-ANT-M ; ! ""
 Jovan:Jovan NP-ANT-M ; ! ""
 Jura:Jura NP-TOP ; !
 Juventus:Juventus NP-ORG ; ! ""
-KDV:KDV NP-AL ; ! ""
 KFOR:KFOR%{b%} NP-ORG ; ! ""
 KKTC:KKTC NP-ORG ; ! ""
 KLA:KLA NP-ORG ; ! ""
@@ -37848,7 +37822,6 @@ La% Coruña:La% Coruna NP-TOP ; ! ""
 La% Korunya:La% Korunya NP-TOP ; ! ""
 Kosova:Kosova NP-TOP ; ! ""
 Serbiya:Serbiya  NP-TOP ; ! "Serbia"
-La:La NP-AL ; !
 Lake:Lake NP-TOP ; ! ""
 Lamberto:Lamberto NP-ANT-M ; ! ""
 Land:Land NP-COG-MF ; !
@@ -37858,7 +37831,6 @@ Lauenburg:Lauenburg NP-TOP ; ! ""
 Layli:Layli NP-ANT-F ; ! ""
 Lazar:Lazar NP-ANT-M ; ! ""
 Lazio:Lazio NP-ORG ; ! ""
-Le:Le NP-AL ; !
 Leavenworth:Leavenworth NP-TOP ; ! ""
 Lecce:Lecce NP-ORG ; ! ""
 Lecco:Lecco NP-TOP ; ! ""
@@ -37898,10 +37870,8 @@ Lô% Saint:Lô% Saint NP-TOP ; ! ""
 LôSaint:LôSaint NP-TOP ; ! ""
 Lüan:Lüan NP-ANT-M ; ! ""
 MIA:MIA NP-ORG ; ! ""
-MPA:MPA NP-AL ; ! ""
 MSK:MSK NP-ORG ; ! ""
 MSNBC:MSNBC NP-ORG ; ! ""
-Mac:Mac NP-AL ; !
 Madrid:Madrid NP-TOP ; ! ""
 Mahmud:Mahmud NP-ANT-M ; ! ""
 Majnun:Majnun NP-ANT-M ; ! ""
@@ -38001,7 +37971,6 @@ Mühammed:Mühammed NP-ANT-M ; ! ""
 Müstafa:Müstafa NP-ANT-M ; ! ""
 NATO:NATO NP-ORG ; ! ""
 NIS:NIS  NP-ORG ; ! "Serbia industry petroil blabla"
-Nabucco:Nabucco NP-AL ; ! ""
 Nahotki:Nahotki NP-ANT-M ; ! ""
 Namangan:Namangan NP-TOP ; ! "Namangan"
 Nancy:Nancy NP-TOP ; ! "Nancy"
@@ -38015,10 +37984,8 @@ Nenad:Nenad NP-ANT-M ; ! ""
 Neufchâteau:Neufchâteau NP-TOP ; ! ""
 New% Jersey:New% Jersey NP-TOP ; ! ""
 New% York:New% York NP-TOP ; ! ""
-New:New NP-AL ; !
 Newcastle% United:Newcastle% United NP-ORG ; ! ""
 Newcastle:Newcastle NP-ORG ; ! ""
-News NP-AL ; ! "" @@@
 Nicholas:Nicholas NP-ANT-M ; ! ""
 Nicolae:Nicolae NP-ANT-M ; ! ""
 Niderlandiya:Niderlandiya NP-TOP ; ! "Netherlands"
@@ -38028,7 +37995,6 @@ Nikolai:Nikolai NP-ANT-M ; ! ""
 Nikolay:Nikolay NP-ANT-M ; ! ""
 Nikos:Nikos NP-ANT-M ; ! ""
 Nièvre:Nièvre NP-TOP ; ! ""
-Nobel:Nobel NP-AL ; ! ""
 Nobel:Nobel NP-COG-MF ; ! ""
 Noel:Noel NP-ANT-M ; ! ""
 Norin:Norin NP-ANT-M ; ! ""
@@ -38043,7 +38009,6 @@ Novqat:Novqat NP-TOP ; ! ""
 Nukus:Nukus NP-TOP ; ! ""
 Nurota:Nurota NP-TOP ; ! ʻʻ
 Nyu% York:Nyu% York NP-TOP ; ! ""
-Nyu:Nyu NP-AL ; !
 Nüri:Nüri NP-ANT-M ; ! ""
 OECD:OECD NP-ORG ; ! ""
 Octeville:Octeville NP-TOP ; ! ""
@@ -38072,7 +38037,6 @@ Otto:Otto NP-ANT-M ; ! ""
 Ozarbayjon:Ozarbayjon NP-TOP ; ! ""
 Ozarbayjon:Ozarbayjon NP-TOP ; ! "Azerbaijan"
 Oʻsh:Oʻsh NP-TOP ; !
-OʻzR:OʻzR NP-AL ; !
 Oʻzbekistan:Oʻzbekistan NP-TOP ; ! ""
 Oʻzbekiston:Oʻzbekiston NP-TOP ; ! ""
 PACE:PACE NP-ORG ; ! "Parliamentary Assembly of the Council of Europe"
@@ -38146,7 +38110,6 @@ RFE:RFE NP-ORG ; ! "Radio Free Europe"
 RL:RL NP-ORG ; ! "Radio Liberty" ! FIXME: Should be joined up
 Racan:Racan NP-ANT-M ; ! ""
 Rade:Rade NP-ANT-M ; ! ""
-Radio% Foniki:Radio% Foniki NP-AL ; ! ""
 Radislav:Radislav NP-ANT-M ; ! ""
 Radivoje:Radivoje NP-ANT-M ; ! ""
 Radomir:Radomir NP-ANT-M ; ! ""
@@ -38172,7 +38135,6 @@ Reggio:Reggio NP-TOP ; ! ""
 Reinhard:Reinhard NP-ANT-M ; ! ""
 Rendsburg:Rendsburg NP-TOP ; ! ""
 Rene:Rene NP-ANT-M ; ! ""
-Reuters:Reuters NP-AL ; ! ""
 Reyhanli:Reyhanli NP-TOP ; ! ""
 Reyn:Reyn NP-TOP ; !
 Rhein:Rhein NP-TOP ; ! ""
@@ -38192,7 +38154,6 @@ Rossiya:Rossiya NP-TOP ; ! ""
 Rumeli:Rumeli NP-TOP ; ! ""
 Ruminiya:Ruminiya NP-TOP ; ! ""
 Rümen:Rümen NP-ANT-M ; ! ""
-SAA:SAA NP-AL ; ! "Stabilisation and Association Agreement"
 SC:SC NP-ORG ; ! ""
 SDA:SDA NP-ORG ; ! ""
 SDP:SDP NP-ORG ; ! ""
@@ -38216,7 +38177,6 @@ Saint% Germain:Saint% Germain NP-TOP ; ! ""
 Saint% Louis:Saint% Louis NP-TOP ; ! ""
 Saint% Étienne:Saint% Étienne NP-TOP ; ! ""
 Saint-…tienne:Saint-…tienne NP-TOP ; ! "Saint-…tienne"
-Saint:Saint NP-AL ; ! ""
 Sainte:Sainte NP-TOP ; !
 Sakariyo:Sakariyo NP-TOP ; ! ""
 Sakaryaspor:Sakaryaspor NP-ORG ; ! ""
@@ -38231,9 +38191,7 @@ Sampdoria:Sampdoria NP-ORG ; ! ""
 Samüel:Samüel NP-ANT-M ; ! ""
 San% Peterburg:San% Peterburg NP-TOP ; ! ""
 San:San NP-TOP ; ! ""
-Sankt:Sankt NP-AL ; !
 Sant:Sant NP-TOP ; ! ""
-Santa:Santa NP-AL ; ! ""
 Sardiniya:Sardiniya NP-TOP ; ! ""
 Sarıyer:Sarıyer NP-ORG ; ! ""
 Saudiya% Arabiston:Saudiya% Arabiston NP-TOP ; ! ""
@@ -38284,7 +38242,6 @@ European% Times:European% Times NP-ORG ; ! "Possible occurance of SETimes"
 Springs:Springs NP-TOP ; ! ""
 Sredoje:Sredoje NP-ANT-M ; ! ""
 Sreten:Sreten NP-ANT-M ; ! ""
-St:St NP-AL ; !
 Stanislav:Stanislav NP-ANT-M ; ! ""
 Stefan:Stefan NP-ANT-M ; ! ""
 Stelyos:Stelyos NP-ANT-M ; ! ""
@@ -38295,7 +38252,6 @@ Stip:Stip NP-ANT-M ; ! ""
 Stipe:Stipe NP-ANT-M ; ! ""
 Stjepan:Stjepan NP-ANT-M ; ! ""
 Stojan:Stojan NP-ANT-M ; ! ""
-Sunbula:Sunbula NP-AL ; !
 Sunderland:Sunderland NP-ORG ; ! ""
 Suriya:Suriya NP-TOP ; ! ʻʻ
 Surxondaryo:Surxondaryo NP-TOP ; ! "Surxondaryo"
@@ -38304,14 +38260,12 @@ Swift:Swift NP-COG-MF ; !
 Südtirol:Südtirol NP-TOP ; ! ""
 Süleyman:Süleyman NP-ANT-M ; ! ""
 TRT:TRT NP-ORG ; ! "TRT"
-TV:TV NP-AL ; ! ""
 Taci:Taci NP-ANT-M ; ! ""
 Taki:Taki NP-ANT-M ; ! ""
 Talas:Talas NP-TOP ; ! "Talas"
 Tanjüg:Tanjüg NP-ANT-M ; ! ""
 Taqdr:Taqdr NP-ANT-M ; ! ""
 Tarragona:Tarragona NP-TOP ; ! ""
-Tavrot:Tavrot NP-AL ; ! ""
 Tavrot:Tavrot NP-ORG ; ! "CORRECT"
 Tehron:Tehron NP-TOP ; ! ""
 Teksas:Teksas NP-TOP ; ! "Texas"
@@ -38324,7 +38278,6 @@ Terry:Terry NP-ANT-M ; ! ""
 Teruel:Teruel NP-TOP ; ! ""
 Texas:Texas NP-TOP ; ! "Texas"
 The% Guardian:The% Guardian NP-ORG ; ! ""
-The% New% Press:The% New% Press NP-AL ; ! ""
 The% Times:The% Times NP-ORG ; ! ""
 The% Wall% Street% Journal:The% Wall% Street% Journal NP-ORG ; ! ""
 Theodhori:Theodhori NP-ANT-M ; ! ""
@@ -38349,7 +38302,6 @@ Traian:Traian NP-ANT-M ; ! ""
 Trentino:Trentino NP-TOP ; ! ""
 Trento:Trento NP-TOP ; ! ""
 Treviso:Treviso NP-TOP ; ! ""
-Tribune:Tribune NP-AL ; ! ""
 Troyka:Troyka NP-ORG ; ! ""
 Turin:Turin NP-TOP ; ! ""
 Turingiya:Turingiya NP-TOP ; ! ""
@@ -38467,7 +38419,6 @@ Yusuf:Yusuf NP-ANT-M ; ! ""
 Yusupov:Yusupov NP-COG-MF ; ! ""
 Yves:Yves NP-ANT-M ; ! ""
 Yüsüf:Yüsüf NP-ANT-M ; ! ""
-Zabur:Zabur NP-AL ; !
 Zamora:Zamora NP-TOP ; ! ""
 Zarafshon:Zarafshon NP-TOP ; ! "Zarafshan"
 Zaragoza:Zaragoza NP-ORG ; ! ""
@@ -38483,17 +38434,8 @@ Zoran:Zoran NP-ANT-M ; ! ""
 Zsolt:Zsolt NP-ANT-M ; ! ""
 Zulqarnayn:Zulqarnayn NP-ANT-M ; ! "dhulkarneyn"
 Zürich:Zürich NP-TOP ; ! ""
-ad:ad NP-AL ; !
-al:al NP-AL ; !
-am:am NP-AL ; !
-bei:bei NP-AL ; !
 chatqol:chatqol NP-TOP ; ! ***************
 departament:departament NP-TOP ; ! ""
-ibn:ibn NP-AL ; !
-la:la NP-AL ; !
-le:le NP-AL ; !
-les:les NP-AL ; !
-lès:lès NP-AL ; !
 Ávila:Ávila NP-TOP ; ! ""
 Çannakale% Dardanelspor:Çannakale% Dardanelspor NP-ORG ; ! ""
 Çaykur% Rizespor:Çaykur% Rizespor NP-ORG ; ! ""
@@ -46244,115 +46186,6 @@ e’lon% qil:e’lon% qil V-TV ; ! "announce"
 media:media N1 ; ! "media"
 ommaviy% axborot% vositalari:ommaviy% axborot% vositalari N1 ; ! "media"
 
-A% Seriyasi:A% Seriyasi  NP-AL ; ! "" ! El++
-Atabetul% Hakayik:Atabetul% Hakayik  NP-AL ; ! "" ! El++
-ATO:ATO  NP-AL ; ! "" ! El++
-ATR:ATR  NP-AL ; ! "" ! El++
-BBC:BBC  NP-AL ; ! "" ! El++
-Belediyespor:Belediyespor  NP-AL ; ! "" ! El++
-Big:Big  NP-AL ; ! "" ! El++
-Boeing:Boeing  NP-AL ; ! "" ! El++
-BSE:BSE  NP-AL ; ! "" ! El++
-BTR:BTR  NP-AL ; ! "" ! El++
-Bulugʻ'ul% Meram:Bulugʻ'ul% Meram  NP-AL ; ! "" ! El++
-Charlie% Hebdo:Charlie% Hebdo  NP-AL ; ! "" ! El++
-Chernomorneftegaz:Chernomorneftegaz  NP-AL ; ! "" ! El++
-Club:Club  NP-AL ; ! "" ! El++
-Cup:Cup  NP-AL ; ! "" ! El++
-Death:Death  NP-AL ; ! "" ! El++
-Dedpul:Dedpul  NP-AL ; ! "" ! El++
-Devoni% Lugʻatit% Turk:Devoni% Lugʻatit% Turk  NP-AL ; ! "" ! El++
-Drakula:Drakula  NP-AL ; ! "" ! El++
-Facebook:Facebook  NP-AL ; ! "" ! El++
-FC:FC  NP-AL ; ! "" ! El++
-FM:FM  NP-AL ; ! "" ! El++
-Formula% 1:Formula% 1  NP-AL ; ! "" ! El++
-Formula%-1:Formula%-1  NP-AL ; ! "" ! El++
-FSB:FSB  NP-AL ; ! "" ! El++
-Futbol:Futbol  NP-AL ; ! "" ! El++
-Gazela:Gazela  NP-AL ; ! "" ! El++
-Gazprom:Gazprom  NP-AL ; ! "" ! El++
-Golos:Golos  NP-AL ; ! "" ! El++
-Grammy:Grammy  NP-AL ; ! "" ! El++
-Group:Group  NP-AL ; ! "" ! El++
-http:http  NP-AL ; ! "" ! El++
-ICAO:ICAO  NP-AL ; ! "" ! El++
-Interfaks:Interfaks  NP-AL ; ! "" ! El++
-Interneyshnl:Interneyshnl  NP-AL ; ! "" ! El++
-iOS:iOS  NP-AL ; ! "" ! El++
-Islander:Islander  NP-AL ; ! "" ! El++
-ISO:ISO  NP-AL ; ! "" ! El++
-iTunes:iTunes  NP-AL ; ! "" ! El++
-Jahon% Chempionati:Jahon% Chempionati  NP-AL ; ! "" ! El++
-Kazakhmys:Kazakhmys  NP-AL ; ! "" ! El++
-KGB:KGB  NP-AL ; ! "" ! El++
-Kirgizmambas:Kirgizmambas  NP-AL ; ! "" ! El++
-Krimenergo:Krimenergo  NP-AL ; ! "" ! El++
-Kriminform:Kriminform  NP-AL ; ! "" ! El++
-KrimSOS:KrimSOS  NP-AL ; ! "" ! El++
-Kutadgʻu% Bilig:Kutadgʻu% Bilig  NP-AL ; ! "" ! El++
-LHC:LHC  NP-AL ; ! "" ! El++
-Liga:Liga  NP-AL ; ! "" ! El++
-Linuks:Linuks  NP-AL ; ! "" ! El++
-Live:Live  NP-AL ; ! "" ! El++
-Marakana:Marakana  NP-AL ; ! "" ! El++
-Mezmurlar:Mezmurlar  NP-AL ; ! "" ! El++
-Mishkatul% Mesabih:Mishkatul% Mesabih  NP-AL ; ! "" ! El++
-MS:MS  NP-AL ; ! "" ! El++
-MSK:MSK  NP-AL ; ! "" ! El++
-MTS:MTS  NP-AL ; ! "" ! El++
-Muhakamatul% Lugʻatayn:Muhakamatul% Lugʻatayn  NP-AL ; ! "" ! El++
-Muhokamatul% Lugʻatayn:Muhokamatul% Lugʻatayn  NP-AL ; ! "" ! El++
-Nabukko:Nabukko  NP-AL ; ! "" ! El++
-Naftogaz:Naftogaz  NP-AL ; ! "" ! El++
-Nevs:Nevs  NP-AL ; ! "" ! El++
-NTV:NTV  NP-AL ; ! "" ! El++
-Ochiq% Rossiya:Ochiq% Rossiya  NP-AL ; ! "" ! El++
-OITS:OITS  NP-AL ; ! "" ! El++
-OIV:OIV  NP-AL ; ! "" ! El++
-OS:OS  NP-AL ; ! "" ! El++
-Oscar:Oscar  NP-AL ; ! "" ! El++
-OSCE:OSCE  NP-AL ; ! "" ! El++
-Otkritaya:Otkritaya  NP-AL ; ! "" ! El++
-PA:PA  NP-AL ; ! "" ! El++
-PACE:PACE  NP-AL ; ! "" ! El++
-PEN:PEN  NP-AL ; ! "" ! El++
-Pirrol:Pirrol  NP-AL ; ! "" ! El++
-Play:Play  NP-AL ; ! "" ! El++
-Premier:Premier  NP-AL ; ! "" ! El++
-PrivatBank:PrivatBank  NP-AL ; ! "" ! El++
-Qurultoy:Qurultoy  NP-AL ; ! "" ! El++
-Rav:Rav  NP-AL ; ! "" ! El++
-Records:Records  NP-AL ; ! "" ! El++
-Red:Red  NP-AL ; ! "" ! El++
-River:River  NP-AL ; ! "" ! El++
-Roskomnadzor:Roskomnadzor  NP-AL ; ! "" ! El++
-Rospotrebnadzor:Rospotrebnadzor  NP-AL ; ! "" ! El++
-Rosselhoznadzor:Rosselhoznadzor  NP-AL ; ! "" ! El++
-Rossiya% segodnya:Rossiya% segodnya  NP-AL ; ! "" ! El++
-Saxixul% Buxoriy:Saxixul% Buxoriy  NP-AL ; ! "" ! El++
-Servet%-i% Funun:Servet%-i% Funun  NP-AL ; ! "" ! El++
-Simferopol:Simferopol  NP-AL ; ! "" ! El++
-SOS:SOS  NP-AL ; ! "" ! El++
-Spravedlivaya% Rossiya:Spravedlivaya% Rossiya  NP-AL ; ! "" ! El++
-SSC:SSC  NP-AL ; ! "" ! El++
-Super% G4:Super% G4  NP-AL ; ! "" ! El++
-Svoboda:Svoboda  NP-AL ; ! "" ! El++
-Tarjimon:Tarjimon  NP-AL ; ! "" ! El++
-Tribuna:Tribuna  NP-AL ; ! "" ! El++
-TSK:TSK  NP-AL ; ! "" ! El++
-Twitter:Twitter  NP-AL ; ! "" ! El++
-Ukrenergo:Ukrenergo  NP-AL ; ! "" ! El++
-Ukrinform:Ukrinform  NP-AL ; ! "" ! El++
-Ukrtelekom:Ukrtelekom  NP-AL ; ! "" ! El++
-UNESKO:UNESKO  NP-AL ; ! "" ! El++
-Vikipediya:Vikipediya  NP-AL ; ! "" ! El++
-World:World  NP-AL ; ! "" ! El++
-www:www  NP-AL ; ! "" ! El++
-Yedinaya% Rossiya:Yedinaya% Rossiya  NP-AL ; ! "" ! El++
-YouTube:YouTube  NP-AL ; ! "" ! El++
-Yunayted:Yunayted  NP-AL ; ! "" ! El++
-Zanjirli:Zanjirli  NP-AL ; ! "" ! El++
 
 ! Uzbek names book entries:
 
