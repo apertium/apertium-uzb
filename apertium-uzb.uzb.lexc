@@ -2215,7 +2215,7 @@ anʼanav:anʼanav N1 ; !
 anʼanaviy:anʼanaviy A2 ; ! 
 ana:ana ADV1 ; ! "there"
 ana:ana DET-DEM ; ! 
-Anado’lu:Anado’lu NP-TOP ; !
+Anadoʻlu:Anadoʻlu NP-TOP ; !
 anavi:anavi PRON-DEM ; ! 
 analiz:analiz N1 ; ! 
 analiz:analiz N1 ; ! "test(medical)"
@@ -3387,7 +3387,7 @@ bardoshli:bardoshli A2 ; !
 bardoshsiz:bardoshsiz A1 ; ! 
 barzangi:barzangi N1 ; ! 
 bari:bari PRON-COLL ; ! 
-baribog’:baribog’ N1 ; ! 
+baribogʻ:baribogʻ N1 ; ! 
 bariy:bariy N1 ; ! 
 barikaram:barikaram A2 ; ! 
 barimta:barimta N1 ; ! 
@@ -17111,7 +17111,7 @@ maston:maston N1 ; ! 0.9990346603005866
 mastcha:mastcha ADV ; ! 0.9766663614822897
 ma’suma:ma’suma N1 ; ! 0.9999993506366122
 ma’suma:ma’suma ADV ; ! "innocent/ly"
-bo’lganidan:bo’lganidan N1 ; ! 0.9999999856945465
+boʻlganidan:boʻlganidan N1 ; ! 0.9999999856945465
 ma’sumlik:ma’sumlik N1 ; ! 0.9999999999957694
 ma’sum:ma’sum A1 ; ! 0.90336336178486
 ma’sumona:ma’sumona A1 ; ! 0.9999997670492113
@@ -61532,7 +61532,7 @@ Shiragul:Shiragul NP-ANT-F ; ! From Uzbek names book.
 Shiraxon:Shiraxon NP-ANT-F ; ! From Uzbek names book.
 Shira:Shira NP-ANT-F ; ! From Uzbek names book.
 Sib’atulla:Sib’atulla NP-ANT-M ; ! From Uzbek names book.
-Sibg’atulla:Sibg’atulla NP-ANT-M ; ! From Uzbek names book.
+Sibgʻatulla:Sibgʻatulla NP-ANT-M ; ! From Uzbek names book.
 Somiya:Somiya NP-ANT-F ; ! From Uzbek names book.
 Samiya:Samiya NP-ANT-F ; ! From Uzbek names book.
 Ulbibi:Ulbibi NP-ANT-F ; ! From Uzbek names book.
@@ -61617,7 +61617,7 @@ Muhiddina:Muhiddina NP-ANT-F ; ! From Uzbek names book.
 Muyassar:Muyassar NP-ANT-F ; ! From Uzbek names book.
 Nasim:Nasim NP-ANT-M ; ! From Uzbek names book.
 Nazar:Nazar NP-ANT-M ; ! From Uzbek names book.
-No’mon:No’mon NP-ANT-M ; ! From Uzbek names book.
+Noʻmon:Noʻmon NP-ANT-M ; ! From Uzbek names book.
 Noryigit:Noryigit NP-ANT-M ; ! From Uzbek names book.
 Oʻgʻilboʻldi:Oʻgʻilboʻldi NP-ANT-F ; ! From Uzbek names book.
 Oʻgʻilboʻlsin:Oʻgʻilboʻlsin NP-ANT-F ; ! From Uzbek names book.
