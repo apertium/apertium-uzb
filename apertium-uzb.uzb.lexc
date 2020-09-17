@@ -1749,7 +1749,7 @@ azonlab:azonlab ADV ; !
 azonchi:azonchi N1 ; ! 
 azop:azop N1 ; !
 azot:azot N1→V ; ! 
-azot% ko%’tar:azot% ko%’tar V-TV ; ! 
+azot% ko%ʼtar:azot% ko%ʼtar V-TV ; ! 
 azot:azot N1 ; ! "nitrogen"
 azotla:azotla V-TV ; ! 
 azotli:azotli A2 ; ! 
@@ -3566,7 +3566,7 @@ bedorxob:bedorxob A2 ; !
 bedorxoblik:bedorxoblik N1 ; ! 
 beega:beega A1 ; ! 
 beet:beet N1 ; !
-bee’tibor:bee’tibor A1 ; ! 
+beeʼtibor:beeʼtibor A1 ; ! 
 beja:beja V-TV ; ! 
 bejal:bejal V-TV ; ! 
 bejama:bejama A2 ; ! 
@@ -3744,11 +3744,11 @@ bemaslak:bemaslak A1 ; !
 bemaslahat:bemaslahat A1 ; ! 
 bemaxal:bemaxal A1 ; ! 
 bemashaqqat:bemashaqqat A1 ; ! 
-bema’ni:bema’ni A2 ; ! 
-bema’nigarchilik:bema’nigarchilik N1 ; ! 
-bema’nilik:bema’nilik N1 ; ! 
-bema’no:bema’no A1 ; ! 
-bema’noliq:bema’noliq N1 ; ! 
+bemaʼni:bemaʼni A2 ; ! 
+bemaʼnigarchilik:bemaʼnigarchilik N1 ; ! 
+bemaʼnilik:bemaʼnilik N1 ; ! 
+bemaʼno:bemaʼno A1 ; ! 
+bemaʼnoliq:bemaʼnoliq N1 ; ! 
 bemehnat:bemehnat A1 ; ! 
 bemehr:bemehr A1 ; ! 
 beminnat:beminnat A1 ; ! 
@@ -3857,12 +3857,12 @@ betaraflik:betaraflik N1 ; !
 betarafona:betarafona ADV ; ! 
 betartib:betartib A1 ; ! 
 betartiblik:betartiblik N1 ; ! 
-beta’sir:beta’sir A1 ; ! 
-beta’sirlik:beta’sirlik N1 ; ! 
+betaʼsir:betaʼsir A1 ; ! 
+betaʼsirlik:betaʼsirlik N1 ; ! 
 betahliqa:betahliqa A1 ; ! 
 betashvish:betashvish A1 ; ! 
-beta’lim:beta’lim A1 ; ! 
-beta’m:beta’m A1 ; ! 
+betaʼlim:betaʼlim A1 ; ! 
+betaʼm:betaʼm A1 ; ! 
 bet:bet N1 ; ! 
 betgachopar:betgachopar A1 ; ! 
 betergov:betergov A1 ; ! 
@@ -4020,8 +4020,8 @@ bidir%-bidir:bidir%-bidir IDEO ; !
 bidirla:bidirla V-IV ; ! 
 bidirlash:bidirlash V-IV-COOP ; ! 
 bidon:bidon N1 ; ! 
-bid’at:bid’at N1 ; ! 
-bid’atchi:bid’atchi N1 ; ! 
+bidʼat:bidʼat N1 ; ! 
+bidʼatchi:bidʼatchi N1 ; ! 
 biyebon:biyebon N1 ; ! 
 biyeboniy:biyeboniy A2 ; ! 
 bij%-bij:bij%-bij IDEO ; ! 
@@ -4139,7 +4139,7 @@ bilonixoya:bilonixoya A1 ; !
 biluvchan:biluvchan A2 ; ! 
 biluvchi:biluvchi A2 ; ! 
 bilchilla:bilchilla V-IV ; ! 
-bil’aks:bil’aks ADV ; ! 
+bilʼaks:bilʼaks ADV ; ! 
 bilyard:bilyard N1 ; ! 
 bimetall:bimetall N1 ; ! 
 binar:binar A2 ; ! 
@@ -5097,7 +5097,7 @@ buqlogʻliq:buqlogʻliq A2 ; !
 buqoq:buqoq N1 ; ! 
 buqtir:buqtir V-TV-CAUS ; ! 
 buqtirma:buqtirma A2 ; ! 
-buq’a:buq’a N1 ; ! 
+buqʼa:buqʼa N1 ; ! 
 bula:bula VERB-TV ; ! "to dip in"
 bula:bula V-TV ; ! 
 bulay:bulay # ; ! 
@@ -5433,7 +5433,7 @@ valentlik:valentlik N1 ; !
 valiaxd:valiaxd N1 ; ! 
 vali:vali A2 ; ! 
 valik:valik N1 ; ! 
-valine’mat:valine’mat A2 ; ! 
+valineʼmat:valineʼmat A2 ; ! 
 valish:valish N1 ; ! 
 vallamat:vallamat N1 ; ! 
 vallohi:vallohi IJ ; ! 
@@ -5529,20 +5529,20 @@ vaholanki:vaholanki CC-SOYED ; !
 vahshat:vahshat N1 ; ! 
 vahshiy:vahshiy A2 ; ! 
 vahshiylik:vahshiylik N1 ; ! 
-va’daboz:va’daboz N1 ; ! 
-va’dabozlik:va’dabozlik N1 ; ! 
-va’da:va’da N1 ; ! 
-va’dalash:va’dalash V-IV ; ! 
-va’dasiz:va’dasiz A1 ; ! 
-va’dasizlik:va’dasizlik N1 ; ! 
-va’zbozlik:va’zbozlik N1 ; ! 
-va’z:va’z N1 ; ! 
-va’zguy:va’zguy N1 ; ! 
-va’zguylik:va’zguylik N1 ; ! 
-va’z%-nasixat:va’z%-nasixat N1 ; ! 
-va’zxon:va’zxon N1 ; ! 
-va’zxonlik:va’zxonlik N1 ; ! 
-va’zchi:va’zchi N1 ; ! 
+vaʼdaboz:vaʼdaboz N1 ; ! 
+vaʼdabozlik:vaʼdabozlik N1 ; ! 
+vaʼda:vaʼda N1 ; ! 
+vaʼdalash:vaʼdalash V-IV ; ! 
+vaʼdasiz:vaʼdasiz A1 ; ! 
+vaʼdasizlik:vaʼdasizlik N1 ; ! 
+vaʼzbozlik:vaʼzbozlik N1 ; ! 
+vaʼz:vaʼz N1 ; ! 
+vaʼzguy:vaʼzguy N1 ; ! 
+vaʼzguylik:vaʼzguylik N1 ; ! 
+vaʼz%-nasixat:vaʼz%-nasixat N1 ; ! 
+vaʼzxon:vaʼzxon N1 ; ! 
+vaʼzxonlik:vaʼzxonlik N1 ; ! 
+vaʼzchi:vaʼzchi N1 ; ! 
 v:v MIST ; 
 vegetativ:vegetativ A2 ; ! 
 vegetatsion:vegetatsion A2 ; ! 
@@ -5733,7 +5733,7 @@ vulkanizatsiya:vulkanizatsiya N1 ; !
 vulkanizatsiyala:vulkanizatsiyala V-TV ; ! 
 vulkanli:vulkanli A2 ; ! 
 vulqon:vulqon N1 ; ! 
-vus’at:vus’at N1 ; ! 
+vusʼat:vusʼat N1 ; ! 
 gʻavvos:gʻavvos N1 ; ! 0.9999999767932412
 gʻavvoslik:gʻavvoslik N1 ; ! 0.9999999999999803
 gʻavgʻo:gʻavgʻo N1 ; ! 0.9999993462920993
@@ -6819,7 +6819,7 @@ gulnor:gulnor N1 ; !
 gulob:gulob N1 ; ! 
 gulovi:gulovi A2 ; ! 
 gulovchi:gulovchi N1 ; ! 
-gulra’no:gulra’no N1 ; ! 
+gulraʼno:gulraʼno N1 ; ! 
 gulru:gulru A2 ; ! 
 gulruxsor:gulruxsor A2 ; ! 
 gulsapsar:gulsapsar N1 ; ! 
@@ -6981,7 +6981,7 @@ dagʻ%-dagʻ:dagʻ%-dagʻ IDEO ; !
 dag:dag N1 ; !
 dagi:dagi MIST ; ! ""
 da:da CC ; ! "also, even"
-da’:da’ V-IV ; ! 
+daʼ:daʼ V-IV ; ! 
 dada:dada N1 ; ! 
 da:da QST ; ! "" 
 %-da:%-da POSTADV ; ! 
@@ -7207,8 +7207,8 @@ dafn:dafn N1 ; ! "burial"
 daftar:daftar N1 ; ! 
 daftardor:daftardor N1 ; ! 
 daftarcha:daftarcha N1 ; ! 
-daf’a:daf’a N1 ; ! 
-daf’atan:daf’atan ADV ; ! 
+dafʼa:dafʼa N1 ; ! 
+dafʼatan:dafʼatan ADV ; ! 
 daxl:daxl N1 ; ! 
 daxldor:daxldor A2 ; ! 
 daxldorlik:daxldorlik N1 ; ! 
@@ -7236,11 +7236,11 @@ dasht:dasht N1 ; !
 dashtlik:dashtlik N1 ; ! 
 dashtpiyez:dashtpiyez N1 ; ! 
 dashsha:dashsha N1 ; ! 
-da’vat:da’vat N1 ; ! 
-da’vatnoma:da’vatnoma N1 ; ! 
-da’vogar:da’vogar N1 ; ! 
-da’vogarlik:da’vogarlik N1 ; ! 
-da’vo:da’vo N1 ; ! 
+daʼvat:daʼvat N1 ; ! 
+daʼvatnoma:daʼvatnoma N1 ; ! 
+daʼvogar:daʼvogar N1 ; ! 
+daʼvogarlik:daʼvogarlik N1 ; ! 
+daʼvo:daʼvo N1 ; ! 
 dayus:dayus N1 ; ! 
 dvigatel:dvigatel N1 ; ! 
 dvigatel:dvigatel N1 ; ! "engine"
@@ -7474,7 +7474,7 @@ diktor:diktor N1 ; !
 diqqatvozlik:diqqatvozlik N1 ; ! 
 diqqat:diqqat N1 ; ! 
 diqqat:diqqat N1 ; ! "attention"
-diqqat%-e’tibor:diqqat%-e’tibor N1 ; ! 
+diqqat%-eʼtibor:diqqat%-eʼtibor N1 ; ! 
 diqqatlik:diqqatlik N1 ; ! 
 diqqatchilik:diqqatchilik N1 ; ! 
 diqqatsiz:diqqatsiz A1 ; ! 
@@ -8735,25 +8735,25 @@ yoshli:yoshli A2 ; ! 0.9957160146193789
 yoshli:yoshli A2 ; ! 0.9999998014326462
 yoshlik:yoshlik N1 ; ! 0.9999999999806986
 yoshulli:yoshulli N1 ; ! 0.9963782008219677
-e’zoz:e’zoz N1 ; ! 0.9999999922601699
-e’zoz%-ikrom:e’zoz%-ikrom N1 ; ! 0.9999995042423552
-e’zozla:e’zozla V-TV ; ! 0.9999998003555896
-e’tiboran:e’tiboran A2 ; ! 0.999525734973732
-e’tibor:e’tibor N1 ; ! 0.9999997461082626
-e’tiborli:e’tiborli A2 ; ! 0.9999999996775877
-e’tiborlilik:e’tiborlilik N1 ; ! 0.9999999999992218
-e’tiborsiz:e’tiborsiz A1 ; ! 0.9999999999999803
-e’tiborsizlik:e’tiborsizlik N1 ; ! 0.9999999999925188
-e’tidol:e’tidol N1 ; ! 0.9999996269014548
-e’tiqod:e’tiqod N1 ; ! 0.9999999998327779
-e’tiqodli:e’tiqodli A2 ; ! 0.5870490035457374
-e’timod:e’timod N1 ; ! 0.9999842228098483
-e’timodli:e’timodli A2 ; ! 0.9999999749811515
-e’timodnoma:e’timodnoma N1 ; ! 0.9999999914156913
-e’tiroz:e’tiroz N1 ; ! 0.9999920600939989
-e’tirozlan:e’tirozlan V-IV ; ! 0.9988502331196629
-e’tirozsiz:e’tirozsiz A1 ; ! 0.9997591096504523
-e’tirof:e’tirof N1 ; ! 0.9999999999641501
+eʼzoz:eʼzoz N1 ; ! 0.9999999922601699
+eʼzoz%-ikrom:eʼzoz%-ikrom N1 ; ! 0.9999995042423552
+eʼzozla:eʼzozla V-TV ; ! 0.9999998003555896
+eʼtiboran:eʼtiboran A2 ; ! 0.999525734973732
+eʼtibor:eʼtibor N1 ; ! 0.9999997461082626
+eʼtiborli:eʼtiborli A2 ; ! 0.9999999996775877
+eʼtiborlilik:eʼtiborlilik N1 ; ! 0.9999999999992218
+eʼtiborsiz:eʼtiborsiz A1 ; ! 0.9999999999999803
+eʼtiborsizlik:eʼtiborsizlik N1 ; ! 0.9999999999925188
+eʼtidol:eʼtidol N1 ; ! 0.9999996269014548
+eʼtiqod:eʼtiqod N1 ; ! 0.9999999998327779
+eʼtiqodli:eʼtiqodli A2 ; ! 0.5870490035457374
+eʼtimod:eʼtimod N1 ; ! 0.9999842228098483
+eʼtimodli:eʼtimodli A2 ; ! 0.9999999749811515
+eʼtimodnoma:eʼtimodnoma N1 ; ! 0.9999999914156913
+eʼtiroz:eʼtiroz N1 ; ! 0.9999920600939989
+eʼtirozlan:eʼtirozlan V-IV ; ! 0.9988502331196629
+eʼtirozsiz:eʼtirozsiz A1 ; ! 0.9997591096504523
+eʼtirof:eʼtirof N1 ; ! 0.9999999999641501
 yoyandoz:yoyandoz N1 ; ! 0.999999999855985
 yoyandozlik:yoyandozlik N1 ; ! 0.9999999999861161
 yeyarmon:yeyarmon N1 ; ! 0.9999977366480904
@@ -9424,8 +9424,8 @@ juzgir:juzgir N1 ; ! 0.9999999811819349
 juzdon:juzdon N1 ; ! 0.9999959902884564
 juz:juz N1 ; ! 0.9999999996521397
 juzla:juzla V-TV ; ! 0.9700753687827136
-juz’iy:juz’iy A2 ; ! 0.9467189505037336
-juz’ya:juz’ya N1 ; ! 0.9999999995682306
+juzʼiy:juzʼiy A2 ; ! 0.9467189505037336
+juzʼya:juzʼya N1 ; ! 0.9999999995682306
 juyruk:juyruk A2 ; ! 0.8677301848669652
 juldurvoqi:juldurvoqi N1 ; ! 0.9997737595815719
 juldur:juldur N1 ; ! 0.9789116153658628
@@ -9461,9 +9461,9 @@ jurnal:jurnal N1 ; ! 0.999997027653744
 jurnal:jurnal N1 ; ! 0.9999999998790394
 jurnalist:jurnalist N1 ; ! 0.9999962103730594
 jurnalist:jurnalist N1 ; ! "journalist"
-jur’at:jur’at N1 ; ! 0.9998386472503537
-jur’atlan:jur’atlan V-IV ; ! 0.999889193901192
-jur’atli:jur’atli A2 ; ! 0.9999726597981676
+jurʼat:jurʼat N1 ; ! 0.9998386472503537
+jurʼatlan:jurʼatlan V-IV ; ! 0.999889193901192
+jurʼatli:jurʼatli A2 ; ! 0.9999726597981676
 jussador:jussador A2 ; ! 0.9995755560612373
 jussali:jussali A2 ; ! 0.9999999999390616
 jut:jut N1 ; ! 0.9999996390201735
@@ -9975,7 +9975,7 @@ zudlik:zudlik N1 ; ! 0.9993863284251231
 zudlik% bilan:zudlik% bilan ADV3 ; ! "quickly"
 zukko:zukko N1 ; ! 0.9905364982690026
 zukkolik:zukkolik N1 ; ! 0.9999999308427441
-zulqa’da:zulqa’da N1 ; ! 0.9999999984828553
+zulqaʼda:zulqaʼda N1 ; ! 0.9999999984828553
 zullisonayn:zullisonayn A2 ; ! 0.9998115685845429
 zulmat:zulmat N1 ; ! 0.9999999998403527
 zulm:zulm N1 ; ! 0.9999999901172362
@@ -10792,10 +10792,10 @@ inchunin:inchunin N1 ; ! 0.9965668437505777
 insho:insho N1 ; ! 0.9999996493881552
 inshoot:inshoot N1 ; !"building"
 inshoot:inshoot N1 ; ! "construction"
-in’ikos:in’ikos N1 ; ! 0.9999999706414922
-in’om:in’om N1 ; ! 0.9999999998132153
-in’omnoma:in’omnoma N1 ; ! 0.9999999849946964
-in’eksiya:in’eksiya N1 ; ! 0.9999999999773347
+inʼikos:inʼikos N1 ; ! 0.9999999706414922
+inʼom:inʼom N1 ; ! 0.9999999998132153
+inʼomnoma:inʼomnoma N1 ; ! 0.9999999849946964
+inʼeksiya:inʼeksiya N1 ; ! 0.9999999999773347
 iona:iona N1 ; ! 0.9999999999966804
 ionizatsion:ionizatsion A2 ; ! 0.9984883867778835
 ionizatsiya:ionizatsiya N1 ; ! 0.9999999166979858
@@ -11007,12 +11007,12 @@ istehzoli:istehzoli A2 ; ! 0.9999999999913318
 istehkom:istehkom N1 ; ! 0.9999999999999409
 istehsol:istehsol N1 ; ! 0.9999999992688728
 istehsolot:istehsolot N1 ; ! 0.9999999321737936
-iste’dod:iste’dod N1 ; ! 0.9999999792373204
-iste’dodli:iste’dodli A2 ; ! 0.9999997322127321
-iste’dodsiz:iste’dodsiz A1 ; ! 0.9999888217747172
-iste’mol:iste’mol N1 ; ! 0.9999999124823286
-iste’mol:iste’mol N1 ; ! 0.9999999998824032
-iste’fo:iste’fo N1 ; ! 0.999963649144686
+isteʼdod:isteʼdod N1 ; ! 0.9999999792373204
+isteʼdodli:isteʼdodli A2 ; ! 0.9999997322127321
+isteʼdodsiz:isteʼdodsiz A1 ; ! 0.9999888217747172
+isteʼmol:isteʼmol N1 ; ! 0.9999999124823286
+isteʼmol:isteʼmol N1 ; ! 0.9999999998824032
+isteʼfo:isteʼfo N1 ; ! 0.999963649144686
 istibdod:istibdod N1 ; ! 0.9999999622226501
 istibdodchi:istibdodchi N1 ; ! 0.9999999443221379
 istigʻno:istigʻno N1 ; ! 0.9999711491497593
@@ -11091,8 +11091,8 @@ ittihod:ittihod N1 ; ! 0.9999824311100785
 ittihod:ittihod N1 ; ! ""
 ittovon:ittovon N1 ; ! 0.9999997518844709
 ituzum:ituzum N1 ; ! 0.9999999946837707
-itfe’l:itfe’l N1 ; ! 0.9999995597725307
-itfe’llik:itfe’llik N1 ; ! 0.9999998367649876
+itfeʼl:itfeʼl N1 ; ! 0.9999995597725307
+itfeʼllik:itfeʼllik N1 ; ! 0.9999998367649876
 itxona:itxona N1 ; ! 0.9999999994309876
 iflos:iflos A2 ; ! 0.999842742777809
 iflosla:iflosla V-IV ; ! 0.9664839344357169
@@ -12041,7 +12041,7 @@ kattalashtir:kattalashtir V-TV-CAUS ; ! 0.9999181447359925
 kattalik:kattalik N1 ; ! 0.9999999956278496
 kattalik:kattalik N1 ; ! "dimension"
 kattar:kattar V-IV ; ! 0.993586632186493
-kat’yyatli:kat’yyatli A2 ; ! 0.9999999220763647
+katʼyyatli:katʼyyatli A2 ; ! 0.9999999220763647
 katyusha:katyusha N1 ; ! 0.9999994068260241
 kaustik:kaustik A2 ; ! 0.9999923366687026
 kauchukdor:kauchukdor A2 ; ! 0.994123296802773
@@ -12091,7 +12091,7 @@ kashfiyotchilik:kashfiyotchilik N1 ; ! 0.9999999997195742
 kashf:kashf N1 ; ! 0.9999999999970499
 kashf:kashf N1 ; ! "opening"
 kashshof:kashshof N1 ; ! 0.9999999999635936
-ka’ba:ka’ba N1 ; ! 0.9999999996723277
+kaʼba:kaʼba N1 ; ! 0.9999999996723277
 kayuta:kayuta N1 ; ! 0.9999926381814572
 kvadrant:kvadrant N1 ; ! 0.9999999808358624
 kvadrat:kvadrat ABBR ; ! "^2"
@@ -13977,8 +13977,8 @@ qaltiroq:qaltiroq A2 ; ! 0.9833059824490753
 qaltis:qaltis A2 ; ! 0.9999897211330447
 qaltislik:qaltislik N1 ; ! 0.9999999999841116
 qalt%-qalt:qalt%-qalt IDEO ; ! 0.9893181927815335
-qal’a:qal’a N1 ; ! 0.9999999999973848
-qal’achi:qal’achi N1 ; ! 0.9999999935761091
+qalʼa:qalʼa N1 ; ! 0.9999999999973848
+qalʼachi:qalʼachi N1 ; ! 0.9999999935761091
 qamaytir:qamaytir V-TV-CAUS ; ! 0.9992835161887663
 qama:qama V-TV ; ! 0.9644384458375396
 qamal:qamal V-IV-REFL ; ! 0.8929363237436633
@@ -14319,13 +14319,13 @@ qattiqlash:qattiqlash V-IV ; ! 0.9999999923931576
 qattiqlik:qattiqlik N1 ; ! 0.9999999999998079
 qattiqchilik:qattiqchilik N1 ; ! 0.9999999734569147
 qattol:qattol A2 ; ! 0.999746472549975
-qat’an:qat’an N1 ; ! 0.9954297773567621
-qat’iy:qat’iy A2 ; ! 0.9996407146713678
-qat’iylash:qat’iylash V-IV ; ! 0.9999964925259595
-qat’iylashtir:qat’iylashtir V-TV-CAUS ; ! 0.9999999999265716
-qat’iyat:qat’iyat N1 ; ! 0.9999995092274844
-qat’iyatsiz:qat’iyatsiz A1 ; ! 0.9999999996564097
-qat’iyatsizlik:qat’iyatsizlik N1 ; ! 0.9999999999999655
+qatʼan:qatʼan N1 ; ! 0.9954297773567621
+qatʼiy:qatʼiy A2 ; ! 0.9996407146713678
+qatʼiylash:qatʼiylash V-IV ; ! 0.9999964925259595
+qatʼiylashtir:qatʼiylashtir V-TV-CAUS ; ! 0.9999999999265716
+qatʼiyat:qatʼiyat N1 ; ! 0.9999995092274844
+qatʼiyatsiz:qatʼiyatsiz A1 ; ! 0.9999999996564097
+qatʼiyatsizlik:qatʼiyatsizlik N1 ; ! 0.9999999999999655
 qafas:qafas N1 ; ! 0.9999999383664404
 qahat:qahat N1 ; ! 0.9999999973902991
 qahatchilik:qahatchilik N1 ; ! 0.9999999998764586
@@ -14374,8 +14374,8 @@ qashshoq:qashshoq N1 ; ! 0.9992427874194373
 qashshoqlan:qashshoqlan V-IV ; ! 0.9695731896845323
 qashshoqlash:qashshoqlash V-IV ; ! 0.9609328125193758
 qashshoqliq:qashshoqliq N1 ; ! 0.9999999828883563
-qa’da:qa’da N1 ; ! 0.9999999897511185
-qa’r:qa’r N1 ; ! 0.9999794198664511
+qaʼda:qaʼda N1 ; ! 0.9999999897511185
+qaʼr:qaʼr N1 ; ! 0.9999794198664511
 qel:qel V-IV ; ! 0.9999779556854601
 qemirmoq:qemirmoq N1 ; ! 0.8224513809665699
 qetkiz:qetkiz V-TV-CAUS ; ! 0.9503897756542015
@@ -14805,8 +14805,8 @@ qitmirlik:qitmirlik N1 ; ! 0.9999999999980151
 qittai:qittai A1 ; ! 0.5083175244289826
 qittak%-qittak:qittak%-qittak N1 ; ! 0.988701256018286
 qittaq:qittaq N1 ; ! 0.999999988103818
-qit’a:qit’a N1 ; ! 0.9999999999993794
-qit’alararo:qit’alararo N1 ; ! 0.9425287908767969
+qitʼa:qitʼa N1 ; ! 0.9999999999993794
+qitʼalararo:qitʼalararo N1 ; ! 0.9425287908767969
 qixa:qixa N1 ; ! 0.9454896361400793
 qix%-qix:qix%-qix IDEO ; ! 0.583249963193084
 qix:qix N1 ; ! 0.9998572326423427
@@ -15886,9 +15886,9 @@ qurchoq:qurchoq N1 ; ! 0.9999847152464963
 qursha:qursha V-TV ; ! 0.9988191660120365
 qurshal:qurshal V-TV ; ! 0.8757654121383371
 qurshov:qurshov N1 ; ! 0.9996370151448829
-qur’aandoz:qur’aandoz N1 ; ! 0.9999999978161731
-qur’a:qur’a N1 ; ! 0.9999786659668741
-qur’on:qur’on N1 ; ! 0.9999999067200993
+qurʼaandoz:qurʼaandoz N1 ; ! 0.9999999978161731
+qurʼa:qurʼa N1 ; ! 0.9999786659668741
+qurʼon:qurʼon N1 ; ! 0.9999999067200993
 qus:qus V-IV ; ! 0.6476105040941242
 qustir:qustir V-TV-CAUS ; ! 0.9999999988117835
 qusuq:qusuq N1 ; ! 0.9999999725120478
@@ -16155,12 +16155,12 @@ lashkarboshiliq:lashkarboshiliq N1 ; ! 0.999999999992834
 lashkargoh:lashkargoh N1 ; ! 0.966894075238467
 lashkar:lashkar N1 ; ! 0.9999997657807799
 lash%-lush:lash%-lush N1 ; ! 0.9878799811080397
-la’li:la’li N1 ; ! 0.9896126144478796
-la’l:la’l N1 ; ! 0.9999999999994287
-la’nati:la’nati A2 ; ! 0.989133208847398
-la’natla:la’natla V-TV ; ! 0.998660633083277
-la’natlan:la’natlan V-TV ; ! 0.998558352814211
-la’nat:la’nat N1 ; ! 0.999999999099001
+laʼli:laʼli N1 ; ! 0.9896126144478796
+laʼl:laʼl N1 ; ! 0.9999999999994287
+laʼnati:laʼnati A2 ; ! 0.989133208847398
+laʼnatla:laʼnatla V-TV ; ! 0.998660633083277
+laʼnatlan:laʼnatlan V-TV ; ! 0.998558352814211
+laʼnat:laʼnat N1 ; ! 0.999999999099001
 lgan:lgan MIST ; !""
 lev:lev N1 ; ! 0.9999999180769737
 legallashtirish:legallashtirish N1-VN ; ! 0.9995835634423126
@@ -16826,7 +16826,7 @@ malohatsiz:malohatsiz A1 ; ! 0.9999999109607095
 malul:malul A2 ; ! 0.9920600599848414
 malul%-xotirlik:malul%-xotirlik N1 ; ! 0.9999551577328737
 malxai:malxai N1 ; ! 0.9999999995904232
-mal’un:mal’un A2 ; ! 0.9948897387655051
+malʼun:malʼun A2 ; ! 0.9948897387655051
 ma:ma MIST ; !!
 ma:ma N1 ; ! 0.9999997002891878
 mamiu:mamiu A2 ; ! 0.9836234295964363
@@ -17109,12 +17109,12 @@ mastona:mastona A2 ; ! 0.9999663350325718
 maston:maston N1 ; ! 0.9957102053589278
 maston:maston N1 ; ! 0.9990346603005866
 mastcha:mastcha ADV ; ! 0.9766663614822897
-ma’suma:ma’suma N1 ; ! 0.9999993506366122
-ma’suma:ma’suma ADV ; ! "innocent/ly"
+maʼsuma:maʼsuma N1 ; ! 0.9999993506366122
+maʼsuma:maʼsuma ADV ; ! "innocent/ly"
 boʻlganidan:boʻlganidan N1 ; ! 0.9999999856945465
-ma’sumlik:ma’sumlik N1 ; ! 0.9999999999957694
-ma’sum:ma’sum A1 ; ! 0.90336336178486
-ma’sumona:ma’sumona A1 ; ! 0.9999997670492113
+maʼsumlik:maʼsumlik N1 ; ! 0.9999999999957694
+maʼsum:maʼsum A1 ; ! 0.90336336178486
+maʼsumona:maʼsumona A1 ; ! 0.9999997670492113
 masxarabozlik:masxarabozlik N1 ; ! 0.999999997055579
 masxarabozlik:masxarabozlik N1 ; ! 0.9999999999906423
 masxaraboz:masxaraboz N1 ; ! 0.9999999311275113
@@ -17128,13 +17128,13 @@ masxara:masxara N1 ; ! 0.9999997896560234
 masxaraomuz:masxaraomuz A2 ; ! 0.999998199115037
 masxur:masxur N1 ; ! 0.9999787719850802
 masshtab:masshtab N1 ; ! 0.9979870255204496
-mas’ud:mas’ud N1 ; ! 0.9976792706052343
-mas’uliyatli:mas’uliyatli A2 ; ! 0.9998898402828373
-mas’uliyat:mas’uliyat N1 ; ! 0.9999999999419872
-mas’uliyatsizlik:mas’uliyatsizlik N1 ; ! 0.99999999999967
-mas’uliyatsiz:mas’uliyatsiz A1 ; ! 0.9999995079686647
-mas’ullik:mas’ullik N1 ; ! 0.999996786510665
-mas’ul:mas’ul N1 ; ! 0.9999981962788848
+masʼud:masʼud N1 ; ! 0.9976792706052343
+masʼuliyatli:masʼuliyatli A2 ; ! 0.9998898402828373
+masʼuliyat:masʼuliyat N1 ; ! 0.9999999999419872
+masʼuliyatsizlik:masʼuliyatsizlik N1 ; ! 0.99999999999967
+masʼuliyatsiz:masʼuliyatsiz A1 ; ! 0.9999995079686647
+masʼullik:masʼullik N1 ; ! 0.999996786510665
+masʼul:masʼul N1 ; ! 0.9999981962788848
 matal:matal N1 ; ! 0.9999999999202133
 mata:mata N1 ; ! 0.9999999999940948
 matash:matash V-IV ; ! 0.9999981468037888
@@ -17333,82 +17333,82 @@ mashoq:mashoq N1 ; ! 0.9999878995621614
 mashoqchi:mashoqchi N1 ; ! 0.9999999559356504
 mashriq:mashriq N1 ; ! 0.9999999459580934
 mashru:mashru N1 ; ! 0.9999237750386092
-ma’shuqlik:ma’shuqlik N1 ; ! 0.9999999999212081
-ma’shuq:ma’shuq N1 ; ! 0.9994479989970264
+maʼshuqlik:maʼshuqlik N1 ; ! 0.9999999999212081
+maʼshuq:maʼshuq N1 ; ! 0.9994479989970264
 mashhur:mashhur A1 ; ! 0.768057916770088
 mashhur:mashhur A1 ; ! "famous"
 mashshoqlik:mashshoqlik N1 ; ! 0.9999999999997489
 mashshoq:mashshoq N1 ; ! 0.9988194080682837
-mash’ala:mash’ala N1 ; ! 0.9950735141453748
-mash’aldor:mash’aldor N1 ; ! 0.9993773296603485
-mash’al:mash’al N1 ; ! 0.9999999999509853
-mash’alnamo:mash’alnamo A2 ; ! 0.8824011228690883
-mash’alchi:mash’alchi N1 ; ! 0.9999999392942541
-mash’um:mash’um N1 ; ! 0.9999885652433435
-ma’bad:ma’bad N1 ; ! 0.9999994698980852
-ma’buda:ma’buda N1 ; ! 0.9999946607762619
-ma’vo:ma’vo N1 ; ! 0.9997910041855625
-ma’daniy:ma’daniy A2 ; ! 0.9607862967252112
-ma’dan:ma’dan N1 ; ! 0.9999993978936411
-ma’danchi:ma’danchi N1 ; ! 0.9999995091386626
-ma’danshunos:ma’danshunos N1 ; ! 0.9860726450761176
-ma’juj:ma’juj N1 ; ! 0.9999999461562551
-ma’jun:ma’jun N1 ; ! 0.9999930406138113
-ma’zirat:ma’zirat N1 ; ! 0.9999999998808962
-ma’zul:ma’zul N1 ; ! 0.9999947225594427
-ma’zur:ma’zur A2 ; ! 0.8614160561135364
-ma’kullan:ma’kullan V-TV ; ! 0.9095915472407002
-ma’kullat:ma’kullat V-TV-CAUS ; ! 0.9999999951995673
-ma’kullash:ma’kullash V-IV-COOP ; ! 0.8741617696037423
-ma’kullash:ma’kullash N1-VN ; ! 0.9997858740897788
-ma’qulla:ma’qulla V-TV ; ! 0.9907237580761806
-ma’qullik:ma’qullik N1 ; ! 0.9999999999998965
-ma’qul:ma’qul A2 ; ! 0.9961315477607805
-ma’lumki:ma’lumki N1 ; ! 0.9996974829491168
-ma’lum:ma’lum N1 ; ! 0.9999428419026238
-ma’lumotli:ma’lumotli A2 ; ! 0.9999999992647062
-ma’lumot:ma’lumot N1 ; ! 0.9999999999495669
-ma’mura:ma’mura N1 ; ! 0.9999999957305676
-ma’muriy:ma’muriy N1 ; ! 0.9999900634599629
-ma’muriyat:ma’muriyat N1 ; ! 0.9999996432895748
-ma’muriyatchilik:ma’muriyatchilik N1 ; ! 0.9999998786127189
-ma’murlik:ma’murlik N1 ; ! 0.9999999999974193
-ma’murlik:ma’murlik N1 ; ! 0.9999999999998276
-ma’mur:ma’mur N1 ; ! 0.9569954251126885
-ma’naviy:ma’naviy A2 ; ! 0.9503660115082885
-ma’naviy%-siyosiy:ma’naviy%-siyosiy A2 ; ! 0.9991044151446332
-ma’nan:ma’nan A2 ; ! 0.999234424029893
-ma’nili:ma’nili A2 ; ! 0.9974122483084928
-ma’ni:ma’ni N1 ; ! 0.9946037660463787
-ma’nodorlik:ma’nodorlik N1 ; ! 0.9999999999999901
-ma’nodor:ma’nodor A2 ; ! 0.9721181710524673
-ma’nodosh:ma’nodosh N1 ; ! 0.5194243011684553
-ma’noli:ma’noli A2 ; ! 0.9999304526129935
-ma’no:ma’no N1 ; ! 0.9999999074091512
-ma’nosizlan:ma’nosizlan V-IV ; ! 0.9998983117112934
-ma’nosizlik:ma’nosizlik N1 ; ! 0.9999999999999557
-ma’nosiz:ma’nosiz A1 ; ! 0.9349269321207786
-ma’rakador:ma’rakador N1 ; ! 0.9999960864727544
-ma’raka:ma’raka N1 ; ! 0.9999999997568229
-ma’ramoq:ma’ramoq N1 ; ! 0.9896850627370763
-ma’rash:ma’rash V-IV-COOP ; ! 0.9993836176783267
-ma’rifatli:ma’rifatli A2 ; ! 0.9999969244740998
-ma’rifat:ma’rifat N1 ; ! 0.9999964590319199
-ma’rifatparvarlik:ma’rifatparvarlik N1 ; ! 0.9999999994471568
-ma’rifatparvar:ma’rifatparvar N1 ; ! 0.9999999999141308
-ma’rifatchi:ma’rifatchi N1 ; ! 0.999999760305562
-ma’rifatsiz:ma’rifatsiz A1 ; ! 0.9999625777428575
-ma’ruza:ma’ruza N1 ; ! 0.9999993463900917
-ma’ruzachi:ma’ruzachi N1 ; ! 0.9999999759921824
-ma’ruf:ma’ruf N1 ; ! 0.9996429159698627
-ma’tal:ma’tal N1 ; ! 0.9998894235311364
-ma’shuqa:ma’shuqa N1 ; ! 0.9999997776475515
-ma’yub:ma’yub N1 ; ! 0.9994657677890124
-ma’yuslangir:ma’yuslangir V-TV-CAUS ; ! 0.9999999999824962
-ma’yuslan:ma’yuslan V-IV ; ! 0.9906091671373916
-ma’yuslik:ma’yuslik N1 ; ! 0.9999999983012124
-ma’yus:ma’yus N1 ; ! 0.9998431436396574
-ma’yusona:ma’yusona A2 ; ! 0.9636673437299003
+mashʼala:mashʼala N1 ; ! 0.9950735141453748
+mashʼaldor:mashʼaldor N1 ; ! 0.9993773296603485
+mashʼal:mashʼal N1 ; ! 0.9999999999509853
+mashʼalnamo:mashʼalnamo A2 ; ! 0.8824011228690883
+mashʼalchi:mashʼalchi N1 ; ! 0.9999999392942541
+mashʼum:mashʼum N1 ; ! 0.9999885652433435
+maʼbad:maʼbad N1 ; ! 0.9999994698980852
+maʼbuda:maʼbuda N1 ; ! 0.9999946607762619
+maʼvo:maʼvo N1 ; ! 0.9997910041855625
+maʼdaniy:maʼdaniy A2 ; ! 0.9607862967252112
+maʼdan:maʼdan N1 ; ! 0.9999993978936411
+maʼdanchi:maʼdanchi N1 ; ! 0.9999995091386626
+maʼdanshunos:maʼdanshunos N1 ; ! 0.9860726450761176
+maʼjuj:maʼjuj N1 ; ! 0.9999999461562551
+maʼjun:maʼjun N1 ; ! 0.9999930406138113
+maʼzirat:maʼzirat N1 ; ! 0.9999999998808962
+maʼzul:maʼzul N1 ; ! 0.9999947225594427
+maʼzur:maʼzur A2 ; ! 0.8614160561135364
+maʼkullan:maʼkullan V-TV ; ! 0.9095915472407002
+maʼkullat:maʼkullat V-TV-CAUS ; ! 0.9999999951995673
+maʼkullash:maʼkullash V-IV-COOP ; ! 0.8741617696037423
+maʼkullash:maʼkullash N1-VN ; ! 0.9997858740897788
+maʼqulla:maʼqulla V-TV ; ! 0.9907237580761806
+maʼqullik:maʼqullik N1 ; ! 0.9999999999998965
+maʼqul:maʼqul A2 ; ! 0.9961315477607805
+maʼlumki:maʼlumki N1 ; ! 0.9996974829491168
+maʼlum:maʼlum N1 ; ! 0.9999428419026238
+maʼlumotli:maʼlumotli A2 ; ! 0.9999999992647062
+maʼlumot:maʼlumot N1 ; ! 0.9999999999495669
+maʼmura:maʼmura N1 ; ! 0.9999999957305676
+maʼmuriy:maʼmuriy N1 ; ! 0.9999900634599629
+maʼmuriyat:maʼmuriyat N1 ; ! 0.9999996432895748
+maʼmuriyatchilik:maʼmuriyatchilik N1 ; ! 0.9999998786127189
+maʼmurlik:maʼmurlik N1 ; ! 0.9999999999974193
+maʼmurlik:maʼmurlik N1 ; ! 0.9999999999998276
+maʼmur:maʼmur N1 ; ! 0.9569954251126885
+maʼnaviy:maʼnaviy A2 ; ! 0.9503660115082885
+maʼnaviy%-siyosiy:maʼnaviy%-siyosiy A2 ; ! 0.9991044151446332
+maʼnan:maʼnan A2 ; ! 0.999234424029893
+maʼnili:maʼnili A2 ; ! 0.9974122483084928
+maʼni:maʼni N1 ; ! 0.9946037660463787
+maʼnodorlik:maʼnodorlik N1 ; ! 0.9999999999999901
+maʼnodor:maʼnodor A2 ; ! 0.9721181710524673
+maʼnodosh:maʼnodosh N1 ; ! 0.5194243011684553
+maʼnoli:maʼnoli A2 ; ! 0.9999304526129935
+maʼno:maʼno N1 ; ! 0.9999999074091512
+maʼnosizlan:maʼnosizlan V-IV ; ! 0.9998983117112934
+maʼnosizlik:maʼnosizlik N1 ; ! 0.9999999999999557
+maʼnosiz:maʼnosiz A1 ; ! 0.9349269321207786
+maʼrakador:maʼrakador N1 ; ! 0.9999960864727544
+maʼraka:maʼraka N1 ; ! 0.9999999997568229
+maʼramoq:maʼramoq N1 ; ! 0.9896850627370763
+maʼrash:maʼrash V-IV-COOP ; ! 0.9993836176783267
+maʼrifatli:maʼrifatli A2 ; ! 0.9999969244740998
+maʼrifat:maʼrifat N1 ; ! 0.9999964590319199
+maʼrifatparvarlik:maʼrifatparvarlik N1 ; ! 0.9999999994471568
+maʼrifatparvar:maʼrifatparvar N1 ; ! 0.9999999999141308
+maʼrifatchi:maʼrifatchi N1 ; ! 0.999999760305562
+maʼrifatsiz:maʼrifatsiz A1 ; ! 0.9999625777428575
+maʼruza:maʼruza N1 ; ! 0.9999993463900917
+maʼruzachi:maʼruzachi N1 ; ! 0.9999999759921824
+maʼruf:maʼruf N1 ; ! 0.9996429159698627
+maʼtal:maʼtal N1 ; ! 0.9998894235311364
+maʼshuqa:maʼshuqa N1 ; ! 0.9999997776475515
+maʼyub:maʼyub N1 ; ! 0.9994657677890124
+maʼyuslangir:maʼyuslangir V-TV-CAUS ; ! 0.9999999999824962
+maʼyuslan:maʼyuslan V-IV ; ! 0.9906091671373916
+maʼyuslik:maʼyuslik N1 ; ! 0.9999999983012124
+maʼyus:maʼyus N1 ; ! 0.9998431436396574
+maʼyusona:maʼyusona A2 ; ! 0.9636673437299003
 mdxsum:mdxsum N1 ; ! 0.9997723031095197
 meʼmoriy:meʼmoriy A1 ; ! "architectural"
 ! meʼmoriy:meʼmoriy N1 ; !
@@ -17599,16 +17599,16 @@ mesh:mesh N1 ; ! 0.9999999999941293
 meshchanlash:meshchanlash V-IV ; ! 0.9999677693201666
 meshchanlik:meshchanlik N1 ; ! 0.9999999102542917
 meshchan:meshchan N1 ; ! 0.9999999086537404
-me’da:me’da A2 ; ! 0.8871656061574763
-me’da:me’da N1 ; ! 0.9999999959364174
-me’yorli:me’yorli A2 ; ! 0.9999968938655438
-me’yor:me’yor N1 ; ! 0.9999837215642814
-me’yorsiz:me’yorsiz A1 ; ! 0.9999967616060778
-me’moriy:me’moriy N1 ; ! 0.847546909249477
-me’morlik:me’morlik N1 ; ! 0.9999999999999803
-me’mor:me’mor N1 ; ! 0.9999999603493094
-me’morchilik:me’morchilik N1 ; ! 0.9999999999996503
-me’roj:me’roj N1 ; ! 0.9999999975426819
+meʼda:meʼda A2 ; ! 0.8871656061574763
+meʼda:meʼda N1 ; ! 0.9999999959364174
+meʼyorli:meʼyorli A2 ; ! 0.9999968938655438
+meʼyor:meʼyor N1 ; ! 0.9999837215642814
+meʼyorsiz:meʼyorsiz A1 ; ! 0.9999967616060778
+meʼmoriy:meʼmoriy N1 ; ! 0.847546909249477
+meʼmorlik:meʼmorlik N1 ; ! 0.9999999999999803
+meʼmor:meʼmor N1 ; ! 0.9999999603493094
+meʼmorchilik:meʼmorchilik N1 ; ! 0.9999999999996503
+meʼroj:meʼroj N1 ; ! 0.9999999975426819
 migren:migren N1 ; ! 0.999999776219586
 miyovla:miyovla V-TV ; ! 0.9615150980862467
 miyovlash:miyovlash V-IV-COOP ; ! 0.9042335069632627
@@ -17734,7 +17734,7 @@ mim:mim N1 ; ! 0.9999999931068991
 mimoza:mimoza N1 ; ! 0.999999999304762
 mina:mina N1 ; ! 0.999970814648429
 minbar:minbar N1 ; ! 0.9999999977290775
-minba’d:minba’d N1 ; ! 0.9904832403857703
+minbaʼd:minbaʼd N1 ; ! 0.9904832403857703
 mingʻayish:mingʻayish V-IV-COOP ; ! 0.9606778482787403
 mingʻaymas:mingʻaymas A2 ; ! 0.9999985375848597
 mingʻay:mingʻay V-IV ; ! 0.9951000775125137
@@ -17890,15 +17890,15 @@ mnngʻirla:mnngʻirla V-IV ; ! 0.5318289332385588
 moʻʼtadil:moʻʼtadil A1 ; !
 moʻgʻul:moʻgʻul N1 ; ! 0.9889782057127399
 moʻgʻulcha:moʻgʻulcha N1 ; ! 0.9836806652202827
-moʻ’jaz:moʻ’jaz A1 ; ! 0.8420463953260625
-moʻ’jizador:moʻ’jizador A2 ; ! 0.9650515500156257
-moʻ’jizakor:moʻ’jizakor N1 ; ! 0.9999921204527534
-moʻ’jizali:moʻ’jizali A2 ; ! 0.9998626469707128
-moʻ’jiza:moʻ’jiza N1 ; ! 0.9999994488642232
+moʻʼjaz:moʻʼjaz A1 ; ! 0.8420463953260625
+moʻʼjizador:moʻʼjizador A2 ; ! 0.9650515500156257
+moʻʼjizakor:moʻʼjizakor N1 ; ! 0.9999921204527534
+moʻʼjizali:moʻʼjizali A2 ; ! 0.9998626469707128
+moʻʼjiza:moʻʼjiza N1 ; ! 0.9999994488642232
 moʻljalla:moʻljalla VERB-TV ; !
 moʻljallan:moʻljallan VERB-IV ; !
 moʻlchiliq:moʻlchiliq N1 ; ! 0.9999999985402033
-moʻmin%-ma’kul:moʻmin%-ma’kul A2 ; ! 0.9998765197315729
+moʻmin%-maʼkul:moʻmin%-maʼkul A2 ; ! 0.9998765197315729
 moʻmin:moʻmin A2 ; ! 0.9982820759979775
 moʻmintoy:moʻmintoy N1 ; ! 0.5526831713377738
 moʻralash:moʻralash V-IV-COOP ; ! 0.8590037999763815
@@ -17910,10 +17910,10 @@ moʻrt:moʻrt N1 ; ! 0.9998971804381168
 moʻrtuk:moʻrtuk N1 ; ! 0.9999999869832182
 moʻrcha:moʻrcha N1 ; ! 0.8063450921336435
 moʻrcha:moʻrcha N1 ; ! 0.9856658592578585
-moʻ’tabar:moʻ’tabar A2 ; ! 0.9999999800642951
-moʻ’tadillik:moʻ’tadillik N1 ; ! 0.9999999999991972
+moʻʼtabar:moʻʼtabar A2 ; ! 0.9999999800642951
+moʻʼtadillik:moʻʼtadillik N1 ; ! 0.9999999999991972
 moʻtadil:moʻtadil A1 ; !
-moʻ’tadil:moʻ’tadil N1 ; ! 0.999779466853661
+moʻʼtadil:moʻʼtadil N1 ; ! 0.999779466853661
 moʻh%-moʻh:moʻh%-moʻh IDEO ; ! 0.44428920584435655
 moʻhrdor:moʻhrdor N1 ; ! 0.9981765312833641
 mobayniga:mobayniga N1 ; ! 0.9999985296030708
@@ -19103,18 +19103,18 @@ nashr:nashr N1 ; ! 0.9999999986026585
 nashr:nashr N1 ; ! "printing"
 nashr:nashr N1 ; ! "publication"
 nashtar:nashtar N1 ; ! 0.9999883513303454
-nash’abaxsh:nash’abaxsh N1 ; ! 0.9662749692104501
-nash’ador:nash’ador A2 ; ! 0.9999248040111963
-nash’ali:nash’ali A2 ; ! 0.9999999192404736
-nash’a:nash’a IDEO ; ! 0.5406787751250342
-nash’asiz:nash’asiz A1 ; ! 0.999999999905433
-nash’u%-namoli:nash’u%-namoli A2 ; ! 0.9996147499015724
-na’lat:na’lat N1 ; ! 0.9999974450140869
-na’lgar:na’lgar N1 ; ! 0.9392089317132573
-na’l:na’l N1 ; ! 0.9999981528715587
-na’matak:na’matak N1 ; ! 0.9999999957470224
-na’rador:na’rador A2 ; ! 0.9999995502340606
-na’ra:na’ra N1 ; ! 0.9999999998729914
+nashʼabaxsh:nashʼabaxsh N1 ; ! 0.9662749692104501
+nashʼador:nashʼador A2 ; ! 0.9999248040111963
+nashʼali:nashʼali A2 ; ! 0.9999999192404736
+nashʼa:nashʼa IDEO ; ! 0.5406787751250342
+nashʼasiz:nashʼasiz A1 ; ! 0.999999999905433
+nashʼu%-namoli:nashʼu%-namoli A2 ; ! 0.9996147499015724
+naʼlat:naʼlat N1 ; ! 0.9999974450140869
+naʼlgar:naʼlgar N1 ; ! 0.9392089317132573
+naʼl:naʼl N1 ; ! 0.9999981528715587
+naʼmatak:naʼmatak N1 ; ! 0.9999999957470224
+naʼrador:naʼrador A2 ; ! 0.9999995502340606
+naʼra:naʼra N1 ; ! 0.9999999998729914
 nayaki:nayaki N1 ; ! 0.9999380129445556
 ng:ng MIST ; ! ""
 karyera:karyera N1 ; ! "career"
@@ -19185,7 +19185,7 @@ nechuk:nechuk N1 ; ! 0.9999999834148552
 nechundir:nechundir N1 ; ! 0.9997317916611909
 nechunkim:nechunkim N1 ; ! 0.9999999896362404
 nechun:nechun N1 ; ! 0.9999980155629947
-ne’mat:ne’mat N1 ; ! 0.9999999575425403
+neʼmat:neʼmat N1 ; ! 0.9999999575425403
 nivelir:nivelir N1 ; ! 0.9999942596247242
 nivelirovka:nivelirovka N1 ; ! 0.9999999999413026
 nivelirovkachi:nivelirovkachi N1 ; ! 0.9999999999729218
@@ -19384,7 +19384,7 @@ noz%-ishva:noz%-ishva N1 ; ! 0.9999895974127295
 noz%-karashma:noz%-karashma N1 ; ! 0.9998223458231517
 nozlan:nozlan V-IV ; ! 0.9999929841334687
 nozli:nozli A2 ; ! 0.9999999999998079
-noz%-ne’mat:noz%-ne’mat N1 ; ! 0.9999997071291326
+noz%-neʼmat:noz%-neʼmat N1 ; ! 0.9999997071291326
 noz:noz N1 ; ! 0.999999867355689
 noz%-firoq:noz%-firoq N1 ; ! 0.8221975258480411
 noiblik:noiblik N1 ; ! 0.9999999993839331
@@ -19423,10 +19423,10 @@ noma:noma N1 ; ! "letter"
 nomard:nomard N1 ; ! 0.8066862099891727
 nomatlub:nomatlub A2 ; ! 0.9988026769547246
 nomahram:nomahram N1 ; ! 0.9999996827277444
-noma’qul:noma’qul A1 ; ! 0.9123507575082463
-noma’qulchilik:noma’qulchilik N1 ; ! 0.9999999993729896
-noma’lumli:noma’lumli A2 ; ! 0.9999994857733908
-noma’lum:noma’lum A1 ; ! 0.8621457891791917
+nomaʼqul:nomaʼqul A1 ; ! 0.9123507575082463
+nomaʼqulchilik:nomaʼqulchilik N1 ; ! 0.9999999993729896
+nomaʼlumli:nomaʼlumli A2 ; ! 0.9999994857733908
+nomaʼlum:nomaʼlum A1 ; ! 0.8621457891791917
 nom%-banom:nom%-banom N1 ; ! 0.41017165537537387
 nomdorlik:nomdorlik N1 ; ! 0.9999999999962027
 nomenklatura:nomenklatura N1 ; ! 0.9999999670517788
@@ -19562,7 +19562,7 @@ nohaqlik:nohaqlik N1 ; ! 0.9999999999813092
 nohaq:nohaq A1 ; ! 0.999983512173924
 nochorlik:nochorlik N1 ; ! 0.9999999999902828
 nochor:nochor A2 ; ! 0.9999980579056542
-noshar’iy:noshar’iy N1 ; ! 0.9439940220057745
+nosharʼiy:nosharʼiy N1 ; ! 0.9439940220057745
 noshir:noshir N1 ; ! 0.9999998283831711
 noshoyen:noshoyen N1 ; ! 0.9905021917671756
 noshudlik:noshudlik N1 ; ! 0.9999999999956758
@@ -20491,11 +20491,11 @@ obxona:obxona N1 ; ! 0.9999999999976557
 ob%-havo:ob%-havo A2 ; ! 0.9964171832509082
 ob%-havo:ob%-havo N1 ; ! "weather also havo or hava"
 obshchina:obshchina N1 ; ! 0.9999993513499494
-ob’ektivizm:ob’ektivizm N1 ; ! 0.9999999737462991
-ob’ektivlik:ob’ektivlik N1 ; ! 0.9999999999999852
-ob’ektiv:ob’ektiv A2 ; ! 0.9999986056468592
-ob’ektiv:ob’ektiv N1 ; ! 0.9982607395214521
-ob’ekt:ob’ekt N1 ; ! 0.9999990796234972
+obʼektivizm:obʼektivizm N1 ; ! 0.9999999737462991
+obʼektivlik:obʼektivlik N1 ; ! 0.9999999999999852
+obʼektiv:obʼektiv A2 ; ! 0.9999986056468592
+obʼektiv:obʼektiv N1 ; ! 0.9982607395214521
+obʼekt:obʼekt N1 ; ! 0.9999990796234972
 ovqatlanish:ovqatlanish N1-VN ; ! 0.9974931804117001
 ovqatlanish:ovqatlanish N1 ; ! "nourishment"
 ovqatlan:ovqatlan V-IV ; ! 0.946871507663381
@@ -21627,7 +21627,7 @@ oshena:oshena N1 ; ! 0.9999995117968474
 oshen:oshen N1 ; ! 0.9999918739673301
 oshiqlik:oshiqlik N1 ; ! 0.9999945916597411
 oshiqlik:oshiqlik N1 ; ! 0.9999999996521102
-oshiq%-ma’:oshiq%-ma’ V-IV ; ! 0.4294278513428999
+oshiq%-maʼ:oshiq%-maʼ V-IV ; ! 0.4294278513428999
 oshiq%-moshiq:oshiq%-moshiq N1 ; ! 0.9999927094625101
 oshiq:oshiq A1 ; ! "in love"
 oshiq:oshiq V-IV ; ! 0.9999818206768467
@@ -23138,7 +23138,7 @@ razolat:razolat N1 ; ! 0.9981260607075803
 razryadli:razryadli A2 ; ! 0.9986994937682538
 razryad:razryad A2 ; ! 0.9181229672516131
 razryad:razryad N1 ; ! 0.9999994144111324
-raz’ezd:raz’ezd N1 ; ! 0.999996409128602
+razʼezd:razʼezd N1 ; ! 0.999996409128602
 raisa:raisa N1 ; ! 0.9999999833739078
 raislik:raislik N1 ; ! 0.9999999999999705
 raislik:raislik N1 ; ! "guidance"
@@ -23317,10 +23317,10 @@ ratsiya:ratsiya N1 ; ! 0.9999999977470493
 rashqli:rashqli A2 ; ! 0.9997506339135483
 rashq:rashq N1 ; ! 0.9999999987001017
 rashqchi:rashqchi N1 ; ! 0.9999999997737405
-ra’y:ra’y N1 ; ! 0.999991786052262
-ra’no:ra’no A2 ; ! 0.9983599298510422
-ra’ya%-andisha:ra’ya%-andisha A2 ; ! 0.7951346207014963
-ra’ya:ra’ya N1 ; ! 0.9999960912386361
+raʼy:raʼy N1 ; ! 0.999991786052262
+raʼno:raʼno A2 ; ! 0.9983599298510422
+raʼya%-andisha:raʼya%-andisha A2 ; ! 0.7951346207014963
+raʼya:raʼya N1 ; ! 0.9999960912386361
 rVERB-IVojlantir:rVERB-IVojlantir VERB-TV ; ! "to develop"
 reabilitatsiya:reabilitatsiya N1 ; ! 0.9999999997396096
 reaksioner:reaksioner N1 ; ! 0.9999998394181078
@@ -23705,7 +23705,7 @@ ruboyyot:ruboyyot N1 ; ! 0.9999998097709072
 ruboyinavis:ruboyinavis N1 ; ! 0.7844177286831462
 ruboyi:ruboyi N1 ; ! 0.9999994436501631
 rubrika:rubrika N1 ; ! 0.9999999999997833
-rub’:rub’ N1 ; ! 0.9997539752858393
+rubʼ:rubʼ N1 ; ! 0.9997539752858393
 ruvvos:ruvvos N1 ; ! 0.9999636310574601
 ruda:ruda N1 ; ! 0.9999999185099424
 ruda:ruda N1 ;  ! "ore"
@@ -23773,7 +23773,7 @@ ruhsizlik:ruhsizlik N1 ; ! 0.9999999999999803
 ruhsiz:ruhsiz A1 ; ! 0.9999996458871245
 ruchka:ruchka N1 ; ! 0.999999999964293
 rushnolik:rushnolik N1 ; ! 0.9999999886023866
-ru’yo:ru’yo N1 ; ! 0.9999993288358944
+ruʼyo:ruʼyo N1 ; ! 0.9999993288358944
 ryumka:ryumka N1 ; ! 0.9999999948547161
 ryadovoy:ryadovoy N1 ; ! 0.9997265405081484
 S%0:S%0 MIST ; ! ""
@@ -24226,12 +24226,12 @@ sanchish:sanchish V-IV-COOP ; ! 0.9992729765441227
 sanchqi:sanchqi N1 ; ! 0.9999999173553964
 sanchmoq:sanchmoq N1 ; ! 0.9581134890807819
 sanchtir:sanchtir V-TV-CAUS ; ! 0.9999999998771235
-san’atkorlik:san’atkorlik N1 ; ! 0.9999999999999557
-san’atkorona:san’atkorona ADV ; ! 0.8675494911333574
-san’atkor:san’atkor N1 ; ! 0.9999999998933025
-san’at:san’at N1 ; ! 0.9999999999999705
-san’atshunoslik:san’atshunoslik N1 ; ! 0.9999992786890789
-san’atshunos:san’atshunos N1 ; ! 0.9999891731120306
+sanʼatkorlik:sanʼatkorlik N1 ; ! 0.9999999999999557
+sanʼatkorona:sanʼatkorona ADV ; ! 0.8675494911333574
+sanʼatkor:sanʼatkor N1 ; ! 0.9999999998933025
+sanʼat:sanʼat N1 ; ! 0.9999999999999705
+sanʼatshunoslik:sanʼatshunoslik N1 ; ! 0.9999992786890789
+sanʼatshunos:sanʼatshunos N1 ; ! 0.9999891731120306
 saodatli:saodatli A2 ; ! 0.9999999997820197
 saodatmand:saodatmand N1 ; ! 0.8686778148476598
 saodat:saodat N1 ; ! 0.9999602794112413
@@ -24494,7 +24494,7 @@ sachratqi:sachratqi N1 ; ! 0.9988952505783041
 sachratqi:sachratqi N1 ; ! 0.9999872862103618
 sachrat:sachrat V-TV-CAUS ; ! 0.9999999808540705
 sachrattir:sachrattir V-TV-CAUS ; ! 0.9999999999973405
-sa’va:sa’va N1 ; ! 0.9999999801068431
+saʼva:saʼva N1 ; ! 0.9999999801068431
 sayasirlash:sayasirlash V-IV-COOP ; ! 0.7407637346424614
 Sbc:Sbc ABBR ; !
 SBc:SBc ABBR ; !
@@ -24770,7 +24770,7 @@ sermazmun:sermazmun N1 ; ! 0.6586338091071987
 sermanzara:sermanzara N1 ; ! 0.9999693739849544
 sermaxsul:sermaxsul A2 ; ! 0.9996018948304587
 sermashaqqat:sermashaqqat A2 ; ! 0.9999902257847312
-serma’no:serma’no N1 ; ! 0.9811506667095403
+sermaʼno:sermaʼno N1 ; ! 0.9811506667095403
 sermeva:sermeva A2 ; ! 0.9060064892077571
 sermehnat:sermehnat N1 ; ! 0.9999619198244474
 sermoi:sermoi N1 ; ! 0.9991979533713372
@@ -24819,7 +24819,7 @@ sertavoze:sertavoze A2 ; ! 0.9996586518889391
 sertajang:sertajang A2 ; ! 0.9965270429447
 sertakalluf:sertakalluf N1 ; ! 0.9999799281053925
 sertashvish:sertashvish A2 ; ! 0.9964915100487628
-serta’zim:serta’zim N1 ; ! 0.9999856629494772
+sertaʼzim:sertaʼzim N1 ; ! 0.9999856629494772
 sertifika:sertifika N1 ; ! "certificate"
 sertola:sertola A2 ; ! 0.9999371230724117
 sertomir:sertomir A2 ; ! 0.9622662667664063
@@ -25240,7 +25240,7 @@ sirachlan:sirachlan V-TV ; ! 0.9986282213604823
 sirachla:sirachla V-TV ; ! 0.9635663807631164
 sirachli:sirachli A2 ; ! 0.9999999203099358
 sirach:sirach N1 ; ! 0.7973483942419755
-sir%-a’mol:sir%-a’mol N1 ; ! 0.9582006030109231
+sir%-aʼmol:sir%-aʼmol N1 ; ! 0.9582006030109231
 sirgʻalik:sirgʻalik N1 ; ! 0.9999988668843617
 sirgʻal:sirgʻal V-IV ; ! 0.7693317678776297
 sirgʻaltir:sirgʻaltir V-TV-CAUS ; ! 0.999999999998419
@@ -26060,8 +26060,8 @@ subxon:subxon N1 ; ! 0.9999999972543316
 subxon:subxon N1 ; ! 0.9999999998909729
 subhidam:subhidam N1 ; ! 0.9999994981318716
 subh:subh N1 ; ! 0.999999857923916
-sub’ektiv:sub’ektiv N1 ; ! 0.9251483194661606
-sub’ekt:sub’ekt N1 ; ! 0.9999998928299866
+subʼektiv:subʼektiv N1 ; ! 0.9251483194661606
+subʼekt:subʼekt N1 ; ! 0.9999998928299866
 suval:suval V-TV ; ! 0.9998693609763761
 suvarak:suvarak N1 ; ! 0.9999995042573472
 suva:suva V-TV ; ! 0.9808247215232062
@@ -26181,7 +26181,7 @@ suz:suz V-TV ; ! 0.9999991382152408
 suzuvchi:suzuvchi N1 ; ! 0.9954641264152779
 suzuvchi:suzuvchi N1 ; ! 0.9998660620907744
 suzuk:suzuk A2 ; ! 0.9999947854585302
-suiiste’mol:suiiste’mol N1 ; ! 0.9999999999906325
+suiisteʼmol:suiisteʼmol N1 ; ! 0.9999999999906325
 suikasdchi:suikasdchi N1 ; ! 0.999999992497491
 suiqasd:suiqasd N1 ; ! 0.9999998945731369
 suydir:suydir V-TV-CAUS ; ! 0.999999627826988
@@ -26272,8 +26272,8 @@ sunnat:sunnat N1 ; !
 sunnii:sunnii N1 ; ! 0.9999996365222784
 sunniylik:sunniylik N1 ; ! 0.9999999999997636
 sun:sun VERB-TV ; ! "" ; ! "to offer, hold out"
-sun’iilik:sun’iilik N1 ; ! 0.9999999999750789
-sun’in:sun’in A1 ; ! 0.9996932215698033
+sunʼiilik:sunʼiilik N1 ; ! 0.9999999999750789
+sunʼin:sunʼin A1 ; ! 0.9996932215698033
 supa:supa N1 ; ! 0.9999999999911496
 supatogʻ:supatogʻ N1 ; ! 0.9999968910327468
 supacha:supacha N1 ; ! 0.9999999598687717
@@ -26378,7 +26378,7 @@ suru:suru N1 ; ! 0.9999992806940072
 surxon:surxon N1 ; ! 0.9999999999978625
 surx:surx N1 ; ! 0.9996209354372176
 surxun:surxun N1 ; ! 0.9999986745063356
-sur’at:sur’at N1 ; ! 0.9999999999972173
+surʼat:surʼat N1 ; ! 0.9999999999972173
 susayish:susayish N1-VN ; ! 0.9960545607411603
 susay:susay V-IV ; ! 0.9999987756555954
 susaytir:susaytir V-TV-CAUS ; ! 0.9999904045305268
@@ -26494,8 +26494,8 @@ sxolastik:sxolastik A2 ; ! 0.999994683861536
 sxolast:sxolast N1 ; ! 0.9999999991697501
 schyot:schyot N1 ; ! 0.998551313550796
 schyotchik:schyotchik N1 ; ! 0.9999853469129824
-s’ezd:s’ezd N1 ; ! 0.9999996250649547
-s’emka:s’emka N1 ; ! 0.9999999999941638
+sʼezd:sʼezd N1 ; ! 0.9999996250649547
+sʼemka:sʼemka N1 ; ! 0.9999999999941638
 syujet:syujet N1 ; ! 0.9999998959042873
 syuzeren:syuzeren N1 ; ! 0.9999999311645531
 taʼqib:taʼqib N1 ; ! ! "pursuit/following"
@@ -26573,8 +26573,8 @@ tabrikla:tabrikla V-TV ; ! 0.9777303260788119
 tabriklash:tabriklash V-IV ; ! 0.7517355524035673
 tabriknoma:tabriknoma N1 ; ! 0.9999999929824417
 tabrik:tabrik N1 ; ! 0.9995758650472729
-tab’:tab’ N1 ; ! 0.9999931214846726
-tab’:tab’ N1 ; ! 0.9999999999803341
+tabʼ:tabʼ N1 ; ! 0.9999931214846726
+tabʼ:tabʼ N1 ; ! 0.9999999999803341
 taburetka:taburetka N1 ; ! 0.9999999913714491
 tavajjux:tavajjux N1 ; ! 0.9999999996754109
 tavakkal:tavakkal N1 ; ! 0.9999999973655209
@@ -26934,7 +26934,7 @@ taltay:taltay V-IV ; ! 0.9999996230650197
 taltaytir:taltaytir V-TV-CAUS ; ! 0.999999999807975
 taltangla:taltangla V-IV ; ! 0.5780289457110134
 talxa:talxa N1 ; ! 0.9995845474746259
-tal’at:tal’at N1 ; ! 0.9999992948734859
+talʼat:talʼat N1 ; ! 0.9999992948734859
 tamagirlik:tamagirlik N1 ; ! 0.9999999999984437
 tamagir:tamagir A2 ; ! 0.5022738172602123
 tamada:tamada N1 ; ! 0.999999974195528
@@ -27329,20 +27329,20 @@ tasdiqlat:tasdiqlat V-TV-CAUS ; ! 0.999999997212552
 tasdiqlash:tasdiqlash V-IV-COOP ; ! 0.8759606853720069
 tasdiqlash:tasdiqlash N1-VN ; ! 0.99978573582862
 tasdiq:tasdiq N1 ; ! 0.9999999999960648
-ta’sip:ta’sip N1 ; ! 0.9999999941413046
+taʼsip:taʼsip N1 ; ! 0.9999999941413046
 tasira%-tusir:tasira%-tusir N1 ; ! 0.7674876773109307
-ta’sirlan:ta’sirlan V-IV ; ! 0.9907226329599987
-ta’sirlantir:ta’sirlantir V-TV-CAUS ; ! 0.999999999955078
+taʼsirlan:taʼsirlan V-IV ; ! 0.9907226329599987
+taʼsirlantir:taʼsirlantir V-TV-CAUS ; ! 0.999999999955078
 tasirla:tasirla V-IV ; ! 0.9927576918371555
-ta’sirla:ta’sirla V-TV ; ! 0.9989092942322406
+taʼsirla:taʼsirla V-TV ; ! 0.9989092942322406
 tasirlat:tasirlat V-TV-CAUS ; ! 0.9999996273985408
-ta’sirli:ta’sirli A2 ; ! 0.9999999999948237
-ta’sirot:ta’sirot N1 ; ! 0.9999999485210056
-ta’sirsiz:ta’sirsiz A2 ; ! 0.6940229203405508
-ta’sir:ta’sir N1 ; ! 0.9999999999999705
+taʼsirli:taʼsirli A2 ; ! 0.9999999999948237
+taʼsirot:taʼsirot N1 ; ! 0.9999999485210056
+taʼsirsiz:taʼsirsiz A2 ; ! 0.6940229203405508
+taʼsir:taʼsir N1 ; ! 0.9999999999999705
 tasir%-tusir:tasir%-tusir IDEO ; ! 0.9738394874432102
-ta’sirchan:ta’sirchan A2 ; ! 0.9993035591994732
-ta’sis:ta’sis N1 ; ! 0.9999999998702579
+taʼsirchan:taʼsirchan A2 ; ! 0.9993035591994732
+taʼsis:taʼsis N1 ; ! 0.9999999998702579
 taskin:taskin N1 ; ! 0.9999999994829524
 tasqara:tasqara N1 ; ! 0.9999999999811664
 taslim:taslim N1 ; ! 0.8780652505414009
@@ -27514,48 +27514,48 @@ tashnalik:tashnalik N1 ; ! 0.9999999990892394
 tashrif:tashrif N1 ; ! 0.9995459638414704
 tash:tash N1 ; ! 0.9999992557992573
 tashuvchi:tashuvchi N1 ; ! 0.9999991166438773
-ta’birlan:ta’birlan V-TV ; ! 0.9994961546206045
-ta’birla:ta’birla V-TV ; ! 0.9999015489204397
-ta’birnoma:ta’birnoma N1 ; ! 0.9999997868644118
-ta’bir:ta’bir N1 ; ! 0.999993217432424
-ta’b:ta’b N1 ; ! 0.9999999980186147
-ta’viya%-taraqqos:ta’viya%-taraqqos A2 ; ! 0.9529200882623877
-ta’viya:ta’viya N1 ; ! 0.9999988931672196
-ta’zimla:ta’zimla V-TV ; ! 0.9963957902060757
-ta’zim:ta’zim N1 ; ! 0.9999999999563143
-ta’zir:ta’zir N1 ; ! 0.9999998762058934
-ta’ziyanoma:ta’ziyanoma N1 ; ! 0.9999999999658837
-ta’ziya:ta’ziya N1 ; ! 0.9999999993612727
-ta’ziyaxona:ta’ziyaxona N1 ; ! 0.9999999265971643
-ta’ziyachi:ta’ziyachi N1 ; ! 0.9999999999941834
-ta’kidlan:ta’kidlan V-TV-CAUS ; ! 0.5757005404019326
-ta’kidla:ta’kidla V-TV ; ! 0.9999999996694318
-ta’kid:ta’kid N1 ; ! 0.9999999999529259
-ta’qib:ta’qib N1 ; ! 0.9999999998896973
-ta’limli:ta’limli N1 ; ! 0.6479760142727409
-ta’limsiz:ta’limsiz A1 ; ! 0.9971425672350304
-ta’lim%-tarbiya:ta’lim%-tarbiya N1 ; ! 0.9999131906962431
-ta’lim:ta’lim N1 ; ! 0.9999999999887461
-ta’minlan:ta’minlan V-TV-CAUS ; ! 0.8203624678125018
-ta’minla:ta’minla V-TV ; ! 0.999999999980531
-ta’minot:ta’minot N1 ; ! 0.9999999608387566
-ta’min:ta’min N1 ; ! 0.9976895907505059
-ta’mirot:ta’mirot N1 ; ! 0.9999999999980103
-ta’mir:ta’mir N1 ; ! 0.9999999997874964
-ta’mli:ta’mli A2 ; ! 0.9999999828516642
-ta’msiz:ta’msiz A1 ; ! 0.9694538806219628
-ta’m:ta’m N1 ; ! 0.9999999999979906
-ta’nali:ta’nali A2 ; ! 0.9999999996234755
-ta’na%-malomat:ta’na%-malomat N1 ; ! 0.9999928992097621
-ta’naomuz:ta’naomuz N1 ; ! 0.9726394409945742
-ta’na:ta’na N1 ; ! 0.9999999917858574
-ta’nachi:ta’nachi N1 ; ! 0.9999997833344998
-ta’rifi:ta’rifi A2 ; ! 0.9978938884937943
-ta’riflan:ta’riflan V-TV-CAUS ; ! 0.5733749843005371
-ta’rifla:ta’rifla V-TV ; ! 0.9999999999999359
-ta’rif:ta’rif N1 ; ! 0.999999999986515
-ta’til:ta’til N1 ; ! 0.8965742794073479
-ta’xir:ta’xir N1 ; ! 0.9999976919302753
+taʼbirlan:taʼbirlan V-TV ; ! 0.9994961546206045
+taʼbirla:taʼbirla V-TV ; ! 0.9999015489204397
+taʼbirnoma:taʼbirnoma N1 ; ! 0.9999997868644118
+taʼbir:taʼbir N1 ; ! 0.999993217432424
+taʼb:taʼb N1 ; ! 0.9999999980186147
+taʼviya%-taraqqos:taʼviya%-taraqqos A2 ; ! 0.9529200882623877
+taʼviya:taʼviya N1 ; ! 0.9999988931672196
+taʼzimla:taʼzimla V-TV ; ! 0.9963957902060757
+taʼzim:taʼzim N1 ; ! 0.9999999999563143
+taʼzir:taʼzir N1 ; ! 0.9999998762058934
+taʼziyanoma:taʼziyanoma N1 ; ! 0.9999999999658837
+taʼziya:taʼziya N1 ; ! 0.9999999993612727
+taʼziyaxona:taʼziyaxona N1 ; ! 0.9999999265971643
+taʼziyachi:taʼziyachi N1 ; ! 0.9999999999941834
+taʼkidlan:taʼkidlan V-TV-CAUS ; ! 0.5757005404019326
+taʼkidla:taʼkidla V-TV ; ! 0.9999999996694318
+taʼkid:taʼkid N1 ; ! 0.9999999999529259
+taʼqib:taʼqib N1 ; ! 0.9999999998896973
+taʼlimli:taʼlimli N1 ; ! 0.6479760142727409
+taʼlimsiz:taʼlimsiz A1 ; ! 0.9971425672350304
+taʼlim%-tarbiya:taʼlim%-tarbiya N1 ; ! 0.9999131906962431
+taʼlim:taʼlim N1 ; ! 0.9999999999887461
+taʼminlan:taʼminlan V-TV-CAUS ; ! 0.8203624678125018
+taʼminla:taʼminla V-TV ; ! 0.999999999980531
+taʼminot:taʼminot N1 ; ! 0.9999999608387566
+taʼmin:taʼmin N1 ; ! 0.9976895907505059
+taʼmirot:taʼmirot N1 ; ! 0.9999999999980103
+taʼmir:taʼmir N1 ; ! 0.9999999997874964
+taʼmli:taʼmli A2 ; ! 0.9999999828516642
+taʼmsiz:taʼmsiz A1 ; ! 0.9694538806219628
+taʼm:taʼm N1 ; ! 0.9999999999979906
+taʼnali:taʼnali A2 ; ! 0.9999999996234755
+taʼna%-malomat:taʼna%-malomat N1 ; ! 0.9999928992097621
+taʼnaomuz:taʼnaomuz N1 ; ! 0.9726394409945742
+taʼna:taʼna N1 ; ! 0.9999999917858574
+taʼnachi:taʼnachi N1 ; ! 0.9999997833344998
+taʼrifi:taʼrifi A2 ; ! 0.9978938884937943
+taʼriflan:taʼriflan V-TV-CAUS ; ! 0.5733749843005371
+taʼrifla:taʼrifla V-TV ; ! 0.9999999999999359
+taʼrif:taʼrif N1 ; ! 0.999999999986515
+taʼtil:taʼtil N1 ; ! 0.8965742794073479
+taʼxir:taʼxir N1 ; ! 0.9999976919302753
 tayammum:tayammum N1 ; ! 0.9999999826268134
 tayamoq:tayamoq N1 ; ! 0.911488690410505
 tayanish:tayanish V-IV-COOP ; ! 0.9670795449652853
@@ -29810,7 +29810,7 @@ uzor:uzor N1 ; ! 0.9922469518799655
 uzra:uzra ADV ; ! "over"
 uzrlilik:uzrlilik N1 ; ! 0.9999999984358944
 uzrli:uzrli A2 ; ! 0.9999999997578867
-uzr%-ma’zur:uzr%-ma’zur N1 ; ! 0.9863866304002737
+uzr%-maʼzur:uzr%-maʼzur N1 ; ! 0.9863866304002737
 uzrsiz:uzrsiz A1 ; ! 0.9999989368184492
 uzr:uzr N1 ; ! 0.9999998910726963
 uz:uz ABBR ; !
@@ -30678,13 +30678,13 @@ festival:festival N1 ; ! "festival"
 fetishizm:fetishizm N1 ; ! 0.9999999999993252
 fetishist:fetishist N1 ; ! 0.9999999891705617
 fetish:fetish N1 ; ! 0.9999998843001874
-fe’lan:fe’lan ADV ; ! 0.6654431049943469
-fe’l%-atvor:fe’l%-atvor N1 ; ! 0.9952729188046134
-fe’ldor:fe’ldor A2 ; ! 0.9999968975742093
-fe’llik:fe’llik N1 ; ! 0.9999999999878695
-fe’l:fe’l N1 ; ! 0.9729502378684927
-fe’l:fe’l N1 ; ! 0.9999999884060767
-fe’l%-xuy:fe’l%-xuy N1 ; ! 0.8748786905159364
+feʼlan:feʼlan ADV ; ! 0.6654431049943469
+feʼl%-atvor:feʼl%-atvor N1 ; ! 0.9952729188046134
+feʼldor:feʼldor A2 ; ! 0.9999968975742093
+feʼllik:feʼllik N1 ; ! 0.9999999999878695
+feʼl:feʼl N1 ; ! 0.9729502378684927
+feʼl:feʼl N1 ; ! 0.9999999884060767
+feʼl%-xuy:feʼl%-xuy N1 ; ! 0.8748786905159364
 fibra:fibra N1 ; ! 0.9999999998641409
 figʻon:figʻon N1 ; ! 0.9999999999257195
 figura:figura N1 ; ! 0.9999999999999113
@@ -30784,7 +30784,7 @@ firoq:firoq N1 ; ! 0.9999985158533155
 firuzalan:firuzalan V-IV ; ! 0.9999015574752198
 firuza:firuza A2 ; ! 0.9999447413275978
 firuz:firuz N1 ; ! 0.9999999852385533
-fir’avn:fir’avn N1 ; ! 0.9999993504488919
+firʼavn:firʼavn N1 ; ! 0.9999993504488919
 fisk%-fasodchi:fisk%-fasodchi N1 ; ! 0.9999986245837041
 fisq%-fasod:fisq%-fasod N1 ; ! 0.9999933158905859
 fisq:fisq N1 ; ! 0.9999999968263202
@@ -30815,7 +30815,7 @@ fojiali:fojiali A2 ; ! 0.9997081755200354
 fojia:fojia A2 ; ! 0.9983711157515676
 fojiona:fojiona A2 ; ! 0.7233931257167269
 fojir:fojir N1 ; ! 0.9931907579863062
-foji’:foji’ N1 ; ! 0.999479259181162
+fojiʼ:fojiʼ N1 ; ! 0.999479259181162
 fozila:fozila N1 ; ! 0.999997407283979
 fozillik:fozillik N1 ; ! 0.9999999999904354
 fozil:fozil A1 ; ! 0.9479405161877856
@@ -31097,7 +31097,7 @@ xayriya:xayriya N1 ; ! 0.999999796798417
 xayrlashuv:xayrlashuv N1-VN ; ! 0.9770283394991506
 xayrlash:xayrlash V-IV ; ! 0.9998862902307569
 xayrli:xayrli N1 ; ! 0.9993235036107159
-xayr%-ma’zur:xayr%-ma’zur N1 ; ! 0.6491982735892663
+xayr%-maʼzur:xayr%-maʼzur N1 ; ! 0.6491982735892663
 xayr%-sadaqa:xayr%-sadaqa N1 ; ! 0.9980366025121308
 xayrsiz:xayrsiz N1 ; ! 0.6797692457909751
 xayr%-xushlash:xayr%-xushlash V-IV ; ! 0.9999952187026362
@@ -31394,7 +31394,7 @@ xil:xil N1 ; ! "type"
 xil%-xil:xil%-xil N1 ; ! 0.7362195814560518
 xil%-xish:xil%-xish N1 ; ! 0.9988488306936004
 xilxona:xilxona N1 ; ! 0.999999760506233
-xil’at:xil’at N1 ; ! 0.9999996609716433
+xilʼat:xilʼat N1 ; ! 0.9999996609716433
 ximizatsiyalashtirish:ximizatsiyalashtirish N1 ; ! 0.681422107971188
 ximizatsiyalashtir:ximizatsiyalashtir V-TV-CAUS ; ! 0.9999988222054881
 ximik:ximik A2 ; ! 0.9999997768808504
@@ -31952,13 +31952,13 @@ xushtavoze:xushtavoze A1 ; ! 0.52422000668214
 xushtakalluflik:xushtakalluflik N1 ; ! 0.9999999999997882
 xushtakallufliliq:xushtakallufliliq N1 ; ! 0.9999778888876775
 xushtakalluf:xushtakalluf A2 ; ! 0.9875341891160743
-xushta’b:xushta’b A2 ; ! 0.8715885315616501
-xushta’mlik:xushta’mlik N1 ; ! 0.9999999669441603
-xushta’m:xushta’m A2 ; ! 0.9570489556115018
+xushtaʼb:xushtaʼb A2 ; ! 0.8715885315616501
+xushtaʼmlik:xushtaʼmlik N1 ; ! 0.9999999669441603
+xushtaʼm:xushtaʼm A2 ; ! 0.9570489556115018
 xushtorlik:xushtorlik N1 ; ! 0.9999999999922676
 xushtor:xushtor A2 ; ! 0.9775879749764093
-xushfe’llik:xushfe’llik N1 ; ! 0.9999999995706046
-xushfe’l:xushfe’l N1 ; ! 0.7382533950940084
+xushfeʼllik:xushfeʼllik N1 ; ! 0.9999999995706046
+xushfeʼl:xushfeʼl N1 ; ! 0.7382533950940084
 xushxabar:xushxabar N1 ; ! 0.9999985934107289
 xushxatli:xushxatli A2 ; ! 0.9999975259408815
 xushxat:xushxat A2 ; ! 0.9999973544396309
@@ -32166,7 +32166,7 @@ hay:hay N1 ; ! 0.9999998757061379
 hay%-hay%-hay:hay%-hay%-hay N1 ; ! 0.9814685161008777
 hay%-huv:hay%-huv IDEO ; ! 0.8995045531600411
 hayshahar:hayshahar N1 ; ! 0.9999994827418536
-hay’at:hay’at N1 ; ! 0.9981843376603141
+hayʼat:hayʼat N1 ; ! 0.9981843376603141
 hakalak:hakalak N1 ; ! 0.8668619337456132
 hakalak:hakalak N1 ; ! 0.9999806325355997
 hakamlik% qil:hakamlik% qil VERB-TV ; !
@@ -34588,7 +34588,7 @@ sharshara:sharshara N1 ; ! 0.9999999998274883
 shar:shar IDEO ; ! 0.7883787849551303
 shar:shar N1 ; ! "wild"
 shar%-shar:shar%-shar N1 ; ! 0.9927145569169546
-shar’ii:shar’ii N1 ; ! 0.8074428606156802
+sharʼii:sharʼii N1 ; ! 0.8074428606156802
 shassi:shassi N1 ; ! 0.9999991927534704
 shataklan:shataklan V-TV ; ! 0.9999980424287574
 shatakla:shatakla V-TV ; ! 0.991120949000209
@@ -34690,8 +34690,8 @@ shashlik:shashlik N1 ; ! 0.9999999999527337
 shashmaqom:shashmaqom N1 ; ! 0.9999995506775022
 shashpar:shashpar N1 ; ! 0.9999999911206626
 shasht:shasht N1 ; ! 0.9999999025882305
-sha’bon:sha’bon N1 ; ! 0.9999999925639849
-sha’n:sha’n N1 ; ! 0.9999999999787088
+shaʼbon:shaʼbon N1 ; ! 0.9999999925639849
+shaʼn:shaʼn N1 ; ! 0.9999999999787088
 shved:shved N1 ; ! 0.9999986685723948
 shved:shved N1 ; !
 Shved:Shved N1-NAT ; ! "Swedish"
@@ -34731,9 +34731,9 @@ shef%-povar:shef%-povar N1 ; ! 0.998375251205388
 shef:shef N1 ; ! 0.9999999999917258
 shef:shef N1 ; ! "chef"
 she:she MIST ; ! ""
-she’riyat:she’riyat N1 ; ! 0.9999999995518103
-she’rxonlik:she’rxonlik N1 ; ! 0.9999999999887117
-she’r:she’r N1 ; ! 0.814618337466639
+sheʼriyat:sheʼriyat N1 ; ! 0.9999999995518103
+sheʼrxonlik:sheʼrxonlik N1 ; ! 0.9999999999887117
+sheʼr:sheʼr N1 ; ! 0.814618337466639
 shia:shia N1 ; ! 0.9999999998348366
 shibbalan:shibbalan V-TV ; ! 0.9999042231135523
 shibbala:shibbala V-TV ; ! 0.6100856759669842
@@ -35400,7 +35400,7 @@ shunchalik:shunchalik N1 ; ! 0.9927645797959405
 shuncha:shuncha ADV ; ! 0.8435537351574585
 shurliq:shurliq N1 ; ! 0.9999999896503557
 shurup:shurup N1 ; ! 0.9999996932492176
-shuru’:shuru’ N1 ; ! 0.9999913557056277
+shuruʼ:shuruʼ N1 ; ! 0.9999913557056277
 shu% sababdan:shu% sababdan CA ; ! ""
 shu% sababli:shu% sababli CA ; ! "hence"
 shu% kunlarda:shu% kunlarda ADV ; ! "nowadays"
@@ -35424,10 +35424,10 @@ shu:shu ADV ; ! 0.8503818585796361
 shu:shu N1 ; ! "that"  should i write N1 for pronouns as well?
 shu:shu PRON-DEM-BU ; ! "this"
 shu%-shu:shu%-shu ADV ; ! 0.8123126354659929
-shu’ba:shu’ba N1 ; ! 0.9999999915177149
-shu’lalantir:shu’lalantir V-TV-CAUS ; ! 0.99998046341956
-shu’lalan:shu’lalan V-IV ; ! 0.6774286019244009
-shu’la:shu’la N1 ; ! 0.9999999999345108
+shuʼba:shuʼba N1 ; ! 0.9999999915177149
+shuʼlalantir:shuʼlalantir V-TV-CAUS ; ! 0.99998046341956
+shuʼlalan:shuʼlalan V-IV ; ! 0.6774286019244009
+shuʼla:shuʼla N1 ; ! 0.9999999999345108
 shchit:shchit N1 ; ! 0.9999999983000403
 shchi:shchi N1 ; ! 0.9999999116298887
 sh:sh ABBR ; !
@@ -36183,8 +36183,8 @@ eshonparast:eshonparast N1 ; ! 0.9999999976098899
 eshon:eshon N1 ; ! 0.9999999305511015
 esh:esh V-TV ; ! 0.6083215363231536
 esh:esh N1 ; ! 0.999999999328112
-e’lonnoma:e’lonnoma N1 ; ! 0.9999999997185104
-e’lon:e’lon N1 ; ! 0.9999999999997586
+eʼlonnoma:eʼlonnoma N1 ; ! 0.9999999997185104
+eʼlon:eʼlon N1 ; ! 0.9999999999997586
 yuan:yuan N1 ; ! 0.9999999874312699
 yubiley:yubiley A2 ; ! 0.7364574470594741
 yubilyar:yubilyar N1 ; ! 0.9994612834042468
@@ -36951,8 +36951,8 @@ yashovchi:yashovci N1 ; ! "inhabitant
 yashovchi:yashovchi N1 ; ! 0.9986073423698162
 yashovchi:yashovchi N1 ; ! "inhabitant"
 yashshamagur:yashshamagur N1 ; ! 0.9990141311145639
-ya’juj%-ma’juj:ya’juj%-ma’juj N1 ; ! 0.999538887104286
-ya’ni:ya’ni N1 ; ! 0.9999634232140625
+yaʼjuj%-maʼjuj:yaʼjuj%-maʼjuj N1 ; ! 0.999538887104286
+yaʼni:yaʼni N1 ; ! 0.9999634232140625
 ya:ya CA ; !
 
 LEXICON Hardcoded
@@ -46182,7 +46182,7 @@ viza:viza N1 ; ! "visa"
 qayd% qil:qayd% qil V-TV ; ! "note"
 qayd% qil:qayd% qil V-IV ; ! "vomit"
 vakolatli:vakolatli A1 ; ! "authorized"
-e’lon% qil:e’lon% qil V-TV ; ! "announce"
+eʼlon% qil:eʼlon% qil V-TV ; ! "announce"
 media:media N1 ; ! "media"
 ommaviy% axborot% vositalari:ommaviy% axborot% vositalari N1 ; ! "media"
 
@@ -46300,7 +46300,7 @@ Abdunazir:Abdunazir   NP-ANT-M  ; ! From Uzbek names book.
 Abduniyoz:Abduniyoz   NP-ANT-M  ; ! From Uzbek names book.
 Abdunosir:Abdunosir   NP-ANT-M  ; ! From Uzbek names book.
 Abdunozir:Abdunozir   NP-ANT-M  ; ! From Uzbek names book.
-Abdunu’mon:Abdunu’mon   NP-ANT-M  ; ! From Uzbek names book.
+Abdunuʼmon:Abdunuʼmon   NP-ANT-M  ; ! From Uzbek names book.
 Abdunur:Abdunur   NP-ANT-M  ; ! From Uzbek names book.
 Abduomil:Abduomil   NP-ANT-M  ; ! From Uzbek names book.
 Abduqahhor:Abduqahhor   NP-ANT-M  ; ! From Uzbek names book.
@@ -46386,7 +46386,7 @@ Abuali:Abuali   NP-ANT-M  ; ! From Uzbek names book.
 Abuhanifa:Abuhanifa   NP-ANT-M  ; ! From Uzbek names book.
 Abuhasan:Abuhasan   NP-ANT-M  ; ! From Uzbek names book.
 Abulabbos:Abulabbos   NP-ANT-M  ; ! From Uzbek names book.
-Abula’lo:Abula’lo   NP-ANT-M  ; ! From Uzbek names book.
+Abulaʼlo:Abulaʼlo   NP-ANT-M  ; ! From Uzbek names book.
 Abulfadl:Abulfadl   NP-ANT-M  ; ! From Uzbek names book.
 Abulfaraj:Abulfaraj   NP-ANT-M  ; ! From Uzbek names book.
 Abulfath:Abulfath   NP-ANT-M  ; ! From Uzbek names book.
@@ -46491,7 +46491,7 @@ Akmal:Akmal   NP-ANT-M  ; ! From Uzbek names book.
 Akobir:Akobir   NP-ANT-M  ; ! From Uzbek names book.
 Akram:Akram   NP-ANT-M  ; ! From Uzbek names book.
 Akrom:Akrom   NP-ANT-M  ; ! From Uzbek names book.
-A’lam:A’lam   NP-ANT-M  ; ! From Uzbek names book.
+Aʼlam:Aʼlam   NP-ANT-M  ; ! From Uzbek names book.
 Alaviy:Alaviy   NP-ANT-M  ; ! From Uzbek names book.
 Aldanmurod:Aldanmurod   NP-ANT-M  ; ! From Uzbek names book.
 Aliabbos:Aliabbos   NP-ANT-M  ; ! From Uzbek names book.
@@ -46552,11 +46552,11 @@ Alizod:Alizod   NP-ANT-M  ; ! From Uzbek names book.
 Alloma:Alloma   NP-ANT-M  ; ! From Uzbek names book.
 Alohida:Alohida   NP-ANT-M  ; ! From Uzbek names book.
 Alohiddin:Alohiddin   NP-ANT-M  ; ! From Uzbek names book.
-A’loiddin:A’loiddin   NP-ANT-M  ; ! From Uzbek names book.
+Aʼloiddin:Aʼloiddin   NP-ANT-M  ; ! From Uzbek names book.
 Aloiddin:Aloiddin   NP-ANT-M  ; ! From Uzbek names book.
 Alomat:Alomat   NP-ANT-M  ; ! From Uzbek names book.
-A’lo:A’lo   NP-ANT-M  ; ! From Uzbek names book.
-A’loqul:A’loqul   NP-ANT-M  ; ! From Uzbek names book.
+Aʼlo:Aʼlo   NP-ANT-M  ; ! From Uzbek names book.
+Aʼloqul:Aʼloqul   NP-ANT-M  ; ! From Uzbek names book.
 Alouddin:Alouddin   NP-ANT-M  ; ! From Uzbek names book.
 Alpon:Alpon   NP-ANT-M  ; ! From Uzbek names book.
 Alvonboy:Alvonboy   NP-ANT-M  ; ! From Uzbek names book.
@@ -46743,9 +46743,9 @@ Ayyub:Ayyub   NP-ANT-M  ; ! From Uzbek names book.
 Azalboy:Azalboy   NP-ANT-M  ; ! From Uzbek names book.
 Azamat:Azamat   NP-ANT-M  ; ! From Uzbek names book.
 Azamatulla:Azamatulla   NP-ANT-M  ; ! From Uzbek names book.
-A’zamiddin:A’zamiddin   NP-ANT-M  ; ! From Uzbek names book.
-A’zam:A’zam   NP-ANT-M  ; ! From Uzbek names book.
-A’zamqul:A’zamqul   NP-ANT-M  ; ! From Uzbek names book.
+Aʼzamiddin:Aʼzamiddin   NP-ANT-M  ; ! From Uzbek names book.
+Aʼzam:Aʼzam   NP-ANT-M  ; ! From Uzbek names book.
+Aʼzamqul:Aʼzamqul   NP-ANT-M  ; ! From Uzbek names book.
 Azhar:Azhar   NP-ANT-M  ; ! From Uzbek names book.
 Azimat:Azimat   NP-ANT-M  ; ! From Uzbek names book.
 Azimbek:Azimbek   NP-ANT-M  ; ! From Uzbek names book.
@@ -48167,7 +48167,7 @@ Gʻafur:Gʻafur   NP-ANT-M  ; ! From Uzbek names book.
 Gʻalil:Gʻalil   NP-ANT-M  ; ! From Uzbek names book.
 Gandum:Gandum   NP-ANT-M  ; ! From Uzbek names book.
 Gʻaniakbar:Gʻaniakbar   NP-ANT-M  ; ! From Uzbek names book.
-Gʻaniis’hoq:Gʻaniis’hoq   NP-ANT-M  ; ! From Uzbek names book.
+Gʻaniisʼhoq:Gʻaniisʼhoq   NP-ANT-M  ; ! From Uzbek names book.
 Gʻanimirza:Gʻanimirza   NP-ANT-M  ; ! From Uzbek names book.
 Gʻani:Gʻani   NP-ANT-M  ; ! From Uzbek names book.
 Gʻaniqul:Gʻaniqul   NP-ANT-M  ; ! From Uzbek names book.
@@ -48699,16 +48699,16 @@ Inob:Inob   NP-ANT-M  ; ! From Uzbek names book.
 Inod:Inod   NP-ANT-M  ; ! From Uzbek names book.
 Inogʻom:Inogʻom   NP-ANT-M  ; ! From Uzbek names book.
 Inol:Inol   NP-ANT-M  ; ! From Uzbek names book.
-In’omali:In’omali   NP-ANT-M  ; ! From Uzbek names book.
-In’omiddin:In’omiddin   NP-ANT-M  ; ! From Uzbek names book.
-In’ommirza:In’ommirza   NP-ANT-M  ; ! From Uzbek names book.
-In’ommuhammad:In’ommuhammad   NP-ANT-M  ; ! From Uzbek names book.
-In’omnazar:In’omnazar   NP-ANT-M  ; ! From Uzbek names book.
-In’om:In’om   NP-ANT-M  ; ! From Uzbek names book.
-In’omqul:In’omqul   NP-ANT-M  ; ! From Uzbek names book.
-In’omtoʻra:In’omtoʻra   NP-ANT-M  ; ! From Uzbek names book.
-In’omulla:In’omulla   NP-ANT-M  ; ! From Uzbek names book.
-In’omxon:In’omxon   NP-ANT-M  ; ! From Uzbek names book.
+Inʼomali:Inʼomali   NP-ANT-M  ; ! From Uzbek names book.
+Inʼomiddin:Inʼomiddin   NP-ANT-M  ; ! From Uzbek names book.
+Inʼommirza:Inʼommirza   NP-ANT-M  ; ! From Uzbek names book.
+Inʼommuhammad:Inʼommuhammad   NP-ANT-M  ; ! From Uzbek names book.
+Inʼomnazar:Inʼomnazar   NP-ANT-M  ; ! From Uzbek names book.
+Inʼom:Inʼom   NP-ANT-M  ; ! From Uzbek names book.
+Inʼomqul:Inʼomqul   NP-ANT-M  ; ! From Uzbek names book.
+Inʼomtoʻra:Inʼomtoʻra   NP-ANT-M  ; ! From Uzbek names book.
+Inʼomulla:Inʼomulla   NP-ANT-M  ; ! From Uzbek names book.
+Inʼomxon:Inʼomxon   NP-ANT-M  ; ! From Uzbek names book.
 Inonch:Inonch   NP-ANT-M  ; ! From Uzbek names book.
 Inoqmirza:Inoqmirza   NP-ANT-M  ; ! From Uzbek names book.
 Inoq:Inoq   NP-ANT-M  ; ! From Uzbek names book.
@@ -48743,11 +48743,11 @@ Isfandiyor:Isfandiyor   NP-ANT-M  ; ! From Uzbek names book.
 Isfan:Isfan   NP-ANT-M  ; ! From Uzbek names book.
 Ishchanboy:Ishchanboy   NP-ANT-M  ; ! From Uzbek names book.
 Ishiq:Ishiq   NP-ANT-M  ; ! From Uzbek names book.
-Is’hoqali:Is’hoqali   NP-ANT-M  ; ! From Uzbek names book.
-Is’hoqnazar:Is’hoqnazar   NP-ANT-M  ; ! From Uzbek names book.
-Is’hoqqul:Is’hoqqul   NP-ANT-M  ; ! From Uzbek names book.
-Is’hoqtoʻra:Is’hoqtoʻra   NP-ANT-M  ; ! From Uzbek names book.
-Is’hoqxoʻja:Is’hoqxoʻja   NP-ANT-M  ; ! From Uzbek names book.
+Isʼhoqali:Isʼhoqali   NP-ANT-M  ; ! From Uzbek names book.
+Isʼhoqnazar:Isʼhoqnazar   NP-ANT-M  ; ! From Uzbek names book.
+Isʼhoqqul:Isʼhoqqul   NP-ANT-M  ; ! From Uzbek names book.
+Isʼhoqtoʻra:Isʼhoqtoʻra   NP-ANT-M  ; ! From Uzbek names book.
+Isʼhoqxoʻja:Isʼhoqxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Ishrat:Ishrat   NP-ANT-M  ; ! From Uzbek names book.
 Ishratxon:Ishratxon   NP-ANT-M  ; ! From Uzbek names book.
 Iskandarbek:Iskandarbek   NP-ANT-M  ; ! From Uzbek names book.
@@ -48817,7 +48817,7 @@ Istamqul:Istamqul   NP-ANT-M  ; ! From Uzbek names book.
 Istamtoy:Istamtoy   NP-ANT-M  ; ! From Uzbek names book.
 Istatpoʻlat:Istatpoʻlat   NP-ANT-M  ; ! From Uzbek names book.
 Istatulla:Istatulla   NP-ANT-M  ; ! From Uzbek names book.
-Iste’dod:Iste’dod   NP-ANT-M  ; ! From Uzbek names book.
+Isteʼdod:Isteʼdod   NP-ANT-M  ; ! From Uzbek names book.
 Itboy:Itboy   NP-ANT-M  ; ! From Uzbek names book.
 Itemas:Itemas   NP-ANT-M  ; ! From Uzbek names book.
 Itolmas:Itolmas   NP-ANT-M  ; ! From Uzbek names book.
@@ -48865,10 +48865,10 @@ Jabroil:Jabroil   NP-ANT-M  ; ! From Uzbek names book.
 Jadalboy:Jadalboy   NP-ANT-M  ; ! From Uzbek names book.
 Jadid:Jadid   NP-ANT-M  ; ! From Uzbek names book.
 Jadra:Jadra   NP-ANT-M  ; ! From Uzbek names book.
-Ja’farali:Ja’farali   NP-ANT-M  ; ! From Uzbek names book.
-Ja’far:Ja’far   NP-ANT-M  ; ! From Uzbek names book.
-Ja’farqul:Ja’farqul   NP-ANT-M  ; ! From Uzbek names book.
-Ja’farsodiq:Ja’farsodiq   NP-ANT-M  ; ! From Uzbek names book.
+Jaʼfarali:Jaʼfarali   NP-ANT-M  ; ! From Uzbek names book.
+Jaʼfar:Jaʼfar   NP-ANT-M  ; ! From Uzbek names book.
+Jaʼfarqul:Jaʼfarqul   NP-ANT-M  ; ! From Uzbek names book.
+Jaʼfarsodiq:Jaʼfarsodiq   NP-ANT-M  ; ! From Uzbek names book.
 Jagʻalboy:Jagʻalboy   NP-ANT-M  ; ! From Uzbek names book.
 Jahonbaxsh:Jahonbaxsh   NP-ANT-M  ; ! From Uzbek names book.
 Jahonbin:Jahonbin   NP-ANT-M  ; ! From Uzbek names book.
@@ -49115,10 +49115,10 @@ Jumayor:Jumayor   NP-ANT-M  ; ! From Uzbek names book.
 Junayd:Junayd   NP-ANT-M  ; ! From Uzbek names book.
 Junaydulla:Junaydulla   NP-ANT-M  ; ! From Uzbek names book.
 Junayiddin:Junayiddin   NP-ANT-M  ; ! From Uzbek names book.
-Jur’at:Jur’at   NP-ANT-M  ; ! From Uzbek names book.
+Jurʼat:Jurʼat   NP-ANT-M  ; ! From Uzbek names book.
 Juvonbaxt:Juvonbaxt   NP-ANT-M  ; ! From Uzbek names book.
 Juvonmardi:Juvonmardi   NP-ANT-M  ; ! From Uzbek names book.
-Ka’ba:Ka’ba   NP-ANT-M  ; ! From Uzbek names book.
+Kaʼba:Kaʼba   NP-ANT-M  ; ! From Uzbek names book.
 Kabirali:Kabirali   NP-ANT-M  ; ! From Uzbek names book.
 Kabirulla:Kabirulla   NP-ANT-M  ; ! From Uzbek names book.
 Kadxudo:Kadxudo   NP-ANT-M  ; ! From Uzbek names book.
@@ -49148,7 +49148,7 @@ Kamolturdi:Kamolturdi   NP-ANT-M  ; ! From Uzbek names book.
 Kamolxoʻja:Kamolxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Kamtar:Kamtar   NP-ANT-M  ; ! From Uzbek names book.
 Kanalboy:Kanalboy   NP-ANT-M  ; ! From Uzbek names book.
-Kan’on:Kan’on   NP-ANT-M  ; ! From Uzbek names book.
+Kanʼon:Kanʼon   NP-ANT-M  ; ! From Uzbek names book.
 Karamali:Karamali   NP-ANT-M  ; ! From Uzbek names book.
 Karamxudo:Karamxudo   NP-ANT-M  ; ! From Uzbek names book.
 Karimali:Karimali   NP-ANT-M  ; ! From Uzbek names book.
@@ -49407,7 +49407,7 @@ Kuzmamat:Kuzmamat   NP-ANT-M  ; ! From Uzbek names book.
 Kuzmuhammad:Kuzmuhammad   NP-ANT-M  ; ! From Uzbek names book.
 Kuzmurod:Kuzmurod   NP-ANT-M  ; ! From Uzbek names book.
 Lafas:Lafas   NP-ANT-M  ; ! From Uzbek names book.
-La’li:La’li   NP-ANT-M  ; ! From Uzbek names book.
+Laʼli:Laʼli   NP-ANT-M  ; ! From Uzbek names book.
 Lapar:Lapar   NP-ANT-M  ; ! From Uzbek names book.
 Laqay:Laqay   NP-ANT-M  ; ! From Uzbek names book.
 Lashkar:Lashkar   NP-ANT-M  ; ! From Uzbek names book.
@@ -49437,14 +49437,14 @@ Lutfiy:Lutfiy   NP-ANT-M  ; ! From Uzbek names book.
 Lutfiyor:Lutfiyor   NP-ANT-M  ; ! From Uzbek names book.
 Lutfulla:Lutfulla   NP-ANT-M  ; ! From Uzbek names book.
 Mabruk:Mabruk   NP-ANT-M  ; ! From Uzbek names book.
-Ma’bud:Ma’bud   NP-ANT-M  ; ! From Uzbek names book.
+Maʼbud:Maʼbud   NP-ANT-M  ; ! From Uzbek names book.
 Madabdulla:Madabdulla   NP-ANT-M  ; ! From Uzbek names book.
 Madad:Madad   NP-ANT-M  ; ! From Uzbek names book.
 Madahmad:Madahmad   NP-ANT-M  ; ! From Uzbek names book.
 Madali:Madali   NP-ANT-M  ; ! From Uzbek names book.
 Madamin:Madamin   NP-ANT-M  ; ! From Uzbek names book.
 Madanboy:Madanboy   NP-ANT-M  ; ! From Uzbek names book.
-Ma’dan:Ma’dan   NP-ANT-M  ; ! From Uzbek names book.
+Maʼdan:Maʼdan   NP-ANT-M  ; ! From Uzbek names book.
 Madariq:Madariq   NP-ANT-M  ; ! From Uzbek names book.
 Madayub:Madayub   NP-ANT-M  ; ! From Uzbek names book.
 Madazim:Madazim   NP-ANT-M  ; ! From Uzbek names book.
@@ -49583,7 +49583,7 @@ Mallaoxun:Mallaoxun   NP-ANT-M  ; ! From Uzbek names book.
 Mallaqul:Mallaqul   NP-ANT-M  ; ! From Uzbek names book.
 Mallatoy:Mallatoy   NP-ANT-M  ; ! From Uzbek names book.
 Mallaxoʻja:Mallaxoʻja   NP-ANT-M  ; ! From Uzbek names book.
-Ma’lum:Ma’lum   NP-ANT-M  ; ! From Uzbek names book.
+Maʼlum:Maʼlum   NP-ANT-M  ; ! From Uzbek names book.
 Mamadali:Mamadali   NP-ANT-M  ; ! From Uzbek names book.
 Mamadamin:Mamadamin   NP-ANT-M  ; ! From Uzbek names book.
 Mamadazim:Mamadazim   NP-ANT-M  ; ! From Uzbek names book.
@@ -49614,7 +49614,7 @@ Mamanazar:Mamanazar   NP-ANT-M  ; ! From Uzbek names book.
 Mamanberdi:Mamanberdi   NP-ANT-M  ; ! From Uzbek names book.
 Mamanboy:Mamanboy   NP-ANT-M  ; ! From Uzbek names book.
 Mamaniyoz:Mamaniyoz   NP-ANT-M  ; ! From Uzbek names book.
-Ma’man:Ma’man   NP-ANT-M  ; ! From Uzbek names book.
+Maʼman:Maʼman   NP-ANT-M  ; ! From Uzbek names book.
 Maman:Maman   NP-ANT-M  ; ! From Uzbek names book.
 Mamanosir:Mamanosir   NP-ANT-M  ; ! From Uzbek names book.
 Mamanqul:Mamanqul   NP-ANT-M  ; ! From Uzbek names book.
@@ -49690,7 +49690,7 @@ Mamatxon:Mamatxon   NP-ANT-M  ; ! From Uzbek names book.
 Mamatyoʻldosh:Mamatyoʻldosh   NP-ANT-M  ; ! From Uzbek names book.
 Mamausmon:Mamausmon   NP-ANT-M  ; ! From Uzbek names book.
 Mamaxalil:Mamaxalil   NP-ANT-M  ; ! From Uzbek names book.
-Mamaya’kub:Mamaya’kub   NP-ANT-M  ; ! From Uzbek names book.
+Mamayaʼkub:Mamayaʼkub   NP-ANT-M  ; ! From Uzbek names book.
 Mamay:Mamay   NP-ANT-M  ; ! From Uzbek names book.
 Mamayunus:Mamayunus   NP-ANT-M  ; ! From Uzbek names book.
 Mamayusuf:Mamayusuf   NP-ANT-M  ; ! From Uzbek names book.
@@ -49704,12 +49704,12 @@ Mamazuhur:Mamazuhur   NP-ANT-M  ; ! From Uzbek names book.
 Mamazulun:Mamazulun   NP-ANT-M  ; ! From Uzbek names book.
 Mamdud:Mamdud   NP-ANT-M  ; ! From Uzbek names book.
 Mamun:Mamun   NP-ANT-M  ; ! From Uzbek names book.
-Ma’murali:Ma’murali   NP-ANT-M  ; ! From Uzbek names book.
-Ma’mura:Ma’mura   NP-ANT-M  ; ! From Uzbek names book.
-Ma’mur:Ma’mur   NP-ANT-M  ; ! From Uzbek names book.
-Ma’murqul:Ma’murqul   NP-ANT-M  ; ! From Uzbek names book.
-Ma’murtoy:Ma’murtoy   NP-ANT-M  ; ! From Uzbek names book.
-Ma’murxoʻja:Ma’murxoʻja   NP-ANT-M  ; ! From Uzbek names book.
+Maʼmurali:Maʼmurali   NP-ANT-M  ; ! From Uzbek names book.
+Maʼmura:Maʼmura   NP-ANT-M  ; ! From Uzbek names book.
+Maʼmur:Maʼmur   NP-ANT-M  ; ! From Uzbek names book.
+Maʼmurqul:Maʼmurqul   NP-ANT-M  ; ! From Uzbek names book.
+Maʼmurtoy:Maʼmurtoy   NP-ANT-M  ; ! From Uzbek names book.
+Maʼmurxoʻja:Maʼmurxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Mangʻittoʻra:Mangʻittoʻra   NP-ANT-M  ; ! From Uzbek names book.
 Manguberdi:Manguberdi   NP-ANT-M  ; ! From Uzbek names book.
 Mangu:Mangu   NP-ANT-M  ; ! From Uzbek names book.
@@ -49748,8 +49748,8 @@ Maqsudmirza:Maqsudmirza   NP-ANT-M  ; ! From Uzbek names book.
 Maqsud:Maqsud   NP-ANT-M  ; ! From Uzbek names book.
 Maqsum:Maqsum   NP-ANT-M  ; ! From Uzbek names book.
 Maqsur:Maqsur   NP-ANT-M  ; ! From Uzbek names book.
-Ma’qul:Ma’qul   NP-ANT-M  ; ! From Uzbek names book.
-Ma’raka:Ma’raka   NP-ANT-M  ; ! From Uzbek names book.
+Maʼqul:Maʼqul   NP-ANT-M  ; ! From Uzbek names book.
+Maʼraka:Maʼraka   NP-ANT-M  ; ! From Uzbek names book.
 Mardali:Mardali   NP-ANT-M  ; ! From Uzbek names book.
 Mardiislom:Mardiislom   NP-ANT-M  ; ! From Uzbek names book.
 Mardijon:Mardijon   NP-ANT-M  ; ! From Uzbek names book.
@@ -49765,10 +49765,10 @@ Margʻub:Margʻub   NP-ANT-M  ; ! From Uzbek names book.
 Marhabiddin:Marhabiddin   NP-ANT-M  ; ! From Uzbek names book.
 Marhabulla:Marhabulla   NP-ANT-M  ; ! From Uzbek names book.
 Marqa:Marqa   NP-ANT-M  ; ! From Uzbek names book.
-Ma’rufali:Ma’rufali   NP-ANT-M  ; ! From Uzbek names book.
-Ma’rufkamol:Ma’rufkamol   NP-ANT-M  ; ! From Uzbek names book.
-Ma’ruf:Ma’ruf   NP-ANT-M  ; ! From Uzbek names book.
-Ma’rufxoʻja:Ma’rufxoʻja   NP-ANT-M  ; ! From Uzbek names book.
+Maʼrufali:Maʼrufali   NP-ANT-M  ; ! From Uzbek names book.
+Maʼrufkamol:Maʼrufkamol   NP-ANT-M  ; ! From Uzbek names book.
+Maʼruf:Maʼruf   NP-ANT-M  ; ! From Uzbek names book.
+Maʼrufxoʻja:Maʼrufxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Marzbon:Marzbon   NP-ANT-M  ; ! From Uzbek names book.
 Masaid:Masaid   NP-ANT-M  ; ! From Uzbek names book.
 Masalbek:Masalbek   NP-ANT-M  ; ! From Uzbek names book.
@@ -49777,7 +49777,7 @@ Masariddin:Masariddin   NP-ANT-M  ; ! From Uzbek names book.
 Masar:Masar   NP-ANT-M  ; ! From Uzbek names book.
 Masbut:Masbut   NP-ANT-M  ; ! From Uzbek names book.
 Mashalla:Mashalla   NP-ANT-M  ; ! From Uzbek names book.
-Mash’al:Mash’al   NP-ANT-M  ; ! From Uzbek names book.
+Mashʼal:Mashʼal   NP-ANT-M  ; ! From Uzbek names book.
 Masharif:Masharif   NP-ANT-M  ; ! From Uzbek names book.
 Mashat:Mashat   NP-ANT-M  ; ! From Uzbek names book.
 Mashatqul:Mashatqul   NP-ANT-M  ; ! From Uzbek names book.
@@ -49790,9 +49790,9 @@ Mashokir:Mashokir   NP-ANT-M  ; ! From Uzbek names book.
 Mashrab:Mashrab   NP-ANT-M  ; ! From Uzbek names book.
 Mashrabxon:Mashrabxon   NP-ANT-M  ; ! From Uzbek names book.
 Mashriq:Mashriq   NP-ANT-M  ; ! From Uzbek names book.
-Mas’hub:Mas’hub   NP-ANT-M  ; ! From Uzbek names book.
-Ma’shuqali:Ma’shuqali   NP-ANT-M  ; ! From Uzbek names book.
-Mas’hur:Mas’hur   NP-ANT-M  ; ! From Uzbek names book.
+Masʼhub:Masʼhub   NP-ANT-M  ; ! From Uzbek names book.
+Maʼshuqali:Maʼshuqali   NP-ANT-M  ; ! From Uzbek names book.
+Masʼhur:Masʼhur   NP-ANT-M  ; ! From Uzbek names book.
 Masih:Masih   NP-ANT-M  ; ! From Uzbek names book.
 Masira:Masira   NP-ANT-M  ; ! From Uzbek names book.
 Maslahiddin:Maslahiddin   NP-ANT-M  ; ! From Uzbek names book.
@@ -49800,11 +49800,11 @@ Masnad:Masnad   NP-ANT-M  ; ! From Uzbek names book.
 Masnun:Masnun   NP-ANT-M  ; ! From Uzbek names book.
 Masqar:Masqar   NP-ANT-M  ; ! From Uzbek names book.
 Maston:Maston   NP-ANT-M  ; ! From Uzbek names book.
-Ma’sudbaxt:Ma’sudbaxt   NP-ANT-M  ; ! From Uzbek names book.
-Ma’sumali:Ma’sumali   NP-ANT-M  ; ! From Uzbek names book.
-Ma’sum:Ma’sum   NP-ANT-M  ; ! From Uzbek names book.
-Ma’sumqul:Ma’sumqul   NP-ANT-M  ; ! From Uzbek names book.
-Ma’sumxoʻja:Ma’sumxoʻja   NP-ANT-M  ; ! From Uzbek names book.
+Maʼsudbaxt:Maʼsudbaxt   NP-ANT-M  ; ! From Uzbek names book.
+Maʼsumali:Maʼsumali   NP-ANT-M  ; ! From Uzbek names book.
+Maʼsum:Maʼsum   NP-ANT-M  ; ! From Uzbek names book.
+Maʼsumqul:Maʼsumqul   NP-ANT-M  ; ! From Uzbek names book.
+Maʼsumxoʻja:Maʼsumxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Matali:Matali   NP-ANT-M  ; ! From Uzbek names book.
 Matazim:Matazim   NP-ANT-M  ; ! From Uzbek names book.
 Matbobo:Matbobo   NP-ANT-M  ; ! From Uzbek names book.
@@ -49853,7 +49853,7 @@ Matusmon:Matusmon   NP-ANT-M  ; ! From Uzbek names book.
 Matvafo:Matvafo   NP-ANT-M  ; ! From Uzbek names book.
 Matvali:Matvali   NP-ANT-M  ; ! From Uzbek names book.
 Matxoliq:Matxoliq   NP-ANT-M  ; ! From Uzbek names book.
-Matya’kub:Matya’kub   NP-ANT-M  ; ! From Uzbek names book.
+Matyaʼkub:Matyaʼkub   NP-ANT-M  ; ! From Uzbek names book.
 Matyoqub:Matyoqub   NP-ANT-M  ; ! From Uzbek names book.
 Matyusuf:Matyusuf   NP-ANT-M  ; ! From Uzbek names book.
 Mavdud:Mavdud   NP-ANT-M  ; ! From Uzbek names book.
@@ -49904,7 +49904,7 @@ Mazhariddin:Mazhariddin   NP-ANT-M  ; ! From Uzbek names book.
 Mazhar:Mazhar   NP-ANT-M  ; ! From Uzbek names book.
 Mazid:Mazid   NP-ANT-M  ; ! From Uzbek names book.
 Mazohir:Mazohir   NP-ANT-M  ; ! From Uzbek names book.
-Ma’zur:Ma’zur   NP-ANT-M  ; ! From Uzbek names book.
+Maʼzur:Maʼzur   NP-ANT-M  ; ! From Uzbek names book.
 Mehmonali:Mehmonali   NP-ANT-M  ; ! From Uzbek names book.
 Mehmonbek:Mehmonbek   NP-ANT-M  ; ! From Uzbek names book.
 Mehmondor:Mehmondor   NP-ANT-M  ; ! From Uzbek names book.
@@ -50009,7 +50009,7 @@ Merganboʻl:Merganboʻl   NP-ANT-M  ; ! From Uzbek names book.
 Mergankeldi:Mergankeldi   NP-ANT-M  ; ! From Uzbek names book.
 Merganmirza:Merganmirza   NP-ANT-M  ; ! From Uzbek names book.
 Mergan:Mergan   NP-ANT-M  ; ! From Uzbek names book.
-Me’roj:Me’roj   NP-ANT-M  ; ! From Uzbek names book.
+Meʼroj:Meʼroj   NP-ANT-M  ; ! From Uzbek names book.
 Meros:Meros   NP-ANT-M  ; ! From Uzbek names book.
 Metiniddin:Metiniddin   NP-ANT-M  ; ! From Uzbek names book.
 Metin:Metin   NP-ANT-M  ; ! From Uzbek names book.
@@ -50069,7 +50069,7 @@ Mirashur:Mirashur   NP-ANT-M  ; ! From Uzbek names book.
 Mirasil:Mirasil   NP-ANT-M  ; ! From Uzbek names book.
 Mirasror:Mirasror   NP-ANT-M  ; ! From Uzbek names book.
 Mirayyub:Mirayyub   NP-ANT-M  ; ! From Uzbek names book.
-Mira’zam:Mira’zam   NP-ANT-M  ; ! From Uzbek names book.
+Miraʼzam:Miraʼzam   NP-ANT-M  ; ! From Uzbek names book.
 Mirazim:Mirazim   NP-ANT-M  ; ! From Uzbek names book.
 Miraziz:Miraziz   NP-ANT-M  ; ! From Uzbek names book.
 Mirbadal:Mirbadal   NP-ANT-M  ; ! From Uzbek names book.
@@ -50126,7 +50126,7 @@ Mirhusan:Mirhusan   NP-ANT-M  ; ! From Uzbek names book.
 Mirhusayn:Mirhusayn   NP-ANT-M  ; ! From Uzbek names book.
 Mirhusn:Mirhusn   NP-ANT-M  ; ! From Uzbek names book.
 Mirilyos:Mirilyos   NP-ANT-M  ; ! From Uzbek names book.
-Miris’hoq:Miris’hoq   NP-ANT-M  ; ! From Uzbek names book.
+Mirisʼhoq:Mirisʼhoq   NP-ANT-M  ; ! From Uzbek names book.
 Mirislom:Mirislom   NP-ANT-M  ; ! From Uzbek names book.
 Mirisman:Mirisman   NP-ANT-M  ; ! From Uzbek names book.
 Mirjahon:Mirjahon   NP-ANT-M  ; ! From Uzbek names book.
@@ -50141,7 +50141,7 @@ Mirkarim:Mirkarim   NP-ANT-M  ; ! From Uzbek names book.
 Mirkeldi:Mirkeldi   NP-ANT-M  ; ! From Uzbek names book.
 Mirkolon:Mirkolon   NP-ANT-M  ; ! From Uzbek names book.
 Mirkomil:Mirkomil   NP-ANT-M  ; ! From Uzbek names book.
-Mirma’di:Mirma’di   NP-ANT-M  ; ! From Uzbek names book.
+Mirmaʼdi:Mirmaʼdi   NP-ANT-M  ; ! From Uzbek names book.
 Mirmahmud:Mirmahmud   NP-ANT-M  ; ! From Uzbek names book.
 Mirmamad:Mirmamad   NP-ANT-M  ; ! From Uzbek names book.
 Mirmaqsud:Mirmaqsud   NP-ANT-M  ; ! From Uzbek names book.
@@ -50156,7 +50156,7 @@ Mirmulla:Mirmulla   NP-ANT-M  ; ! From Uzbek names book.
 Mirmurod:Mirmurod   NP-ANT-M  ; ! From Uzbek names book.
 Mirmuso:Mirmuso   NP-ANT-M  ; ! From Uzbek names book.
 Mirnazar:Mirnazar   NP-ANT-M  ; ! From Uzbek names book.
-Mirne’mat:Mirne’mat   NP-ANT-M  ; ! From Uzbek names book.
+Mirneʼmat:Mirneʼmat   NP-ANT-M  ; ! From Uzbek names book.
 Mirnosir:Mirnosir   NP-ANT-M  ; ! From Uzbek names book.
 Mir:Mir   NP-ANT-M  ; ! From Uzbek names book.
 Mirobiddin:Mirobiddin   NP-ANT-M  ; ! From Uzbek names book.
@@ -50190,8 +50190,8 @@ Mirrahmon:Mirrahmon   NP-ANT-M  ; ! From Uzbek names book.
 Mirrajab:Mirrajab   NP-ANT-M  ; ! From Uzbek names book.
 Mirrasul:Mirrasul   NP-ANT-M  ; ! From Uzbek names book.
 Mirroziq:Mirroziq   NP-ANT-M  ; ! From Uzbek names book.
-Mirsa’diy:Mirsa’diy   NP-ANT-M  ; ! From Uzbek names book.
-Mirsa’dulla:Mirsa’dulla   NP-ANT-M  ; ! From Uzbek names book.
+Mirsaʼdiy:Mirsaʼdiy   NP-ANT-M  ; ! From Uzbek names book.
+Mirsaʼdulla:Mirsaʼdulla   NP-ANT-M  ; ! From Uzbek names book.
 Mirsafo:Mirsafo   NP-ANT-M  ; ! From Uzbek names book.
 Mirsaiddin:Mirsaiddin   NP-ANT-M  ; ! From Uzbek names book.
 Mirsaid:Mirsaid   NP-ANT-M  ; ! From Uzbek names book.
@@ -50247,7 +50247,7 @@ Mirxond:Mirxond   NP-ANT-M  ; ! From Uzbek names book.
 Mirxon:Mirxon   NP-ANT-M  ; ! From Uzbek names book.
 Mirxudovand:Mirxudovand   NP-ANT-M  ; ! From Uzbek names book.
 Miryahyo:Miryahyo   NP-ANT-M  ; ! From Uzbek names book.
-Mirya’qub:Mirya’qub   NP-ANT-M  ; ! From Uzbek names book.
+Miryaʼqub:Miryaʼqub   NP-ANT-M  ; ! From Uzbek names book.
 Miryoʻldosh:Miryoʻldosh   NP-ANT-M  ; ! From Uzbek names book.
 Miryoqub:Miryoqub   NP-ANT-M  ; ! From Uzbek names book.
 Miryunus:Miryunus   NP-ANT-M  ; ! From Uzbek names book.
@@ -50257,7 +50257,7 @@ Mirzaahmad:Mirzaahmad   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaahror:Mirzaahror   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaakbar:Mirzaakbar   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaakram:Mirzaakram   NP-ANT-M  ; ! From Uzbek names book.
-Mirzaa’lam:Mirzaa’lam   NP-ANT-M  ; ! From Uzbek names book.
+Mirzaaʼlam:Mirzaaʼlam   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaali:Mirzaali   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaamin:Mirzaamin   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaaziz:Mirzaaziz   NP-ANT-M  ; ! From Uzbek names book.
@@ -50300,7 +50300,7 @@ Mirzamurod:Mirzamurod   NP-ANT-M  ; ! From Uzbek names book.
 Mirzanabi:Mirzanabi   NP-ANT-M  ; ! From Uzbek names book.
 Mirzanaqib:Mirzanaqib   NP-ANT-M  ; ! From Uzbek names book.
 Mirzanazar:Mirzanazar   NP-ANT-M  ; ! From Uzbek names book.
-Mirzane’mat:Mirzane’mat   NP-ANT-M  ; ! From Uzbek names book.
+Mirzaneʼmat:Mirzaneʼmat   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaniyoz:Mirzaniyoz   NP-ANT-M  ; ! From Uzbek names book.
 Mirzanodir:Mirzanodir   NP-ANT-M  ; ! From Uzbek names book.
 Mirzanor:Mirzanor   NP-ANT-M  ; ! From Uzbek names book.
@@ -50350,7 +50350,7 @@ Mirzaxoliq:Mirzaxoliq   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaxolmat:Mirzaxolmat   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaxol:Mirzaxol   NP-ANT-M  ; ! From Uzbek names book.
 Mirzaxon:Mirzaxon   NP-ANT-M  ; ! From Uzbek names book.
-Mirzaya’qub:Mirzaya’qub   NP-ANT-M  ; ! From Uzbek names book.
+Mirzayaʼqub:Mirzayaʼqub   NP-ANT-M  ; ! From Uzbek names book.
 Mirzayoʻldosh:Mirzayoʻldosh   NP-ANT-M  ; ! From Uzbek names book.
 Mirzayoqub:Mirzayoqub   NP-ANT-M  ; ! From Uzbek names book.
 Mirzayor:Mirzayor   NP-ANT-M  ; ! From Uzbek names book.
@@ -50430,15 +50430,15 @@ Mugʻtafi:Mugʻtafi   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadafzal:Muhammadafzal   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadahmad:Muhammadahmad   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadakbar:Muhammadakbar   NP-ANT-M  ; ! From Uzbek names book.
-Muhammada’lam:Muhammada’lam   NP-ANT-M  ; ! From Uzbek names book.
+Muhammadaʼlam:Muhammadaʼlam   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadali:Muhammadali   NP-ANT-M  ; ! From Uzbek names book.
-Muhammada’lo:Muhammada’lo   NP-ANT-M  ; ! From Uzbek names book.
+Muhammadaʼlo:Muhammadaʼlo   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadamin:Muhammadamin   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadanvar:Muhammadanvar   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadasad:Muhammadasad   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadato:Muhammadato   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadayyub:Muhammadayyub   NP-ANT-M  ; ! From Uzbek names book.
-Muhammada’zam:Muhammada’zam   NP-ANT-M  ; ! From Uzbek names book.
+Muhammadaʼzam:Muhammadaʼzam   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadazim:Muhammadazim   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadaziz:Muhammadaziz   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadbakir:Muhammadbakir   NP-ANT-M  ; ! From Uzbek names book.
@@ -50484,7 +50484,7 @@ Muhammadhusan:Muhammadhusan   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadibrohim:Muhammadibrohim   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadikrom:Muhammadikrom   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadi:Muhammadi   NP-ANT-M  ; ! From Uzbek names book.
-Muhammadis’hoq:Muhammadis’hoq   NP-ANT-M  ; ! From Uzbek names book.
+Muhammadisʼhoq:Muhammadisʼhoq   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadislom:Muhammadislom   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadismoil:Muhammadismoil   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadiso:Muhammadiso   NP-ANT-M  ; ! From Uzbek names book.
@@ -50501,7 +50501,7 @@ Muhammadlabib:Muhammadlabib   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadlatif:Muhammadlatif   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadmajid:Muhammadmajid   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadmansur:Muhammadmansur   NP-ANT-M  ; ! From Uzbek names book.
-Muhammadma’sum:Muhammadma’sum   NP-ANT-M  ; ! From Uzbek names book.
+Muhammadmaʼsum:Muhammadmaʼsum   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadmaxdum:Muhammadmaxdum   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadmaxsum:Muhammadmaxsum   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadmazid:Muhammadmazid   NP-ANT-M  ; ! From Uzbek names book.
@@ -50601,7 +50601,7 @@ Muhammadxoliq:Muhammadxoliq   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadxol:Muhammadxol   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadxon:Muhammadxon   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadxoris:Muhammadxoris   NP-ANT-M  ; ! From Uzbek names book.
-Muhammadya’qub:Muhammadya’qub   NP-ANT-M  ; ! From Uzbek names book.
+Muhammadyaʼqub:Muhammadyaʼqub   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadyasir:Muhammadyasir   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadyoʻldosh:Muhammadyoʻldosh   NP-ANT-M  ; ! From Uzbek names book.
 Muhammadyoqub:Muhammadyoqub   NP-ANT-M  ; ! From Uzbek names book.
@@ -50651,7 +50651,7 @@ Muhtojiddin:Muhtojiddin   NP-ANT-M  ; ! From Uzbek names book.
 Muhtoj:Muhtoj   NP-ANT-M  ; ! From Uzbek names book.
 Muhur:Muhur   NP-ANT-M  ; ! From Uzbek names book.
 Muiniddin:Muiniddin   NP-ANT-M  ; ! From Uzbek names book.
-Mu’in:Mu’in   NP-ANT-M  ; ! From Uzbek names book.
+Muʼin:Muʼin   NP-ANT-M  ; ! From Uzbek names book.
 Muinulhaq:Muinulhaq   NP-ANT-M  ; ! From Uzbek names book.
 Muiziddin:Muiziddin   NP-ANT-M  ; ! From Uzbek names book.
 Muiz:Muiz   NP-ANT-M  ; ! From Uzbek names book.
@@ -50723,7 +50723,7 @@ Munazzaf:Munazzaf   NP-ANT-M  ; ! From Uzbek names book.
 Munib:Munib   NP-ANT-M  ; ! From Uzbek names book.
 Munibulla:Munibulla   NP-ANT-M  ; ! From Uzbek names book.
 Munif:Munif   NP-ANT-M  ; ! From Uzbek names book.
-Mun’im:Mun’im   NP-ANT-M  ; ! From Uzbek names book.
+Munʼim:Munʼim   NP-ANT-M  ; ! From Uzbek names book.
 Munim:Munim   NP-ANT-M  ; ! From Uzbek names book.
 Munir:Munir   NP-ANT-M  ; ! From Uzbek names book.
 Munirxoʻja:Munirxoʻja   NP-ANT-M  ; ! From Uzbek names book.
@@ -50926,7 +50926,7 @@ Najmiddin:Najmiddin   NP-ANT-M  ; ! From Uzbek names book.
 Najmi:Najmi   NP-ANT-M  ; ! From Uzbek names book.
 Najmirahmon:Najmirahmon   NP-ANT-M  ; ! From Uzbek names book.
 Najot:Najot   NP-ANT-M  ; ! From Uzbek names book.
-Na’lboy:Na’lboy   NP-ANT-M  ; ! From Uzbek names book.
+Naʼlboy:Naʼlboy   NP-ANT-M  ; ! From Uzbek names book.
 Namat:Namat   NP-ANT-M  ; ! From Uzbek names book.
 Namozali:Namozali   NP-ANT-M  ; ! From Uzbek names book.
 Namoz:Namoz   NP-ANT-M  ; ! From Uzbek names book.
@@ -51048,9 +51048,9 @@ Nekqadam:Nekqadam   NP-ANT-M  ; ! From Uzbek names book.
 Nekroʻy:Nekroʻy   NP-ANT-M  ; ! From Uzbek names book.
 Nekroʻz:Nekroʻz   NP-ANT-M  ; ! From Uzbek names book.
 Nektoy:Nektoy   NP-ANT-M  ; ! From Uzbek names book.
-Ne’mat:Ne’mat   NP-ANT-M  ; ! From Uzbek names book.
-Ne’matsho:Ne’matsho   NP-ANT-M  ; ! From Uzbek names book.
-Ne’matulla:Ne’matulla   NP-ANT-M  ; ! From Uzbek names book.
+Neʼmat:Neʼmat   NP-ANT-M  ; ! From Uzbek names book.
+Neʼmatsho:Neʼmatsho   NP-ANT-M  ; ! From Uzbek names book.
+Neʼmatulla:Neʼmatulla   NP-ANT-M  ; ! From Uzbek names book.
 Netay:Netay   NP-ANT-M  ; ! From Uzbek names book.
 Nido:Nido   NP-ANT-M  ; ! From Uzbek names book.
 Niholboy:Niholboy   NP-ANT-M  ; ! From Uzbek names book.
@@ -52342,7 +52342,7 @@ Rabi:Rabi   NP-ANT-M  ; ! From Uzbek names book.
 Rab:Rab   NP-ANT-M  ; ! From Uzbek names book.
 Radifa:Radifa   NP-ANT-M  ; ! From Uzbek names book.
 Radi:Radi   NP-ANT-M  ; ! From Uzbek names book.
-Raf’at:Raf’at   NP-ANT-M  ; ! From Uzbek names book.
+Rafʼat:Rafʼat   NP-ANT-M  ; ! From Uzbek names book.
 Rafida:Rafida   NP-ANT-M  ; ! From Uzbek names book.
 Rafid:Rafid   NP-ANT-M  ; ! From Uzbek names book.
 Rafigʻulla:Rafigʻulla   NP-ANT-M  ; ! From Uzbek names book.
@@ -52464,7 +52464,7 @@ Razzoqmirza:Razzoqmirza   NP-ANT-M  ; ! From Uzbek names book.
 Razzoq:Razzoq   NP-ANT-M  ; ! From Uzbek names book.
 Razzoqqul:Razzoqqul   NP-ANT-M  ; ! From Uzbek names book.
 Razzoqxoʻja:Razzoqxoʻja   NP-ANT-M  ; ! From Uzbek names book.
-Rif’at:Rif’at   NP-ANT-M  ; ! From Uzbek names book.
+Rifʼat:Rifʼat   NP-ANT-M  ; ! From Uzbek names book.
 Rishod:Rishod   NP-ANT-M  ; ! From Uzbek names book.
 Risqul:Risqul   NP-ANT-M  ; ! From Uzbek names book.
 Risxoʻja:Risxoʻja   NP-ANT-M  ; ! From Uzbek names book.
@@ -52563,15 +52563,15 @@ Sada:Sada   NP-ANT-M  ; ! From Uzbek names book.
 Sadar:Sadar   NP-ANT-M  ; ! From Uzbek names book.
 Sadat:Sadat   NP-ANT-M  ; ! From Uzbek names book.
 Sadatqul:Sadatqul   NP-ANT-M  ; ! From Uzbek names book.
-Sa’diboy:Sa’diboy   NP-ANT-M  ; ! From Uzbek names book.
+Saʼdiboy:Saʼdiboy   NP-ANT-M  ; ! From Uzbek names book.
 Sadiboy:Sadiboy   NP-ANT-M  ; ! From Uzbek names book.
 Sadiddin:Sadiddin   NP-ANT-M  ; ! From Uzbek names book.
 Sadid:Sadid   NP-ANT-M  ; ! From Uzbek names book.
-Sa’dimurod:Sa’dimurod   NP-ANT-M  ; ! From Uzbek names book.
-Sa’diniso:Sa’diniso   NP-ANT-M  ; ! From Uzbek names book.
-Sa’diniyoz:Sa’diniyoz   NP-ANT-M  ; ! From Uzbek names book.
-Sa’di:Sa’di   NP-ANT-M  ; ! From Uzbek names book.
-Sa’divaqqos:Sa’divaqqos   NP-ANT-M  ; ! From Uzbek names book.
+Saʼdimurod:Saʼdimurod   NP-ANT-M  ; ! From Uzbek names book.
+Saʼdiniso:Saʼdiniso   NP-ANT-M  ; ! From Uzbek names book.
+Saʼdiniyoz:Saʼdiniyoz   NP-ANT-M  ; ! From Uzbek names book.
+Saʼdi:Saʼdi   NP-ANT-M  ; ! From Uzbek names book.
+Saʼdivaqqos:Saʼdivaqqos   NP-ANT-M  ; ! From Uzbek names book.
 Sadod:Sadod   NP-ANT-M  ; ! From Uzbek names book.
 Sadomat:Sadomat   NP-ANT-M  ; ! From Uzbek names book.
 Sado:Sado   NP-ANT-M  ; ! From Uzbek names book.
@@ -52584,7 +52584,7 @@ Sadrjon:Sadrjon   NP-ANT-M  ; ! From Uzbek names book.
 Sadr:Sadr   NP-ANT-M  ; ! From Uzbek names book.
 Sadrulla:Sadrulla   NP-ANT-M  ; ! From Uzbek names book.
 Sadrxon:Sadrxon   NP-ANT-M  ; ! From Uzbek names book.
-Sa’dulla:Sa’dulla   NP-ANT-M  ; ! From Uzbek names book.
+Saʼdulla:Saʼdulla   NP-ANT-M  ; ! From Uzbek names book.
 Safarali:Safarali   NP-ANT-M  ; ! From Uzbek names book.
 Safarberdi:Safarberdi   NP-ANT-M  ; ! From Uzbek names book.
 Safarbosh:Safarbosh   NP-ANT-M  ; ! From Uzbek names book.
@@ -52647,7 +52647,7 @@ Saidahror:Saidahror   NP-ANT-M  ; ! From Uzbek names book.
 Saidakbar:Saidakbar   NP-ANT-M  ; ! From Uzbek names book.
 Saidakram:Saidakram   NP-ANT-M  ; ! From Uzbek names book.
 Saidali:Saidali   NP-ANT-M  ; ! From Uzbek names book.
-Saida’lo:Saida’lo   NP-ANT-M  ; ! From Uzbek names book.
+Saidaʼlo:Saidaʼlo   NP-ANT-M  ; ! From Uzbek names book.
 Saidamin:Saidamin   NP-ANT-M  ; ! From Uzbek names book.
 Saidamir:Saidamir   NP-ANT-M  ; ! From Uzbek names book.
 Saidanvar:Saidanvar   NP-ANT-M  ; ! From Uzbek names book.
@@ -52693,7 +52693,7 @@ Saidmuso:Saidmuso   NP-ANT-M  ; ! From Uzbek names book.
 Saidmuxtor:Saidmuxtor   NP-ANT-M  ; ! From Uzbek names book.
 Saidnabi:Saidnabi   NP-ANT-M  ; ! From Uzbek names book.
 Said:Said   NP-ANT-M  ; ! From Uzbek names book.
-Saidnu’mon:Saidnu’mon   NP-ANT-M  ; ! From Uzbek names book.
+Saidnuʼmon:Saidnuʼmon   NP-ANT-M  ; ! From Uzbek names book.
 Saidnur:Saidnur   NP-ANT-M  ; ! From Uzbek names book.
 Saidolim:Saidolim   NP-ANT-M  ; ! From Uzbek names book.
 Saidoʻlmas:Saidoʻlmas   NP-ANT-M  ; ! From Uzbek names book.
@@ -52776,7 +52776,7 @@ Samin:Samin   NP-ANT-M  ; ! From Uzbek names book.
 Sami:Sami   NP-ANT-M  ; ! From Uzbek names book.
 Samir:Samir   NP-ANT-M  ; ! From Uzbek names book.
 Samit:Samit   NP-ANT-M  ; ! From Uzbek names book.
-San’at:San’at   NP-ANT-M  ; ! From Uzbek names book.
+Sanʼat:Sanʼat   NP-ANT-M  ; ! From Uzbek names book.
 Sangali:Sangali   NP-ANT-M  ; ! From Uzbek names book.
 Sangarboy:Sangarboy   NP-ANT-M  ; ! From Uzbek names book.
 Sangbas:Sangbas   NP-ANT-M  ; ! From Uzbek names book.
@@ -52948,7 +52948,7 @@ Sayidnazar:Sayidnazar   NP-ANT-M  ; ! From Uzbek names book.
 Sayidnazir:Sayidnazir   NP-ANT-M  ; ! From Uzbek names book.
 Sayidniyoz:Sayidniyoz   NP-ANT-M  ; ! From Uzbek names book.
 Sayid:Sayid   NP-ANT-M  ; ! From Uzbek names book.
-Sayidnu’mon:Sayidnu’mon   NP-ANT-M  ; ! From Uzbek names book.
+Sayidnuʼmon:Sayidnuʼmon   NP-ANT-M  ; ! From Uzbek names book.
 Sayidnur:Sayidnur   NP-ANT-M  ; ! From Uzbek names book.
 Sayidolim:Sayidolim   NP-ANT-M  ; ! From Uzbek names book.
 Sayidomon:Sayidomon   NP-ANT-M  ; ! From Uzbek names book.
@@ -52977,8 +52977,8 @@ Sayidvali:Sayidvali   NP-ANT-M  ; ! From Uzbek names book.
 Sayidxalil:Sayidxalil   NP-ANT-M  ; ! From Uzbek names book.
 Sayidxoʻja:Sayidxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Sayidxol:Sayidxol   NP-ANT-M  ; ! From Uzbek names book.
-Sayidya’qub:Sayidya’qub   NP-ANT-M  ; ! From Uzbek names book.
-Sayidyax’yo:Sayidyax’yo   NP-ANT-M  ; ! From Uzbek names book.
+Sayidyaʼqub:Sayidyaʼqub   NP-ANT-M  ; ! From Uzbek names book.
+Sayidyaxʼyo:Sayidyaxʼyo   NP-ANT-M  ; ! From Uzbek names book.
 Sayidyor:Sayidyor   NP-ANT-M  ; ! From Uzbek names book.
 Sayidyunus:Sayidyunus   NP-ANT-M  ; ! From Uzbek names book.
 Sayidzoda:Sayidzoda   NP-ANT-M  ; ! From Uzbek names book.
@@ -53018,10 +53018,10 @@ Sevindik:Sevindik   NP-ANT-M  ; ! From Uzbek names book.
 Sevin:Sevin   NP-ANT-M  ; ! From Uzbek names book.
 Sezgirboy:Sezgirboy   NP-ANT-M  ; ! From Uzbek names book.
 Shabonali:Shabonali   NP-ANT-M  ; ! From Uzbek names book.
-Sha’bon:Sha’bon   NP-ANT-M  ; ! From Uzbek names book.
+Shaʼbon:Shaʼbon   NP-ANT-M  ; ! From Uzbek names book.
 Shabon:Shabon   NP-ANT-M  ; ! From Uzbek names book.
 Shafaq:Shafaq   NP-ANT-M  ; ! From Uzbek names book.
-Shafi’:Shafi’   NP-ANT-M  ; ! From Uzbek names book.
+Shafiʼ:Shafiʼ   NP-ANT-M  ; ! From Uzbek names book.
 Shafiq:Shafiq   NP-ANT-M  ; ! From Uzbek names book.
 Shafoat:Shafoat   NP-ANT-M  ; ! From Uzbek names book.
 Shafqat:Shafqat   NP-ANT-M  ; ! From Uzbek names book.
@@ -53307,11 +53307,11 @@ Shoikrom:Shoikrom   NP-ANT-M  ; ! From Uzbek names book.
 Shoilyos:Shoilyos   NP-ANT-M  ; ! From Uzbek names book.
 Shoimom:Shoimom   NP-ANT-M  ; ! From Uzbek names book.
 Shoinogʻom:Shoinogʻom   NP-ANT-M  ; ! From Uzbek names book.
-Shoin’om:Shoin’om   NP-ANT-M  ; ! From Uzbek names book.
+Shoinʼom:Shoinʼom   NP-ANT-M  ; ! From Uzbek names book.
 Shoinoyat:Shoinoyat   NP-ANT-M  ; ! From Uzbek names book.
 Shoiq:Shoiq   NP-ANT-M  ; ! From Uzbek names book.
 Shoir:Shoir   NP-ANT-M  ; ! From Uzbek names book.
-Shois’hoq:Shois’hoq   NP-ANT-M  ; ! From Uzbek names book.
+Shoisʼhoq:Shoisʼhoq   NP-ANT-M  ; ! From Uzbek names book.
 Shoislom:Shoislom   NP-ANT-M  ; ! From Uzbek names book.
 Shoismat:Shoismat   NP-ANT-M  ; ! From Uzbek names book.
 Shoismoil:Shoismoil   NP-ANT-M  ; ! From Uzbek names book.
@@ -53353,7 +53353,7 @@ Shomuzaffar:Shomuzaffar   NP-ANT-M  ; ! From Uzbek names book.
 Shonafas:Shonafas   NP-ANT-M  ; ! From Uzbek names book.
 Shonasim:Shonasim   NP-ANT-M  ; ! From Uzbek names book.
 Shonazar:Shonazar   NP-ANT-M  ; ! From Uzbek names book.
-Shone’mat:Shone’mat   NP-ANT-M  ; ! From Uzbek names book.
+Shoneʼmat:Shoneʼmat   NP-ANT-M  ; ! From Uzbek names book.
 Shoniyoz:Shoniyoz   NP-ANT-M  ; ! From Uzbek names book.
 Sho:Sho   NP-ANT-M  ; ! From Uzbek names book.
 Shonur:Shonur   NP-ANT-M  ; ! From Uzbek names book.
@@ -53404,7 +53404,7 @@ Shoʻxliddin:Shoʻxliddin   NP-ANT-M  ; ! From Uzbek names book.
 Shoxoʻja:Shoxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Shoxol:Shoxol   NP-ANT-M  ; ! From Uzbek names book.
 Shoyahmad:Shoyahmad   NP-ANT-M  ; ! From Uzbek names book.
-Shoya’qub:Shoya’qub   NP-ANT-M  ; ! From Uzbek names book.
+Shoyaʼqub:Shoyaʼqub   NP-ANT-M  ; ! From Uzbek names book.
 Shoybek:Shoybek   NP-ANT-M  ; ! From Uzbek names book.
 Shoyibek:Shoyibek   NP-ANT-M  ; ! From Uzbek names book.
 Shoyim:Shoyim   NP-ANT-M  ; ! From Uzbek names book.
@@ -53687,7 +53687,7 @@ Sunnatulla:Sunnatulla   NP-ANT-M  ; ! From Uzbek names book.
 Supurgibek:Supurgibek   NP-ANT-M  ; ! From Uzbek names book.
 Suqsur:Suqsur   NP-ANT-M  ; ! From Uzbek names book.
 Suqur:Suqur   NP-ANT-M  ; ! From Uzbek names book.
-Sur’at:Sur’at   NP-ANT-M  ; ! From Uzbek names book.
+Surʼat:Surʼat   NP-ANT-M  ; ! From Uzbek names book.
 Suron:Suron   NP-ANT-M  ; ! From Uzbek names book.
 Surqay:Surqay   NP-ANT-M  ; ! From Uzbek names book.
 Surxak:Surxak   NP-ANT-M  ; ! From Uzbek names book.
@@ -53740,12 +53740,12 @@ Takatoy:Takatoy   NP-ANT-M  ; ! From Uzbek names book.
 Takmil:Takmil   NP-ANT-M  ; ! From Uzbek names book.
 Talabboy:Talabboy   NP-ANT-M  ; ! From Uzbek names book.
 Talabmirza:Talabmirza   NP-ANT-M  ; ! From Uzbek names book.
-Tal’at:Tal’at   NP-ANT-M  ; ! From Uzbek names book.
-Tal’attoʻra:Tal’attoʻra   NP-ANT-M  ; ! From Uzbek names book.
+Talʼat:Talʼat   NP-ANT-M  ; ! From Uzbek names book.
+Talʼattoʻra:Talʼattoʻra   NP-ANT-M  ; ! From Uzbek names book.
 Talbak:Talbak   NP-ANT-M  ; ! From Uzbek names book.
 Talgʻat:Talgʻat   NP-ANT-M  ; ! From Uzbek names book.
 Talhak:Talhak   NP-ANT-M  ; ! From Uzbek names book.
-Ta’lim:Ta’lim   NP-ANT-M  ; ! From Uzbek names book.
+Taʼlim:Taʼlim   NP-ANT-M  ; ! From Uzbek names book.
 Tanaboy:Tanaboy   NP-ANT-M  ; ! From Uzbek names book.
 Tandor:Tandor   NP-ANT-M  ; ! From Uzbek names book.
 Tangir:Tangir   NP-ANT-M  ; ! From Uzbek names book.
@@ -53911,7 +53911,7 @@ Toir:Toir   NP-ANT-M  ; ! From Uzbek names book.
 Tojbaxsh:Tojbaxsh   NP-ANT-M  ; ! From Uzbek names book.
 Tojiahmad:Tojiahmad   NP-ANT-M  ; ! From Uzbek names book.
 Tojiali:Tojiali   NP-ANT-M  ; ! From Uzbek names book.
-Tojia’lo:Tojia’lo   NP-ANT-M  ; ! From Uzbek names book.
+Tojiaʼlo:Tojiaʼlo   NP-ANT-M  ; ! From Uzbek names book.
 Tojiddin:Tojiddin   NP-ANT-M  ; ! From Uzbek names book.
 Tojimamat:Tojimamat   NP-ANT-M  ; ! From Uzbek names book.
 Tojiman:Tojiman   NP-ANT-M  ; ! From Uzbek names book.
@@ -53933,7 +53933,7 @@ Tojiumar:Tojiumar   NP-ANT-M  ; ! From Uzbek names book.
 Tojixalil:Tojixalil   NP-ANT-M  ; ! From Uzbek names book.
 Tojixoʻja:Tojixoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Tojixurran:Tojixurran   NP-ANT-M  ; ! From Uzbek names book.
-Tojiya’qub:Tojiya’qub   NP-ANT-M  ; ! From Uzbek names book.
+Tojiyaʼqub:Tojiyaʼqub   NP-ANT-M  ; ! From Uzbek names book.
 Tojiyoqub:Tojiyoqub   NP-ANT-M  ; ! From Uzbek names book.
 Tojiyor:Tojiyor   NP-ANT-M  ; ! From Uzbek names book.
 Tojizoda:Tojizoda   NP-ANT-M  ; ! From Uzbek names book.
@@ -53978,7 +53978,7 @@ Tolib:Tolib   NP-ANT-M  ; ! From Uzbek names book.
 Tolibxoʻja:Tolibxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Toʻlin:Toʻlin   NP-ANT-M  ; ! From Uzbek names book.
 Toʻli:Toʻli   NP-ANT-M  ; ! From Uzbek names book.
-Toli’:Toli’   NP-ANT-M  ; ! From Uzbek names book.
+Toliʼ:Toliʼ   NP-ANT-M  ; ! From Uzbek names book.
 Toli:Toli   NP-ANT-M  ; ! From Uzbek names book.
 Tolli:Tolli   NP-ANT-M  ; ! From Uzbek names book.
 Tolmas:Tolmas   NP-ANT-M  ; ! From Uzbek names book.
@@ -54563,7 +54563,7 @@ Voris:Voris   NP-ANT-M  ; ! From Uzbek names book.
 Vosid:Vosid   NP-ANT-M  ; ! From Uzbek names book.
 Vosif:Vosif   NP-ANT-M  ; ! From Uzbek names book.
 Vosil:Vosil   NP-ANT-M  ; ! From Uzbek names book.
-Vosi’:Vosi’   NP-ANT-M  ; ! From Uzbek names book.
+Vosiʼ:Vosiʼ   NP-ANT-M  ; ! From Uzbek names book.
 Vosiq:Vosiq   NP-ANT-M  ; ! From Uzbek names book.
 Vositmirza:Vositmirza   NP-ANT-M  ; ! From Uzbek names book.
 Vosit:Vosit   NP-ANT-M  ; ! From Uzbek names book.
@@ -54916,7 +54916,7 @@ Yangiberdi:Yangiberdi   NP-ANT-M  ; ! From Uzbek names book.
 Yangiboy:Yangiboy   NP-ANT-M  ; ! From Uzbek names book.
 Yangioʻroz:Yangioʻroz   NP-ANT-M  ; ! From Uzbek names book.
 Yanglish:Yanglish   NP-ANT-M  ; ! From Uzbek names book.
-Ya’qub:Ya’qub   NP-ANT-M  ; ! From Uzbek names book.
+Yaʼqub:Yaʼqub   NP-ANT-M  ; ! From Uzbek names book.
 Yashar:Yashar   NP-ANT-M  ; ! From Uzbek names book.
 Yashin:Yashin   NP-ANT-M  ; ! From Uzbek names book.
 Yashnar:Yashnar   NP-ANT-M  ; ! From Uzbek names book.
@@ -55149,7 +55149,7 @@ Zabunboy:Zabunboy   NP-ANT-M  ; ! From Uzbek names book.
 Zabur:Zabur   NP-ANT-M  ; ! From Uzbek names book.
 Zafariddin:Zafariddin   NP-ANT-M  ; ! From Uzbek names book.
 Zafar:Zafar   NP-ANT-M  ; ! From Uzbek names book.
-Za’faron:Za’faron   NP-ANT-M  ; ! From Uzbek names book.
+Zaʼfaron:Zaʼfaron   NP-ANT-M  ; ! From Uzbek names book.
 Zafaroy:Zafaroy   NP-ANT-M  ; ! From Uzbek names book.
 Zafarxoʻja:Zafarxoʻja   NP-ANT-M  ; ! From Uzbek names book.
 Zafir:Zafir   NP-ANT-M  ; ! From Uzbek names book.
@@ -55323,7 +55323,7 @@ Abdu:Abdu   NP-ANT-M  ; ! From Uzbek names book.
 Abduvosi:Abduvosi   NP-ANT-M  ; ! From Uzbek names book.
 Abduvosiq:Abduvosiq   NP-ANT-M  ; ! From Uzbek names book.
 Abdurafi:Abdurafi   NP-ANT-M  ; ! From Uzbek names book.
-Abdurafi’:Abdurafi’   NP-ANT-M  ; ! From Uzbek names book.
+Abdurafiʼ:Abdurafiʼ   NP-ANT-M  ; ! From Uzbek names book.
 Abduqayyum:Abduqayyum   NP-ANT-M  ; ! From Uzbek names book.
 Abduqayum:Abduqayum   NP-ANT-M  ; ! From Uzbek names book.
 Abubakr:Abubakr   NP-ANT-M  ; ! From Uzbek names book.
@@ -55612,11 +55612,11 @@ Gʻulmon:Gʻulmon   NP-ANT-M  ; ! From Uzbek names book.
 Gʻulmonboy:Gʻulmonboy   NP-ANT-M  ; ! From Uzbek names book.
 Hadi:Hadi   NP-ANT-M  ; ! From Uzbek names book.
 Hadiy:Hadiy   NP-ANT-M  ; ! From Uzbek names book.
-Had’ya:Had’ya   NP-ANT-M  ; ! From Uzbek names book.
+Hadʼya:Hadʼya   NP-ANT-M  ; ! From Uzbek names book.
 Hadiya:Hadiya   NP-ANT-M  ; ! From Uzbek names book.
-Had’yaboy:Had’yaboy   NP-ANT-M  ; ! From Uzbek names book.
+Hadʼyaboy:Hadʼyaboy   NP-ANT-M  ; ! From Uzbek names book.
 Hadiyaboy:Hadiyaboy   NP-ANT-M  ; ! From Uzbek names book.
-Had’yatulla:Had’yatulla   NP-ANT-M  ; ! From Uzbek names book.
+Hadʼyatulla:Hadʼyatulla   NP-ANT-M  ; ! From Uzbek names book.
 Hadiyatulla:Hadiyatulla   NP-ANT-M  ; ! From Uzbek names book.
 Hashmat:Hashmat   NP-ANT-M  ; ! From Uzbek names book.
 Hashamat:Hashamat   NP-ANT-M  ; ! From Uzbek names book.
@@ -55640,8 +55640,8 @@ Iroq:Iroq   NP-ANT-M  ; ! From Uzbek names book.
 Iroqboy:Iroqboy   NP-ANT-M  ; ! From Uzbek names book.
 Istak:Istak   NP-ANT-M  ; ! From Uzbek names book.
 Istakboy:Istakboy   NP-ANT-M  ; ! From Uzbek names book.
-Is’hoq:Is’hoq   NP-ANT-M  ; ! From Uzbek names book.
-Is’hoqjon:Is’hoqjon   NP-ANT-M  ; ! From Uzbek names book.
+Isʼhoq:Isʼhoq   NP-ANT-M  ; ! From Uzbek names book.
+Isʼhoqjon:Isʼhoqjon   NP-ANT-M  ; ! From Uzbek names book.
 Javdon:Javdon   NP-ANT-M  ; ! From Uzbek names book.
 Javdonboy:Javdonboy   NP-ANT-M  ; ! From Uzbek names book.
 Javzo:Javzo   NP-ANT-M  ; ! From Uzbek names book.
@@ -55751,21 +55751,21 @@ Mangʻitboy:Mangʻitboy   NP-ANT-M  ; ! From Uzbek names book.
 Mardi:Mardi   NP-ANT-M  ; ! From Uzbek names book.
 Mardiboy:Mardiboy   NP-ANT-M  ; ! From Uzbek names book.
 Masqariddin:Masqariddin   NP-ANT-M  ; ! From Uzbek names book.
-Mas’hariddin:Mas’hariddin   NP-ANT-M  ; ! From Uzbek names book.
+Masʼhariddin:Masʼhariddin   NP-ANT-M  ; ! From Uzbek names book.
 Matin:Matin   NP-ANT-M  ; ! From Uzbek names book.
 Metin:Metin   NP-ANT-M  ; ! From Uzbek names book.
 Maxmur:Maxmur   NP-ANT-M  ; ! From Uzbek names book.
 Maxmurjon:Maxmurjon   NP-ANT-M  ; ! From Uzbek names book.
 Maxsus:Maxsus   NP-ANT-M  ; ! From Uzbek names book.
 Maxsusboy:Maxsusboy   NP-ANT-M  ; ! From Uzbek names book.
-Ma’di:Ma’di   NP-ANT-M  ; ! From Uzbek names book.
-Ma’dixon:Ma’dixon   NP-ANT-M  ; ! From Uzbek names book.
+Maʼdi:Maʼdi   NP-ANT-M  ; ! From Uzbek names book.
+Maʼdixon:Maʼdixon   NP-ANT-M  ; ! From Uzbek names book.
 Mashadi:Mashadi   NP-ANT-M  ; ! From Uzbek names book.
 Mashhadiy:Mashhadiy   NP-ANT-M  ; ! From Uzbek names book.
 Mashqul:Mashqul   NP-ANT-M  ; ! From Uzbek names book.
 Mashgʻul:Mashgʻul   NP-ANT-M  ; ! From Uzbek names book.
-Ma’qil:Ma’qil   NP-ANT-M  ; ! From Uzbek names book.
-Ma’qul:Ma’qul   NP-ANT-M  ; ! From Uzbek names book.
+Maʼqil:Maʼqil   NP-ANT-M  ; ! From Uzbek names book.
+Maʼqul:Maʼqul   NP-ANT-M  ; ! From Uzbek names book.
 Magʻrib:Magʻrib   NP-ANT-M  ; ! From Uzbek names book.
 Magʻribjon:Magʻribjon   NP-ANT-M  ; ! From Uzbek names book.
 Mahdum:Mahdum   NP-ANT-M  ; ! From Uzbek names book.
@@ -55817,7 +55817,7 @@ Naziriddin:Naziriddin   NP-ANT-M  ; ! From Uzbek names book.
 Naki:Naki   NP-ANT-M  ; ! From Uzbek names book.
 Neku:Neku   NP-ANT-M  ; ! From Uzbek names book.
 Nalboy:Nalboy   NP-ANT-M  ; ! From Uzbek names book.
-Na’lboy:Na’lboy   NP-ANT-M  ; ! From Uzbek names book.
+Naʼlboy:Naʼlboy   NP-ANT-M  ; ! From Uzbek names book.
 Nahan:Nahan   NP-ANT-M  ; ! From Uzbek names book.
 Nahanboy:Nahanboy   NP-ANT-M  ; ! From Uzbek names book.
 Nurlan:Nurlan   NP-ANT-M  ; ! From Uzbek names book.
@@ -55909,7 +55909,7 @@ Qadir:Qadir   NP-ANT-M  ; ! From Uzbek names book.
 Qaynar:Qaynar   NP-ANT-M  ; ! From Uzbek names book.
 Qaynarjon:Qaynarjon   NP-ANT-M  ; ! From Uzbek names book.
 Qalabek:Qalabek   NP-ANT-M  ; ! From Uzbek names book.
-Qal’abek:Qal’abek   NP-ANT-M  ; ! From Uzbek names book.
+Qalʼabek:Qalʼabek   NP-ANT-M  ; ! From Uzbek names book.
 Qalmoq:Qalmoq   NP-ANT-M  ; ! From Uzbek names book.
 Qalmoqboy:Qalmoqboy   NP-ANT-M  ; ! From Uzbek names book.
 Qalpoq:Qalpoq   NP-ANT-M  ; ! From Uzbek names book.
@@ -56006,8 +56006,8 @@ Sangir:Sangir   NP-ANT-M  ; ! From Uzbek names book.
 Sangirboy:Sangirboy   NP-ANT-M  ; ! From Uzbek names book.
 Sanor:Sanor   NP-ANT-M  ; ! From Uzbek names book.
 Sanorboy:Sanorboy   NP-ANT-M  ; ! From Uzbek names book.
-San’atilla:San’atilla   NP-ANT-M  ; ! From Uzbek names book.
-San’atulla:San’atulla   NP-ANT-M  ; ! From Uzbek names book.
+Sanʼatilla:Sanʼatilla   NP-ANT-M  ; ! From Uzbek names book.
+Sanʼatulla:Sanʼatulla   NP-ANT-M  ; ! From Uzbek names book.
 Sarimsoqali:Sarimsoqali   NP-ANT-M  ; ! From Uzbek names book.
 Samsoqali:Samsoqali   NP-ANT-M  ; ! From Uzbek names book.
 Sarrof:Sarrof   NP-ANT-M  ; ! From Uzbek names book.
@@ -56047,7 +56047,7 @@ Solorboy:Solorboy   NP-ANT-M  ; ! From Uzbek names book.
 Somon:Somon   NP-ANT-M  ; ! From Uzbek names book.
 Somonboy:Somonboy   NP-ANT-M  ; ! From Uzbek names book.
 Sonulla:Sonulla   NP-ANT-M  ; ! From Uzbek names book.
-Soni’ulla:Soni’ulla   NP-ANT-M  ; ! From Uzbek names book.
+Soniʼulla:Soniʼulla   NP-ANT-M  ; ! From Uzbek names book.
 Sorbon:Sorbon   NP-ANT-M  ; ! From Uzbek names book.
 Sorbonboy:Sorbonboy   NP-ANT-M  ; ! From Uzbek names book.
 Sotil:Sotil   NP-ANT-M  ; ! From Uzbek names book.
@@ -56091,13 +56091,13 @@ Shermon:Shermon   NP-ANT-M  ; ! From Uzbek names book.
 Shijoat:Shijoat   NP-ANT-M  ; ! From Uzbek names book.
 Shujoat:Shujoat   NP-ANT-M  ; ! From Uzbek names book.
 Shobon:Shobon   NP-ANT-M  ; ! From Uzbek names book.
-Sha’bon:Sha’bon   NP-ANT-M  ; ! From Uzbek names book.
+Shaʼbon:Shaʼbon   NP-ANT-M  ; ! From Uzbek names book.
 Shodil:Shodil   NP-ANT-M  ; ! From Uzbek names book.
 Shoddil:Shoddil   NP-ANT-M  ; ! From Uzbek names book.
 Shodilbek:Shodilbek   NP-ANT-M  ; ! From Uzbek names book.
 Shoddilbek:Shoddilbek   NP-ANT-M  ; ! From Uzbek names book.
 Shomi:Shomi   NP-ANT-M  ; ! From Uzbek names book.
-Shami’:Shami’   NP-ANT-M  ; ! From Uzbek names book.
+Shamiʼ:Shamiʼ   NP-ANT-M  ; ! From Uzbek names book.
 Shoxli:Shoxli   NP-ANT-M  ; ! From Uzbek names book.
 Shoxliboy:Shoxliboy   NP-ANT-M  ; ! From Uzbek names book.
 Shoyad:Shoyad   NP-ANT-M  ; ! From Uzbek names book.
@@ -56167,7 +56167,7 @@ Toyib:Toyib   NP-ANT-M  ; ! From Uzbek names book.
 Toyib:Toyib   NP-ANT-M  ; ! From Uzbek names book.
 Toyibboy:Toyibboy   NP-ANT-M  ; ! From Uzbek names book.
 Tole:Tole   NP-ANT-M  ; ! From Uzbek names book.
-Tole’:Tole’   NP-ANT-M  ; ! From Uzbek names book.
+Toleʼ:Toleʼ   NP-ANT-M  ; ! From Uzbek names book.
 Tong:Tong   NP-ANT-M  ; ! From Uzbek names book.
 Tongboy:Tongboy   NP-ANT-M  ; ! From Uzbek names book.
 Topdi:Topdi   NP-ANT-M  ; ! From Uzbek names book.
@@ -56347,7 +56347,7 @@ Yarashjon:Yarashjon   NP-ANT-M  ; ! From Uzbek names book.
 Yaqin:Yaqin   NP-ANT-M  ; ! From Uzbek names book.
 Yaqinjon:Yaqinjon   NP-ANT-M  ; ! From Uzbek names book.
 Yahyo:Yahyo   NP-ANT-M  ; ! From Uzbek names book.
-Yah’yo:Yah’yo   NP-ANT-M  ; ! From Uzbek names book.
+Yahʼyo:Yahʼyo   NP-ANT-M  ; ! From Uzbek names book.
 Zavqli:Zavqli   NP-ANT-M  ; ! From Uzbek names book.
 Zavqlibek:Zavqlibek   NP-ANT-M  ; ! From Uzbek names book.
 Zaki:Zaki   NP-ANT-M  ; ! From Uzbek names book.
@@ -56411,7 +56411,7 @@ Akrama:Akrama   NP-ANT-F  ; ! From Uzbek names book.
 Alaviya:Alaviya   NP-ANT-F  ; ! From Uzbek names book.
 Alfiya:Alfiya   NP-ANT-F  ; ! From Uzbek names book.
 Alima:Alima   NP-ANT-F  ; ! From Uzbek names book.
-A’loxon:A’loxon   NP-ANT-F  ; ! From Uzbek names book.
+Aʼloxon:Aʼloxon   NP-ANT-F  ; ! From Uzbek names book.
 Amaloy:Amaloy   NP-ANT-F  ; ! From Uzbek names book.
 Ambar:Ambar   NP-ANT-F  ; ! From Uzbek names book.
 Amina:Amina   NP-ANT-F  ; ! From Uzbek names book.
@@ -56672,7 +56672,7 @@ Bibisafar:Bibisafar   NP-ANT-F  ; ! From Uzbek names book.
 Bibisaida:Bibisaida   NP-ANT-F  ; ! From Uzbek names book.
 Bibisalima:Bibisalima   NP-ANT-F  ; ! From Uzbek names book.
 Bibisanam:Bibisanam   NP-ANT-F  ; ! From Uzbek names book.
-Bibisan’at:Bibisan’at   NP-ANT-F  ; ! From Uzbek names book.
+Bibisanʼat:Bibisanʼat   NP-ANT-F  ; ! From Uzbek names book.
 Bibishahar:Bibishahar   NP-ANT-F  ; ! From Uzbek names book.
 Bibishakar:Bibishakar   NP-ANT-F  ; ! From Uzbek names book.
 Bibishamsiya:Bibishamsiya   NP-ANT-F  ; ! From Uzbek names book.
@@ -56851,7 +56851,7 @@ Buvrasta:Buvrasta   NP-ANT-F  ; ! From Uzbek names book.
 Buvrayhon:Buvrayhon   NP-ANT-F  ; ! From Uzbek names book.
 Buvrohila:Buvrohila   NP-ANT-F  ; ! From Uzbek names book.
 Buvroziya:Buvroziya   NP-ANT-F  ; ! From Uzbek names book.
-Buvsa’di:Buvsa’di   NP-ANT-F  ; ! From Uzbek names book.
+Buvsaʼdi:Buvsaʼdi   NP-ANT-F  ; ! From Uzbek names book.
 Buvsaida:Buvsaida   NP-ANT-F  ; ! From Uzbek names book.
 Buvsamar:Buvsamar   NP-ANT-F  ; ! From Uzbek names book.
 Buvsanam:Buvsanam   NP-ANT-F  ; ! From Uzbek names book.
@@ -57101,9 +57101,9 @@ Esonbeka:Esonbeka   NP-ANT-F  ; ! From Uzbek names book.
 Esonmomo:Esonmomo   NP-ANT-F  ; ! From Uzbek names book.
 Esonturdi:Esonturdi   NP-ANT-F  ; ! From Uzbek names book.
 Esxon:Esxon   NP-ANT-F  ; ! From Uzbek names book.
-E’tibor:E’tibor   NP-ANT-F  ; ! From Uzbek names book.
+Eʼtibor:Eʼtibor   NP-ANT-F  ; ! From Uzbek names book.
 Evara:Evara   NP-ANT-F  ; ! From Uzbek names book.
-E’zoza:E’zoza   NP-ANT-F  ; ! From Uzbek names book.
+Eʼzoza:Eʼzoza   NP-ANT-F  ; ! From Uzbek names book.
 Fahima:Fahima   NP-ANT-F  ; ! From Uzbek names book.
 Farahnoz:Farahnoz   NP-ANT-F  ; ! From Uzbek names book.
 Farah:Farah   NP-ANT-F  ; ! From Uzbek names book.
@@ -57139,7 +57139,7 @@ Farzixon:Farzixon   NP-ANT-F  ; ! From Uzbek names book.
 Farziya:Farziya   NP-ANT-F  ; ! From Uzbek names book.
 Farzod:Farzod   NP-ANT-F  ; ! From Uzbek names book.
 Farzona:Farzona   NP-ANT-F  ; ! From Uzbek names book.
-Fas’hiya:Fas’hiya   NP-ANT-F  ; ! From Uzbek names book.
+Fasʼhiya:Fasʼhiya   NP-ANT-F  ; ! From Uzbek names book.
 Fasiha:Fasiha   NP-ANT-F  ; ! From Uzbek names book.
 Fasihat:Fasihat   NP-ANT-F  ; ! From Uzbek names book.
 Fasohat:Fasohat   NP-ANT-F  ; ! From Uzbek names book.
@@ -57264,7 +57264,7 @@ Gulasir:Gulasir   NP-ANT-F  ; ! From Uzbek names book.
 Gulasma:Gulasma   NP-ANT-F  ; ! From Uzbek names book.
 Gulassar:Gulassar   NP-ANT-F  ; ! From Uzbek names book.
 Gulay:Gulay   NP-ANT-F  ; ! From Uzbek names book.
-Gula’zam:Gula’zam   NP-ANT-F  ; ! From Uzbek names book.
+Gulaʼzam:Gulaʼzam   NP-ANT-F  ; ! From Uzbek names book.
 Gulbadan:Gulbadan   NP-ANT-F  ; ! From Uzbek names book.
 Gulbahor:Gulbahor   NP-ANT-F  ; ! From Uzbek names book.
 Gulbahra:Gulbahra   NP-ANT-F  ; ! From Uzbek names book.
@@ -57441,7 +57441,7 @@ Gulqayt:Gulqayt   NP-ANT-F  ; ! From Uzbek names book.
 Gulqiz:Gulqiz   NP-ANT-F  ; ! From Uzbek names book.
 Gulraftor:Gulraftor   NP-ANT-F  ; ! From Uzbek names book.
 Gulrang:Gulrang   NP-ANT-F  ; ! From Uzbek names book.
-Gulra’no:Gulra’no   NP-ANT-F  ; ! From Uzbek names book.
+Gulraʼno:Gulraʼno   NP-ANT-F  ; ! From Uzbek names book.
 Gulravshan:Gulravshan   NP-ANT-F  ; ! From Uzbek names book.
 Gulrayhon:Gulrayhon   NP-ANT-F  ; ! From Uzbek names book.
 Gulroʻy:Gulroʻy   NP-ANT-F  ; ! From Uzbek names book.
@@ -57746,7 +57746,7 @@ Inju:Inju   NP-ANT-F  ; ! From Uzbek names book.
 Inkoroy:Inkoroy   NP-ANT-F  ; ! From Uzbek names book.
 Inobat:Inobat   NP-ANT-F  ; ! From Uzbek names book.
 Inobxon:Inobxon   NP-ANT-F  ; ! From Uzbek names book.
-In’oma:In’oma   NP-ANT-F  ; ! From Uzbek names book.
+Inʼoma:Inʼoma   NP-ANT-F  ; ! From Uzbek names book.
 Inoyatbibi:Inoyatbibi   NP-ANT-F  ; ! From Uzbek names book.
 Inoyatxol:Inoyatxol   NP-ANT-F  ; ! From Uzbek names book.
 Inqilobiya:Inqilobiya   NP-ANT-F  ; ! From Uzbek names book.
@@ -57883,7 +57883,7 @@ Jumasulton:Jumasulton   NP-ANT-F  ; ! From Uzbek names book.
 Jumatoj:Jumatoj   NP-ANT-F  ; ! From Uzbek names book.
 Jumaxol:Jumaxol   NP-ANT-F  ; ! From Uzbek names book.
 Jupar:Jupar   NP-ANT-F  ; ! From Uzbek names book.
-Ka’bagul:Ka’bagul   NP-ANT-F  ; ! From Uzbek names book.
+Kaʼbagul:Kaʼbagul   NP-ANT-F  ; ! From Uzbek names book.
 Kabira:Kabira   NP-ANT-F  ; ! From Uzbek names book.
 Kabisa:Kabisa   NP-ANT-F  ; ! From Uzbek names book.
 Kabutar:Kabutar   NP-ANT-F  ; ! From Uzbek names book.
@@ -58009,7 +58009,7 @@ Kursiya:Kursiya   NP-ANT-F  ; ! From Uzbek names book.
 Labiba:Labiba   NP-ANT-F  ; ! From Uzbek names book.
 Labshakar:Labshakar   NP-ANT-F  ; ! From Uzbek names book.
 Ladon:Ladon   NP-ANT-F  ; ! From Uzbek names book.
-La’lixon:La’lixon   NP-ANT-F  ; ! From Uzbek names book.
+Laʼlixon:Laʼlixon   NP-ANT-F  ; ! From Uzbek names book.
 Lamigʻa:Lamigʻa   NP-ANT-F  ; ! From Uzbek names book.
 Lapasoy:Lapasoy   NP-ANT-F  ; ! From Uzbek names book.
 Laqaygul:Laqaygul   NP-ANT-F  ; ! From Uzbek names book.
@@ -58046,9 +58046,9 @@ Lolazor:Lolazor   NP-ANT-F  ; ! From Uzbek names book.
 Lozima:Lozima   NP-ANT-F  ; ! From Uzbek names book.
 Luqmonoy:Luqmonoy   NP-ANT-F  ; ! From Uzbek names book.
 Lutfiya:Lutfiya   NP-ANT-F  ; ! From Uzbek names book.
-Ma’buda:Ma’buda   NP-ANT-F  ; ! From Uzbek names book.
+Maʼbuda:Maʼbuda   NP-ANT-F  ; ! From Uzbek names book.
 Madaniyat:Madaniyat   NP-ANT-F  ; ! From Uzbek names book.
-Ma’danoy:Ma’danoy   NP-ANT-F  ; ! From Uzbek names book.
+Maʼdanoy:Maʼdanoy   NP-ANT-F  ; ! From Uzbek names book.
 Madhiyabibi:Madhiyabibi   NP-ANT-F  ; ! From Uzbek names book.
 Madhiya:Madhiya   NP-ANT-F  ; ! From Uzbek names book.
 Madhiyaxon:Madhiyaxon   NP-ANT-F  ; ! From Uzbek names book.
@@ -58060,7 +58060,7 @@ Mafsuf:Mafsuf   NP-ANT-F  ; ! From Uzbek names book.
 Maftuha:Maftuha   NP-ANT-F  ; ! From Uzbek names book.
 Maftuna:Maftuna   NP-ANT-F  ; ! From Uzbek names book.
 Maftun:Maftun   NP-ANT-F  ; ! From Uzbek names book.
-Ma’fura:Ma’fura   NP-ANT-F  ; ! From Uzbek names book.
+Maʼfura:Maʼfura   NP-ANT-F  ; ! From Uzbek names book.
 Magʻfira:Magʻfira   NP-ANT-F  ; ! From Uzbek names book.
 Magʻfirat:Magʻfirat   NP-ANT-F  ; ! From Uzbek names book.
 Magʻoza:Magʻoza   NP-ANT-F  ; ! From Uzbek names book.
@@ -58127,30 +58127,30 @@ Mallamirza:Mallamirza   NP-ANT-F  ; ! From Uzbek names book.
 Mallaqiz:Mallaqiz   NP-ANT-F  ; ! From Uzbek names book.
 Mallaxon:Mallaxon   NP-ANT-F  ; ! From Uzbek names book.
 Malohat:Malohat   NP-ANT-F  ; ! From Uzbek names book.
-Ma’luma:Ma’luma   NP-ANT-F  ; ! From Uzbek names book.
+Maʼluma:Maʼluma   NP-ANT-F  ; ! From Uzbek names book.
 Malusa:Malusa   NP-ANT-F  ; ! From Uzbek names book.
 Mama:Mama   NP-ANT-F  ; ! From Uzbek names book.
 Mamduda:Mamduda   NP-ANT-F  ; ! From Uzbek names book.
 Mamduha:Mamduha   NP-ANT-F  ; ! From Uzbek names book.
 Mamlakat:Mamlakat   NP-ANT-F  ; ! From Uzbek names book.
 Mamnuna:Mamnuna   NP-ANT-F  ; ! From Uzbek names book.
-Ma’murbeka:Ma’murbeka   NP-ANT-F  ; ! From Uzbek names book.
-Ma’murbibi:Ma’murbibi   NP-ANT-F  ; ! From Uzbek names book.
-Ma’murcha:Ma’murcha   NP-ANT-F  ; ! From Uzbek names book.
-Ma’murgul:Ma’murgul   NP-ANT-F  ; ! From Uzbek names book.
-Ma’murjamol:Ma’murjamol   NP-ANT-F  ; ! From Uzbek names book.
-Ma’muroy:Ma’muroy   NP-ANT-F  ; ! From Uzbek names book.
-Ma’murxol:Ma’murxol   NP-ANT-F  ; ! From Uzbek names book.
-Ma’murxon:Ma’murxon   NP-ANT-F  ; ! From Uzbek names book.
+Maʼmurbeka:Maʼmurbeka   NP-ANT-F  ; ! From Uzbek names book.
+Maʼmurbibi:Maʼmurbibi   NP-ANT-F  ; ! From Uzbek names book.
+Maʼmurcha:Maʼmurcha   NP-ANT-F  ; ! From Uzbek names book.
+Maʼmurgul:Maʼmurgul   NP-ANT-F  ; ! From Uzbek names book.
+Maʼmurjamol:Maʼmurjamol   NP-ANT-F  ; ! From Uzbek names book.
+Maʼmuroy:Maʼmuroy   NP-ANT-F  ; ! From Uzbek names book.
+Maʼmurxol:Maʼmurxol   NP-ANT-F  ; ! From Uzbek names book.
+Maʼmurxon:Maʼmurxon   NP-ANT-F  ; ! From Uzbek names book.
 Manat:Manat   NP-ANT-F  ; ! From Uzbek names book.
 Manfaat:Manfaat   NP-ANT-F  ; ! From Uzbek names book.
 Mangʻitoy:Mangʻitoy   NP-ANT-F  ; ! From Uzbek names book.
 Mangʻitqiz:Mangʻitqiz   NP-ANT-F  ; ! From Uzbek names book.
 Maniqiz:Maniqiz   NP-ANT-F  ; ! From Uzbek names book.
-Ma’nixon:Ma’nixon   NP-ANT-F  ; ! From Uzbek names book.
+Maʼnixon:Maʼnixon   NP-ANT-F  ; ! From Uzbek names book.
 Mannona:Mannona   NP-ANT-F  ; ! From Uzbek names book.
 Mannontoʻra:Mannontoʻra   NP-ANT-F  ; ! From Uzbek names book.
-Ma’noxon:Ma’noxon   NP-ANT-F  ; ! From Uzbek names book.
+Maʼnoxon:Maʼnoxon   NP-ANT-F  ; ! From Uzbek names book.
 Mansuba:Mansuba   NP-ANT-F  ; ! From Uzbek names book.
 Mansura:Mansura   NP-ANT-F  ; ! From Uzbek names book.
 Mantiqa:Mantiqa   NP-ANT-F  ; ! From Uzbek names book.
@@ -58170,8 +58170,8 @@ Maqsadxon:Maqsadxon   NP-ANT-F  ; ! From Uzbek names book.
 Maqsuda:Maqsuda   NP-ANT-F  ; ! From Uzbek names book.
 Maqsura:Maqsura   NP-ANT-F  ; ! From Uzbek names book.
 Maqsuraxon:Maqsuraxon   NP-ANT-F  ; ! From Uzbek names book.
-Ma’qula:Ma’qula   NP-ANT-F  ; ! From Uzbek names book.
-Ma’quloy:Ma’quloy   NP-ANT-F  ; ! From Uzbek names book.
+Maʼqula:Maʼqula   NP-ANT-F  ; ! From Uzbek names book.
+Maʼquloy:Maʼquloy   NP-ANT-F  ; ! From Uzbek names book.
 Maralbeka:Maralbeka   NP-ANT-F  ; ! From Uzbek names book.
 Maralbibi:Maralbibi   NP-ANT-F  ; ! From Uzbek names book.
 Maraljamol:Maraljamol   NP-ANT-F  ; ! From Uzbek names book.
@@ -58184,13 +58184,13 @@ Mardixon:Mardixon   NP-ANT-F  ; ! From Uzbek names book.
 Mardona:Mardona   NP-ANT-F  ; ! From Uzbek names book.
 Mardoy:Mardoy   NP-ANT-F  ; ! From Uzbek names book.
 Marduma:Marduma   NP-ANT-F  ; ! From Uzbek names book.
-Marfu’a:Marfu’a   NP-ANT-F  ; ! From Uzbek names book.
+Marfuʼa:Marfuʼa   NP-ANT-F  ; ! From Uzbek names book.
 Margʻuba:Margʻuba   NP-ANT-F  ; ! From Uzbek names book.
 Margʻula:Margʻula   NP-ANT-F  ; ! From Uzbek names book.
 Marhabo:Marhabo   NP-ANT-F  ; ! From Uzbek names book.
 Marhamat:Marhamat   NP-ANT-F  ; ! From Uzbek names book.
-Ma’rifa:Ma’rifa   NP-ANT-F  ; ! From Uzbek names book.
-Ma’rifat:Ma’rifat   NP-ANT-F  ; ! From Uzbek names book.
+Maʼrifa:Maʼrifa   NP-ANT-F  ; ! From Uzbek names book.
+Maʼrifat:Maʼrifat   NP-ANT-F  ; ! From Uzbek names book.
 Marigʻa:Marigʻa   NP-ANT-F  ; ! From Uzbek names book.
 Mariya:Mariya   NP-ANT-F  ; ! From Uzbek names book.
 Marjonbeka:Marjonbeka   NP-ANT-F  ; ! From Uzbek names book.
@@ -58202,9 +58202,9 @@ Marota:Marota   NP-ANT-F  ; ! From Uzbek names book.
 Marqabibi:Marqabibi   NP-ANT-F  ; ! From Uzbek names book.
 Marsuma:Marsuma   NP-ANT-F  ; ! From Uzbek names book.
 Martaba:Martaba   NP-ANT-F  ; ! From Uzbek names book.
-Ma’rufa:Ma’rufa   NP-ANT-F  ; ! From Uzbek names book.
-Ma’rufjamol:Ma’rufjamol   NP-ANT-F  ; ! From Uzbek names book.
-Ma’ruza:Ma’ruza   NP-ANT-F  ; ! From Uzbek names book.
+Maʼrufa:Maʼrufa   NP-ANT-F  ; ! From Uzbek names book.
+Maʼrufjamol:Maʼrufjamol   NP-ANT-F  ; ! From Uzbek names book.
+Maʼruza:Maʼruza   NP-ANT-F  ; ! From Uzbek names book.
 Marvad:Marvad   NP-ANT-F  ; ! From Uzbek names book.
 Marvan:Marvan   NP-ANT-F  ; ! From Uzbek names book.
 Marva:Marva   NP-ANT-F  ; ! From Uzbek names book.
@@ -58232,11 +58232,11 @@ Mastonbibi:Mastonbibi   NP-ANT-F  ; ! From Uzbek names book.
 Mastoncha:Mastoncha   NP-ANT-F  ; ! From Uzbek names book.
 Mastura:Mastura   NP-ANT-F  ; ! From Uzbek names book.
 Masuba:Masuba   NP-ANT-F  ; ! From Uzbek names book.
-Ma’suda:Ma’suda   NP-ANT-F  ; ! From Uzbek names book.
-Ma’sud:Ma’sud   NP-ANT-F  ; ! From Uzbek names book.
-Ma’suma:Ma’suma   NP-ANT-F  ; ! From Uzbek names book.
-Ma’sumxon:Ma’sumxon   NP-ANT-F  ; ! From Uzbek names book.
-Matbu’a:Matbu’a   NP-ANT-F  ; ! From Uzbek names book.
+Maʼsuda:Maʼsuda   NP-ANT-F  ; ! From Uzbek names book.
+Maʼsud:Maʼsud   NP-ANT-F  ; ! From Uzbek names book.
+Maʼsuma:Maʼsuma   NP-ANT-F  ; ! From Uzbek names book.
+Maʼsumxon:Maʼsumxon   NP-ANT-F  ; ! From Uzbek names book.
+Matbuʼa:Matbuʼa   NP-ANT-F  ; ! From Uzbek names book.
 Matlab:Matlab   NP-ANT-F  ; ! From Uzbek names book.
 Matluba:Matluba   NP-ANT-F  ; ! From Uzbek names book.
 Matniso:Matniso   NP-ANT-F  ; ! From Uzbek names book.
@@ -58250,7 +58250,7 @@ Mavjuda:Mavjuda   NP-ANT-F  ; ! From Uzbek names book.
 Mavluda:Mavluda   NP-ANT-F  ; ! From Uzbek names book.
 Mavludbeka:Mavludbeka   NP-ANT-F  ; ! From Uzbek names book.
 Mavludxon:Mavludxon   NP-ANT-F  ; ! From Uzbek names book.
-Ma’voxon:Ma’voxon   NP-ANT-F  ; ! From Uzbek names book.
+Maʼvoxon:Maʼvoxon   NP-ANT-F  ; ! From Uzbek names book.
 Mavoxon:Mavoxon   NP-ANT-F  ; ! From Uzbek names book.
 Mavruza:Mavruza   NP-ANT-F  ; ! From Uzbek names book.
 Mavsala:Mavsala   NP-ANT-F  ; ! From Uzbek names book.
@@ -58400,7 +58400,7 @@ Menlibanot:Menlibanot   NP-ANT-F  ; ! From Uzbek names book.
 Menliomon:Menliomon   NP-ANT-F  ; ! From Uzbek names book.
 Menlioysha:Menlioysha   NP-ANT-F  ; ! From Uzbek names book.
 Merhjon:Merhjon   NP-ANT-F  ; ! From Uzbek names book.
-Me’rojxon:Me’rojxon   NP-ANT-F  ; ! From Uzbek names book.
+Meʼrojxon:Meʼrojxon   NP-ANT-F  ; ! From Uzbek names book.
 Merosiddin:Merosiddin   NP-ANT-F  ; ! From Uzbek names book.
 Merosxon:Merosxon   NP-ANT-F  ; ! From Uzbek names book.
 Metinoy:Metinoy   NP-ANT-F  ; ! From Uzbek names book.
@@ -58538,7 +58538,7 @@ Momosuluv:Momosuluv   NP-ANT-F  ; ! From Uzbek names book.
 Momotoj:Momotoj   NP-ANT-F  ; ! From Uzbek names book.
 Momoxol:Momoxol   NP-ANT-F  ; ! From Uzbek names book.
 Monsimo:Monsimo   NP-ANT-F  ; ! From Uzbek names book.
-Montal’at:Montal’at   NP-ANT-F  ; ! From Uzbek names book.
+Montalʼat:Montalʼat   NP-ANT-F  ; ! From Uzbek names book.
 Moshxol:Moshxol   NP-ANT-F  ; ! From Uzbek names book.
 Moʻtabar:Moʻtabar   NP-ANT-F  ; ! From Uzbek names book.
 Moʻtila:Moʻtila   NP-ANT-F  ; ! From Uzbek names book.
@@ -58592,7 +58592,7 @@ Muhsina:Muhsina   NP-ANT-F  ; ! From Uzbek names book.
 Muhtarama:Muhtarama   NP-ANT-F  ; ! From Uzbek names book.
 Muhtasam:Muhtasam   NP-ANT-F  ; ! From Uzbek names book.
 Muhtasham:Muhtasham   NP-ANT-F  ; ! From Uzbek names book.
-Mu’ina:Mu’ina   NP-ANT-F  ; ! From Uzbek names book.
+Muʼina:Muʼina   NP-ANT-F  ; ! From Uzbek names book.
 Muina:Muina   NP-ANT-F  ; ! From Uzbek names book.
 Mujgon:Mujgon   NP-ANT-F  ; ! From Uzbek names book.
 Mujovira:Mujovira   NP-ANT-F  ; ! From Uzbek names book.
@@ -58760,8 +58760,8 @@ Nekbuvi:Nekbuvi   NP-ANT-F  ; ! From Uzbek names book.
 Nekliqo:Nekliqo   NP-ANT-F  ; ! From Uzbek names book.
 Nekniso:Nekniso   NP-ANT-F  ; ! From Uzbek names book.
 Nekobroʻ:Nekobroʻ   NP-ANT-F  ; ! From Uzbek names book.
-Ne’matbibi:Ne’matbibi   NP-ANT-F  ; ! From Uzbek names book.
-Ne’matoy:Ne’matoy   NP-ANT-F  ; ! From Uzbek names book.
+Neʼmatbibi:Neʼmatbibi   NP-ANT-F  ; ! From Uzbek names book.
+Neʼmatoy:Neʼmatoy   NP-ANT-F  ; ! From Uzbek names book.
 Netayxon:Netayxon   NP-ANT-F  ; ! From Uzbek names book.
 Nevara:Nevara   NP-ANT-F  ; ! From Uzbek names book.
 Nidoxon:Nidoxon   NP-ANT-F  ; ! From Uzbek names book.
@@ -58908,9 +58908,9 @@ Nozpari:Nozpari   NP-ANT-F  ; ! From Uzbek names book.
 Nozsulton:Nozsulton   NP-ANT-F  ; ! From Uzbek names book.
 Nubuvvat:Nubuvvat   NP-ANT-F  ; ! From Uzbek names book.
 Nufuza:Nufuza   NP-ANT-F  ; ! From Uzbek names book.
-Nu’moncha:Nu’moncha   NP-ANT-F  ; ! From Uzbek names book.
-Nu’mon:Nu’mon   NP-ANT-F  ; ! From Uzbek names book.
-Nu’monxon:Nu’monxon   NP-ANT-F  ; ! From Uzbek names book.
+Nuʼmoncha:Nuʼmoncha   NP-ANT-F  ; ! From Uzbek names book.
+Nuʼmon:Nuʼmon   NP-ANT-F  ; ! From Uzbek names book.
+Nuʼmonxon:Nuʼmonxon   NP-ANT-F  ; ! From Uzbek names book.
 Nuqra:Nuqra   NP-ANT-F  ; ! From Uzbek names book.
 Nuqraoy:Nuqraoy   NP-ANT-F  ; ! From Uzbek names book.
 Nurafshon:Nurafshon   NP-ANT-F  ; ! From Uzbek names book.
@@ -59352,7 +59352,7 @@ Oysha:Oysha   NP-ANT-F  ; ! From Uzbek names book.
 Oysharaf:Oysharaf   NP-ANT-F  ; ! From Uzbek names book.
 Oyshirin:Oyshirin   NP-ANT-F  ; ! From Uzbek names book.
 Oyshoh:Oyshoh   NP-ANT-F  ; ! From Uzbek names book.
-Oyshu’la:Oyshu’la   NP-ANT-F  ; ! From Uzbek names book.
+Oyshuʼla:Oyshuʼla   NP-ANT-F  ; ! From Uzbek names book.
 Oysifat:Oysifat   NP-ANT-F  ; ! From Uzbek names book.
 Oysihat:Oysihat   NP-ANT-F  ; ! From Uzbek names book.
 Oysimon:Oysimon   NP-ANT-F  ; ! From Uzbek names book.
@@ -59666,9 +59666,9 @@ Ramila:Ramila   NP-ANT-F  ; ! From Uzbek names book.
 Ramiya:Ramiya   NP-ANT-F  ; ! From Uzbek names book.
 Ramiza:Ramiza   NP-ANT-F  ; ! From Uzbek names book.
 Ramziya:Ramziya   NP-ANT-F  ; ! From Uzbek names book.
-Ra’nogul:Ra’nogul   NP-ANT-F  ; ! From Uzbek names book.
-Ra’no:Ra’no   NP-ANT-F  ; ! From Uzbek names book.
-Ra’noqad:Ra’noqad   NP-ANT-F  ; ! From Uzbek names book.
+Raʼnogul:Raʼnogul   NP-ANT-F  ; ! From Uzbek names book.
+Raʼno:Raʼno   NP-ANT-F  ; ! From Uzbek names book.
+Raʼnoqad:Raʼnoqad   NP-ANT-F  ; ! From Uzbek names book.
 Raqiya:Raqiya   NP-ANT-F  ; ! From Uzbek names book.
 Raqqosa:Raqqosa   NP-ANT-F  ; ! From Uzbek names book.
 Rashida:Rashida   NP-ANT-F  ; ! From Uzbek names book.
@@ -59803,7 +59803,7 @@ Sadbar:Sadbar   NP-ANT-F  ; ! From Uzbek names book.
 Sadbarxon:Sadbarxon   NP-ANT-F  ; ! From Uzbek names book.
 Sadida:Sadida   NP-ANT-F  ; ! From Uzbek names book.
 Sadina:Sadina   NP-ANT-F  ; ! From Uzbek names book.
-Sa’diposhsha:Sa’diposhsha   NP-ANT-F  ; ! From Uzbek names book.
+Saʼdiposhsha:Saʼdiposhsha   NP-ANT-F  ; ! From Uzbek names book.
 Sadisa:Sadisa   NP-ANT-F  ; ! From Uzbek names book.
 Sadoqat:Sadoqat   NP-ANT-F  ; ! From Uzbek names book.
 Sadorat:Sadorat   NP-ANT-F  ; ! From Uzbek names book.
@@ -59873,7 +59873,7 @@ Samoxon:Samoxon   NP-ANT-F  ; ! From Uzbek names book.
 Sanamgul:Sanamgul   NP-ANT-F  ; ! From Uzbek names book.
 Sanam:Sanam   NP-ANT-F  ; ! From Uzbek names book.
 Sanamoy:Sanamoy   NP-ANT-F  ; ! From Uzbek names book.
-San’atgul:San’atgul   NP-ANT-F  ; ! From Uzbek names book.
+Sanʼatgul:Sanʼatgul   NP-ANT-F  ; ! From Uzbek names book.
 Sandal:Sandal   NP-ANT-F  ; ! From Uzbek names book.
 Sangcha:Sangcha   NP-ANT-F  ; ! From Uzbek names book.
 Sangiltosh:Sangiltosh   NP-ANT-F  ; ! From Uzbek names book.
@@ -60017,7 +60017,7 @@ Sharqiya:Sharqiya   NP-ANT-F  ; ! From Uzbek names book.
 Shavqiya:Shavqiya   NP-ANT-F  ; ! From Uzbek names book.
 Shaydo:Shaydo   NP-ANT-F  ; ! From Uzbek names book.
 Shayzoda:Shayzoda   NP-ANT-F  ; ! From Uzbek names book.
-She’riya:She’riya   NP-ANT-F  ; ! From Uzbek names book.
+Sheʼriya:Sheʼriya   NP-ANT-F  ; ! From Uzbek names book.
 Sherqul:Sherqul   NP-ANT-F  ; ! From Uzbek names book.
 Shijoatxon:Shijoatxon   NP-ANT-F  ; ! From Uzbek names book.
 Shiringul:Shiringul   NP-ANT-F  ; ! From Uzbek names book.
@@ -60080,7 +60080,7 @@ Shukriya:Shukriya   NP-ANT-F  ; ! From Uzbek names book.
 Shukufa:Shukufa   NP-ANT-F  ; ! From Uzbek names book.
 Shukura:Shukura   NP-ANT-F  ; ! From Uzbek names book.
 Shukuriya:Shukuriya   NP-ANT-F  ; ! From Uzbek names book.
-Shu’la:Shu’la   NP-ANT-F  ; ! From Uzbek names book.
+Shuʼla:Shuʼla   NP-ANT-F  ; ! From Uzbek names book.
 Siddiqa:Siddiqa   NP-ANT-F  ; ! From Uzbek names book.
 Sidqiya:Sidqiya   NP-ANT-F  ; ! From Uzbek names book.
 Sifatbibi:Sifatbibi   NP-ANT-F  ; ! From Uzbek names book.
@@ -60189,8 +60189,8 @@ Sunduzxon:Sunduzxon   NP-ANT-F  ; ! From Uzbek names book.
 Suqsuroy:Suqsuroy   NP-ANT-F  ; ! From Uzbek names book.
 Suqsurxon:Suqsurxon   NP-ANT-F  ; ! From Uzbek names book.
 Surat:Surat   NP-ANT-F  ; ! From Uzbek names book.
-Sur’atoy:Sur’atoy   NP-ANT-F  ; ! From Uzbek names book.
-Sur’atxon:Sur’atxon   NP-ANT-F  ; ! From Uzbek names book.
+Surʼatoy:Surʼatoy   NP-ANT-F  ; ! From Uzbek names book.
+Surʼatxon:Surʼatxon   NP-ANT-F  ; ! From Uzbek names book.
 Suraxon:Suraxon   NP-ANT-F  ; ! From Uzbek names book.
 Suray:Suray   NP-ANT-F  ; ! From Uzbek names book.
 Surayyo:Surayyo   NP-ANT-F  ; ! From Uzbek names book.
@@ -60224,8 +60224,8 @@ Tahmina:Tahmina   NP-ANT-F  ; ! From Uzbek names book.
 Tahsin:Tahsin   NP-ANT-F  ; ! From Uzbek names book.
 Takmila:Takmila   NP-ANT-F  ; ! From Uzbek names book.
 Talaboy:Talaboy   NP-ANT-F  ; ! From Uzbek names book.
-Tal’atoy:Tal’atoy   NP-ANT-F  ; ! From Uzbek names book.
-Ta’lima:Ta’lima   NP-ANT-F  ; ! From Uzbek names book.
+Talʼatoy:Talʼatoy   NP-ANT-F  ; ! From Uzbek names book.
+Taʼlima:Taʼlima   NP-ANT-F  ; ! From Uzbek names book.
 Tamal:Tamal   NP-ANT-F  ; ! From Uzbek names book.
 Tamanno:Tamanno   NP-ANT-F  ; ! From Uzbek names book.
 Tamiza:Tamiza   NP-ANT-F  ; ! From Uzbek names book.
@@ -60242,7 +60242,7 @@ Tanziya:Tanziya   NP-ANT-F  ; ! From Uzbek names book.
 Taqdisa:Taqdisa   NP-ANT-F  ; ! From Uzbek names book.
 Tarbiya:Tarbiya   NP-ANT-F  ; ! From Uzbek names book.
 Tarfiya:Tarfiya   NP-ANT-F  ; ! From Uzbek names book.
-Ta’rifa:Ta’rifa   NP-ANT-F  ; ! From Uzbek names book.
+Taʼrifa:Taʼrifa   NP-ANT-F  ; ! From Uzbek names book.
 Tarifa:Tarifa   NP-ANT-F  ; ! From Uzbek names book.
 Tarjiha:Tarjiha   NP-ANT-F  ; ! From Uzbek names book.
 Tarnoz:Tarnoz   NP-ANT-F  ; ! From Uzbek names book.
@@ -60266,7 +60266,7 @@ Tavona:Tavona   NP-ANT-F  ; ! From Uzbek names book.
 Tavsanoy:Tavsanoy   NP-ANT-F  ; ! From Uzbek names book.
 Tavziha:Tavziha   NP-ANT-F  ; ! From Uzbek names book.
 Tayfura:Tayfura   NP-ANT-F  ; ! From Uzbek names book.
-Ta’zima:Ta’zima   NP-ANT-F  ; ! From Uzbek names book.
+Taʼzima:Taʼzima   NP-ANT-F  ; ! From Uzbek names book.
 Tazkira:Tazkira   NP-ANT-F  ; ! From Uzbek names book.
 Tazkiya:Tazkiya   NP-ANT-F  ; ! From Uzbek names book.
 Tegina:Tegina   NP-ANT-F  ; ! From Uzbek names book.
@@ -60682,7 +60682,7 @@ Xonqul:Xonqul   NP-ANT-F  ; ! From Uzbek names book.
 Xonsoibxon:Xonsoibxon   NP-ANT-F  ; ! From Uzbek names book.
 Xonsora:Xonsora   NP-ANT-F  ; ! From Uzbek names book.
 Xonsuluv:Xonsuluv   NP-ANT-F  ; ! From Uzbek names book.
-Xontal’at:Xontal’at   NP-ANT-F  ; ! From Uzbek names book.
+Xontalʼat:Xontalʼat   NP-ANT-F  ; ! From Uzbek names book.
 Xontilla:Xontilla   NP-ANT-F  ; ! From Uzbek names book.
 Xonzoda:Xonzoda   NP-ANT-F  ; ! From Uzbek names book.
 Xoʻrozxol:Xoʻrozxol   NP-ANT-F  ; ! From Uzbek names book.
@@ -60961,7 +60961,7 @@ Zulkabira:Zulkabira   NP-ANT-F  ; ! From Uzbek names book.
 Zulkamol:Zulkamol   NP-ANT-F  ; ! From Uzbek names book.
 Zulkaram:Zulkaram   NP-ANT-F  ; ! From Uzbek names book.
 Zulmat:Zulmat   NP-ANT-F  ; ! From Uzbek names book.
-Zulqa’da:Zulqa’da   NP-ANT-F  ; ! From Uzbek names book.
+Zulqaʼda:Zulqaʼda   NP-ANT-F  ; ! From Uzbek names book.
 Zulqamar:Zulqamar   NP-ANT-F  ; ! From Uzbek names book.
 Zulxabira:Zulxabira   NP-ANT-F  ; ! From Uzbek names book.
 Zulxiya:Zulxiya   NP-ANT-F  ; ! From Uzbek names book.
@@ -61048,8 +61048,8 @@ Enash:Enash   NP-ANT-F  ; ! From Uzbek names book.
 Enashxon:Enashxon   NP-ANT-F  ; ! From Uzbek names book.
 Esonbu:Esonbu   NP-ANT-F  ; ! From Uzbek names book.
 Esonbuvi:Esonbuvi   NP-ANT-F  ; ! From Uzbek names book.
-E’zoz:E’zoz   NP-ANT-F  ; ! From Uzbek names book.
-E’zozxon:E’zozxon   NP-ANT-F  ; ! From Uzbek names book.
+Eʼzoz:Eʼzoz   NP-ANT-F  ; ! From Uzbek names book.
+Eʼzozxon:Eʼzozxon   NP-ANT-F  ; ! From Uzbek names book.
 Farangiz:Farangiz   NP-ANT-F  ; ! From Uzbek names book.
 Farangis:Farangis   NP-ANT-F  ; ! From Uzbek names book.
 Firuza:Firuza   NP-ANT-F  ; ! From Uzbek names book.
@@ -61142,7 +61142,7 @@ Marjon:Marjon   NP-ANT-F  ; ! From Uzbek names book.
 Marjona:Marjona   NP-ANT-F  ; ! From Uzbek names book.
 Marmar:Marmar   NP-ANT-F  ; ! From Uzbek names book.
 Marmaroy:Marmaroy   NP-ANT-F  ; ! From Uzbek names book.
-Ma’firat:Ma’firat   NP-ANT-F  ; ! From Uzbek names book.
+Maʼfirat:Maʼfirat   NP-ANT-F  ; ! From Uzbek names book.
 Maxfirat:Maxfirat   NP-ANT-F  ; ! From Uzbek names book.
 Mashoh:Mashoh   NP-ANT-F  ; ! From Uzbek names book.
 Bashoq:Bashoq   NP-ANT-F  ; ! From Uzbek names book.
@@ -61355,7 +61355,7 @@ Soyiqa:Soyiqa   NP-ANT-F  ; ! From Uzbek names book.
 Soliya:Soliya   NP-ANT-F  ; ! From Uzbek names book.
 Soliyaxon:Soliyaxon   NP-ANT-F  ; ! From Uzbek names book.
 Somia:Somia   NP-ANT-F  ; ! From Uzbek names book.
-Some’a:Some’a   NP-ANT-F  ; ! From Uzbek names book.
+Someʼa:Someʼa   NP-ANT-F  ; ! From Uzbek names book.
 Sotimbika:Sotimbika   NP-ANT-F  ; ! From Uzbek names book.
 Sotimbeka:Sotimbeka   NP-ANT-F  ; ! From Uzbek names book.
 Suvsar:Suvsar   NP-ANT-F  ; ! From Uzbek names book.
@@ -61456,7 +61456,7 @@ Umay:Umay   NP-ANT-F  ; ! From Uzbek names book.
 Umayxon:Umayxon   NP-ANT-F  ; ! From Uzbek names book.
 Umiya:Umiya   NP-ANT-F  ; ! From Uzbek names book.
 Umiyabibi:Umiyabibi   NP-ANT-F  ; ! From Uzbek names book.
-Um’yo:Um’yo   NP-ANT-F  ; ! From Uzbek names book.
+Umʼyo:Umʼyo   NP-ANT-F  ; ! From Uzbek names book.
 Umyo:Umyo   NP-ANT-F  ; ! From Uzbek names book.
 Vasolat:Vasolat   NP-ANT-F  ; ! From Uzbek names book.
 Visolat:Visolat   NP-ANT-F  ; ! From Uzbek names book.
@@ -61511,19 +61511,19 @@ Himoyat:Himoyat NP-ANT-F ; ! From Uzbek names book.
 Himoyatxon:Himoyatxon NP-ANT-F ; ! From Uzbek names book.
 Laylon:Laylon NP-ANT-F ; ! From Uzbek names book.
 Nayson:Nayson NP-ANT-F ; ! From Uzbek names book.
-Mi’ad:Mi’ad NP-ANT-M ; ! From Uzbek names book.
+Miʼad:Miʼad NP-ANT-M ; ! From Uzbek names book.
 Miad:Miad NP-ANT-M ; ! From Uzbek names book.
 Meod:Meod NP-ANT-M ; ! From Uzbek names book.
 Oʻnbek:Oʻnbek NP-ANT-M ; ! From Uzbek names book.
 Oʻnboy:Oʻnboy NP-ANT-M ; ! From Uzbek names book.
 Oʻnjon:Oʻnjon NP-ANT-M ; ! From Uzbek names book.
 Roba:Roba NP-ANT-M ; ! From Uzbek names book.
-Robe’:Robe’ NP-ANT-M ; ! From Uzbek names book.
+Robeʼ:Robeʼ NP-ANT-M ; ! From Uzbek names book.
 Robi:Robi NP-ANT-M ; ! From Uzbek names book.
 Samia:Samia NP-ANT-F ; ! From Uzbek names book.
 Samigʻ:Samigʻ NP-ANT-F ; ! From Uzbek names book.
 Samigʻjon:Samigʻjon NP-ANT-F ; ! From Uzbek names book.
-Sami’ulla:Sami’ulla NP-ANT-M ; ! From Uzbek names book.
+Samiʼulla:Samiʼulla NP-ANT-M ; ! From Uzbek names book.
 Samiulla:Samiulla NP-ANT-M ; ! From Uzbek names book.
 Samigʻulla:Samigʻulla NP-ANT-M ; ! From Uzbek names book.
 Saxi:Saxi NP-ANT-M ; ! From Uzbek names book.
@@ -61531,7 +61531,7 @@ Saxiboy:Saxiboy NP-ANT-M ; ! From Uzbek names book.
 Shiragul:Shiragul NP-ANT-F ; ! From Uzbek names book.
 Shiraxon:Shiraxon NP-ANT-F ; ! From Uzbek names book.
 Shira:Shira NP-ANT-F ; ! From Uzbek names book.
-Sib’atulla:Sib’atulla NP-ANT-M ; ! From Uzbek names book.
+Sibʼatulla:Sibʼatulla NP-ANT-M ; ! From Uzbek names book.
 Sibgʻatulla:Sibgʻatulla NP-ANT-M ; ! From Uzbek names book.
 Somiya:Somiya NP-ANT-F ; ! From Uzbek names book.
 Samiya:Samiya NP-ANT-F ; ! From Uzbek names book.
@@ -61558,7 +61558,7 @@ Bayongul:Bayongul NP-ANT-F ; ! From Uzbek names book.
 Begim:Begim NP-ANT-F ; ! From Uzbek names book.
 Behruz:Behruz NP-ANT-M ; ! From Uzbek names book.
 Bibirobiya:Bibirobiya NP-ANT-F ; ! From Uzbek names book.
-Bibisan’at:Bibisan’at NP-ANT-F ; ! From Uzbek names book.
+Bibisanʼat:Bibisanʼat NP-ANT-F ; ! From Uzbek names book.
 Bobokalon:Bobokalon NP-ANT-M ; ! From Uzbek names book.
 Bobomuhammad:Bobomuhammad NP-ANT-M ; ! From Uzbek names book.
 Bogʻguli:Bogʻguli NP-ANT-F ; ! From Uzbek names book.
@@ -61581,7 +61581,7 @@ Eshjoʻra:Eshjoʻra NP-ANT-M ; ! From Uzbek names book.
 Eshondada:Eshondada NP-ANT-M ; ! From Uzbek names book.
 Eshontoy:Eshontoy NP-ANT-M ; ! From Uzbek names book.
 Esongul:Esongul NP-ANT-F ; ! From Uzbek names book.
-E’zozaxon:E’zozaxon NP-ANT-F ; ! From Uzbek names book.
+Eʼzozaxon:Eʼzozaxon NP-ANT-F ; ! From Uzbek names book.
 Farah:Farah NP-ANT-M ; ! From Uzbek names book.
 Faridun:Faridun NP-ANT-M ; ! From Uzbek names book.
 Farruhjamol:Farruhjamol NP-ANT-F ; ! From Uzbek names book.
@@ -61602,15 +61602,15 @@ Ilmijamol:Ilmijamol NP-ANT-F ; ! From Uzbek names book.
 Intizor:Intizor NP-ANT-F ; ! From Uzbek names book.
 Islomxoʻja:Islomxoʻja NP-ANT-M ; ! From Uzbek names book.
 Jangovor:Jangovor NP-ANT-M ; ! From Uzbek names book.
-La’li:La’li NP-ANT-F ; ! From Uzbek names book.
+Laʼli:Laʼli NP-ANT-F ; ! From Uzbek names book.
 Lutfiniso:Lutfiniso NP-ANT-F ; ! From Uzbek names book.
 Mahbubbek:Mahbubbek NP-ANT-M ; ! From Uzbek names book.
 Maqsadjon:Maqsadjon NP-ANT-M ; ! From Uzbek names book.
 Maqsud:Maqsud NP-ANT-M ; ! From Uzbek names book.
 Mashoq:Mashoq NP-ANT-F ; ! From Uzbek names book.
-Ma’sud:Ma’sud NP-ANT-M ; ! From Uzbek names book.
+Maʼsud:Maʼsud NP-ANT-M ; ! From Uzbek names book.
 Mirgʻozi:Mirgʻozi NP-ANT-M ; ! From Uzbek names book.
-Mirsa’diy:Mirsa’diy NP-ANT-M ; ! From Uzbek names book.
+Mirsaʼdiy:Mirsaʼdiy NP-ANT-M ; ! From Uzbek names book.
 Moilbeka:Moilbeka NP-ANT-F ; ! From Uzbek names book.
 Muhibniso:Muhibniso NP-ANT-F ; ! From Uzbek names book.
 Muhiddina:Muhiddina NP-ANT-F ; ! From Uzbek names book.
@@ -61644,7 +61644,7 @@ Qoraoʻgʻlon:Qoraoʻgʻlon NP-ANT-M ; ! From Uzbek names book.
 Qoʻysintosh:Qoʻysintosh NP-ANT-M ; ! From Uzbek names book.
 Qulboq:Qulboq NP-ANT-M ; ! From Uzbek names book.
 Qulxoʻja:Qulxoʻja NP-ANT-M ; ! From Uzbek names book.
-Sa’diniyoz:Sa’diniyoz NP-ANT-M ; ! From Uzbek names book.
+Saʼdiniyoz:Saʼdiniyoz NP-ANT-M ; ! From Uzbek names book.
 Saidahmad:Saidahmad NP-ANT-M ; ! From Uzbek names book.
 Saidkomil:Saidkomil NP-ANT-M ; ! From Uzbek names book.
 Salomiddin:Salomiddin NP-ANT-M ; ! From Uzbek names book.
