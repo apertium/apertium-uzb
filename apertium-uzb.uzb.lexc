@@ -1376,10 +1376,7 @@ curid:curid N1-REMOVE ;
 w:w MIST ; 
 wiki:wiki N1-REMOVE ; 
 wikipedia:wikipedia N1-REMOVE ; 
-
-<(M | D | C | L | X | V | I)+> NUM-ROMAN ; ! "Roman numerals"
-
-
+<[M | D | C | L | X | V | I]+> NUM-ROMAN ; ! "Roman numerals"
 a:a CC-PROTIV ; ! 
 a:a IJ ; ! 
 %-a:%-a QST ; !
