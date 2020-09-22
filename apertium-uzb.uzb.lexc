@@ -37104,9 +37104,10 @@ Genchlerbirligi:Genchlerbirligi  NP-ORG ; ! "" ! El++
 Google:Google  NP-ORG ; ! "" ! El++
 Goztepe:Goztepe  NP-ORG ; ! "" ! El++
 GSYIH:GSYIH  NP-ORG ; ! "" ! El++
-HDP:HDP  NP-ORG ; ! "" ! El++
+! HDP:HDP  NP-ORG ; ! "" ! El++ ! 
+XDP:XDP  NP-ORG ; ! "Xalq Demokratik Partiyasi"
 Herald% Tribune:Herald% Tribune  NP-ORG ; ! "" ! El++
-IIV:IIV  NP-ORG ; ! "" ! El++
+IIV:IIV  NP-ORG ; ! "Ministry of Internal Affairs" ! El++
 Interpol:Interpol  NP-ORG ; ! "" ! El++
 iPhone:iPhone  NP-ORG ; ! "" ! El++
 IShID:IShID  NP-ORG ; ! "" ! El++
@@ -37667,7 +37668,7 @@ Gvineya:Gvineya NP-TOP ; ! ""
 Göztepe:Göztepe NP-ORG ; ! ""
 Güenter:Güenter NP-ANT-M ; ! ""
 Gʻulom:Gʻulom NP-ANT-M ; ! ""
-HDZ:HDZ NP-ORG ; ! ""
+HDZ:HDZ NP-ORG ; ! "Croatian Democratic Union"
 HINA:HINA NP-ORG ; ! ""
 HSBC:HSBC NP-ORG ; ! ""
 Hacettepe:Hacettepe NP-ORG ; ! ""
@@ -63105,4 +63106,12 @@ Yedinaya% Rossiya:Yedinaya% Rossiya  NP-ORG ; ! "" ! El++
 YouTube:YouTube  NP-ORG ; ! "" ! El++
 Yunayted:Yunayted  NP-ORG ; ! "" ! El++
 
-
+XXXS:XXXS NP-AL ; ! "Dress size"
+XXS:XXS NP-AL ; ! "Dress size"
+XS:XS NP-AL ; ! "Dress size"
+S:S NP-AL ; ! "Dress size"
+M:M NP-AL ; ! "Dress size"
+L:L NP-AL ; ! "Dress size"
+XL:XL NP-AL ; ! "Dress size"
+XXL:XXL NP-AL ; ! "Dress size"
+XXXL:XXXL NP-AL ; ! "Dress size"
