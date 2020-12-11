@@ -2200,8 +2200,8 @@ amr:amr N1 ; !
 amrifarmo:amrifarmo N1 ; ! 
 amfibiya:amfibiya N1 ; ! 
 amfiteatr:amfiteatr N1 ; ! 
-anʻana:anʻana N1 ; ! "tradition"
-anʻanaviy:anʻanaviy A2 ; ! "traditional"
+anʼana:anʼana N1 ; ! "tradition"
+anʼanaviy:anʼanaviy A2 ; ! "traditional"
 anʼanav:anʼanav N1 ; ! 
 anʼanaviy:anʼanaviy A2 ; ! 
 ana:ana ADV1 ; ! "there"
@@ -23995,8 +23995,8 @@ samolyotsozlik:samolyotsozlik N1 ; ! 0.9999999999955772
 samo:samo N1 ; ! 0.8783086868115534
 samo:samo N1 ; ! 0.9994955752634636
 samur:samur N1 ; ! 0.9999998576553648
-sanʻatkor:sanʻatkor N1 ; ! "artist"
-sanʻat:sanʻat N1 ; ! "art"
+sanʼatkor:sanʼatkor N1 ; ! "artist"
+sanʼat:sanʼat N1 ; ! "art"
 sanad:sanad N1 ; ! 0.9999976275819435
 sanal:sanal VERB-IV ; ! "to be counted"
 sanal:sanal V-TV ; ! 0.9978147231588493
