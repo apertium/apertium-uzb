@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <mode name="uzb-twol" install="yes">
+  <mode name="uzb-twol">
     <pipeline>
       <program name="hfst-strings2fst -S"/>
       <program name="hfst-compose-intersect">
@@ -28,7 +28,7 @@
   </mode>
 
 
-  <mode name="uzb-lexc" install="yes">
+  <mode name="uzb-lexc">
     <pipeline>
       <program name="lt-proc -g">
         <file name=".deps/uzb.lexc.hfst"/>
