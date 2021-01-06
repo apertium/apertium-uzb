@@ -28,19 +28,19 @@
 %<postadv%>   ! Postadverb                 !
 %<cop%>       ! Copula                     ! Kopula
 %<ideo%>      ! Ideophone/onomatopoeia     ! Ideofon???
-%<paren%>     ! Parentheses                ! Qo'shtirnoq
+%<paren%>     ! Parentheses                ! Qoʻshtirnoq
 %<phrase%>    ! Phrase                     ! Fraza
 
 ! Cases                       ! Kelishiklar
 %<nom%>       ! Nominative    ! Bosh kelishik
 %<gen%>       ! Genitive      ! Qaratqich kelishigi
-%<dat%>       ! Dative        ! Jo'nalish kelishigi
+%<dat%>       ! Dative        ! Joʻnalish kelishigi
 %<acc%>       ! Accusative    ! Tushum kelishigi
 %<abl%>       ! Ablative      ! Chiqish kelishigi
-%<loc%>       ! Locative      ! O'rin-payt kelishigi
+%<loc%>       ! Locative      ! Oʻrin-payt kelishigi
 %<ins%>       ! Instrumental  ! Instrumental=comitative 
 
-!! some additional ~cases                  ! Ba`zi qo'shimcha kelishiklar
+!! some additional ~cases                  ! Ba`zi qoʻshimcha kelishiklar
 %<sim%>       ! Similative                 !# DAй
 %<abe%>       ! Abessive=Privative         ! Лишительный
               ! # SIZ (not used after posessives and cases)
@@ -50,13 +50,13 @@
 %<comp%>      ! Comparative            ! Solishtirma
 
 ! TODO
-!! Some adjecives have a "weakening" form, e.g. oq>oqish, sariq>sarg'ish; but
+!! Some adjecives have a "weakening" form, e.g. oq>oqish, sariq>sargʻish; but
 !! also oq>oqimtir, qora>qoramtir. Sometimes they take the comparative ROQ affix,
-!! e.g. qizg'ishroq.
+!! e.g. qizgʻishroq.
 
 ! TODO
 !! There is also what can be called a synthetic superlative form (as opposed
-!! to the /eng<adv>+X<adj>/ construction) -- qop-qora, sap-sariq, ko'm-ko'k etc.
+!! to the /eng<adv>+X<adj>/ construction) -- qop-qora, sap-sariq, koʻm-koʻk etc.
 !! Probably easiest way would be just to lexicalize them, but make sure that
 !! they don't take the comparative affix.
 
@@ -64,10 +64,10 @@
 ! Possessives
 %<px1sg%>     ! First person singular                   ! 1-shaxs birlik
 %<px2sg%>     ! Second person singular                  ! 2-shaxs birlik
-%<px3sp%>     ! Third person singular/plural            ! 3-shaxs birlik/ko'plik
-%<px1pl%>     ! First person plural                     ! 1-shaxs ko'plik
-%<px2pl%>     ! Second person plural                    ! 2-shaxs ko'plik
-%<px3pl%>     ! Third person plural (for reflexive)     ! 3-shaxs ko'plik
+%<px3sp%>     ! Third person singular/plural            ! 3-shaxs birlik/koʻplik
+%<px1pl%>     ! First person plural                     ! 1-shaxs koʻplik
+%<px2pl%>     ! Second person plural                    ! 2-shaxs koʻplik
+%<px3pl%>     ! Third person plural (for reflexive)     ! 3-shaxs koʻplik
 
 
 
@@ -158,7 +158,7 @@
 
 ! Number
 %<sg%>        ! Singular ! Birlik
-%<pl%>        ! Plural   ! Ko'plik
+%<pl%>        ! Plural   ! Koʻplik
 
 ! Pronoun types
 %<pers%>      ! Personal
@@ -204,7 +204,7 @@
 
 
 !!! Verbal adverbs        ! Ravishdosh        !Глагольные наречия
-%<gna_perf%>  ! -{I}b,   ! # O'sha vaqt endi quyosh _botib_, yulduzlar ko'rina boshlagan edi
+%<gna_perf%>  ! -{I}b,   ! # Oʻsha vaqt endi quyosh _botib_, yulduzlar koʻrina boshlagan edi
               !# "...ул вакытта инде кояш _баеп_, йолдызлар күренә башлаган
               !# иде..." (Ф.Хөсни);
 %<gna_impf%>  ! -{A}       
@@ -266,19 +266,19 @@
 %{i%}            ! Becomes as "i" after a consonant, otherwise null
 %{E%}            ! Becomes as "a" after a consonant, otherwise "y"    
 %{K%}                !k-g
-%{Q%}                !q-g‘
+%{Q%}                !q-gʻ
 
 ! Archiphonemes and escaped symbols (from apertium-kaz) ! "FIXME"
 
 %{L%}         ! Archiphoneme ‘l‘: realised as л, д, т
 %{N%}         ! Archiphoneme ‘n‘: realised as н, д, т
 %{M%}         ! Archiphoneme ‘m‘: realised as м, б, п
-%{G%}         ! Archiphoneme ‘g‘: realised as к, қ, г, ғ
+%{G%}         ! Archiphoneme ‘gʻ: realised as к, қ, г, ғ
 !%{G%}         ! Archiphoneme ‘k‘: realised as к, қ  >>>FIXME ???<<<
 %{ʻ%}         ! for q→gʻ changes
 %{D%}         ! Archiphoneme ‘d‘: realised as д, т
-%{A%}         ! Archiphoneme ‘a‘: realsied as е, а
-%{I%}         ! Archiphoneme ‘i‘: realised as і, ы
+%{A%}         ! Archiphoneme ‘aʼ: realsied as е, а
+%{I%}         ! Archiphoneme ‘iʼ: realised as і, ы
 %{S%}         ! Realised as ‘с‘ or ‘‘; only used in 3rd person morphology
 %{K%}         ! Realised as ‘к‘ or ‘қ‘
 %{n%}         ! Realised as ‘н‘ or ‘‘;
@@ -4096,8 +4096,8 @@ bildirish:bildirish N1-VN ; !
 bilet:bilet N1 ; ! 
 biletchi:biletchi N1 ; ! 
 biljira:biljira V-IV ; ! 
-o'tir:o'tir V-IV ;
-bog'la:bog'la V-IV ;
+oʻtir:oʻtir V-IV ;
+bogʻla:bogʻla V-IV ;
 biljirat:biljirat V-TV-CAUS ; ! 
 bilib% turib:bilib% turib ADV ; ! "knowingly"
 qasddan:qasddan ADV ; ! "knowingly"
@@ -61944,7 +61944,7 @@ Maʼman:Maʼman NP-ANT-M ; ! From Uzbek names book.
 Mamayaʼkub:Mamayaʼkub NP-ANT-M ; ! From Uzbek names book.
 Maʼmurali:Maʼmurali NP-ANT-M ; ! From Uzbek names book.
 Maʼmura:Maʼmura NP-ANT-M ; ! From Uzbek names book.
-Maʻmur:Maʻmur NP-ANT-M ; ! From Uzbek names book.
+Maʼmur:Maʼmur NP-ANT-M ; ! From Uzbek names book.
 Maʼmur:Maʼmur NP-ANT-M ; ! From Uzbek names book.
 Maʼmurqul:Maʼmurqul NP-ANT-M ; ! From Uzbek names book.
 Maʼmurtoy:Maʼmurtoy NP-ANT-M ; ! From Uzbek names book.
@@ -61961,12 +61961,12 @@ Mardisher:Mardisher NP-ANT-M ; ! From Uzbek names book.
 Mardonbek:Mardonbek NP-ANT-M ; ! From Uzbek names book.
 Mardonjon:Mardonjon NP-ANT-M ; ! From Uzbek names book.
 Marronbek:Marronbek NP-ANT-M ; ! From Uzbek names book.
-Maʻrufali:Maʻrufali NP-ANT-M ; ! From Uzbek names book.
 Maʼrufali:Maʼrufali NP-ANT-M ; ! From Uzbek names book.
-Maʻrufjon:Maʻrufjon NP-ANT-M ; ! From Uzbek names book.
+Maʼrufali:Maʼrufali NP-ANT-M ; ! From Uzbek names book.
+Maʼrufjon:Maʼrufjon NP-ANT-M ; ! From Uzbek names book.
 Marufjon:Marufjon NP-ANT-M ; ! From Uzbek names book.
 Maʼrufkamol:Maʼrufkamol NP-ANT-M ; ! From Uzbek names book.
-Maʻruf:Maʻruf NP-ANT-M ; ! From Uzbek names book.
+Maʼruf:Maʼruf NP-ANT-M ; ! From Uzbek names book.
 Maʼruf:Maʼruf NP-ANT-M ; ! From Uzbek names book.
 Maʼrufxoʻja:Maʼrufxoʻja NP-ANT-M ; ! From Uzbek names book.
 Mashʼal:Mashʼal NP-ANT-M ; ! From Uzbek names book.
@@ -62128,7 +62128,7 @@ Saʼdiniso:Saʼdiniso NP-ANT-M ; ! From Uzbek names book.
 Saʼdiniyoz:Saʼdiniyoz NP-ANT-M ; ! From Uzbek names book.
 Saʼdi:Saʼdi NP-ANT-M ; ! From Uzbek names book.
 Saʼdivaqqos:Saʼdivaqqos NP-ANT-M ; ! From Uzbek names book.
-Saʻd:Saʻd NP-ANT-M ; ! From Uzbek names book.
+Saʼd:Saʼd NP-ANT-M ; ! From Uzbek names book.
 Saʼdulla:Saʼdulla NP-ANT-M ; ! From Uzbek names book.
 Safronbek:Safronbek NP-ANT-M ; ! From Uzbek names book.
 Sahl:Sahl NP-ANT-M ; ! From Uzbek names book.
@@ -62200,7 +62200,7 @@ Sheron:Sheron NP-ANT-M ; ! From Uzbek names book.
 Sherquzi:Sherquzi NP-ANT-M ; ! From Uzbek names book.
 Sherzamin:Sherzamin NP-ANT-M ; ! From Uzbek names book.
 Sherzamon:Sherzamon NP-ANT-M ; ! From Uzbek names book.
-Shoaʻzam:Shoaʻzam NP-ANT-M ; ! From Uzbek names book.
+Shoaʼzam:Shoaʼzam NP-ANT-M ; ! From Uzbek names book.
 Shoazim:Shoazim NP-ANT-M ; ! From Uzbek names book.
 Shodliddin:Shodliddin NP-ANT-M ; ! From Uzbek names book.
 Shodmehr:Shodmehr NP-ANT-M ; ! From Uzbek names book.
@@ -62476,7 +62476,7 @@ Gulifor:Gulifor NP-ANT-F ; ! From Uzbek names book.
 Gulinabonu:Gulinabonu NP-ANT-F ; ! From Uzbek names book.
 Gulinoz:Gulinoz NP-ANT-F ; ! From Uzbek names book.
 Guliposhsha:Guliposhsha NP-ANT-F ; ! From Uzbek names book.
-Guliraʻno:Guliraʻno NP-ANT-F ; ! From Uzbek names book.
+Guliraʼno:Guliraʼno NP-ANT-F ; ! From Uzbek names book.
 Gulishaxduna:Gulishaxduna NP-ANT-F ; ! From Uzbek names book.
 Gulitoj:Gulitoj NP-ANT-F ; ! From Uzbek names book.
 Guliyora:Guliyora NP-ANT-F ; ! From Uzbek names book.
@@ -62584,7 +62584,7 @@ Marfuʼa:Marfuʼa NP-ANT-F ; ! From Uzbek names book.
 Margʻiyona:Margʻiyona NP-ANT-F ; ! From Uzbek names book.
 Margiyona:Margiyona NP-ANT-F ; ! From Uzbek names book.
 Maʼrifa:Maʼrifa NP-ANT-F ; ! From Uzbek names book.
-Maʻrifat:Maʻrifat NP-ANT-F ; ! From Uzbek names book.
+Maʼrifat:Maʼrifat NP-ANT-F ; ! From Uzbek names book.
 Maʼrifat:Maʼrifat NP-ANT-F ; ! From Uzbek names book.
 Mariyam:Mariyam NP-ANT-F ; ! From Uzbek names book.
 Marjina:Marjina NP-ANT-F ; ! From Uzbek names book.
