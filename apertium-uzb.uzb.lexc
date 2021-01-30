@@ -19544,10 +19544,12 @@ notinchlik:notinchlik N1 ; ! 0.9999999999215381
 notinch:notinch A1 ; ! 0.9694089622534344
 notoblik:notoblik N1 ; ! 0.9999999688280531
 notob:notob ADV ; ! 0.5005678743530568
+notoʻgʻri:notoʻgʻri A1 ; ! "incorrect"
+notoʻgʻri:notugʻri A1 ; ! incorrect spelling of "incorrect" 0.999538756904712 ! Dir/LR
+notoʻgʻrilik:notoʻgʻrilik N1 ;
+notoʻgʻrilik:notugʻrilik N1 ; ! "" 0.9999999999988229 ! Dir/LR
 orasida:orasida ADV ; ! "between"
 oʻrtada:oʻrtada ADV ; ! "between"
-notugʻrilik:notugʻrilik N1 ; ! 0.9999999999988229
-notugʻri:notugʻri A1 ; ! 0.999538756904712
 noumidlik:noumidlik N1 ; ! 0.9999999999999606
 noumid:noumid N1 ; ! 0.9999847549445154
 nourin:nourin A1 ; ! 0.9999149915572678
