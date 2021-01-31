@@ -717,22 +717,22 @@ LEXICON GERUND
 
 
 LEXICON IMPERATIVE
-%<imp%>%<p1%>%<sg%>:%>%{E%}y # ;
-%<imp%>%<p1%>%<sg%>:%>%{E%}yin # ; !Dir/LR
+%<opt%>%<p1%>%<sg%>:%>%{E%}y # ;
+%<opt%>%<p1%>%<sg%>:%>%{E%}yin # ; !Dir/LR
 
 %<imp%>%<p2%>%<sg%>:%> # ;
 %<imp%>%<p2%>%<sg%>:%>gin # ; !Dir/LR
 
-%<imp%>%<p3%>%<sg%>:%>sin # ;
+%<opt%>%<p3%>%<sg%>:%>sin # ;
 
-%<imp%>%<p1%>%<pl%>:%>%{E%}ylik # ;
+%<opt%>%<p1%>%<pl%>:%>%{E%}ylik # ;
 
 %<imp%>%<p2%>%<pl%>:%>%{i%}ng # ; !Dir/LR
 %<imp%>%<p2%>%<pl%>:%>%{i%}ngiz # ; 
 %<imp%>%<p2%>%<pl%>:%>%{i%}nglar # ; !Dir/LR
 
-%<imp%>%<p3%>%<pl%>:%>sinlar # ;
-%<imp%>%<p3%>%<pl%>:%[%+p3pl%]%>sin # ;  ! Dir/LR
+%<opt%>%<p3%>%<pl%>:%>sinlar # ;
+%<opt%>%<p3%>%<pl%>:%[%+p3pl%]%>sin # ;  ! Dir/LR
 
 
 %<imp%>:%>gay PERS ; ! Dir/LR !archaic/literary form: tila-gay-man
