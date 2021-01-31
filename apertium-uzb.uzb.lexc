@@ -921,6 +921,10 @@ LEXICON CLITICS
 %+cha%<post%>:cha # ; ! x kadar
 # ; 
 
+LEXICON OTHER-CLITICS
+
+%+cha%<post%>:cha # ; ! x kadar
+
 LEXICON CLIT-QST-MI
 
 %+mi%<qst%>:%>mi # ;
@@ -946,6 +950,7 @@ LEXICON CLIT-GHANA-ETC
 LEXICON CLIT-COP
 
 %+e%<cop%>%<aor%>: V-PERS-S1 ;
+OTHER-CLITICS ;
 
 LEXICON CLITICS-NO-COP
 
