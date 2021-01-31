@@ -29449,6 +29449,7 @@ turka:turka N1 ; ! 0.9999999999140619
 turkigoʻy:turkigoʻy A2 ; ! 0.8345439015496888
 turkiy:turkiy A1 ; ! "Turkic"
 turkiy:turkiy N1 ; ! 0.9999805630944166
+Turkiya:Turkiya NP-TOP ; ! "Turkey"
 turkiyshunos:turkiyshunos N1 ; ! 0.7681750694437002
 Turkiston:Turkiston NP-TOP ; ! "Turkestan"
 turkmayi:turkmayi N1 ; ! 0.9999999641813871
@@ -29459,7 +29460,7 @@ turkologiya:turkologiya N1 ; ! 0.9999922148687272
 turkona:turkona N1 ; ! 0.9887373649869973
 turk:turk N1-NAT ; ! 0.9999983976885147
 Turk:Turk N1-NAT ; ! "Turk"
-turk:Turk N1 ; ! "turk" NOT SURE
+!turk:Turk N1 ; ! "turk" NOT SURE
 turkumla:turkumla V-TV ; ! 0.999999999447078
 turkum:turkum N1 ; ! 0.9999999999980299
 turkum:turkum N1 ; ! "group"
@@ -38475,7 +38476,7 @@ birgina:birgina DET-IND ; ! "alone"
 barcha:barcha DET-DEM ; ! "all"
 bu:bu DET-DEM ; ! "this"
 u:u DET-DEM ; ! "he/she/it"
-boʻldi% shu:boʻldi% shu DET-DEM ; ! "that's it"
+boʻldi% shu:boʻldi% shu DET-DEM ; ! "that's it"  ! FIXME: CHECK
 shu:shu DET-DEM ; ! "that"
 ushbu:ushbu DET-DEM ; ! "this"
 butun:butun DET-DEM ; ! "whole"
