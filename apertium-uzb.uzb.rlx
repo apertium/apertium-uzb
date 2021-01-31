@@ -40,6 +40,7 @@ LIST Person = p1 p2 p3 ;
 LIST Nom = nom ; 
 LIST Gen = gen ; 
 LIST Abe = abe ; 
+LIST Abl = abl ; 
 LIST Acc = acc ; 
 LIST Dat = dat ;  
 LIST Loc = loc ; 
@@ -194,7 +195,7 @@ SELECT Gen IF (1C Poss3) ;
 
 "<haqida>" SELECT Post IF (-1 Nom) ;
 
-"<oldin>" SELECT Post IF (-1 Abe) ; 
+"<oldin>" SELECT Post IF (-1 Abl) ; 
 
 "<tomon>" SELECT Post IF (-1 Dat) ;
  
@@ -214,21 +215,21 @@ SELECT Gen IF (1C Poss3) ;
 
 "<mansub>" SELECT Post IF (-1 Dat) ;
 
-"<boshqa>" SELECT Post IF (-1 Abe) ;
+"<boshqa>" SELECT Post IF (-1 Abl) ;
  
-"<beri>" SELECT Post IF (-1 Abe) ;
+"<beri>" SELECT Post IF (-1 Abl) ;
 
-"<buyon>" SELECT Post IF (-1 Abe) ;
+"<buyon>" SELECT Post IF (-1 Abl) ;
 
-"<sababli>" SELECT Post IF (-1 Abe) ;
+"<sababli>" SELECT Post IF (-1 Abl) ;
 
-"<etibaran>" SELECT Post IF (-1 Abe) ;
+"<etibaran>" SELECT Post IF (-1 Abl) ;
  
-"<avval>" SELECT Post IF (-1 Abe) ;
+"<avval>" SELECT Post IF (-1 Abl) ;
 
-"<keyin>" SELECT Post IF (-1 Abe) ;
+"<keyin>" SELECT Post IF (-1 Abl) ;
 
-"<oldin>" SELECT Post IF (-1 Abe) ;
+"<oldin>" SELECT Post IF (-1 Abl) ;
 
 "<orqasindan>" SELECT Post IF (-1 Gen) ;
 

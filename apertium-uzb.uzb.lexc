@@ -12119,7 +12119,7 @@ kez:kez V-IV ; ! 0.999987692414763
 kezib% yur:kezib% yur V-IV ; ! "hang around, wander around"
 kez:kez N1 ; ! 0.9999999706636502
 keyingi:keyingi A1 ; ! "following"
-keyingi:keyingi N1 ; ! 0.9945417118739955
+! keyingi:keyingi N1 ; ! 0.9945417118739955
 keyinda:keyinda N1 ; ! 0.9999982452858871
 keyindan:keyindan A2 ; ! 0.9734212336326958
 keyin:keyin CA ; ! "after-"
@@ -12148,7 +12148,7 @@ kelajak:kelajak N1 ; ! 0.9949800485145198
 kelasi:kelasi A2 ; ! 0.999190243623076
 kelbat:kelbat N1 ; ! 0.9999999999995025
 kelbatli:kelbatli A2 ; ! 0.9999999998730751
-kelgach:kelgach ADV1 ; !
+!kelgach:kelgach ADV1 ; !
 kelsak:kelsak ADV1 ; ! "as for"
 kelgindi:kelgindi N1 ; ! 0.999966135902986
 kelgusi:kelgusi A2 ; ! "next"
@@ -12498,6 +12498,7 @@ kitobshunoslik:kitobshunoslik N1 ; ! 0.9999999308085984
 kitov:kitov N1 ; ! 0.9978211918403523
 kifoya:kifoya N1 ; ! 0.9707886334959493
 kifoyalan:kifoyalan V-IV ; ! 0.99999294806531
+kifoyalan:kifoyatlan V-IV ; ! Dir/LR
 kifoyat:kifoyat N1 ; ! 0.9999993383611359
 kift:kift N1 ; ! 0.6902015678707469
 kiftli:kiftli A2 ; ! 0.6046106634518471
