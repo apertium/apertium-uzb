@@ -113,7 +113,7 @@
 %<prog_inf%>  ! progressive constructed with -maqda
 %<prog_fut%>  ! "hareketin yakın geleceğe de uzayacağını anlatır."
 %<kan%>
-%<perm%>
+!%<perm%>     ! This is opt.p3 !
 %<ger_inf%>
 
 
@@ -637,7 +637,7 @@ PAST ;
 
 EVIDENTIAL-PAST ;
 NON-FINITE ;
-PERMISSIVE ;
+! PERMISSIVE ;
 
 IMPERATIVE ;
 %<neg%>:%>ma IMPERATIVE ;
@@ -752,9 +752,9 @@ LEXICON EVIDENTIAL-PAST
 
 %<past%>%<evid%>:%>mish PERS ;
 
-LEXICON PERMISSIVE
-
-%<perm%>:%>sin # ; 
+!LEXICON PERMISSIVE
+!
+!%<perm%>:%>sin # ; 
 
 LEXICON PRES-CONT 
 
