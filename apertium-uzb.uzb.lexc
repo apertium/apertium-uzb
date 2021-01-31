@@ -242,6 +242,7 @@
 %<gpr_pres%>
 %<gpr_fut%>                         !
 %<gpr_fut_plan%>                   !
+%<gpr_rsub%>
 
 
 !! Transitivity
@@ -652,7 +653,7 @@ LEXICON VERB-COPULA
 
 %<cop%>: GERUND ;
 !%<cop%>: PRES-CONT ;
-!%<cop%>: PRES-COND ;
+%<cop%>: PRES-COND ;
 !%<cop%>: INDEF-PAST ;
 %<cop%>: PAST ;
 !%<cop%>: EVIDENTIAL-PAST ;
@@ -1064,8 +1065,8 @@ LEXICON GER-CASE-NO_COPULA
 
 CASES-COMMON ;
 %<nom%>: CLITICS-NO-COP ;
-%<abl%>:%>%{D%}%{A%}n CLITICS-NO-COP ;
-%<loc%>:%>%{D%}%{A%} CLITICS-NO-COP ;
+%<abl%>:%>%{D%}an CLITICS-NO-COP ;
+%<loc%>:%>%{D%}a CLITICS-NO-COP ;
 
 LEXICON GER-ATTR/SUBST
 
@@ -1103,6 +1104,7 @@ LEXICON GER-POSSESSIVES
 %<px3sp%>:%>%{s%}i GER-CASE-ETC ;
 %<px1pl%>:%>%{i%}miz GER-CASE-ETC ;
 %<px2pl%>:%>%{i%}nglar GER-CASE-ETC ;
+%<px3pl%>:%>lari GER-CASE-ETC ; 
 
 %<px2sg%>%<frm%>:%>%{i%}ngiz GER-CASE-ETC ;
 %<px2pl%>%<frm%>:%>%{i%}ngizlar GER-CASE-ETC ;
@@ -13835,8 +13837,9 @@ qaysar:qaysar N1 ; ! 0.9999999151299107
 qaysarlan:qaysarlan V-IV ; ! 0.9990647710183737
 qaysarlik:qaysarlik N1 ; ! 0.9999999807577699
 qaysiki:qaysiki N1 ; ! 0.9672362189682574
-qaysi:qaysi N1 ; ! 0.8678462438379936
+!qaysi:qaysi N1 ; ! 0.8678462438379936
 qaysi:qaysi PRON-ITG-INFL ; ! "which one"
+qaysi:qaysi DET-DEM ; ! "which"
 qaytaga:qaytaga N1 ; ! 0.9994756899200077
 qaytadan:qaytadan ADV1 ; ! "once more"
 ! qaytadan:qaytadan N1 ; ! 0.8490212162889111 ! Not a noun!.
@@ -19266,8 +19269,8 @@ ninni:ninni N1 ; ! 0.9999232992723327
 ninni:ninni N1 ; ! "baby"
 nippel:nippel N1 ; ! 0.9999999864857627
 nisa:nisa N1 ; ! 0.9999999999975079
-nisbatan:nisbatan CA ; ! "compared to"
-nisbatan:nisbatan A1 ; ! 0.7214314270941048
+nisbatan:nisbatan POST ; ! "compared to"
+!nisbatan:nisbatan A1 ; ! 0.7214314270941048
 nisbat:nisbat N1 ; ! 0.9999999999938879
 nisbat:nisbat N1 ; ! "regard"
 nisbiiylik:nisbiiylik N1 ; ! 0.999998599743654
@@ -25538,7 +25541,7 @@ soʻna:soʻna A2--V ; ! 0.7617449152660457
 soʻna:soʻna N1 ; ! 0.9999999971692701
 soʻngak:soʻngak N1 ; ! 0.9999944520762573
 soʻnggi:soʻnggi A1 ; ! "final"
-soʻnggi:soʻnggi ADV1 ; ! "the last"
+soʻnggi:soʻnggi ADV1 ; ! "the last"  ! FIXME: CHECK
 soʻnggida:soʻnggida ADV1 ; ! "lastly"
 ! soʻnggi:soʻnggi N1 ; ! 0.5836139326871445
 soʻngra:soʻngra A1 ; ! "next"
