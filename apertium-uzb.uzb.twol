@@ -5,7 +5,7 @@ Alphabet
  %{K%}:k %{Q%}:q
  %{G%}:g %{G%}:k %{G%}:q
  %{D%}:d %{D%}:t
- %{l%}:l %{L%}:l %{M%}:m %{N%}:n ! Cns
+ %{l%}:l %{L%}:l %{L%}:n %{M%}:m %{N%}:n ! Cns
  %{A%}:a %{I%}:i %{E%}:e %{u%}:i ! Vow
  %{ʻ%}:0 %{ʻ%}:ʻ
 
@@ -91,3 +91,6 @@ Cx:g <=> :Vow _ %>: [ :0 - [ %>: | %{ʻ%}: ] ]* %{ʻ%}: [ :0 - [ %>: | %{ʻ%}: ]
 
 !"{a} is null after a vowel"
 !%{a%}:0 <=> :Vow :0* _ ;
+
+"{L} as n in passive"
+%{L%}:n <=> [ :l :Vow ]/:0* _ ;
