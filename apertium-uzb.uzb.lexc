@@ -142,9 +142,9 @@
 %<p3%>
 %<frm%>       ! Formality
 
-%<cha%> ! eşitlik/benzerlik/miktar
-%<day%> ! eşitlik/benzerlik/miktar
-%<dek%> ! eşitlik/benzerlik/miktar
+!%<cha%> ! eşitlik/benzerlik/miktar
+!%<day%> ! eşitlik/benzerlik/miktar
+!%<dek%> ! eşitlik/benzerlik/miktar
 ! Modal particles
 %<qst%>       ! Modal question particle
               !# m{A}
@@ -619,8 +619,6 @@ LEXICON V-AUX
 
 LEXICON VERB-INFL-COMMON
 
-GERUND ;
-
 PRES-CONT ;
 %<neg%>:%>ma PRES-CONT ;
 
@@ -636,7 +634,9 @@ PAST ;
 %<neg%>:%>ma PAST ;
 
 EVIDENTIAL-PAST ;
+
 NON-FINITE ;
+GERUND ;
 ! PERMISSIVE ;
 
 IMPERATIVE ;
@@ -651,28 +651,28 @@ V-INFL-ABIL ;
 LEXICON VERB-COPULA
 
 %<cop%>: GERUND ;
-%<cop%>: PRES-CONT ;
-%<cop%>: PRES-COND ;
-%<cop%>: INDEF-PAST ;
+!%<cop%>: PRES-CONT ;
+!%<cop%>: PRES-COND ;
+!%<cop%>: INDEF-PAST ;
 %<cop%>: PAST ;
-%<cop%>: EVIDENTIAL-PAST ;
-%<cop%>: NON-FINITE ;
-%<cop%>: KAN ;
-%<cop%>: PERS ; 
+!%<cop%>: EVIDENTIAL-PAST ;
+!%<cop%>: NON-FINITE ;
+!%<cop%>: KAN ;
+%<cop%>%<aor%>: PERS ; 
 
-LEXICON KAN  
-
-%<kan%>:%>kan # ;
-%<kan%>%<neg%>:%>kansiz # ;
+!LEXICON KAN  
+!
+!%<kan%>:%>kan # ;
+!%<kan%>%<neg%>:%>kansiz # ;
 
 LEXICON NON-FINITE
 
 ! FIXME: more <neg> forms
 
-%<ger_inf%>:%>maq SUBST ; !Dir/LR !are we sure -moq is the standard form? my grammar book gives -maq as the standard but it‘s better if a native decides this
-%<ger_inf%>:%>moq SUBST ;
-%<ger_abst%>:%>%{i%}sh SUBST ;
-%<ger_pres%>:%>%{a%}yotgan SUBST ;
+%<ger_inf%>:%>maq GER-INFL ; !Dir/LR !are we sure -moq is the standard form? my grammar book gives -maq as the standard but it‘s better if a native decides this
+%<ger_inf%>:%>moq GER-INFL ;
+%<ger_abst%>:%>%{i%}sh GER-INFL ;
+%<ger_pres%>:%>%{a%}yotgan GER-INFL ;
 
 
 %<gna_perf%>:%>%{i%}b # ;
@@ -704,16 +704,16 @@ LEXICON PRES-COND
 
 LEXICON GERUND 
 
-%<ger%>:%>%{u%}v SUBST ; 
-%<neg%>%<ger%>:%>ma%>%{u%}v SUBST ; 
+%<ger%>:%>%{u%}v GER-INFL ; 
+%<neg%>%<ger%>:%>ma%>%{u%}v GER-INFL ; 
 
-%<ger_past%>:%>%{G%}an SUBST ;    
-%<neg%>%<ger_past%>:%>ma%>%{G%}an SUBST ;    
+%<ger_past%>:%>%{G%}an GER-INFL ;    
+%<neg%>%<ger_past%>:%>ma%>%{G%}an GER-INFL ;
 
 !%<ger_past%>:%>ish SUBST ;    
 
-%<ger_impf%>:%>%{E%}digan SUBST ;
-%<neg%>%<ger_impf%>:%>ma%>%{E%}digan SUBST ;
+%<ger_impf%>:%>%{E%}digan GER-INFL ;
+%<neg%>%<ger_impf%>:%>ma%>%{E%}digan GER-INFL ;
 
 
 LEXICON IMPERATIVE
@@ -1089,6 +1089,7 @@ LEXICON GER-GENERAL-POSSESSIVE-ETC      ! Stuff which can appear after possessiv
 %<gen%>%<subst%>%<nom%>:%>%{N%}iki%{n%} CLITICS-NO-COP ; ! 2015-01-18//JNW: added <nom>, since it needs a case for transfer, and no other cases are ever added, or even presumed by the transducer to be okay.  But worth CHECK ing..
 %<loc%>:%>%{D%}agi GER-ATTR/SUBST ;
 %<sim%>:%>%{D%}%{A%}y CLITICS-NO-COP ;
+%<sim%>:%>%{D%}ek CLITICS-NO-COP ; ! Dir/LR
 
 LEXICON GER-CASE-ETC
 
@@ -1097,21 +1098,21 @@ GER-GENERAL-POSSESSIVE-ETC ;
 
 LEXICON GER-POSSESSIVES
 
-%<px1sg%>:%>%{I%}m GER-CASE-ETC ;
-%<px2sg%>:%>%{I%}ng GER-CASE-ETC ;
-%<px3sp%>:%>%{S%}%{I%}%{n%} GER-CASE-ETC ;
-%<px1pl%>:%>%{I%}m%{I%}z GER-CASE-ETC ;
-%<px2pl%>:%>%{I%}ngd%{A%}r GER-CASE-ETC ;
+%<px1sg%>:%>%{i%}m GER-CASE-ETC ;
+%<px2sg%>:%>%{i%}ng GER-CASE-ETC ;
+%<px3sp%>:%>%{s%}i GER-CASE-ETC ;
+%<px1pl%>:%>%{i%}miz GER-CASE-ETC ;
+%<px2pl%>:%>%{i%}nglar GER-CASE-ETC ;
 
-%<px2sg%>%<frm%>:%>%{I%}ng%{I%}z GER-CASE-ETC ;
-%<px2pl%>%<frm%>:%>%{I%}ng%{I%}zd%{A%}r GER-CASE-ETC ;
+%<px2sg%>%<frm%>:%>%{i%}ngiz GER-CASE-ETC ;
+%<px2pl%>%<frm%>:%>%{i%}ngizlar GER-CASE-ETC ;
 
 LEXICON GER-INFL
 
 GER-POSSESSIVES ;
 GER-CASE-ETC ;
-%<pl%>:%>%{L%}%{A%}r GER-POSSESSIVES ;
-%<pl%>:%>%{L%}%{A%}r GER-CASE-ETC ;
+%<pl%>:%>lar GER-POSSESSIVES ;
+%<pl%>:%>lar GER-CASE-ETC ;
 GER-ABE-ETC ;
 
 !!!!!!!   end of gerunds inflection lexicon
@@ -35540,8 +35541,8 @@ ey:ey IJ ; ! "hey"
 ey:ey N1 ; ! 0.9999490105487976
 ekanlik:ekanlik N1 ; ! 0.9999952469086114
 ekanlik:ekanlik N1 ; !
-ekan:ekan A1 ; ! 0.6491910501625208
-ekan:ekan N1 ; !
+!ekan:ekan A1 ; ! 0.6491910501625208
+!ekan:ekan N1 ; !
 ekvatorial:ekvatorial A1 ; ! "equatorial"
 ekvatorial:ekvatorial N1 ; ! 0.7365300050459571
 ekvator:ekvator N1 ; ! 0.9999999833238392
