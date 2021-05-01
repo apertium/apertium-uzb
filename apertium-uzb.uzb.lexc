@@ -742,6 +742,7 @@ LEXICON IMPERATIVE
 LEXICON INDEF-PAST
 
 %<past%>:%>%{G%}an V-PERS-S1 ;
+%<past%>+e%<cop%>%<ifi%>:%>%{G%}an%>di PERS2 ;
 %<past%>%<evid%>:%>%{i%}b PERS3 ;
 
 
