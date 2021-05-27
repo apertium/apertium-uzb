@@ -2,13 +2,13 @@
 !!    M O R P H O L O G I C A L · T R A N S D U C E R · F O R · U Z B E K    !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-! See http://wiki.apertium.org/wiki/Turkic_lexicon
+! See https://wiki.apertium.org/wiki/Turkic_lexicon
 
 !=================!
  Multichar_Symbols
 !=================!
 
-! Followed http://wiki.apertium.org/wiki/Turkic_languages
+! Followed https://wiki.apertium.org/wiki/Turkic_languages
 
 ! Part of speech categories = First-level tags
 %<n%>         ! Noun                       ! Ot
