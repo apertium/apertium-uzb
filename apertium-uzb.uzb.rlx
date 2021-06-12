@@ -117,6 +117,8 @@ SELECT Attr (0 Nom) (1C Px3Sp + Nom) ;
 
 REMOVE Attr IF (1 V) ;
 
+REMOVE Attr IF (1 A) ;
+
 #
 
 

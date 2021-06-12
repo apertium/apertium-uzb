@@ -5032,7 +5032,7 @@ bugʻuchilik:bugʻuchilik N1 ; !
 bugʻxona:bugʻxona N1 ; ! 
 bugun:bugun ADV3 ; ! "today"
 bugun:bugun ADV-ATTR ; ! 
-bugun:bugun N1 ; ! "today"
+!bugun:bugun N1 ; ! "today" ! 
 bugunlai:bugunlai ADV ; ! 
 buguncha:buguncha ADV ; ! 
 buddo:buddo N1 ; ! 
