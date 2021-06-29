@@ -81,6 +81,8 @@ SET FINITE = V - Ger ;
 
 SET PRE-N = Det | Num | Attr | A | Gen | ("-") ; # CC 
 
+SET DetItg = (det itg) ;
+
 SET NOMINAL-HEAD = N | Ger | Subst | Pron ; 
 
 SET PronSg = (prn pers sg) | (prn dem) ;
@@ -126,6 +128,7 @@ SELECT Pron IF (0 N) ;
 
 #REMOVE Cop IF (NOT 1C EOS);
 	
+SELECT SUB:2 Cop IF (1 EOS) ; 
 SELECT SUB:1 Cop IF (1 EOS) ; 
 
  REMOVE SUB:1 Cop IF
@@ -135,6 +138,15 @@ SELECT SUB:1 Cop IF (1 EOS) ;
         (-1 BOS OR MARK) ## Headings or enumerations
         (NOT 1 EOS)
 ;
+
+ REMOVE SUB:2 Cop IF
+        (NOT 1 EOS OR MARK OR ("da"))
+;
+ REMOVE SUB:2 Cop IF
+        (-1 BOS OR MARK) ## Headings or enumerations
+        (NOT 1 EOS)
+;
+
 
  SELECT SUB:1 Cop IF
         (1 (lpar))
@@ -328,3 +340,6 @@ SELECT Sub:1 FINITE IF
 	(1 EOS OR PHRASEMARK) ;
 
 SELECT Prop IF (0 N) (-1 Post) ;  # e.g. asal/Asal
+
+REMOVE Adv IF
+	(0 ("qay"i) + DetItg) ;

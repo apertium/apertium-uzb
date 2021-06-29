@@ -13719,22 +13719,23 @@ qayoqdan:qayoqdan A2 ; ! 0.8919180164772368
 qayeqqadir:qayeqqadir N1 ; ! 0.999441844509793
 qayeqqa:qayeqqa N1 ; ! 0.9999998169167066
 qayon:qayon N1 ; ! 0.9999983635055723
-qayergadir:qayergadir N1 ; ! 0.9999666044573639
-qayerga:qayerga ADV-ITG ; ! "where (куда)"
-qayerga:qayerga N1 ; ! 0.9999872256993458
-qayerdagi:qayerdagi N1 ; ! 0.999999885333295
-qayerdadir:qayerdadir N1 ; ! 0.9999993867580255
+!qayergadir:qayergadir N1 ; ! 0.9999666044573639
+qayerga:qayerga ADV-ITG ; ! "where to (куда)"
+!qayerga:qayerga N1 ; ! 0.9999872256993458
+!qayerdagi:qayerdagi N1 ; ! 0.999999885333295
+!qayerdadir:qayerdadir N1 ; ! 0.9999993867580255
 qayerda:qayerda ADV-ITG ; ! "where (где)"
-qayerda:qayerda N1 ; ! 0.9999998340055836
+!qayerda:qayerda N1 ; ! 0.9999998340055836
 qayerdalik:qayerdalik N1 ; ! 0.9999999529539021
-qayerdandir:qayerdandir N1 ; ! 0.9999992192565087
-qayerdan:qayerdan ADV-ITG ; ! ""
-qayerdan:qayerdan N1 ; ! 0.9998019719716182
-qayer:qayer N1 ; ! 0.9999997004909104
-qayerlarga:qayerlarga N1 ; ! 0.999995373588232
-qayerlarda:qayerlarda N1 ; ! 0.9999827313384542
-qayerlardan:qayerlardan N1 ; ! 0.9999605683092573
+!qayerdandir:qayerdandir N1 ; ! 0.9999992192565087
+qayerdan:qayerdan ADV-ITG ; ! "where from (откуда)"
+!qayerdan:qayerdan N1 ; ! 0.9998019719716182
+!qayer:qayer N1 ; ! 0.9999997004909104
+!qayerlarga:qayerlarga N1 ; ! 0.999995373588232
+!qayerlarda:qayerlarda N1 ; ! 0.9999827313384542
+!qayerlardan:qayerlardan N1 ; ! 0.9999605683092573
 qayerlik:qayerlik N1 ; ! 0.9999998540698899
+qay%<det%>%<itg%>%+yer:qayer N1 ; ! "where"
 qazgʻoq:qazgʻoq N1 ; ! 0.999999465346358
 qazgʻoqla:qazgʻoqla V-IV ; ! 0.9995376438251208
 qazdir:qazdir V-TV-CAUS ; ! 0.9999999935990059
@@ -13805,9 +13806,9 @@ qayish:qayish N1 ; ! 0.9999956627229705
 qayishqoq:qayishqoq A2 ; ! 0.9532267052387325
 qayishqoqlik:qayishqoqlik N1 ; ! 0.9999999999857467
 qayishtir:qayishtir V-TV-CAUS ; ! 0.9999999959961294
-qay:qay A2 ; ! 0.9991367025622275
+!qay:qay A2 ; ! 0.9991367025622275
 qay:qay V-IV ; ! 0.9780960289902079
-qay:qay DET-DEM ; ! ""
+qay:qay DET-ITG ; ! ""
 qayqi:qayqi N1 ; ! 0.5773163904452964
 qayla:qayla N1 ; ! 0.999999999204349
 qayliq:qayliq N1 ; ! 0.999965396067235
@@ -13846,7 +13847,7 @@ qaysarlik:qaysarlik N1 ; ! 0.9999999807577699
 qaysiki:qaysiki N1 ; ! 0.9672362189682574
 !qaysi:qaysi N1 ; ! 0.8678462438379936
 qaysi:qaysi PRON-ITG-INFL ; ! "which one"
-qaysi:qaysi DET-DEM ; ! "which"
+qaysi:qaysi DET-ITG ; ! "which"
 qaytaga:qaytaga N1 ; ! 0.9994756899200077
 qaytadan:qaytadan ADV1 ; ! "once more"
 ! qaytadan:qaytadan N1 ; ! 0.8490212162889111 ! Not a noun!.
