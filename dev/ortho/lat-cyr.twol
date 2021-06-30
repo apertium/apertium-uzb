@@ -44,6 +44,7 @@ Alphabet
  Ş:Ш
  Ç:Ч
  Q:Қ
+ C:Ц
 
   a:а
   b:б
@@ -66,6 +67,7 @@ Alphabet
   r:р
   s:с
   t:т
+  c:ц
   u:у
   v:в
   x:х
@@ -87,7 +89,7 @@ Vow = a e i o u ;
 
 Yot = я ё ю е ;
 
-Cons = b d f g ğ h j k l m n p r s t v x y z ş ç q ;
+Cons = b d f g ğ h j k l m n p r s t v x y z ş ç q c ;
 
 Rules
 

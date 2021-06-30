@@ -60,6 +60,8 @@ sh:ş AlphaLoop "weight: 1.0" ;
 Sh:Ş AlphaLoop "weight: 1.0" ;
 ch:ç AlphaLoop "weight: 1.0" ;
 Ch:Ç AlphaLoop "weight: 1.0" ;
+ts:c AlphaLoop "weight: 1.0" ;
+Ts:C AlphaLoop "weight: 1.0" ;
 t:t AlphaLoop "weight: 1.0" ;
 T:t AlphaLoop "weight: 1.0" ;
 u:u AlphaLoop "weight: 1.0" ;
