@@ -20425,6 +20425,7 @@ obdish:obdish N1 ; ! 0.9989738613588424
 obdor:obdor A2 ; ! 0.9999999999734931
 obed:obed N1 ; ! 0.9991631729887935
 obyekt:obyekt N1 ; ! ""
+obyekt:obʼyekt N1 ; ! "" ! Dir/LR
 obelisk:obelisk N1 ; ! 0.9926648789768
 ober%-master:ober%-master N1 ; ! 0.9999984577278084
 objuvozli:objuvozli N1 ; ! 0.9964021233964364
