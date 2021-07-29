@@ -32985,6 +32985,7 @@ hurpay:hurpay V-IV ; ! 0.9999995068567582
 hurpak:hurpak A2 ; ! 0.9699471466872827
 hurriyatparvar:hurriyatparvar N1 ; ! 0.9999777988680083
 hurriyat:hurriyat N1 ; ! 0.9999994548555657
+hursand:hursand A1 ; !
 hur:hur A1 ; ! "free"
 ! hur:hur N1 ; ! 0.999999993217916
 husayin:husayin N1 ; ! 0.999999974839003
