@@ -2231,6 +2231,8 @@ analitik:analitik A1 ; ! "analytical"
 analitik:analitik A2 ; ! 
 analitik:analitik N1 ; ! 
 analogik:analogik A2 ; ! 
+analog:analog N1 ; ! analogy
+analog:analog A1 ; ! analogic
 analogiya:analogiya N1 ; ! 
 ana%-mana:ana%-mana PHRASE ; ! 
 ananas:ananas N1 ; ! 
@@ -9556,7 +9558,7 @@ zaqqum:zaqqum N1 ; ! 0.9999999799458906
 zalvardor:zalvardor A2 ; ! 0.9269883556238914
 zalvar:zalvar N1 ; ! 0.9999999869853065
 zalvarli:zalvarli A2 ; ! 0.9999999948860201
-zal:zal N1 ; ! 0.997266030213352
+zal:zal N1 ; ! "hall"
 zalil:zalil A2 ; ! 0.9999347104736201
 zalillik:zalillik N1 ; ! 0.9999999950071532
 zalolat:zalolat N1 ; ! 0.9999999998865945
@@ -35896,7 +35898,7 @@ era:era N1 ; ! 0.9999999998797732
 ergashish:ergashish N1-VN ; ! 0.9947893022810992
 ergashtiru:ergashtiru V-TV-CAUS ; ! 0.9982050815984648
 ergashtir:ergashtir V-TV-CAUS ; ! 0.9999999999304723
-ergashuvchi:ergashuvchi N1 ; ! 0.9785659980262553
+ergashuvchi:ergashuvchi N1 ; ! "accompany"
 ergash:ergash VERB-TV ; !
 ergash:ergash V-IV ; ! 0.9982607743796539
 ergash:ergash N1 ; ! 0.9999991336917999
@@ -63128,3 +63130,42 @@ L:L NP-AL ; ! "Dress size"
 XL:XL NP-AL ; ! "Dress size"
 XXL:XXL NP-AL ; ! "Dress size"
 XXXL:XXXL NP-AL ; ! "Dress size"
+
+Bayseitova:Bayseitova NP-COG-MF ;
+Kushanbayev:Kushanbayev NP-COG-MF ;
+
+Akmolinsk:Akmolinsk NP-TOP ; ! ""
+Arshalin:Arshalin NP-TOP ; ! ""
+Agʻanas:Agʻanas NP-TOP ; ! ""
+Akmol:Akmol NP-TOP ; ! ""
+Buzuqti:Buzuqti NP-TOP ; ! ""
+Boʻyterak:Boʻyterak NP-TOP ; ! ""
+Jolaman:Jolaman NP-TOP ; ! ""
+Jiltirkoʻl:Jiltirkoʻl NP-TOP ; ! ""
+Kilimanjaro:Kilimanjaro NP-TOP ; ! ""
+Koyanda:Koyanda NP-TOP ; ! ""
+Maybaliq:Maybaliq NP-TOP ; ! ""
+Moyildi:Moyildi NP-TOP ; ! ""
+Niyaz:Niyaz NP-TOP ; ! ""
+Rojdenstvenskiy:Rojdenstvenskiy NP-TOP ; ! ""
+Sariqbuloq:Sariqbuloq NP-TOP ; ! ""
+Sassiqkoʻl:Sassiqkoʻl NP-TOP ; ! ""
+Tazkoʻl:Tazkoʻl NP-TOP ; ! ""
+Tanakoʻl:Tanakoʻl NP-TOP ; ! ""
+Tagʻankoʻl:Tagʻankoʻl NP-TOP ; ! ""
+Sichqonkoʻl:Sichqonkoʻl NP-TOP ; ! ""
+Tyumen:Tyumen NP-TOP ; ! ""
+Tilendiev:Tilendiev NP-TOP ; ! ""
+Uryupin:Uryupin NP-TOP ; ! ""
+Shenet:Shenet NP-TOP ; ! ""
+Elm:Elm NP-TOP ; ! ""
+Ouk:Ouk NP-TOP ; ! ""
+
+Baxt:Baxt NP-ANT-M ;
+Boyarlin:Boyarlin NP-COG-MF ;
+Gorkiy:Gorkiy NP-COG-MF ;
+Delfiy:Delfiy NP-COG-MF ;
+Kelginov:Kelginov NP-COG-MF ;
+Sperloktin:Sperloktin NP-COG-MF ;
+Toqayev:Toqayev NP-COG-MF ;
+Seyfullin:Seyfullin  NP-ANT-M ;
