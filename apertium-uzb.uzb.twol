@@ -6,13 +6,21 @@ Alphabet
  %{G%}:g %{G%}:k %{G%}:q
  %{D%}:d %{D%}:t
  %{l%}:l %{L%}:l %{L%}:n %{M%}:m %{N%}:n ! Cns
- %{A%}:a %{I%}:i %{E%}:e %{u%}:i ! Vow
+ %{I%}:i %{u%}:i ! Vow
+ %{A%}:a 
+ %{E%}:a %{E%}:y
+ %{i%}:0 %{i%}:i
  %{ʻ%}:0 %{ʻ%}:ʻ
 
-%{s%}:s %{S%}:s %{i%}:i %{E%}:y %{K%}:k %{n%}:n 
+%{s%}:s %{s%}:0
+
+%{S%}:s %{K%}:k %{n%}:n 
 
 %{a%}:a
 %{й%}:y %{й%}:0
+
+
+ %[%+p3pl%]:0  %[%-coop%]:0
 
 ʻ 
 
@@ -37,7 +45,7 @@ Rules
 %{s%}:0 <=> :Cons %>:/[ :0 | :ʻ ]* _ ;
 
 "{E} becomes y when following a vowel"
-%{E%}:a <=> :Cons %>: _ ;
+%{E%}:y <=> :Vow %>: _ ;
 
 !"{K} becomes g when it is before a vowel"
 !%{K%}:g <=>  _ %>: (:0) :Vow ;

@@ -2,13 +2,13 @@
 !!    M O R P H O L O G I C A L · T R A N S D U C E R · F O R · U Z B E K    !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-! See http://wiki.apertium.org/wiki/Turkic_lexicon
+! See https://wiki.apertium.org/wiki/Turkic_lexicon
 
 !=================!
  Multichar_Symbols
 !=================!
 
-! Followed http://wiki.apertium.org/wiki/Turkic_languages
+! Followed https://wiki.apertium.org/wiki/Turkic_languages
 
 ! Part of speech categories = First-level tags
 %<n%>         ! Noun                       ! Ot
@@ -601,7 +601,7 @@ LEXICON VERB-TV
 
 %<v%>%<tv%>%<pass%>:%>i%{L%} VERB-TV-FULL ;
 %<v%>%<tv%>%<coop%>:%>%{i%}sh VERB-TV-FULL ;
-%<v%>%<tv%>:%[%-coop%]%>%{i%}sh VERB-IV-FULL ;
+%<v%>%<tv%>:%[%-coop%]%>%{i%}sh VERB-TV-FULL ;
 !%<v%>%<tv%>%<pass%>%<neg%>:%>ilma VERB-TV-FULL ;
 %<v%>%<tv%>%<pass%>%<coop%>:%>%{i%}%{L%}%>%{i%}sh VERB-TV-FULL ;
 %<v%>%<tv%>%<caus%>%<coop%>:%>%{D%}ir%>%{i%}sh VERB-TV-FULL ;
@@ -617,6 +617,7 @@ VERB-INFL-COMMON ;
 LEXICON V-AUX
 
 %<vaux%>: VERB-INFL-COMMON ;
+%<vaux%>:%[%-coop%]%>%{i%}sh VERB-INFL-COMMON ;
 
 LEXICON VERB-INFL-COMMON
 
@@ -741,6 +742,7 @@ LEXICON IMPERATIVE
 LEXICON INDEF-PAST
 
 %<past%>:%>%{G%}an V-PERS-S1 ;
+%<past%>+e%<cop%>%<ifi%>:%>%{G%}an%>di PERS2 ;
 %<past%>%<evid%>:%>%{i%}b PERS3 ;
 
 
@@ -5032,7 +5034,7 @@ bugʻuchilik:bugʻuchilik N1 ; !
 bugʻxona:bugʻxona N1 ; ! 
 bugun:bugun ADV3 ; ! "today"
 bugun:bugun ADV-ATTR ; ! 
-bugun:bugun N1 ; ! "today"
+!bugun:bugun N1 ; ! "today" ! 
 bugunlai:bugunlai ADV ; ! 
 buguncha:buguncha ADV ; ! 
 buddo:buddo N1 ; ! 
@@ -13719,22 +13721,23 @@ qayoqdan:qayoqdan A2 ; ! 0.8919180164772368
 qayeqqadir:qayeqqadir N1 ; ! 0.999441844509793
 qayeqqa:qayeqqa N1 ; ! 0.9999998169167066
 qayon:qayon N1 ; ! 0.9999983635055723
-qayergadir:qayergadir N1 ; ! 0.9999666044573639
-qayerga:qayerga ADV-ITG ; ! "where (куда)"
-qayerga:qayerga N1 ; ! 0.9999872256993458
-qayerdagi:qayerdagi N1 ; ! 0.999999885333295
-qayerdadir:qayerdadir N1 ; ! 0.9999993867580255
+!qayergadir:qayergadir N1 ; ! 0.9999666044573639
+qayerga:qayerga ADV-ITG ; ! "where to (куда)"
+!qayerga:qayerga N1 ; ! 0.9999872256993458
+!qayerdagi:qayerdagi N1 ; ! 0.999999885333295
+!qayerdadir:qayerdadir N1 ; ! 0.9999993867580255
 qayerda:qayerda ADV-ITG ; ! "where (где)"
-qayerda:qayerda N1 ; ! 0.9999998340055836
+!qayerda:qayerda N1 ; ! 0.9999998340055836
 qayerdalik:qayerdalik N1 ; ! 0.9999999529539021
-qayerdandir:qayerdandir N1 ; ! 0.9999992192565087
-qayerdan:qayerdan ADV-ITG ; ! ""
-qayerdan:qayerdan N1 ; ! 0.9998019719716182
-qayer:qayer N1 ; ! 0.9999997004909104
-qayerlarga:qayerlarga N1 ; ! 0.999995373588232
-qayerlarda:qayerlarda N1 ; ! 0.9999827313384542
-qayerlardan:qayerlardan N1 ; ! 0.9999605683092573
+!qayerdandir:qayerdandir N1 ; ! 0.9999992192565087
+qayerdan:qayerdan ADV-ITG ; ! "where from (откуда)"
+!qayerdan:qayerdan N1 ; ! 0.9998019719716182
+!qayer:qayer N1 ; ! 0.9999997004909104
+!qayerlarga:qayerlarga N1 ; ! 0.999995373588232
+!qayerlarda:qayerlarda N1 ; ! 0.9999827313384542
+!qayerlardan:qayerlardan N1 ; ! 0.9999605683092573
 qayerlik:qayerlik N1 ; ! 0.9999998540698899
+qay%<det%>%<itg%>%+yer:qayer N1 ; ! "where"
 qazgʻoq:qazgʻoq N1 ; ! 0.999999465346358
 qazgʻoqla:qazgʻoqla V-IV ; ! 0.9995376438251208
 qazdir:qazdir V-TV-CAUS ; ! 0.9999999935990059
@@ -13805,9 +13808,9 @@ qayish:qayish N1 ; ! 0.9999956627229705
 qayishqoq:qayishqoq A2 ; ! 0.9532267052387325
 qayishqoqlik:qayishqoqlik N1 ; ! 0.9999999999857467
 qayishtir:qayishtir V-TV-CAUS ; ! 0.9999999959961294
-qay:qay A2 ; ! 0.9991367025622275
+!qay:qay A2 ; ! 0.9991367025622275
 qay:qay V-IV ; ! 0.9780960289902079
-qay:qay DET-DEM ; ! ""
+qay:qay DET-ITG ; ! ""
 qayqi:qayqi N1 ; ! 0.5773163904452964
 qayla:qayla N1 ; ! 0.999999999204349
 qayliq:qayliq N1 ; ! 0.999965396067235
@@ -13846,7 +13849,7 @@ qaysarlik:qaysarlik N1 ; ! 0.9999999807577699
 qaysiki:qaysiki N1 ; ! 0.9672362189682574
 !qaysi:qaysi N1 ; ! 0.8678462438379936
 qaysi:qaysi PRON-ITG-INFL ; ! "which one"
-qaysi:qaysi DET-DEM ; ! "which"
+qaysi:qaysi DET-ITG ; ! "which"
 qaytaga:qaytaga N1 ; ! 0.9994756899200077
 qaytadan:qaytadan ADV1 ; ! "once more"
 ! qaytadan:qaytadan N1 ; ! 0.8490212162889111 ! Not a noun!.
@@ -20424,6 +20427,7 @@ obdish:obdish N1 ; ! 0.9989738613588424
 obdor:obdor A2 ; ! 0.9999999999734931
 obed:obed N1 ; ! 0.9991631729887935
 obyekt:obyekt N1 ; ! ""
+obyekt:obʼyekt N1 ; ! "" ! Dir/LR
 obelisk:obelisk N1 ; ! 0.9926648789768
 ober%-master:ober%-master N1 ; ! 0.9999984577278084
 objuvozli:objuvozli N1 ; ! 0.9964021233964364
@@ -32983,6 +32987,7 @@ hurpay:hurpay V-IV ; ! 0.9999995068567582
 hurpak:hurpak A2 ; ! 0.9699471466872827
 hurriyatparvar:hurriyatparvar N1 ; ! 0.9999777988680083
 hurriyat:hurriyat N1 ; ! 0.9999994548555657
+hursand:hursand A1 ; !
 hur:hur A1 ; ! "free"
 ! hur:hur N1 ; ! 0.999999993217916
 husayin:husayin N1 ; ! 0.999999974839003

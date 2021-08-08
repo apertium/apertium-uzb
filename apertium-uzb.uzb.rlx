@@ -31,6 +31,7 @@ LIST Px2Sg = px2sg ;
 LIST 1PS = p1 sg ; 
 LIST 2PS = p2 sg ; 
 LIST 3PS = p3 sg ; 
+LIST 3Sg = p3 sg ; 
 LIST 1Pl = p1 pl ; 
 LIST 2Pl = p2 pl ; 
 LIST 3Pl = p3 pl ; 
@@ -54,10 +55,15 @@ LIST Cog = (np cog);
 
 LIST Recip = rec ; 
 LIST Caus = caus ; 
+LIST Coop = coop ;
 
 LIST FiniteVerb = pres aor past ifi ifi_evid fut fut_plan imp opt pih ;
 
 LIST Ger = ger_past ger_abst ger_inf ger4 ger5 gna2 gna3 gna4 gpr_rsub; #these numbers are to be replaced with actual ones, right?
+
+LIST Prc = prc_impf prc_perf ;
+
+LIST Gna = gna_impf gna_perf gna_cond gna_until gna_after ;
 
 LIST Vaux = vaux ;
 
@@ -75,7 +81,11 @@ SET FINITE = V - Ger ;
 
 SET PRE-N = Det | Num | Attr | A | Gen | ("-") ; # CC 
 
-SET NOMINAL-HEAD = N | Ger | Subst ; 
+SET DetItg = (det itg) ;
+
+SET NOMINAL-HEAD = N | Ger | Subst | Pron ; 
+
+SET PronSg = (prn pers sg) | (prn dem) ;
 
 SET WORD = N | V | A | Post | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
 SET MARK =  (",") | ("\\") | ("\;") | ("–"); #"
@@ -109,6 +119,8 @@ SELECT Attr (0 Nom) (1C Px3Sp + Nom) ;
 
 REMOVE Attr IF (1 V) ;
 
+REMOVE Attr IF (1 A) ;
+
 #
 
 
@@ -116,6 +128,7 @@ SELECT Pron IF (0 N) ;
 
 #REMOVE Cop IF (NOT 1C EOS);
 	
+SELECT SUB:2 Cop IF (1 EOS) ; 
 SELECT SUB:1 Cop IF (1 EOS) ; 
 
  REMOVE SUB:1 Cop IF
@@ -125,6 +138,15 @@ SELECT SUB:1 Cop IF (1 EOS) ;
         (-1 BOS OR MARK) ## Headings or enumerations
         (NOT 1 EOS)
 ;
+
+ REMOVE SUB:2 Cop IF
+        (NOT 1 EOS OR MARK OR ("da"))
+;
+ REMOVE SUB:2 Cop IF
+        (-1 BOS OR MARK) ## Headings or enumerations
+        (NOT 1 EOS)
+;
+
 
  SELECT SUB:1 Cop IF
         (1 (lpar))
@@ -178,7 +200,17 @@ SELECT Prop IF (0 N) (0 Ant)(1 Cog) (-1 BOS);
 
 SELECT N IF (0 N) (0 Ger) ;
 
+# If there's a verb form that can be <coop> or <p3><pl>,
+# usually we want <p3><pl>, unless there's a singular subject maybe?
+REMOVE Coop IF (0 3Pl) (NOT -1* PronSg BARRIER NOMINAL-HEAD ) ;
 
+#REMOVE 3Sg IF (0 3Pl) (NOT -1* PronSg BARRIER NOMINAL-HEAD ) ;
+
+# If it's prc or gna and next word is vaux, then it's probably prc
+SELECT Prc IF (0 Gna) (1 Vaux);
+
+# If previous word is prc and can be verb or vaux, probably vaux
+SELECT Vaux IF (0 V) (-1 Prc) ;
 
 #Construction gen + poss (ataturk'un cumhuriyeti)
 
@@ -308,3 +340,6 @@ SELECT Sub:1 FINITE IF
 	(1 EOS OR PHRASEMARK) ;
 
 SELECT Prop IF (0 N) (-1 Post) ;  # e.g. asal/Asal
+
+REMOVE Adv IF
+	(0 ("qay"i) + DetItg) ;
