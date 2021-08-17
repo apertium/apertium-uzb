@@ -16437,7 +16437,7 @@ loyamut:loyamut N1 ; ! 0.9999998640947811
 lubkor:lubkor N1 ; ! 0.9999999999983796
 lub:lub N1 ; ! 0.9999992697220171
 lugʻaviya:lugʻaviya A2 ; ! 0.9999999515168446
-lugʻat:lugʻat A2 ; ! 0.9998968528566405
+lugʻat:lugʻat N1 ; ! 0.9998968528566405
 lugʻatchiliq:lugʻatchiliq N1 ; ! 0.9999999999311815
 lugʻatchi:lugʻatchi N1 ; ! 0.9999999964856703
 luza:luza N1 ; ! 0.9999999994552339
@@ -31909,6 +31909,7 @@ xufiyaki:xufiyaki N1 ; ! 0.9730620329796581
 xufiya:xufiya N1 ; ! 0.9999578948117149
 xufton:xufton N1 ; ! 0.9999999952866973
 xu:xu V-IV ; ! 0.8510823065133937
+xush:xush A1 ; !
 xushatvor:xushatvor A2 ; ! 0.9998848109445072
 xushaxloq:xushaxloq A2 ; ! 0.9967562868749855
 xushbaxtlik:xushbaxtlik N1 ; ! 0.9999789116776607
