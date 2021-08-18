@@ -1460,7 +1460,6 @@ avaxta:avaxta N1 ; !
 avagʻa:avagʻa N1 ; ! 
 avbosh:avbosh N1 ; ! 
 avboshlik:avboshlik N1 ;  ! 
-avval:avval A1 ; ! 
 avval:avval ADV-ATTR ; ! 
 avval:avval N1 ; !
 avval:avval POST-ABL ; ! 
@@ -19744,7 +19743,7 @@ oʻzgart:oʻzgart V-TV-CAUS ; ! 0.99999995839647
 oʻzgaruvchanlik:oʻzgaruvchanlik N1 ; ! 0.9999999999909378
 oʻzgaruvchan:oʻzgaruvchan A2 ; ! 0.9999998870634282
 oʻzgaruvchi:oʻzgaruvchi N1 ; ! 0.9990682290707769
-oʻzgacha:oʻzgacha A2 ; ! 0.8891186322700112
+oʻzgacha:oʻzgacha A1 ; ! 0.8891186322700112
 oʻzdir:oʻzdir V-TV-CAUS ; ! 0.9999999999789599
 oʻziboʻlarchilik:oʻziboʻlarchilik N1 ; ! 0.9999989196601042
 oʻzidan%-oʻzi:oʻzidan%-oʻzi IDEO ; ! 0.3394635592717975
@@ -24968,6 +24967,7 @@ siyosiy%-tashkiliy:siyosiy%-tashkiliy A2 ; ! 0.9441158135430484
 siyohdona:siyohdona N1 ; ! 0.9999999222843914
 siyohdon:siyohdon N1 ; ! 0.9999996267060587
 siyoh:siyoh N1 ; ! 0.9999993279574947
+siz:siz A1 ; !
 sizgʻirik:sizgʻirik N1 ; ! 0.9999994626191209
 sizgʻir:sizgʻir V-TV-CAUS ; ! 0.999945777440865
 sizgʻi:sizgʻi V-IV ; ! 0.999999811855047
@@ -27460,6 +27460,7 @@ tahlil:tahlil N1 ; ! 0.9999999313847373
 tahlil:tahlil N1 ; !
 tahorat:tahorat N1 ; ! 0.9999999976836287
 tahoratxona:tahoratxona N1 ; ! 0.9999999999898198
+tahrir:tahrir N1 ; !
 tahririy:tahririy A2 ; ! 0.9765621594665201
 tahrir:tahrir N1 ; ! 0.9999557203558599
 tahrirchi:tahrirchi N1 ; ! 0.9999993343650225
