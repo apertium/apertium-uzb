@@ -878,7 +878,7 @@ LEXICON ADV3
 
 LEXICON ADV-ITG
 
-%<adv%>%<itg%>: CASES ;
+%<adv%>%<itg%>: # ; !  CASES ;
 
 LEXICON DET-IND
 
@@ -14033,7 +14033,7 @@ qanaqasi:qanaqasi N1 ; ! 0.994358342147309
 qandagʻoch:qandagʻoch N1 ; ! 0.9999985115671465
 qandaydir:qandaydir CA ; ! "somehow"
 qandaydir:qandaydir N1 ; ! 0.9999700387952386
-qanday:qanday # ; ! 0.9126343253383722
+!qanday:qanday # ; ! 0.9126343253383722
 qanday:qanday ADV-ITG ; ! "how"
 qanday:qanday PRON-ITG-INFL ; ! "which one"
 qandaychangi:qandaychangi N1 ; ! 0.999547754115665
