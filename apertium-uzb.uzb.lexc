@@ -4082,7 +4082,7 @@ bilagʻonlik:bilagʻonlik N1 ; !
 bilaguzuk:bilaguzuk N1 ; ! 
 bilak:bilak N1 ; ! 
 bilan:bilan CC ; ! "and"
-bilan:bilan POST-NOM ; ! "with"
+bilan:bilan POST; ! "with"
 bilan:bilan POST-NOM-GEN ; ! 
 bilang%-bilang%-:bilang%-bilang%- IDEO ; ! 
 bilangla:bilangla V-IV ; ! 
