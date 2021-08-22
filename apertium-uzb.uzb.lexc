@@ -5606,7 +5606,8 @@ vijdonsizlik:vijdonsizlik N1 ; !
 vijilla:vijilla V-IV ; ! 
 vijir%-vijir:vijir%-vijir A2 ; ! 
 vijir%-vijir:vijir%-vijir IDEO ; ! 
-vijirla:vijirla V-IV ; ! 
+vijirla:vijirla V-IV ; !
+vinchester:vinchester N1 ; 
 viz%-viz:viz%-viz IDEO ; ! 
 vizildoq:vizildoq N1 ; ! 
 vizilla:vizilla V-IV ; ! 
@@ -18075,6 +18076,7 @@ monopoliyachi:monopoliyachi N1 ; ! 0.9952100824919318
 monopol:monopol N1 ; ! 0.9999989273227177
 monoteizm:monoteizm N1 ; ! 0.9999999939294215
 monoteist:monoteist N1 ; ! 0.9814833267453141
+monitor:monitor N1 ;
 montaj:montaj N1 ; ! 0.9999999999991578
 montajchi:montajchi N1 ; ! 0.9999999999190607
 monter:monter N1 ; ! 0.9999999857896777
@@ -21374,6 +21376,7 @@ ortiga:ortiga N1 ; ! 0.999994501688324
 ortidan:ortidan N1 ; ! 0.9958447410596405
 ortida:ortida N1 ; ! 0.9999995259779275
 ortiqliq:ortiqliq N1 ; ! 0.9999999999998473
+ortiq:ortiq A2 ; !
 ortiq:ortiq ADV3 ; ! "no more"
 ortiq:ortiq N1 ; ! 0.9999084902406626
 ortiq:ortiq ADV1 ; ! "over"
@@ -22861,6 +22864,7 @@ prinsipli:prinsipli A2 ; ! 0.9999999999640664
 prinsip:prinsip N1 ; ! 0.9999999112022269
 prinsip:prinsip N1 ; ! ""
 prinsipsiz:prinsipsiz A1 ; ! 0.9999994872004545
+printer:printer N1;
 pristav:pristav N1 ; ! 0.9999992526706988
 pristan:pristan N1 ; ! 0.9999992809038117
 pritsep:pritsep N1 ; ! 0.9981382909685259
@@ -30852,7 +30856,7 @@ foydalan:foydalan VERB-IV ; ! "to be taken advantage of"
 foydalanish:foydalanish N1 ; ! "taking advantage of"
 foydalanish:foydalonish N1 ; ! "use"
 foydalantir:foydalantir V-TV-CAUS ; ! 0.9999999966404712
-foydalan:foydalan VERB-TV ; ! "to tak advantage" ****
+foydalan:foydalan V-TV ; ! "to tak advantage" ****
 foydalan:foydalan V-IV ; ! 0.9994420483893349
 foydali:foydali A1 ; ! "beneficial"
 foydasiz:foydasiz A1 ; ! 0.9983263656627628
@@ -31375,6 +31379,7 @@ xijolatli:xijolatli A2 ; ! 0.999999999758197
 xijolatomuz:xijolatomuz A1 ; ! 0.8427997508950213
 xijolatpazlik:xijolatpazlik N1 ; ! 0.9999510612102029
 xijolat:xijolat N1 ; ! 0.9999999970439755
+xizmat:xizmat N1 ;
 xizmatdosh:xizmatdosh N1 ; ! 0.9999994856758541
 xizmatkash:xizmatkash A2 ; ! 0.9999966798734647
 xizmatkorlik:xizmatkorlik N1 ; ! 0.9999999999999803
@@ -32708,6 +32713,7 @@ hirs:hirs N1 ; ! 0.999999999997961
 hisli:hisli A2 ; ! 0.9999852108623387
 hisobdon:hisobdon N1 ; ! 0.9077515291627571
 hisobdor:hisobdor A2 ; ! 0.9998343684867134
+hisobla:hisobla VERB-IV ;
 hisob%-kitob:hisob%-kitob N1 ; ! 0.9999998284598993
 hisoblan:hisoblan VERB-IV ; ! ""
 hisoblan:hisoblan V-IV-REFL ; ! 0.9999999974120435
