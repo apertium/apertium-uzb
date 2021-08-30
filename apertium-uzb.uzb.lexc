@@ -30852,7 +30852,6 @@ foida:foida N1 ; ! 0.9999999973764989
 foidaxurlik:foidaxurlik N1 ; ! 0.9999999999981334
 foidaxur:foidaxur N1 ; ! 0.9999999999817721
 foiz:foiz N1 ; ! 0.9931077783263178
-foydalan:foydalan VERB-IV ; ! "to be taken advantage of"
 foydalanish:foydalanish N1 ; ! "taking advantage of"
 foydalanish:foydalonish N1 ; ! "use"
 foydalantir:foydalantir V-TV-CAUS ; ! 0.9999999966404712
@@ -32713,7 +32712,6 @@ hirs:hirs N1 ; ! 0.999999999997961
 hisli:hisli A2 ; ! 0.9999852108623387
 hisobdon:hisobdon N1 ; ! 0.9077515291627571
 hisobdor:hisobdor A2 ; ! 0.9998343684867134
-hisobla:hisobla VERB-IV ;
 hisob%-kitob:hisob%-kitob N1 ; ! 0.9999998284598993
 hisoblan:hisoblan VERB-IV ; ! ""
 hisoblan:hisoblan V-IV-REFL ; ! 0.9999999974120435
