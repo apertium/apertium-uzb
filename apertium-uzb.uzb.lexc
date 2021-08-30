@@ -1460,7 +1460,6 @@ avaxta:avaxta N1 ; !
 avagʻa:avagʻa N1 ; ! 
 avbosh:avbosh N1 ; ! 
 avboshlik:avboshlik N1 ;  ! 
-avval:avval A1 ; ! 
 avval:avval ADV-ATTR ; ! 
 avval:avval N1 ; !
 avval:avval POST-ABL ; ! 
@@ -4083,7 +4082,7 @@ bilagʻonlik:bilagʻonlik N1 ; !
 bilaguzuk:bilaguzuk N1 ; ! 
 bilak:bilak N1 ; ! 
 bilan:bilan CC ; ! "and"
-bilan:bilan POST-NOM ; ! "with"
+bilan:bilan POST; ! "with"
 bilan:bilan POST-NOM-GEN ; ! 
 bilang%-bilang%-:bilang%-bilang%- IDEO ; ! 
 bilangla:bilangla V-IV ; ! 
@@ -4174,7 +4173,8 @@ biologik:biologik A2 ; !
 biologiya:biologiya N1 ; ! 
 biofizika:biofizika N1 ; ! 
 biofizik:biofizik A2 ; ! 
-biofizik:biofizik N1 ; ! 
+biofizik:biofizik N1 ; !
+biosxema:biosxema N1 ; ! 
 bioximik:bioximik A2 ; ! 
 bioximik:bioximik N1 ; ! 
 bioximiya:bioximiya N1 ; ! 
@@ -5606,7 +5606,8 @@ vijdonsizlik:vijdonsizlik N1 ; !
 vijilla:vijilla V-IV ; ! 
 vijir%-vijir:vijir%-vijir A2 ; ! 
 vijir%-vijir:vijir%-vijir IDEO ; ! 
-vijirla:vijirla V-IV ; ! 
+vijirla:vijirla V-IV ; !
+vinchester:vinchester N1 ; 
 viz%-viz:viz%-viz IDEO ; ! 
 vizildoq:vizildoq N1 ; ! 
 vizilla:vizilla V-IV ; ! 
@@ -16437,7 +16438,7 @@ loyamut:loyamut N1 ; ! 0.9999998640947811
 lubkor:lubkor N1 ; ! 0.9999999999983796
 lub:lub N1 ; ! 0.9999992697220171
 lugʻaviya:lugʻaviya A2 ; ! 0.9999999515168446
-lugʻat:lugʻat A2 ; ! 0.9998968528566405
+lugʻat:lugʻat N1 ; ! 0.9998968528566405
 lugʻatchiliq:lugʻatchiliq N1 ; ! 0.9999999999311815
 lugʻatchi:lugʻatchi N1 ; ! 0.9999999964856703
 luza:luza N1 ; ! 0.9999999994552339
@@ -17664,6 +17665,8 @@ mikroskop:mikroskop N1 ; ! 0.99945050972045
 mikrofilm:mikrofilm N1 ; ! 0.9999998146027145
 mikrofon:mikrofon N1 ; ! 0.9999991180767374
 mikrofotonusxa:mikrofotonusxa N1 ; ! 0.9999999915109478
+mikrosxema:mikrosxema N1 ;
+mikroelektron:mikroelektron N1 ;
 miqdorii:miqdorii A2 ; ! 0.9999219744323123
 miqdorli:miqdorli A2 ; ! 0.9999999983559599
 miqdor:miqdor N1 ; ! 0.9999999988132068
@@ -18073,6 +18076,7 @@ monopoliyachi:monopoliyachi N1 ; ! 0.9952100824919318
 monopol:monopol N1 ; ! 0.9999989273227177
 monoteizm:monoteizm N1 ; ! 0.9999999939294215
 monoteist:monoteist N1 ; ! 0.9814833267453141
+monitor:monitor N1 ;
 montaj:montaj N1 ; ! 0.9999999999991578
 montajchi:montajchi N1 ; ! 0.9999999999190607
 monter:monter N1 ; ! 0.9999999857896777
@@ -19744,7 +19748,7 @@ oʻzgart:oʻzgart V-TV-CAUS ; ! 0.99999995839647
 oʻzgaruvchanlik:oʻzgaruvchanlik N1 ; ! 0.9999999999909378
 oʻzgaruvchan:oʻzgaruvchan A2 ; ! 0.9999998870634282
 oʻzgaruvchi:oʻzgaruvchi N1 ; ! 0.9990682290707769
-oʻzgacha:oʻzgacha A2 ; ! 0.8891186322700112
+oʻzgacha:oʻzgacha A1 ; ! 0.8891186322700112
 oʻzdir:oʻzdir V-TV-CAUS ; ! 0.9999999999789599
 oʻziboʻlarchilik:oʻziboʻlarchilik N1 ; ! 0.9999989196601042
 oʻzidan%-oʻzi:oʻzidan%-oʻzi IDEO ; ! 0.3394635592717975
@@ -21372,6 +21376,7 @@ ortiga:ortiga N1 ; ! 0.999994501688324
 ortidan:ortidan N1 ; ! 0.9958447410596405
 ortida:ortida N1 ; ! 0.9999995259779275
 ortiqliq:ortiqliq N1 ; ! 0.9999999999998473
+ortiq:ortiq A2 ; !
 ortiq:ortiq ADV3 ; ! "no more"
 ortiq:ortiq N1 ; ! 0.9999084902406626
 ortiq:ortiq ADV1 ; ! "over"
@@ -22859,6 +22864,7 @@ prinsipli:prinsipli A2 ; ! 0.9999999999640664
 prinsip:prinsip N1 ; ! 0.9999999112022269
 prinsip:prinsip N1 ; ! ""
 prinsipsiz:prinsipsiz A1 ; ! 0.9999994872004545
+printer:printer N1;
 pristav:pristav N1 ; ! 0.9999992526706988
 pristan:pristan N1 ; ! 0.9999992809038117
 pritsep:pritsep N1 ; ! 0.9981382909685259
@@ -24968,6 +24974,7 @@ siyosiy%-tashkiliy:siyosiy%-tashkiliy A2 ; ! 0.9441158135430484
 siyohdona:siyohdona N1 ; ! 0.9999999222843914
 siyohdon:siyohdon N1 ; ! 0.9999996267060587
 siyoh:siyoh N1 ; ! 0.9999993279574947
+siz:siz A1 ; !
 sizgʻirik:sizgʻirik N1 ; ! 0.9999994626191209
 sizgʻir:sizgʻir V-TV-CAUS ; ! 0.999945777440865
 sizgʻi:sizgʻi V-IV ; ! 0.999999811855047
@@ -27460,6 +27467,7 @@ tahlil:tahlil N1 ; ! 0.9999999313847373
 tahlil:tahlil N1 ; !
 tahorat:tahorat N1 ; ! 0.9999999976836287
 tahoratxona:tahoratxona N1 ; ! 0.9999999999898198
+tahrir:tahrir N1 ; !
 tahririy:tahririy A2 ; ! 0.9765621594665201
 tahrir:tahrir N1 ; ! 0.9999557203558599
 tahrirchi:tahrirchi N1 ; ! 0.9999993343650225
@@ -29146,6 +29154,7 @@ trakt:trakt N1 ; ! 0.9999993876493338
 tramvay:tramvay A2 ; ! 0.9427505044659731
 tramvaychi:tramvaychi N1 ; ! 0.9999901061296862
 tramplin:tramplin N1 ; ! 0.9999940205040176
+tranzistor : tranzistor N1 ; !
 tranzistorli:tranzistorli A2 ; ! 0.9999982496006474
 tranzistor:tranzistor N1 ; ! 0.9999998998643806
 tranzit:tranzit N1 ; ! 0.9999999753950821
@@ -30843,11 +30852,10 @@ foida:foida N1 ; ! 0.9999999973764989
 foidaxurlik:foidaxurlik N1 ; ! 0.9999999999981334
 foidaxur:foidaxur N1 ; ! 0.9999999999817721
 foiz:foiz N1 ; ! 0.9931077783263178
-foydalanil:foydalanil VERB-IV ; ! "to be taken advantage of"
 foydalanish:foydalanish N1 ; ! "taking advantage of"
 foydalanish:foydalonish N1 ; ! "use"
 foydalantir:foydalantir V-TV-CAUS ; ! 0.9999999966404712
-foydalan:foydalan VERB-TV ; ! "to tak advantage" ****
+foydalan:foydalan V-TV ; ! "to tak advantage" ****
 foydalan:foydalan V-IV ; ! 0.9994420483893349
 foydali:foydali A1 ; ! "beneficial"
 foydasiz:foydasiz A1 ; ! 0.9983263656627628
@@ -31370,6 +31378,7 @@ xijolatli:xijolatli A2 ; ! 0.999999999758197
 xijolatomuz:xijolatomuz A1 ; ! 0.8427997508950213
 xijolatpazlik:xijolatpazlik N1 ; ! 0.9999510612102029
 xijolat:xijolat N1 ; ! 0.9999999970439755
+xizmat:xizmat N1 ;
 xizmatdosh:xizmatdosh N1 ; ! 0.9999994856758541
 xizmatkash:xizmatkash A2 ; ! 0.9999966798734647
 xizmatkorlik:xizmatkorlik N1 ; ! 0.9999999999999803
@@ -31909,6 +31918,7 @@ xufiyaki:xufiyaki N1 ; ! 0.9730620329796581
 xufiya:xufiya N1 ; ! 0.9999578948117149
 xufton:xufton N1 ; ! 0.9999999952866973
 xu:xu V-IV ; ! 0.8510823065133937
+xush:xush A1 ; !
 xushatvor:xushatvor A2 ; ! 0.9998848109445072
 xushaxloq:xushaxloq A2 ; ! 0.9967562868749855
 xushbaxtlik:xushbaxtlik N1 ; ! 0.9999789116776607
