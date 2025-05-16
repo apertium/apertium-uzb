@@ -1145,7 +1145,8 @@ e%<cop%>%<neg%>%<aor%>:emas V-PERS-S1 ;
 LEXICON NUM
 
 %<num%>%<subst%>: SUBST ;  
-%<num%>%<ord%>:%>inchi  # ;
+%<num%>%<ord%>:%>inchi # ;
+%<num%>%<ord%>%<subst%>:%>inchi SUBST ;
 %<num%>%<cl%>:%>ta # ;
                    
 %<num%>: # ;                                    
@@ -10323,8 +10324,8 @@ ikkilantir:ikkilantir V-TV-CAUS ; ! 0.999999998695088
 ikkilik:ikkilik N1 ; ! 0.9999999986949009
 ikkilik:ikkilik N1 ; ! 0.9999999999899872
 ikkinchidan:ikkinchidan N1 ; ! 0.9999647993111496
-ikkinchi:ikkinchi A1 ; !
-ikkinchi:ikkinchi N1 ; ! 0.8629843967667121
+!ikkinchi:ikkinchi A1 ; !
+!ikkinchi:ikkinchi N1 ; ! 0.8629843967667121
 ikkinchi:ikkinchi N1 ; ! "second"
 ikkioʻylilar:ikkioʻylilar N1 ; ! 0.9999993114328536
 ikkiovora:ikkiovora N1 ; ! 0.9878746088005861
