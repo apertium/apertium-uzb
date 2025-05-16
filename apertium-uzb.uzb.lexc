@@ -20341,7 +20341,7 @@ oʻtroqlash:oʻtroqlash V-IV ; ! 0.999727443348171
 oʻtroqlashtir:oʻtroqlashtir V-TV-CAUS ; ! 0.9999996482642167
 oʻtroq:oʻtroq A1 ; ! "settled"
 oʻtroq:oʻtroq N1 ; ! 0.9996820885274085
-oʻttizinchi:oʻttizinchi A2 ; ! 0.9540707423496544
+!oʻttizinchi:oʻttizinchi A2 ; ! 0.9540707423496544
 oʻttizlab:oʻttizlab ADV ; ! 0.9107302215361972
 !oʻttiz:oʻttiz N1 ; ! 0.9503281721956651
 oʻttiz:oʻttiz NUM ; ! "thirty"
