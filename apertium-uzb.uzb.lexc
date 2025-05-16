@@ -4256,8 +4256,9 @@ birma%-bir:birma%-bir ADV ; !
 birmuncha:birmuncha # ; ! 
 birmuncha:birmuncha ADV1 ; !
 birnecha:birnecha # ; ! 
-birov:birov # ; ! 
-birov:birov NUM ; ! 
+!birov:birov # ; ! 
+!birov:birov NUM ; ! 
+birov:birov PRON-IND ; ! "someone"
 birodar:birodar N1 ; ! 
 birodar:birodar N1 ; ! "brother"
 birodarlarcha:birodarlarcha ADV ; ! 
