@@ -679,7 +679,7 @@ LEXICON NON-FINITE
 
 
 %<gna_perf%>:%>%{i%}b # ;
-%<gna_when%>:%>gach # ;     ! FIXME: rename
+%<gna_when%>:%>%{G%}ach # ;     ! FIXME: rename
 %<gna_neg%>:%>masdan # ;    ! FIXME: rename
 
 %<gpr_rsub%>:%>%{G%}an # ;
