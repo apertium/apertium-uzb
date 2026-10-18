@@ -126,6 +126,7 @@
 !! Tense / finite forms
 !%<pres%>      ! for "yotir", "dir",.. !Most probably not needed in Uzbek, so commented out.
 %<aor%>       ! -{E}
+%<fut2%>      ! -(a)r future (kelarman)
 %<past%>      ! -{G}an
 %<ifi%>       ! -{i}btir
 %<evid%>      ! -{G}an ekan
@@ -160,6 +161,7 @@
 ! Number
 %<sg%>        ! Singular ! Birlik
 %<pl%>        ! Plural   ! Koʻplik
+%<sp%>        ! Singular/plural (V-PERS-VOL)
 
 ! Pronoun types
 %<pers%>      ! Personal
@@ -211,6 +213,8 @@
 %<gna_impf%>  ! -{A}       
 %<gna_cond%>  ! -с{A}
               !# ...қайда екенін _білсе_, маған бұл туралы айтыр еді...;
+%<gna_when%>  ! -gach (kelgach)
+%<gna_neg%>   ! -masdan (kelmasdan)
 %<gna_until%> ! -{G}{A}нш{A}
               !# "Мен кеткенше ол жауап бермейді.";
 %<gna_after%> ! -{G}{A}л{I}
