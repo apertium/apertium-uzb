@@ -600,7 +600,7 @@ LEXICON VERB-TD
 
 LEXICON VERB-TV
 
-%<v%>%<tv%>%<pass%>:%>i%{L%} VERB-TV-FULL ;
+%<v%>%<tv%>%<pass%>:%>%{i%}%{L%} VERB-TV-FULL ;
 %<v%>%<tv%>%<coop%>:%>%{i%}sh VERB-TV-FULL ;
 %<v%>%<tv%>:%[%-coop%]%>%{i%}sh VERB-TV-FULL ;
 !%<v%>%<tv%>%<pass%>%<neg%>:%>ilma VERB-TV-FULL ;
