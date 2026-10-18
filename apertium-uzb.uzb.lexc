@@ -1145,8 +1145,8 @@ e%<cop%>%<neg%>%<aor%>:emas V-PERS-S1 ;
 LEXICON NUM
 
 %<num%>%<subst%>: SUBST ;  
-%<num%>%<ord%>:%>inchi # ;
-%<num%>%<ord%>%<subst%>:%>inchi SUBST ;
+%<num%>%<ord%>:%>%{i%}nchi # ;
+%<num%>%<ord%>%<subst%>:%>%{i%}nchi SUBST ;
 %<num%>%<cl%>:%>ta # ;
                    
 %<num%>: # ;                                    
@@ -3993,7 +3993,7 @@ beshikast:beshikast A1 ; !
 beshik:beshik N1 ; ! 
 beshikkerti:beshikkerti N1 ; ! 
 beshiksupoq:beshiksupoq N1 ; ! 
-beshinchi:beshinchi NUM ; ! 
+!beshinchi:beshinchi NUM ; ! 
 beshyillik:beshyillik N1 ; ! 
 beshkarsak:beshkarsak N1 ; ! 
 beshkokil:beshkokil N1 ; ! 
@@ -8696,8 +8696,8 @@ yotoqchila:yotoqchila V-TV ; ! 0.9748848113201043
 !yetti:yetti N1 ; ! 0.9976876102529356
 yetti:yetti NUM ; ! "seven"
 yettilik:yettilik N1 ; ! 0.999999997311394
-yettinchi:yettinchi N1 ; ! 0.999999051476434
-yettita:yettita N1 ; ! 0.9999997937810903
+!yettinchi:yettinchi N1 ; ! 0.999999051476434
+!yettita:yettita N1 ; ! 0.9999997937810903
 yettitalab:yettitalab ADV ; ! 0.9746609693154502
 !yettov:yettov N1 ; ! 0.9999972943258276
 yettovlon:yettovlon N1 ; ! 0.9999992919096153
@@ -10326,7 +10326,7 @@ ikkilik:ikkilik N1 ; ! 0.9999999999899872
 ikkinchidan:ikkinchidan N1 ; ! 0.9999647993111496
 !ikkinchi:ikkinchi A1 ; !
 !ikkinchi:ikkinchi N1 ; ! 0.8629843967667121
-ikkinchi:ikkinchi N1 ; ! "second"
+!ikkinchi:ikkinchi N1 ; ! "second"
 ikkioʻylilar:ikkioʻylilar N1 ; ! 0.9999993114328536
 ikkiovora:ikkiovora N1 ; ! 0.9878746088005861
 !ikkita:ikkita A1 ; !
@@ -11418,7 +11418,7 @@ yigir:yigir V-TV-CAUS ; ! 0.9994014074749616
 yigirlmalab:yigirlmalab ADV ; ! 0.9487238828142344
 !yigirma:yigirma N1 ; ! 0.9999940710233363
 yigirma:yigirma NUM; ! "twenty"
-yigirmanchi:yigirmanchi N1 ; ! 0.9298940983374807
+!yigirmanchi:yigirmanchi N1 ; ! 0.9298940983374807
 !yigirmata:yigirmata N1 ; ! 0.9999997005835047
 yigirmatalab:yigirmatalab N1 ; ! 0.9962379003991251
 yigirmoq:yigirmoq N1 ; ! 0.5001562129346353
@@ -14671,7 +14671,7 @@ qirishtirmoq:qirishtirmoq N1 ; ! 0.9992162562485624
 qirqbugʻin:qirqbugʻin N1 ; ! 0.9999913999758354
 qirqiq:qirqiq A2 ; ! 0.9841553727063768
 qirqim:qirqim N1 ; ! 0.9999999354634447
-qirqinchi:qirqinchi N1 ; ! 0.995585351204755
+!qirqinchi:qirqinchi N1 ; ! 0.995585351204755
 qir:qir V-TV ; ! 0.9905973133298418
 qir:qir N1 ; ! 0.9999977118060873
 qir:qir N1 ; ! 0.9999997815323839
@@ -20019,7 +20019,7 @@ oʻng:oʻng N1 ; ! 0.9999999999993007
 oʻng%-soʻl:oʻng%-soʻl IDEO ; ! 0.5993758658831888
 oʻng%-ters:oʻng%-ters N1 ; ! 0.99995763631886
 oʻnjirgʻa:oʻnjirgʻa N1 ; ! 0.9999880937847959
-oʻninchi:oʻninchi N1 ; ! 0.907973175599674
+!oʻninchi:oʻninchi N1 ; ! 0.907973175599674
 oʻnqir:oʻnqir N1 ; ! 0.9999995119411013
 oʻnqir%-choʻnqirliq:oʻnqir%-choʻnqirliq N1 ; ! 0.9999994848915212
 oʻnqir%-choʻnqir:oʻnqir%-choʻnqir N1 ; ! 0.9996236727316311
@@ -21105,7 +21105,7 @@ oltinli:oltinli A2 ; ! 0.9999999999973059
 oltin:oltin N1 ; ! 0.9999995785339147
 oltin:oltin N1 ; ! "gold"
 oltinsimon:oltinsimon N1 ; ! 0.9910902224965503
-oltinchi:oltinchi N1 ; ! 0.999958908763566
+!oltinchi:oltinchi N1 ; ! 0.999958908763566
 !olti:olti N1 ; ! 0.9999678269181417
 olti:olti NUM ; ! "six"
 !oltmishinchi:oltmishinchi N1 ; ! 0.9999991435481247
