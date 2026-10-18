@@ -990,8 +990,8 @@ LEXICON ATTR-SUBST
 %<attr%>: # ;
 %<subst%>: CASES ;
 %<subst%>: POSSESSIVES ;
-%<subst%>%<pl%>:%>%{L%}%{A%}р CASES ;
-%<subst%>%<pl%>:%>%{L%}%{A%}р POSSESSIVES ;
+%<subst%>%<pl%>:%>%{L%}%{A%}r CASES ;
+%<subst%>%<pl%>:%>%{L%}%{A%}r POSSESSIVES ;
 
 LEXICON GENERAL-POSSESSIVE-ETC
 
